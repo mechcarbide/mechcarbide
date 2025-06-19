@@ -3,7 +3,7 @@ backend:
   repo: mechcarbide/mechcarbide
   branch: main 
   base_url: https://api.github.com 
-  auth_endpoint: .netlify/functions/auth-github
+  auth_endpoint: /auth-github
 
 media_folder: "static/uploads"
 public_folder: "/uploads"
