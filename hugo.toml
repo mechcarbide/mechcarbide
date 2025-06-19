@@ -2,7 +2,8 @@ baseURL = "https://mechcarbide.pages.dev/"
 languageCode = "en-us"
 title = "MechCarbide Blog"
 theme = "PaperMod"
-paginate = 10
+[pagination]
+pagerSize = 10
 
 [params]
   defaultTheme = "light"
