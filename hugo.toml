@@ -1,4 +1,44 @@
-baseURL = "https://example.com/"
+baseURL = "https://mechcarbide.pages.dev/"
 languageCode = "en-us"
-title = "My Industrial Blog"
+title = "MechCarbide Blog"
 theme = "PaperMod"
+paginate = 10
+
+[params]
+  defaultTheme = "light"
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  DateFormat = "2006-01-02"
+  homeInfoParams = { Title = "Welcome to MechCarbide", Content = "Exploring carbide wear solutions, industrial gear, and niche tech." }
+
+# 菜单导航
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "posts"
+    name = "Blog"
+    url = "/posts/"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 3
+
+# 输出格式支持 sitemap 和 RSS（推荐）
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+# 启用robots.txt 和 sitemap.xml
+[params.seo]
+  enableRobotsTXT = true
+
