@@ -4,7 +4,7 @@ date: 2025-06-18T02:59:00.000Z
 description: Discover how forestry mulching works, its equipment types, cost
   factors, and key benefits. Learn why it's an efficient and eco-friendly land
   clearing method.
-images: /uploads/forestry-mulching-blog-cover-mechcarbide.jpg
+images: [/uploads/forestry-mulching-blog-cover-mechcarbide.jpg]
 tags:
   - Forestry
 ---
