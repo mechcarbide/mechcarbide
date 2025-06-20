@@ -1,8 +1,8 @@
 backend:
   name: github
   repo: mechcarbide/mechcarbide
-  branch: main 
-  base_url: https://mechcarbide.pages.dev 
+  branch: main
+  base_url: https://mechcarbide.pages.dev
   auth_endpoint: /auth-github
 
 media_folder: "static/uploads"
@@ -17,18 +17,20 @@ collections:
     fields:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Meta Description", name: "description", widget: "string", required: false, hint: "用于搜索引擎的简短描述，建议150-160字符以内。"} 
-      - {label: "Cover Image", name: "images", widget: "image", required: false, hint: "文章封面图，通常用于列表和社交分享。"} 
+      - {label: "Meta Description", name: "description", widget: "string", required: false, hint: "用于搜索引擎的简短描述，建议150-160字符以内。"}
+      # --- 从这里开始修改 Cover Image 的定义 ---
+      - label: "Cover Images" # 保持 label 这样的多行定义方式
         name: "images"
-        widget: "list" 
-        allow_add: true 
-        collapsed: false 
-        summary: "{{fields.image}}" 
-        field:
+        widget: "list" # 确保这是一个 list widget
+        allow_add: true
+        collapsed: false
+        summary: "{{fields.image}}"
+        field: # field 定义了列表中每个项的类型，这里是图片 widget
           {label: "Image", name: "image", widget: "image", required: false, hint: "文章封面图。"}
+      # --- Cover Image 定义结束 ---
       - {label: "Body", name: "body", widget: "markdown"}
-      - label: "Tags" 
+      - label: "Tags"
         name: "tags"
-        widget: "select" 
+        widget: "select"
         multiple: true
         options: ["Forestry", "Carbide"]
