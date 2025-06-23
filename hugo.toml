@@ -45,3 +45,6 @@ pagerSize = 10
 [params.seo]
   enableRobotsTXT = true
 
+[services]
+  [services.googleAnalytics]
+    id = "G-CZQJ5DCB15"
