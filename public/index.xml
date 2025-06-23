@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>MechCarbide</title>
-    <link>https://www.mechcarbide.com/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on MechCarbide</description>
     <generator>Hugo -- 0.147.8</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 21 Jun 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.mechcarbide.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Privacy Policy</title>
-      <link>https://www.mechcarbide.com/privacy-policy/</link>
+      <link>http://localhost:1313/privacy-policy/</link>
       <pubDate>Sat, 21 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.mechcarbide.com/privacy-policy/</guid>
+      <guid>http://localhost:1313/privacy-policy/</guid>
       <description>&lt;p&gt;We respect your privacy. This blog does not collect personal data or use tracking cookies&amp;hellip;&lt;/p&gt;</description>
     </item>
     <item>
       <title>What Is Forestry Mulching? Benefits, Equipment, and Costs Explained</title>
-      <link>https://www.mechcarbide.com/posts/what-is-forestry-mulching-benefits-equipment-and-costs-explained/</link>
+      <link>http://localhost:1313/posts/what-is-forestry-mulching-benefits-equipment-and-costs-explained/</link>
       <pubDate>Wed, 18 Jun 2025 02:59:00 +0000</pubDate>
-      <guid>https://www.mechcarbide.com/posts/what-is-forestry-mulching-benefits-equipment-and-costs-explained/</guid>
+      <guid>http://localhost:1313/posts/what-is-forestry-mulching-benefits-equipment-and-costs-explained/</guid>
       <description>Discover how forestry mulching works, its equipment types, cost factors, and key benefits. Learn why it&amp;#39;s an efficient and eco-friendly land clearing method.</description>
     </item>
     <item>
       <title>About Me</title>
-      <link>https://www.mechcarbide.com/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.mechcarbide.com/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>&lt;p&gt;Hi there! I&amp;rsquo;m Alice. This is my personal blog where I share my thoughts on equipment and carbide tools.&lt;/p&gt;</description>
     </item>
   </channel>

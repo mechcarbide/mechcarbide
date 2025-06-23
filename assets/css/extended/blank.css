@@ -9,39 +9,35 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
-/* 可选：如果您希望标题也使用 Roboto */
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Roboto', sans-serif;
 }
 
-/* 调整首页 Hero 部分的内部间距 */
 
-/* 针对包含“Welcome to MechCarbide”的 header */
 .first-entry.home-info .entry-header {
-    margin-top: 0;        /* 移除顶部外边距 */
-    margin-bottom: 0;     /* 移除底部外边距 */
-    padding-top: 0;       /* 移除顶部内边距 */
-    padding-bottom: 0;    /* 移除底部内边距 */
-    /* 您可以尝试设置一个较小的 padding，例如 padding: 1rem 0; */
+    margin-top: 0;        
+    margin-bottom: 0;     
+    padding-top: 0;       
+    padding-bottom: 0;    
 }
 
-/* 针对包含描述文本的 div */
+
 .first-entry.home-info .entry-content {
     margin-top: 0;
     margin-bottom: 0;
     padding-top: 0;
     padding-bottom: 0;
-    /* 如果希望文字之间有一些垂直间距，可以只保留或设置较小的 padding-bottom */
-    /* 例如：padding-bottom: 1rem; */
 }
 
-/* 针对最外层的 article 容器，确保它不会被内部内容撑得过大 */
+
 .first-entry.home-info {
-    /* 如果有 min-height 属性，可以尝试设置为 auto 或更小的值 */
     min-height: 20px;
-    /* 也可以尝试减小这里的 padding，但重点在子元素 */
-    padding-top: 2rem; /* 再次尝试，确保外部容器也有一些控制 */
+    padding-top: 2rem; 
     padding-bottom: 2rem;
     margin-top: 2rem;
     margin-bottom: 2rem;
+}
+
+.breadcrumbs a {
+    color: #ff7b54; 
 }

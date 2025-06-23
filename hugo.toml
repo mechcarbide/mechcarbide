@@ -15,6 +15,15 @@ pagerSize = 10
   DateFormat = "2006-01-02"
   homeInfoParams = { Title = "Welcome to MechCarbide", Content = "Exploring carbide wear solutions, industrial gear, and niche tech." }
 
+  [params.assets]
+    # Favicon
+    favicon = "/favicon.ico"
+    apple_touch_icon = "/apple-touch-icon.png"
+    safari_pinned_tab = "/favicon.svg"
+
+  [params.label]
+    icon = "/favicon-96x96.png"
+
 
 # 菜单导航
 [menu]

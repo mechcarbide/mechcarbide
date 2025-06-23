@@ -1,3 +1,16 @@
-/public/
-.DS_Store
-.hugo_build.lock
+# Hugo build output (public folder)
+public/
+
+# Hugo cache directory (optional, but recommended)
+.cache/
+
+# Windows thumbnail cache and recycling bin
+Thumbs.db
+ehthumbs.db
+ehthumbs_vista.db
+*.stackdump
+[Dd]esktop.ini
+$RECYCLE.BIN/
+
+# Log files
+*.log
