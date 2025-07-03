@@ -116,7 +116,7 @@ Generally, there are two types of drums: smooth drums and bite control drums. Al
 
 In contrast, **disc mulchers** operate best with a fully machined, precisely balanced disc featuring **bolt-on tooth mounts and replaceable bolt-on teeth**. This design simplifies maintenance, allowing for quick tooth rotation or replacement without the need for welding, crucial for minimizing downtime during high-demand operations.
 
-(For more information about mulcher teeth, please visit: <https://www.mechcarbide.com/posts/choosing-mulcher-teeth-steel-vs-carbide-and-what-works-best/>.)
+(For more information about mulcher teeth → [Choosing Mulcher Teeth: Steel vs. Carbide and What Works Best](https://www.mechcarbide.com/posts/choosing-mulcher-teeth-steel-vs-carbide-and-what-works-best/))
 
 ## Drum Mulcher vs. Disc Mulcher: Maintenance
 
