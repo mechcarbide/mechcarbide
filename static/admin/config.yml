@@ -2,7 +2,7 @@ backend:
   name: github
   repo: mechcarbide/mechcarbide
   branch: main
-  base_url: https://mechcarbide.com/
+  base_url: https://www.mechcarbide.com/
   auth_endpoint: /auth-github
 
 media_folder: "static/uploads"

@@ -15,6 +15,7 @@ pagerSize = 10
   DateFormat = "2006-01-02"
   homeInfoParams = { Title = "Welcome to MechCarbide", Content = "Exploring carbide wear solutions, industrial gear, and niche tech." }
   noindex = false
+  description = "Explore insights on tungsten carbide wear parts and heavy machinery used in forestry, construction, oil & gas, and recycling industries. Stay updated with equipment knowledge, industry trends, and more."
 
   [params.assets]
     # Favicon
@@ -24,6 +25,8 @@ pagerSize = 10
 
   [params.label]
     icon = "/favicon-96x96.png"
+
+  
 
 
 # 菜单导航
