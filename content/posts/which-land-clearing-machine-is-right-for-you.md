@@ -106,7 +106,7 @@ These powerful machines are excellent for scooping and transporting tree trunks,
 
 *(Image Source: cat.com)*
 
-Similar to wheel loaders, but built to handle rough or swampy terrain. Track loaders combine the best of digging, pushing, and hauling, especially helpful when working in remote or sensitive environments where you want to avoid turf damage.
+Similar to wheel loaders, track loaders are built to handle rough or swampy terrain. They combine the best of digging, pushing, and hauling, especially helpful when working in remote or sensitive environments where you want to avoid turf damage.
 
 For more precise grading or softer areas, track loaders provide smoother results while protecting the surface below.
 
@@ -116,7 +116,7 @@ For more precise grading or softer areas, track loaders provide smoother results
 
 *(Image Source: cat.com)*
 
-Think of these as the multitools of land clearing. With a front bucket for loading and a backhoe arm for digging, they can do a bit of everything. They're great for small- to medium-scale sites where flexibility and mobility are important.
+Think of these as the multitools of land clearing. With a front bucket for loading and a backhoe arm for digging, they can do a bit of everything. This might be the reason that backhoe loaders are found on almost every construction site. Compared to big, single-purpose machines like excavators, backhoe loaders are much more compact. Therefore, they're great for small- to medium-scale sites where flexibility and mobility are important.
 
 ### Articulated Dump Trucks
 
