@@ -1,3 +1,4 @@
+site_url: https://www.mechcarbide.com/
 backend:
   name: github
   repo: mechcarbide/mechcarbide
