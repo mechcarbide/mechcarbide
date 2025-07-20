@@ -17,7 +17,7 @@ materials like steel, titanium, or ceramics in so many industries? Scroll down t
 
 ## What Is Tungsten Carbide?
 
-Tungsten carbide, also called carbide, is a chemical compound composed of **tungsten and carbon**, with the **chemical formula "WC"** and the appearance of fine grey powder. Tungsten carbide is chemically stable.
+Strictly speaking, tungsten carbide, also called "carbide," is a chemical compound composed of **tungsten and carbon**, with the **chemical formula "WC"** and the appearance of fine grey powder. Tungsten carbide is chemically stable.
 
 ![](/uploads/what-is-tungsten-carbide-blog-2.png)
 
@@ -36,6 +36,8 @@ similar to metals like vanadium. That makes it useful as a conductive material i
 Tungsten carbide has an extremely high melting point of around 2780°C, and under standard atmospheric pressure, its boiling point reaches up to 6000°C.
 
 Tungsten carbide powder is widely used as a **raw material in the production of cemented tungsten carbides.**
+
+However, when we talk about "tungsten carbide" or "carbide", we're usually referring to the cemented tungsten carbide, a mixture of WC powder and a binder like cobalt, rather than pure WC powder. This is more of a commonly accepted convention than a strict definition. 
 
 ## How Is Tungsten Carbide (WC) Powder Made?
 
@@ -70,7 +72,7 @@ To be honest, I used to be quite confused about the difference between cemented 
 
 Once the WC powder is prepared, it's mixed with a **metal binder**, most commonly **cobalt (Co), though nickel (Ni) or iron (Fe)** can also be used in certain applications. The binder plays a crucial role in holding the hard carbide particles together, adding toughness to the material.
 
-The WC–binder powder mixture is then pressed into desired shapes, such as tool blanks, inserts, or dies, and undergoes a process called **sintering**. (Yes, this step is absolutely crucial!) **The main purpose of sintering is to use cobalt as a binder to improve the toughness of the material and enhance its overall performance.** During sintering, the compacted material is heated to temperatures between 1,400 and 1,600°C, often in a vacuum furnace. At these temperatures, the metal binder melts, partially dissolves the WC particles, and causes them to fuse tightly together. This results in a dense, solid piece of cemented carbide, ready for finishing and shaping. **In the tooling industry, "carbide" usually refers to this cemented carbide.**
+The WC–binder powder mixture is then pressed into desired shapes, such as tool blanks, inserts, or dies, and undergoes a process called **sintering**. (Yes, this step is absolutely crucial!) **The main purpose of sintering is to use cobalt as a binder to improve the toughness of the material and enhance its overall performance.** During sintering, the compacted material is heated to temperatures between 1,400 and 1,600°C, often in a vacuum furnace. At these temperatures, the metal binder melts, partially dissolves the WC particles, and causes them to fuse tightly together. This results in a dense, solid piece of cemented carbide, ready for finishing and shaping.
 
 ## Applications of Tungsten Carbide
 
@@ -125,3 +127,5 @@ Yes. Tungsten carbide used in jewelry is non-toxic and hypoallergenic for most p
 ### Q7: How sustainable is tungsten carbide?
 
 Tungsten carbide is recyclable, and many manufacturers now reclaim used carbide tools to recover valuable tungsten. This not only conserves resources but also reduces environmental impact.
+
+**\*All of the above images are not intended for commercial use.**
