@@ -127,3 +127,5 @@ Think of these as the multitools of land clearing. With a front bucket for loadi
 Designed for hauling heavy loads across uneven terrain, these trucks are perfect for transporting logs, soil, and brush over long distances. Their articulated steering helps them navigate steep slopes and rough ground without losing material along the way. Load them up with a wheel loader or excavator, and you're ready to roll.
 
 No two properties are alike. The equipment you need depends on **your land's size, terrain, and vegetation type.** But with a solid plan and the right combination of machines, large-scale land clearing doesn't have to be overwhelming or wasteful. Start with the core tasks, and invest in land clearing machines that match your project's scope, not just your wishlist. Need something temporary? Equipment rental can help fill the gaps without breaking the bank.
+
+**\*All of the above images are not intended for commercial use.**
