@@ -81,3 +81,5 @@ retention. Just make sure the product description clearly states the material.
 ## **Conclusion**
 
 Understanding the real differences in composition, durability, and performance between tungsten vs. tungsten carbide can help you choose the right material, whether you're sourcing wear parts for an industrial project or shopping for a wedding band that lasts a lifetime. In the end, it's all about **matching the right material to the job.** And now, you've got the knowledge to do just that.
+
+**\*All of the above images are not intended for commercial use.**
