@@ -6,7 +6,7 @@ description: "Titanium carbide vs tungsten carbide: from hardness and heat
 tags:
   - Carbide
 ---
-Both titanium carbide (TiC) and tungsten carbide (WC) are essential raw materials in manufacturing cemented carbides, and you'll often hear about their unique features. Titanium carbide is made from titanium and carbon, while tungsten carbide is a compound of tungsten and carbon. Although they share some similarities, such as excellent hardness, their distinct properties make them suitable for different industrial applications. Now, we'll walk you through the key differences between these two ceramic-metallic composites, TiC and WC. Let's dive right in.
+Both titanium carbide (TiC) and [tungsten carbide (WC)](https://www.mechcarbide.com/posts/what-is-tungsten-carbide/) are essential raw materials in manufacturing [cemented carbides](https://www.mechcarbide.com/posts/what-is-cemented-carbide/), and you'll often hear about their unique features. Titanium carbide is made from titanium and carbon, while tungsten carbide is a compound of tungsten and carbon. Although they share some similarities, such as excellent hardness, their distinct properties make them suitable for different industrial applications. Now, we'll walk you through the key differences between these two ceramic-metallic composites, TiC and WC. Let's dive right in.
 
 ![titanium carbide vs. tungsten carbide](/uploads/titanium-carbide-vs-tungsten-carbide-blog-1.png "titanium carbide (TiC) vs. tungsten carbide (WC)")
 
