@@ -22,7 +22,7 @@ Cemented carbide is manufactured through a powder metallurgy technology. Finely 
 
 ## Types of Cemented Carbide
 
-The most widely used type is **tungsten carbide with cobalt (WC-Co)**, known for its outstanding wear resistance and hot hardness, qualities that make it ideal for cutting tools, dies, and wear parts. Other carbides like **titanium carbide (TiC), tantalum carbide (TaC), and niobium carbide (NbC)** may also be added to fine-tune performance for specific tasks. Similarly, the binder phase can be tailored using elements such as **nickel, iron, or chromium** to change corrosion resistance or magnetic properties.
+The most widely used type is **tungsten carbide with cobalt (WC-Co)**, known for its outstanding wear resistance and hot hardness, qualities that make it ideal for cutting tools, dies, and wear parts. Other carbides like **[titanium carbide (TiC)](https://www.mechcarbide.com/posts/titanium-carbide-vs-tungsten-carbide/), tantalum carbide (TaC), and niobium carbide (NbC)** may also be added to fine-tune performance for specific tasks. Similarly, the binder phase can be tailored using elements such as **nickel, iron, or chromium** to change corrosion resistance or magnetic properties.
 
 ## Properties of Cemented Carbide
 
