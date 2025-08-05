@@ -1,5 +1,5 @@
 ---
-title: Titanium Carbide vs Tungsten Carbide
+title: Titanium Carbide vs. Tungsten Carbide
 date: 2025-08-04T16:10:00.000+08:00
 description: "Titanium carbide vs tungsten carbide: from hardness and heat
   resistance to real-world applications. Which one fits your needs best?"
