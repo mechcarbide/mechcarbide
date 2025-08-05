@@ -2,25 +2,49 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://www.mechcarbide.com/posts/</loc>
+    <lastmod>2025-07-14T17:05:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.mechcarbide.com/tags/carbide/</loc>
+    <lastmod>2025-07-14T17:05:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.mechcarbide.com/</loc>
+    <lastmod>2025-07-14T17:05:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.mechcarbide.com/tags/</loc>
+    <lastmod>2025-07-14T17:05:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.mechcarbide.com/posts/what-is-tungsten-carbide/</loc>
+    <lastmod>2025-07-14T17:05:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.mechcarbide.com/tags/construction/</loc>
+    <lastmod>2025-07-08T13:46:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.mechcarbide.com/tags/forestry/</loc>
+    <lastmod>2025-07-08T13:46:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.mechcarbide.com/posts/which-land-clearing-machine-is-right-for-you/</loc>
+    <lastmod>2025-07-08T13:46:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.mechcarbide.com/tags/recycling/</loc>
+    <lastmod>2025-07-03T10:43:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.mechcarbide.com/posts/what-is-a-tub-grinder-a-guide-for-landowners-and-pros/</loc>
+    <lastmod>2025-07-03T10:43:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.mechcarbide.com/posts/drum-mulcher-vs-disc-mulcher-choosing-the-right-mulching-head/</loc>
+    <lastmod>2025-06-29T16:32:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.mechcarbide.com/posts/choosing-mulcher-teeth-steel-vs-carbide-and-what-works-best/</loc>
+    <lastmod>2025-06-24T10:53:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.mechcarbide.com/posts/what-is-forestry-mulching-benefits-equipment-and-costs-explained/</loc>
     <lastmod>2025-06-18T02:59:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/forestry/</loc>
-    <lastmod>2025-06-18T02:59:00+00:00</lastmod>
+    <loc>https://www.mechcarbide.com/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-06-18T02:59:00+00:00</lastmod>
+    <loc>https://www.mechcarbide.com/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-06-18T02:59:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/what-is-forestry-mulching-benefits-equipment-and-costs-explained/</loc>
-    <lastmod>2025-06-18T02:59:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/about/</loc>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/privacy-policy/</loc>
+    <loc>https://www.mechcarbide.com/privacy-policy/</loc>
   </url>
 </urlset>
