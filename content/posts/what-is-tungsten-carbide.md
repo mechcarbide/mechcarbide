@@ -68,7 +68,7 @@ This more advanced technique is used when high purity and fine particle size are
 
 ## Cemented Tungsten Carbide
 
-To be honest, I used to be quite confused about the difference between cemented carbide and tungsten carbide. I thought they were the same thing. But I was wrong. As I mentioned earlier, tungsten carbide is a raw material for manufacturing cemented tungsten carbide, or cemented carbide.
+To be honest, I used to be quite confused about the difference between [cemented carbide](https://www.mechcarbide.com/posts/what-is-cemented-carbide/) and tungsten carbide. I thought they were the same thing. But I was wrong. As I mentioned earlier, tungsten carbide is a raw material for manufacturing cemented tungsten carbide, or cemented carbide.
 
 Once the WC powder is prepared, it's mixed with a **metal binder**, most commonly **cobalt (Co), though nickel (Ni) or iron (Fe)** can also be used in certain applications. The binder plays a crucial role in holding the hard carbide particles together, adding toughness to the material.
 
