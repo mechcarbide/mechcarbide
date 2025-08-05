@@ -8,7 +8,7 @@ tags:
 ---
 From machining hardened steel to resisting abrasion in mining and construction tools, cemented carbide has become a go-to solution when both durability and reliability matter. It's not just hard; it's engineered to endure. 
 
-At its core, cemented carbide is a tough, high-performance composite made by combining hard carbide particles, typically tungsten carbide (WC), with a metallic binder like cobalt (Co) or nickel (Ni). This material strikes a remarkable balance between two often opposing features: extreme hardness and structural toughness.
+At its core, cemented carbide is a tough, high-performance composite made by combining hard carbide particles, typically [tungsten carbide (WC)](https://www.mechcarbide.com/posts/what-is-tungsten-carbide/), with a metallic binder like cobalt (Co) or nickel (Ni). This material strikes a remarkable balance between two often opposing features: extreme hardness and structural toughness.
 
 ![what is cemented carbide](/uploads/what-is-cemented-carbide-blog-1.png "What Is Cemented Carbide?")
 
