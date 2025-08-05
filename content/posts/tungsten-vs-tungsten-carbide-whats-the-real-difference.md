@@ -76,7 +76,7 @@ retention. Just make sure the product description clearly states the material.
 
 ### Customization needs
 
-**Both tungsten and tungsten carbide can be customized** according to specific requirements, but due to their hardness, it's essential to work with a supplier who understands the subtle differences of processing these materials. Don't hesitate to ask questions about the production process; a knowledgeable supplier can make all the difference.
+**Both tungsten and tungsten carbide can be customized** according to specific requirements, but due to their hardness, it's essential to work with a supplier who understands the subtle differences in processing these materials. Don't hesitate to ask questions about the production process; a knowledgeable supplier can make all the difference.
 
 ## **Conclusion**
 
