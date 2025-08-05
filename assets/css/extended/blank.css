@@ -41,3 +41,7 @@ h1, h2, h3, h4, h5, h6 {
 .breadcrumbs a {
     color: #ff7b54; 
 }
+
+header.header {
+    border-bottom: 2px solid #ff7b54; /* 使用Logo的主色作为下划线 */
+}
