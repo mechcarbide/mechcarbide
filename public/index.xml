@@ -2,66 +2,87 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>MechCarbide</title>
-    <link>https://www.mechcarbide.com/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on MechCarbide</description>
     <generator>Hugo -- 0.147.8</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 14 Jul 2025 17:05:00 +0800</lastBuildDate>
-    <atom:link href="https://www.mechcarbide.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Aug 2025 16:10:00 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Titanium Carbide vs Tungsten Carbide</title>
+      <link>http://localhost:1313/posts/titanium-carbide-vs-tungsten-carbide/</link>
+      <pubDate>Mon, 04 Aug 2025 16:10:00 +0800</pubDate>
+      <guid>http://localhost:1313/posts/titanium-carbide-vs-tungsten-carbide/</guid>
+      <description>Titanium carbide vs tungsten carbide: from hardness and heat resistance to real-world applications. Which one fits your needs best?</description>
+    </item>
+    <item>
+      <title>What Is Cemented Carbide?</title>
+      <link>http://localhost:1313/posts/what-is-cemented-carbide/</link>
+      <pubDate>Tue, 29 Jul 2025 14:52:00 +0800</pubDate>
+      <guid>http://localhost:1313/posts/what-is-cemented-carbide/</guid>
+      <description>Cemented carbide combines extreme hardness with toughness. Discover its structure, manufacturing process, types, and common uses.</description>
+    </item>
+    <item>
+      <title>Tungsten vs Tungsten Carbide: What&#39;s the Real Difference?</title>
+      <link>http://localhost:1313/posts/tungsten-vs-tungsten-carbide-whats-the-real-difference/</link>
+      <pubDate>Mon, 21 Jul 2025 10:22:00 +0800</pubDate>
+      <guid>http://localhost:1313/posts/tungsten-vs-tungsten-carbide-whats-the-real-difference/</guid>
+      <description>Wondering about tungsten vs tungsten carbide? Scroll down to learn the real differences to help you choose the right material for tools, rings, and more.</description>
+    </item>
     <item>
       <title>What Is Tungsten Carbide?</title>
-      <link>https://www.mechcarbide.com/posts/what-is-tungsten-carbide/</link>
+      <link>http://localhost:1313/posts/what-is-tungsten-carbide/</link>
       <pubDate>Mon, 14 Jul 2025 17:05:00 +0800</pubDate>
-      <guid>https://www.mechcarbide.com/posts/what-is-tungsten-carbide/</guid>
+      <guid>http://localhost:1313/posts/what-is-tungsten-carbide/</guid>
       <description>Learn what tungsten carbide is, how it&amp;#39;s made, and why it&amp;#39;s used in cutting tools, mining, jewelry, etc.</description>
     </item>
     <item>
       <title>Which Land Clearing Machine Is Right for You?</title>
-      <link>https://www.mechcarbide.com/posts/which-land-clearing-machine-is-right-for-you/</link>
+      <link>http://localhost:1313/posts/which-land-clearing-machine-is-right-for-you/</link>
       <pubDate>Tue, 08 Jul 2025 13:46:00 +0000</pubDate>
-      <guid>https://www.mechcarbide.com/posts/which-land-clearing-machine-is-right-for-you/</guid>
+      <guid>http://localhost:1313/posts/which-land-clearing-machine-is-right-for-you/</guid>
       <description>From small rural lots to large acreage, explore the proper land clearing equipment and machines to deal with trees, brush, stumps, and debris efficiently.</description>
     </item>
     <item>
       <title>What Is a Tub Grinder? A Guide for Landowners and Pros</title>
-      <link>https://www.mechcarbide.com/posts/what-is-a-tub-grinder-a-guide-for-landowners-and-pros/</link>
+      <link>http://localhost:1313/posts/what-is-a-tub-grinder-a-guide-for-landowners-and-pros/</link>
       <pubDate>Thu, 03 Jul 2025 10:43:00 +0000</pubDate>
-      <guid>https://www.mechcarbide.com/posts/what-is-a-tub-grinder-a-guide-for-landowners-and-pros/</guid>
+      <guid>http://localhost:1313/posts/what-is-a-tub-grinder-a-guide-for-landowners-and-pros/</guid>
       <description>Tub grinders are powerful machines used in forestry, agriculture, and recycling to turn wood waste into mulch or compost. Learn how they work, their key components, and how they compare to horizontal grinders.</description>
     </item>
     <item>
       <title>Drum Mulcher vs. Disc Mulcher: Choosing the Right Mulching Head</title>
-      <link>https://www.mechcarbide.com/posts/drum-mulcher-vs-disc-mulcher-choosing-the-right-mulching-head/</link>
+      <link>http://localhost:1313/posts/drum-mulcher-vs-disc-mulcher-choosing-the-right-mulching-head/</link>
       <pubDate>Sun, 29 Jun 2025 16:32:00 +0000</pubDate>
-      <guid>https://www.mechcarbide.com/posts/drum-mulcher-vs-disc-mulcher-choosing-the-right-mulching-head/</guid>
+      <guid>http://localhost:1313/posts/drum-mulcher-vs-disc-mulcher-choosing-the-right-mulching-head/</guid>
       <description>Compare drum mulchers and disc mulchers to determine which forestry mulching head best suits your land clearing needs.</description>
     </item>
     <item>
       <title>Choosing Mulcher Teeth: Steel vs. Carbide and What Works Best</title>
-      <link>https://www.mechcarbide.com/posts/choosing-mulcher-teeth-steel-vs-carbide-and-what-works-best/</link>
+      <link>http://localhost:1313/posts/choosing-mulcher-teeth-steel-vs-carbide-and-what-works-best/</link>
       <pubDate>Tue, 24 Jun 2025 10:53:00 +0000</pubDate>
-      <guid>https://www.mechcarbide.com/posts/choosing-mulcher-teeth-steel-vs-carbide-and-what-works-best/</guid>
+      <guid>http://localhost:1313/posts/choosing-mulcher-teeth-steel-vs-carbide-and-what-works-best/</guid>
       <description>Looking for the right mulcher teeth for your forestry mulcher? Learn the key factors to consider to improve performance and reduce costs.</description>
     </item>
     <item>
       <title>What Is Forestry Mulching? Benefits, Equipment, and Costs Explained</title>
-      <link>https://www.mechcarbide.com/posts/what-is-forestry-mulching-benefits-equipment-and-costs-explained/</link>
+      <link>http://localhost:1313/posts/what-is-forestry-mulching-benefits-equipment-and-costs-explained/</link>
       <pubDate>Wed, 18 Jun 2025 02:59:00 +0000</pubDate>
-      <guid>https://www.mechcarbide.com/posts/what-is-forestry-mulching-benefits-equipment-and-costs-explained/</guid>
+      <guid>http://localhost:1313/posts/what-is-forestry-mulching-benefits-equipment-and-costs-explained/</guid>
       <description>Discover how forestry mulching works, its equipment types, cost factors, and key benefits. Learn why it&amp;#39;s an efficient and eco-friendly land clearing method.</description>
     </item>
     <item>
       <title>About Me</title>
-      <link>https://www.mechcarbide.com/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.mechcarbide.com/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>Discover the story behind MechCarbide.com, why Alice Jian started this blog to share real-world insights into carbide wear parts used in forestry, construction, and more.</description>
     </item>
     <item>
       <title>Privacy Policy</title>
-      <link>https://www.mechcarbide.com/privacy-policy/</link>
+      <link>http://localhost:1313/privacy-policy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.mechcarbide.com/privacy-policy/</guid>
+      <guid>http://localhost:1313/privacy-policy/</guid>
       <description>&lt;p&gt;At MechCarbide, accessible from MechCarbide.com, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by MechCarbide and how we use it.&lt;/p&gt;
 &lt;p&gt;If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.&lt;/p&gt;
 &lt;p&gt;This Privacy Policy applies only to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in MechCarbide. This policy is not applicable to any information collected offline or via channels other than this website.&lt;/p&gt;</description>

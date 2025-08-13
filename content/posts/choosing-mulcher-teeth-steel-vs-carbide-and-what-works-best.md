@@ -1,6 +1,7 @@
 ---
 title: "Choosing Mulcher Teeth: Steel vs. Carbide and What Works Best"
 date: 2025-06-24T10:53:00.000Z
+ShowBreadCrumbs: true
 description: Looking for the right mulcher teeth for your forestry mulcher?
   Learn the key factors to consider to improve performance and reduce costs.
 tags:

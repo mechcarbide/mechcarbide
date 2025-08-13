@@ -1,5 +1,6 @@
 ---
 title: "Privacy Policy"
+disableShare: true
 draft: false
 ---
 At MechCarbide, accessible from MechCarbide.com, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by MechCarbide and how we use it.

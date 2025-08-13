@@ -1,6 +1,7 @@
 ---
 title: "Drum Mulcher vs. Disc Mulcher: Choosing the Right Mulching Head"
 date: 2025-06-29T16:32:00.000Z
+ShowBreadCrumbs: true
 description: Compare drum mulchers and disc mulchers to determine which forestry
   mulching head best suits your land clearing needs.
 tags:

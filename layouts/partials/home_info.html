@@ -1,0 +1,9 @@
+{{- with site.Params.homeInfoParams }}
+<div class="banner">
+    <div class="banner-overlay"></div>
+    <div class="banner-content">
+        <h1>{{ .Title | markdownify }}</h1>
+        <p>{{ .Content | markdownify }}</p>
+    </div>
+</div>
+{{- end }}
