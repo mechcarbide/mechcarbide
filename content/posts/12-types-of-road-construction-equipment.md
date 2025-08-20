@@ -18,7 +18,7 @@ To begin with, let's gain a brief understanding of the road construction process
 
 ## A Brief Introduction to the Road Construction Process
 
-The road construction process begins with **planning and design**, where project scope, funding, and detailed designs, like dimensions, pavement, and drainage, are established. Next, **the site is cleared and leveled** to prepare a stable foundation. **Earthworks** shape and compact the terrain to ensure proper drainage. **A sub-base layer** is first laid to enhance support and drainage, followed by **the base layer** made of aggregates. Paving then involves applying **a binder course of aggregates mixed with asphalt** and **a surface course of either asphalt or concrete**. Finally, thorough **inspections** verify the road's safety, durability, and compliance with standards before it is completed.
+The [road construction process](https://www.mechcarbide.com/posts/step-by-step-road-construction-process-for-modern-pavements/) begins with **planning and design**, where project scope, funding, and detailed designs, like dimensions, pavement, and drainage, are established. Next, **the site is cleared and leveled** to prepare a stable foundation. **Earthworks** shape and compact the terrain to ensure proper drainage. **A sub-base layer** is first laid to enhance support and drainage, followed by **the base layer** made of aggregates. Paving then involves applying **a binder course of aggregates mixed with asphalt** and **a surface course of either asphalt or concrete**. Finally, thorough **inspections** verify the road's safety, durability, and compliance with standards before it is completed.
 
 ## 12 Types of Road Construction Machines
 
@@ -110,7 +110,7 @@ A truck crane is a versatile piece of road construction equipment mounted on a t
 
 A forklift, also known as a fork truck or lift truck, is designed to lift and transport heavy materials efficiently around a jobsite. Originally built for factories and large manufacturing plants, forklifts have evolved to handle a wide range of tasks in construction, including road projects. Equipped with long forks at the front, they can pick up loads from ground level or higher and move them quickly to their destination. Rough terrain forklifts are especially valuable on uneven surfaces, making it easier to transport materials or equipment where trucks can't go, helping speed up project timelines.
 
-### 12. Cold Planers 
+### 12. Cold Planers
 
 ![road construction equipment cold planer](/uploads/road-construction-equipment-blog-13.jpg "Road Construction Equipment Cold Planer")
 
