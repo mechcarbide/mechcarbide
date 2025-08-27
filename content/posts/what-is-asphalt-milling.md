@@ -7,7 +7,7 @@ description: Wondering what asphalt milling is? Discover the process, equipment,
 tags:
   - Construction
 ---
-When roads start breaking down or get filled with potholes, it's every driver's worst nightmare. Full reconstruction isn't always necessary or practical. In many cases, **asphalt milling (also called pavement milling, road milling, or cold milling)** is a smarter, more cost-effective solution. Instead of tearing everything out, this method removes just the top layer of the old pavement. This makes way for a smooth new surface.
+When roads start breaking down or get filled with potholes, it's every driver's worst nightmare. [Full reconstruction](https://www.mechcarbide.com/posts/step-by-step-road-construction-process-for-modern-pavements/) isn't always necessary or practical. In many cases, **asphalt milling (also called pavement milling, road milling, or cold milling)** is a smarter, more cost-effective solution. Instead of tearing everything out, this method removes just the top layer of the old pavement. This makes way for a smooth new surface.
 
 ![asphalt milling](/uploads/what-is-asphalt-milling-blog-1.jpg "Asphalt Milling")
 
