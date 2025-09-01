@@ -16,7 +16,7 @@ With such importance, it's natural to wonder: how are roads actually built? What
 
 *(Image Source: Photo by Max on Unsplash.com)*
 
-Earlier, I shared [an overview of road construction equipment](https://www.mechcarbide.com/posts/12-types-of-road-construction-equipment/) and gave a quick glimpse of the paving workflow. Now, I'll take it a step further and walk you through the key steps of road construction.
+Earlier, I shared [an overview of road construction equipment](https://www.mechcarbide.com/posts/12-types-of-road-construction-equipment/) and gave a quick glimpse of the paving workflow. Now, I'll take it a step further and walk you through the key steps of road construction in detail.
 
 ## Road Construction Steps
 
