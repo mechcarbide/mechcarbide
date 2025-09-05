@@ -1,6 +1,7 @@
 ---
 title: "Types of Snow Plow Blades: Types, Materials, and Best Uses"
 date: 2025-09-04T14:07:00.000+08:00
+ShowBreadCrumbs: true
 description: A complete guide to types of snow plow blades and cutting edges,
   helping homeowners, municipalities, and contractors make informed choices for
   winter snow management.
