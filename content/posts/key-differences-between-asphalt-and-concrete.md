@@ -7,7 +7,7 @@ description: "Asphalt vs concrete driveways: a complete comparison to help you
 tags:
   - Construction
 ---
-Asphalt and concrete may look similar at first glance, and for good reason. Both are made from a mix of sand, gravel, and crushed stone (**the aggregate**), and both are widely used for building driveways thanks to their strength and durability. But the real **difference between asphalt and concrete** lies in the binder that holds everything together. This single factor leads to big differences in appearance, cost, performance,
+Asphalt and concrete may look similar at first glance, and for good reason. Both are made from a mix of sand, gravel, and crushed stone (**the aggregate**), and both are widely used for [building driveways](https://www.mechcarbide.com/posts/step-by-step-road-construction-process-for-modern-pavements/) thanks to their strength and durability. But the real **difference between asphalt and concrete** lies in the binder that holds everything together. This single factor leads to big differences in appearance, cost, performance,
 and maintenance.
 
 ![asphalt vs. concrete](/uploads/asphalt-vs-concrete-blog-1.jpg "Asphalt vs. Concrete")
