@@ -39,4 +39,4 @@ collections:
         name: "tags"
         widget: "select"
         multiple: true
-        options: ["Forestry", "Carbide", "Recycling", "Construction"]
+        options: ["Forestry", "Carbide", "Recycling", "Construction", "Snow Removal"]
