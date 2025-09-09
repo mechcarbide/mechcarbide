@@ -57,7 +57,7 @@ In most cases, RAP goes right back into roadway structures through hot or cold r
 
 *(Image Source: wirtgen-group.com)*
 
-Asphalt milling is carried out with specialized equipment known as **cold planers**, or more commonly, **cold milling machines**. At the heart of the machine is a large **rotating drum**. Rows of tool holders, holding **carbide cutters or road milling teeth**, are mounted on the drum. **Carbide cutters are replaceable**, since they wear down at different rates depending on the hardness of the pavement being milled.
+Asphalt milling is carried out with specialized equipment known as **cold planers**, or more commonly, **cold milling machines**. At the heart of the machine is a large **rotating drum**. Rows of tool holders, holding **[carbide cutters or road milling teeth](https://www.mechcarbide.com/posts/road-milling-teeth-and-picks-everything-you-need-to-know/)**, are mounted on the drum. **Carbide cutters are replaceable**, since they wear down at different rates depending on the hardness of the pavement being milled.
 
 ![a wirtgen cold planer is working](/uploads/road-construction-equipment-blog-13.jpg "A Wirtgen Cold Planer is Working")
 
