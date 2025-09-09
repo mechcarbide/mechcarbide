@@ -5,11 +5,23 @@
     <loc>http://localhost:1313/posts/</loc>
     <lastmod>2025-09-04T14:07:00+08:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-09-04T14:07:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/carbide/</loc>
+    <lastmod>2025-09-04T14:07:00+08:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2025-09-04T14:07:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/snow-removal/</loc>
     <lastmod>2025-09-04T14:07:00+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/types-of-snow-plow-blades-types-materials-and-best-uses/</loc>
     <lastmod>2025-09-04T14:07:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/construction/</loc>
+    <lastmod>2025-09-01T13:57:00+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/key-differences-between-asphalt-and-concrete/</loc>
     <lastmod>2025-09-01T13:57:00+08:00</lastmod>
@@ -35,8 +47,14 @@
     <loc>http://localhost:1313/posts/what-is-tungsten-carbide/</loc>
     <lastmod>2025-07-14T17:05:00+08:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/forestry/</loc>
+    <lastmod>2025-07-08T13:46:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/posts/which-land-clearing-machine-is-right-for-you/</loc>
     <lastmod>2025-07-08T13:46:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/recycling/</loc>
+    <lastmod>2025-07-03T10:43:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/what-is-a-tub-grinder-a-guide-for-landowners-and-pros/</loc>
     <lastmod>2025-07-03T10:43:00+00:00</lastmod>
@@ -52,20 +70,8 @@
   </url><url>
     <loc>http://localhost:1313/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/carbide/</loc>
-  </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/construction/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/forestry/</loc>
-  </url><url>
     <loc>http://localhost:1313/privacy-policy/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/recycling/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/snow-removal/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>

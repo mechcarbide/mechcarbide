@@ -1,6 +1,7 @@
 ---
 title: "Road Milling Teeth and Picks: Everything You Need to Know"
 date: 2025-09-08T16:37:00.000+08:00
+ShowBreadCrumbs: true
 description: "The ultimate guide to road milling teeth: find out what they are,
   how they work, types of milling picks, and how to choose the best cold planer
   teeth for your job."
