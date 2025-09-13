@@ -116,7 +116,7 @@ A forklift, also known as a fork truck or lift truck, is designed to lift and tr
 
 *(Image Source: wirtgen-group.com)*
 
-A milling machine or a cold planer is the essential tool for removing the top layer of asphalt or concrete. By removing the old surface with a large rotating drum fitted with rows of [carbide teeth](https://www.mechcarbide.com/posts/road-milling-teeth-and-picks-everything-you-need-to-know/), a cold planer creates a smooth, textured base that's ready for resurfacing. This process is essential for pavement recycling, as the removed material can be reproduced as aggregate in new pavement. It's also a great way to eliminate surface damage or bleeding, ensuring driving safety and extending the life of the roadway.
+A milling machine or [a cold planer](https://www.mechcarbide.com/posts/what-is-a-road-milling-machine/) is the essential tool for removing the top layer of asphalt or concrete. By removing the old surface with a large rotating drum fitted with rows of [carbide teeth](https://www.mechcarbide.com/posts/road-milling-teeth-and-picks-everything-you-need-to-know/), a cold planer creates a smooth, textured base that's ready for resurfacing. This process is essential for pavement recycling, as the removed material can be reproduced as aggregate in new pavement. It's also a great way to eliminate surface damage or bleeding, ensuring driving safety and extending the life of the roadway.
 
 ## Latest Trends in Road Construction Equipment
 
