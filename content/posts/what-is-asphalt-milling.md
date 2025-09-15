@@ -73,7 +73,7 @@ Modern cold planers also come equipped with automatic depth and slope controls, 
 
 ## Asphalt Milling Process
 
-The asphalt milling process is a step-by-step way to remove the top layer of a road and get it ready for a fresh surface:
+The [asphalt milling process](https://www.mechcarbide.com/posts/road-milling-process-step-by-step/) is a step-by-step way to remove the top layer of a road and get it ready for a fresh surface:
 
 * **Assess the pavement:** Start by checking the asphalt's condition. Milling works best when the top layer is worn or damaged, but the sub-base is still solid. Look for cracks, raveling, or other surface issues to determine how much material needs to be removed.
 * **Prepare the area:** Measure the milling zone, mark start and end points, and identify hard obstacles like manholes or embedded structures. This helps the machine work safely and efficiently.
