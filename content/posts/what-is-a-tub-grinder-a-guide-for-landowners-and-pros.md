@@ -56,7 +56,7 @@ and overall productivity.
 
 ## Tub Grinder vs. Horizontal Grinder
 
-So, how does a tub grinder compare to a horizontal grinder? The choice depends on your priorities, work site, and the kind of materials you're processing.
+So, [how does a tub grinder compare to a horizontal grinder?](https://www.mechcarbide.com/posts/tub-grinder-vs-horizontal-grinder-which-one-fits-your-operation/) The choice depends on your priorities, work site, and the kind of materials you're processing.
 
 ![tub grinder vs. horizontal grinder](/uploads/what-is-a-tub-grinder-blog-5.png "Tub Grinder vs. Horizontal Grinder")
 
