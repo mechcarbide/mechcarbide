@@ -15,7 +15,6 @@ Tub grinders and horizontal grinders are the two common ways to turn woody mater
 
 *(Image Source: vermeer.com)*
 
-
 Today, we'll walk through how each machine works, the real operating and ownership costs, safety trade-offs, and practical scenarios to help you decide which option suits your operation.
 
 ## Tub Grinders vs. Horizontal Grinders: Feeding System and Material Size
@@ -40,15 +39,11 @@ Generally speaking, **tub grinders are more dangerous** due to their open, spinn
 
 **Horizontal grinders**, by contrast, offer a more controlled and confined operation. The feed system, powered rollers, and a moving floor push material steadily into a partially enclosed drum. As a result, **any thrown material is limited to a forward and slightly outward area from the feed opening**, significantly reducing the hazard zone. While hidden metal can still cause damage, modern machines often include **automatic feed reversal or shutdown systems** to minimize the risk. For jobsites with space constraints, nearby structures, or people, horizontal grinders are generally the safer, more manageable choice.
 
-## Tub Grinders vs. Horizontal Grinders: Capability, Efficiency, and Finished Product
-
-The processing power of tub grinders is exceptional, thanks to their large, open tub and aggressive drum. Users on forums often emphasize that **a tub grinder can "swallow almost anything,"** making it **a reliable machine when volume and variety of feedstock are high.** Horizontal grinders, while capable, are more limited by infeed size and may require cutting or pre-processing for oversized material.
-
-In terms of efficiency, **tub grinders are known for high throughput.** Because they can process large loads continuously and without the same feed limitations as horizontals, their raw output often exceeds that of a horizontal grinder.
+## Tub Grinders vs. Horizontal Grinders: Finished Product
 
 Because of the controlled feed and adjustable screens, **horizontal grinders deliver more consistent particle sizes and can produce finer material when needed**, ideal for landscape mulch, compost, or animal bedding. Tub grinders tend to produce coarser, less uniform material.
 
-As several forum contributors note, **the choice often depends on the intended use**: if you need volume and can accept variability, the tub wins; if you need a precise, consistent product for composting or resale, the horizontal grinder is usually the better fit.
+As several forum contributors note, **the choice often depends on the material and purpose**: if you'll process various irregular material and can accept variability, the tub wins; if you'll deal with long materials and need a precise, consistent product for composting or resale, the horizontal grinder is usually the better fit.
 
 ## Tub Grinders vs. Horizontal Grinders: Transportability
 
