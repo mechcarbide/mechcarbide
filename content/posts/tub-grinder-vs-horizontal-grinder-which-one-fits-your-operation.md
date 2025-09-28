@@ -9,7 +9,7 @@ tags:
   - Forestry
   - Recycling
 ---
-Tub grinders and horizontal grinders are the two common ways to turn woody material into mulch, compost feedstock, or biomass fuel. Generally speaking, [tub grinders](https://www.mechcarbide.com/posts/what-is-a-tub-grinder-a-guide-for-landowners-and-pros/) are more aggressive. They can swallow large stumps and logs and deliver very high throughput, but they carry higher safety, maintenance, and ownership costs. Horizontal grinders use a conveyor feed to produce a more uniform, controllable product, making them a better fit for composting and working near people or property.
+Tub grinders and horizontal grinders are the two common ways to turn woody material into mulch, compost feedstock, or biomass fuel. Generally speaking, [tub grinders](https://www.mechcarbide.com/posts/what-is-a-tub-grinder-a-guide-for-landowners-and-pros/) are more aggressive. They can swallow large stumps and logs and deliver very high throughput, but they carry higher safety, maintenance, and ownership costs. [Horizontal grinders](https://www.mechcarbide.com/posts/what-is-a-horizontal-grinder/) use a conveyor feed to produce a more uniform, controllable product, making them a better fit for composting and working near people or property.
 
 ![tub grinder vs horizontal grinder](/uploads/what-is-a-tub-grinder-blog-5.png "Tub Grinder vs. Horizontal Grinder")
 
