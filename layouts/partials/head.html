@@ -157,3 +157,8 @@
 {{- partial "templates/twitter_cards.html" . }}
 {{- partial "templates/schema_json.html" . }}
 {{- end -}}
+
+{{ if .Site.Params.pinterest_verification }}
+  <meta name="p:domain_verify" content="{{ .Site.Params.pinterest_verification }}">
+{{ end }}
+

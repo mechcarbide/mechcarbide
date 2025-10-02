@@ -15,7 +15,11 @@ pagerSize = 10
   DateFormat = "2006-01-02"
   homeInfoParams = { Title = "Welcome to MechCarbide", Content = "Sharing what I've learned about wear parts and heavy machinery. From tungsten carbide tips to equipment used in various industries, this blog explores practical knowledge from real industry experience." }
   noindex = false
+  pinterest_verification = "fcb9e4bf733ddfb9a5515fc219862ce6"
   description = "Explore insights on tungsten carbide wear parts and heavy machinery used in forestry, construction, oil & gas, and recycling industries. Stay updated with equipment knowledge, industry trends, and more."
+
+
+
 
   [params.assets]
     # Favicon
