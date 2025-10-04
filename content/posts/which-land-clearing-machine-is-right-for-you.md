@@ -9,7 +9,7 @@ tags:
   - Construction
   - Forestry
 ---
-Whether you're a seasoned contractor or a rural landowner, clearing land, especially when large trees are involved, can feel like a serious undertaking. The key to making the job easier and more efficient is choosing the right land clearing equipment from the start.
+Whether you're a seasoned contractor or a rural landowner, [clearing land](https://www.mechcarbide.com/posts/what-is-landing-clearing/), especially when large trees are involved, can feel like a serious undertaking. The key to making the job easier and more efficient is choosing the right land clearing equipment from the start.
 
 **Skid steers and tractors** are often the basic tools for many, and with good reason they're powerful, adaptable, and compatible with a wide range of attachments. But apart from these two, what other land clearing machines might you need on the job site?
 
