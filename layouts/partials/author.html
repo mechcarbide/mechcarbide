@@ -1,0 +1,14 @@
+{{/* 仅在单篇文章页显示作者信息 */}}
+{{ if or (not .IsPage) (ne .Kind "page") }}
+  {{ return }}
+{{ end }}
+
+<div class="author-box">
+  {{ with .Site.Params.authorAvatar }}
+    <img src="{{ . }}" alt="Author" class="author-avatar"/>
+  {{ end }}
+  <div class="author-info">
+    <p class="author-name"><strong>{{ .Site.Params.authorName }}</strong></p>
+    <p class="author-bio">{{ .Site.Params.authorBio }}</p>
+  </div>
+</div>
