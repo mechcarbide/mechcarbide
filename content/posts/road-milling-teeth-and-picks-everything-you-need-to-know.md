@@ -89,7 +89,7 @@ What makes them unique is the tool tip: **a polycrystalline diamond (PCD) tip we
 
 ## Maintenance Tips for Road Milling Teeth
 
-With the right care, you can extend their service life, reduce replacement costs, and keep your [milling projects](https://www.mechcarbide.com/posts/what-is-asphalt-milling/) running smoothly. Here are some key tips to keep in mind:
+With the right care, you can [extend their service life](https://www.mechcarbide.com/posts/how-to-extend-the-lifespan-of-road-milling-teeth/), reduce replacement costs, and keep your [milling projects](https://www.mechcarbide.com/posts/what-is-asphalt-milling/) running smoothly. Here are some key tips to keep in mind:
 
 1. When milling teeth hit obstacles like rocks, the carbide tips can chip or fracture. Always survey the site and **avoid unnecessary contact with hard objects.**
 2. Milling generates extreme heat. If the teeth overheat, wear accelerates dramatically. That's why the **water spray system is critical.** Make sure drains are clear and water flow is steady to keep the teeth cool and rotating freely.
