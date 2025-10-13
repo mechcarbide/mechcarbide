@@ -45,7 +45,7 @@ There are mainly two types of carbide tips: **cap-shaped and cylinder-shaped.** 
 
 **2. Steel Body**
 
-The tip is brazed onto the steel body, which is designed to provide strength and stability. A well-built steel body not only supports the carbide tip but also helps with effective chip removal, further extending the pick's working life.
+The tip is brazed onto the steel body, usually 42CrMo steel, which is designed to provide strength and stability. A well-built steel body not only supports the carbide tip but also helps with effective chip removal, further extending the pick's working life.
 
 **3. Wear Plate**
 
@@ -89,7 +89,7 @@ What makes them unique is the tool tip: **a polycrystalline diamond (PCD) tip we
 
 ## Maintenance Tips for Road Milling Teeth
 
-With the right care, you can extend their service life, reduce replacement costs, and keep your [milling projects](https://www.mechcarbide.com/posts/what-is-asphalt-milling/) running smoothly. Here are some key tips to keep in mind:
+With the right care, you can [extend their service life](https://www.mechcarbide.com/posts/how-to-extend-the-lifespan-of-road-milling-teeth/), reduce replacement costs, and keep your [milling projects](https://www.mechcarbide.com/posts/what-is-asphalt-milling/) running smoothly. Here are some key tips to keep in mind:
 
 1. When milling teeth hit obstacles like rocks, the carbide tips can chip or fracture. Always survey the site and **avoid unnecessary contact with hard objects.**
 2. Milling generates extreme heat. If the teeth overheat, wear accelerates dramatically. That's why the **water spray system is critical.** Make sure drains are clear and water flow is steady to keep the teeth cool and rotating freely.
@@ -113,7 +113,7 @@ For harder surfaces, go with tougher, thicker teeth that can handle high impact.
 
 **2. Match Teeth to Your Machine**
 
-The size and power of your cold planer matter.
+Road milling teeth basically come in two sizes: Φ20mm and Φ22mm, which are classified by the shank diameter. This makes it easier for operators to replace the picks. Besides, the size and power of the machine matter.
 
 **Smaller machines:** shallower cuts, smaller tips, better cutting efficiency.
 
