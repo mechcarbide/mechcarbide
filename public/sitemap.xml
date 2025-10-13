@@ -3,18 +3,24 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-09-27T15:31:00+08:00</lastmod>
+    <lastmod>2025-10-03T15:16:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/construction/</loc>
+    <lastmod>2025-10-03T15:16:00+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/forestry/</loc>
-    <lastmod>2025-09-27T15:31:00+08:00</lastmod>
+    <lastmod>2025-10-03T15:16:00+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-09-27T15:31:00+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/recycling/</loc>
-    <lastmod>2025-09-27T15:31:00+08:00</lastmod>
+    <lastmod>2025-10-03T15:16:00+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-10-03T15:16:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/what-is-landing-clearing/</loc>
+    <lastmod>2025-10-03T15:16:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/recycling/</loc>
     <lastmod>2025-09-27T15:31:00+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/what-is-a-horizontal-grinder/</loc>
@@ -22,9 +28,6 @@
   </url><url>
     <loc>http://localhost:1313/posts/tub-grinder-vs-horizontal-grinder-which-one-fits-your-operation/</loc>
     <lastmod>2025-09-23T10:57:00+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/construction/</loc>
-    <lastmod>2025-09-17T11:16:00+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/how-to-maintain-a-road-milling-machine-for-better-performance/</loc>
     <lastmod>2025-09-17T11:16:00+08:00</lastmod>
@@ -88,8 +91,16 @@
   </url><url>
     <loc>http://localhost:1313/about/</loc>
   </url><url>
+    <loc>http://localhost:1313/suppliers/</loc>
+  </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
+    <loc>http://localhost:1313/regions/china/</loc>
+  </url><url>
     <loc>http://localhost:1313/privacy-policy/</loc>
+  </url><url>
+    <loc>http://localhost:1313/regions/</loc>
+  </url><url>
+    <loc>http://localhost:1313/suppliers/abc-tools/</loc>
   </url>
 </urlset>

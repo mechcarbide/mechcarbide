@@ -19,20 +19,6 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Meta Description", name: "description", widget: "string", required: false, hint: "用于搜索引擎的简短描述，建议150-160字符以内。" }
-
-      - label: "Cover Images"
-        name: "images"
-        widget: "list"
-        allow_add: true
-        collapsed: false
-        summary: "{{fields.image}}"
-        field:
-          label: "Image"
-          name: "image"
-          widget: "image"
-          required: false
-          hint: "文章封面图。"
-
       - { label: "Body", name: "body", widget: "markdown" }
 
       - label: "Tags"
@@ -40,3 +26,25 @@ collections:
         widget: "select"
         multiple: true
         options: ["Forestry", "Carbide", "Recycling", "Construction", "Snow Removal"]
+
+
+  - name: "suppliers"
+    label: "Suppliers"
+    folder: "content/suppliers"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Summary", name: "summary", widget: "text" }
+      - { label: "Website", name: "website", widget: "string", required: false }
+      - { label: "Meta Description", name: "description", widget: "string", required: false, hint: "用于搜索引擎的简短描述，建议150-160字符以内。" }
+      - { label: "Body", name: "body", widget: "markdown" }
+       
+      - label: "Region"
+        name: "regions"
+        widget: "select"
+        multiple: true
+        options:
+        - { label: "China", value: "china" }
+        - { label: "United States", value: "united-states" }
+        - { label: "Germany", value: "germany" }

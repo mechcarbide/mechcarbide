@@ -19,7 +19,7 @@ pagerSize = 10
   description = "Explore insights on tungsten carbide wear parts and heavy machinery used in forestry, construction, oil & gas, and recycling industries. Stay updated with equipment knowledge, industry trends, and more."
   hideAuthor = true
   authorName = "Alice Jian"
-  authorBio = "5 years experience in carbide wear parts and heavy-duty equipment. Sharing insights on carbide material, road milling teeth, mulcher teeth, and more industrial tools."
+  authorBio = "5 years experience in carbide tools and wear parts. Sharing insights on carbide material, carbide tools, road milling teeth, mulcher teeth, and more industrial tools."
   authorAvatar = "/images/author.jpg"
 
 
@@ -36,27 +36,38 @@ pagerSize = 10
 
   
 
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  region = "regions"
+
 
 # 菜单导航
 [menu]
   [[menu.main]]
+    identifier = "suppliers"
+    name = "Suppliers"
+    url = "/suppliers/"
+    weight = 1
+
+  [[menu.main]]
     identifier = "posts"
     name = "Blog"
     url = "/posts/"
-    weight = 1
+    weight = 2
 
   [[menu.main]]
     identifier = "about"
     name = "About"
     url = "/about/"
-    weight = 2
+    weight = 3
 
   [[menu.main]]
     identifier = "privacy"
     name = "Privacy Policy"
     url = "/privacy-policy/"
-    weight = 3
-    
+    weight = 4
+
 
 # 输出格式支持 sitemap 和 RSS（推荐）
 [outputs]
