@@ -1,13 +1,13 @@
 ---
 title: "About Me"
 slug: "about" 
-description: "Discover the story behind MechCarbide.com, why Alice Jian started this blog to share real-world insights into carbide tools and wear parts used in various industries."
+description: "Discover the story behind MechCarbide.com, why Alex Carter started this blog to share real-world insights into carbide tools and wear parts used in various industries."
 draft: false
 ---
 
-Hi there, and welcome to **mechcarbide.com**. I'm **Alice Jian**, and this blog is where I share what I've learned (and continue to learn) about **carbide tools and wear parts** used in industries like **forestry**, **construction**, **woodworking**, **metalworking**, and more.
+Hi there, and welcome to **mechcarbide.com**. I'm **Alex Carter**, and this blog is where I share what I've learned (and continue to learn) about **carbide tools and wear parts** used in industries like **forestry**, **construction**, **woodworking**, **metalworking**, and more.
 
-## Why I Started This Blog
+## Why I Started This Website
 
 For five years, I worked as an internet marketing specialist at a foreign trade company that sold tungsten carbide tools and wear parts overseas. To be honest, I wasn't interested in any of it at first. I didn't even know what tungsten carbide was! But over time, as I got more familiar with the materials, products, and their real-world applications, I began to find it all... fascinating. Tough, precise, and built for extreme conditions, these tools have stories behind them.
 
@@ -23,6 +23,6 @@ In addition to informative articles, MechCarbide provides **a curated list of su
 
 Thanks again for stopping by. I hope you find something useful or interesting here. If you'd like to share your thoughts, ask a question, or just say hi, feel free to reach out:
 
-📩 **alicejian0313@gmail.com**
+📩 **mechcarbide@zohomail.com**
 
 Look forward to hearing from you and have a great day!
