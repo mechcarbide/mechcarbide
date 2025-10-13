@@ -1,175 +1,27 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>MechCarbide</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on MechCarbide</description>
-    <generator>Hugo -- 0.147.8</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 03 Oct 2025 15:16:00 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>What is Land Clearing?</title>
-      <link>http://localhost:1313/posts/what-is-landing-clearing/</link>
-      <pubDate>Fri, 03 Oct 2025 15:16:00 +0800</pubDate>
-      <guid>http://localhost:1313/posts/what-is-landing-clearing/</guid>
-      <description>Land Clearing is much more than simply removing trees and brush. Read on to discover the truth about it.</description>
-    </item>
-    <item>
-      <title>What Is a Horizontal Grinder?</title>
-      <link>http://localhost:1313/posts/what-is-a-horizontal-grinder/</link>
-      <pubDate>Sat, 27 Sep 2025 15:31:00 +0800</pubDate>
-      <guid>http://localhost:1313/posts/what-is-a-horizontal-grinder/</guid>
-      <description>A straightforward guide to horizontal grinders, covering working principles, advantages, challenges, and essential maintenance practices.</description>
-    </item>
-    <item>
-      <title>Tub Grinder vs. Horizontal Grinder: Which One Fits Your Operation?</title>
-      <link>http://localhost:1313/posts/tub-grinder-vs-horizontal-grinder-which-one-fits-your-operation/</link>
-      <pubDate>Tue, 23 Sep 2025 10:57:00 +0800</pubDate>
-      <guid>http://localhost:1313/posts/tub-grinder-vs-horizontal-grinder-which-one-fits-your-operation/</guid>
-      <description>Explore the key differences between tub grinders and horizontal grinders, including feed systems, efficiency, safety, transportability, and maintenance.</description>
-    </item>
-    <item>
-      <title>How to Maintain a Road Milling Machine for Better Performance?</title>
-      <link>http://localhost:1313/posts/how-to-maintain-a-road-milling-machine-for-better-performance/</link>
-      <pubDate>Wed, 17 Sep 2025 11:16:00 +0800</pubDate>
-      <guid>http://localhost:1313/posts/how-to-maintain-a-road-milling-machine-for-better-performance/</guid>
-      <description>Road milling machine maintenance made simple—keep your equipment reliable with these essential care practices.</description>
-    </item>
-    <item>
-      <title>Road Milling Process Step by Step</title>
-      <link>http://localhost:1313/posts/road-milling-process-step-by-step/</link>
-      <pubDate>Sun, 14 Sep 2025 16:01:00 +0800</pubDate>
-      <guid>http://localhost:1313/posts/road-milling-process-step-by-step/</guid>
-      <description>Old asphalt? Uneven surfaces? Road milling tackles it all. Learn the road milling process from planning to resurfacing, with tips on safety, traffic, and recycling.</description>
-    </item>
-    <item>
-      <title>What Is a Road Milling Machine?</title>
-      <link>http://localhost:1313/posts/what-is-a-road-milling-machine/</link>
-      <pubDate>Fri, 12 Sep 2025 12:25:00 +0800</pubDate>
-      <guid>http://localhost:1313/posts/what-is-a-road-milling-machine/</guid>
-      <description>Not sure which road milling machine fits your project? Learn how cold milling machines work, the different types, and what really matters before you buy.</description>
-    </item>
-    <item>
-      <title>Road Milling Teeth and Picks: Everything You Need to Know</title>
-      <link>http://localhost:1313/posts/road-milling-teeth-and-picks-everything-you-need-to-know/</link>
-      <pubDate>Mon, 08 Sep 2025 16:37:00 +0800</pubDate>
-      <guid>http://localhost:1313/posts/road-milling-teeth-and-picks-everything-you-need-to-know/</guid>
-      <description>The ultimate guide to road milling teeth: find out what they are, how they work, types of milling picks, and how to choose the best cold planer teeth for your job.</description>
-    </item>
-    <item>
-      <title>Types of Snow Plow Blades: Types, Materials, and Best Uses</title>
-      <link>http://localhost:1313/posts/types-of-snow-plow-blades-types-materials-and-best-uses/</link>
-      <pubDate>Thu, 04 Sep 2025 14:07:00 +0800</pubDate>
-      <guid>http://localhost:1313/posts/types-of-snow-plow-blades-types-materials-and-best-uses/</guid>
-      <description>A complete guide to types of snow plow blades and cutting edges, helping homeowners, municipalities, and contractors make informed choices for winter snow management.</description>
-    </item>
-    <item>
-      <title>Key Differences Between Asphalt and Concrete</title>
-      <link>http://localhost:1313/posts/key-differences-between-asphalt-and-concrete/</link>
-      <pubDate>Mon, 01 Sep 2025 13:57:00 +0800</pubDate>
-      <guid>http://localhost:1313/posts/key-differences-between-asphalt-and-concrete/</guid>
-      <description>Asphalt vs concrete driveways: a complete comparison to help you decide based on budget, climate, maintenance, and aesthetics.</description>
-    </item>
-    <item>
-      <title>What Is Asphalt Milling?</title>
-      <link>http://localhost:1313/posts/what-is-asphalt-milling/</link>
-      <pubDate>Tue, 26 Aug 2025 13:45:00 +0800</pubDate>
-      <guid>http://localhost:1313/posts/what-is-asphalt-milling/</guid>
-      <description>Wondering what asphalt milling is? Discover the process, equipment, and eco-friendly benefits of road milling, plus why it&amp;#39;s better than full replacement.</description>
-    </item>
-    <item>
-      <title>Step by Step Road Construction Process for Modern Pavements</title>
-      <link>http://localhost:1313/posts/step-by-step-road-construction-process-for-modern-pavements/</link>
-      <pubDate>Tue, 19 Aug 2025 15:15:00 +0800</pubDate>
-      <guid>http://localhost:1313/posts/step-by-step-road-construction-process-for-modern-pavements/</guid>
-      <description>Curious about how roads are built? This guide explains road construction steps in simple language, covering every stage of the road construction process.</description>
-    </item>
-    <item>
-      <title>12 Types of Road Construction Equipment</title>
-      <link>http://localhost:1313/posts/12-types-of-road-construction-equipment/</link>
-      <pubDate>Tue, 12 Aug 2025 09:34:00 +0800</pubDate>
-      <guid>http://localhost:1313/posts/12-types-of-road-construction-equipment/</guid>
-      <description>Learn about different types of road construction equipment and machines, their uses, and how they help build safe, durable roads for modern infrastructure.</description>
-    </item>
-    <item>
-      <title>Titanium Carbide vs. Tungsten Carbide</title>
-      <link>http://localhost:1313/posts/titanium-carbide-vs-tungsten-carbide/</link>
-      <pubDate>Mon, 04 Aug 2025 16:10:00 +0800</pubDate>
-      <guid>http://localhost:1313/posts/titanium-carbide-vs-tungsten-carbide/</guid>
-      <description>Titanium carbide vs tungsten carbide: from hardness and heat resistance to real-world applications. Which one fits your needs best?</description>
-    </item>
-    <item>
-      <title>What Is Cemented Carbide?</title>
-      <link>http://localhost:1313/posts/what-is-cemented-carbide/</link>
-      <pubDate>Tue, 29 Jul 2025 14:52:00 +0800</pubDate>
-      <guid>http://localhost:1313/posts/what-is-cemented-carbide/</guid>
-      <description>Cemented carbide combines extreme hardness with toughness. Discover its structure, manufacturing process, types, and common uses.</description>
-    </item>
-    <item>
-      <title>Tungsten vs Tungsten Carbide: What&#39;s the Real Difference?</title>
-      <link>http://localhost:1313/posts/tungsten-vs-tungsten-carbide-whats-the-real-difference/</link>
-      <pubDate>Mon, 21 Jul 2025 10:22:00 +0800</pubDate>
-      <guid>http://localhost:1313/posts/tungsten-vs-tungsten-carbide-whats-the-real-difference/</guid>
-      <description>Wondering about tungsten vs tungsten carbide? Scroll down to learn the real differences to help you choose the right material for tools, rings, and more.</description>
-    </item>
-    <item>
-      <title>What Is Tungsten Carbide?</title>
-      <link>http://localhost:1313/posts/what-is-tungsten-carbide/</link>
-      <pubDate>Mon, 14 Jul 2025 17:05:00 +0800</pubDate>
-      <guid>http://localhost:1313/posts/what-is-tungsten-carbide/</guid>
-      <description>Learn what tungsten carbide is, how it&amp;#39;s made, and why it&amp;#39;s used in cutting tools, mining, jewelry, etc.</description>
-    </item>
-    <item>
-      <title>Which Land Clearing Machine Is Right for You?</title>
-      <link>http://localhost:1313/posts/which-land-clearing-machine-is-right-for-you/</link>
-      <pubDate>Tue, 08 Jul 2025 13:46:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/which-land-clearing-machine-is-right-for-you/</guid>
-      <description>From small rural lots to large acreage, explore the proper land clearing equipment and machines to deal with trees, brush, stumps, and debris efficiently.</description>
-    </item>
-    <item>
-      <title>What Is a Tub Grinder? A Guide for Landowners and Pros</title>
-      <link>http://localhost:1313/posts/what-is-a-tub-grinder-a-guide-for-landowners-and-pros/</link>
-      <pubDate>Thu, 03 Jul 2025 10:43:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/what-is-a-tub-grinder-a-guide-for-landowners-and-pros/</guid>
-      <description>Tub grinders are powerful machines used in forestry, agriculture, and recycling to turn wood waste into mulch or compost. Learn how they work, their key components, and how they compare to horizontal grinders.</description>
-    </item>
-    <item>
-      <title>Drum Mulcher vs. Disc Mulcher: Choosing the Right Mulching Head</title>
-      <link>http://localhost:1313/posts/drum-mulcher-vs-disc-mulcher-choosing-the-right-mulching-head/</link>
-      <pubDate>Sun, 29 Jun 2025 16:32:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/drum-mulcher-vs-disc-mulcher-choosing-the-right-mulching-head/</guid>
-      <description>Compare drum mulchers and disc mulchers to determine which forestry mulching head best suits your land clearing needs.</description>
-    </item>
-    <item>
-      <title>Choosing Mulcher Teeth: Steel vs. Carbide and What Works Best</title>
-      <link>http://localhost:1313/posts/choosing-mulcher-teeth-steel-vs-carbide-and-what-works-best/</link>
-      <pubDate>Tue, 24 Jun 2025 10:53:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/choosing-mulcher-teeth-steel-vs-carbide-and-what-works-best/</guid>
-      <description>Looking for the right mulcher teeth for your forestry mulcher? Learn the key factors to consider to improve performance and reduce costs.</description>
-    </item>
-    <item>
-      <title>What Is Forestry Mulching? Benefits, Equipment, and Costs Explained</title>
-      <link>http://localhost:1313/posts/what-is-forestry-mulching-benefits-equipment-and-costs-explained/</link>
-      <pubDate>Wed, 18 Jun 2025 02:59:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/what-is-forestry-mulching-benefits-equipment-and-costs-explained/</guid>
-      <description>Discover how forestry mulching works, its equipment types, cost factors, and key benefits. Learn why it&amp;#39;s an efficient and eco-friendly land clearing method.</description>
-    </item>
-    <item>
-      <title>About Me</title>
-      <link>http://localhost:1313/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
-      <description>Discover the story behind MechCarbide.com, why Alice Jian started this blog to share real-world insights into carbide wear parts used in forestry, construction, and more.</description>
-    </item>
-    <item>
-      <title>Privacy Policy</title>
-      <link>http://localhost:1313/privacy-policy/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/privacy-policy/</guid>
-      <description>&lt;p&gt;At MechCarbide, accessible from MechCarbide.com, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by MechCarbide and how we use it.&lt;/p&gt;
-&lt;p&gt;If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.&lt;/p&gt;
-&lt;p&gt;This Privacy Policy applies only to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in MechCarbide. This policy is not applicable to any information collected offline or via channels other than this website.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+&lt;?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-10-09T14:31:00&#43;08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/about/</loc>
+    <lastmod>0001-01-01T00:00:00&#43;00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/suppliers/</loc>
+    <lastmod>0001-01-01T00:00:00&#43;00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/privacy-policy/</loc>
+    <lastmod>0001-01-01T00:00:00&#43;00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+</urlset>

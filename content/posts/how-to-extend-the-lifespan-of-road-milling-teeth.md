@@ -1,6 +1,7 @@
 ---
 title: How to Extend the Lifespan of Road Milling Teeth?
 date: 2025-10-09T14:31:00.000+08:00
+ShowBreadCrumbs: true
 description: Extend the life of your road milling teeth with these five expert
   tips on operation, cleaning, and proper care.
 tags:

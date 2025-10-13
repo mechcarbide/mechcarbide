@@ -13,13 +13,13 @@ pagerSize = 10
   ShowBreadCrumbs = false
   ShowCodeCopyButtons = true
   DateFormat = "2006-01-02"
-  homeInfoParams = { Title = "Welcome to MechCarbide", Content = "Sharing what I've learned about wear parts and heavy machinery. From tungsten carbide tips to equipment used in various industries, this blog explores practical knowledge from real industry experience." }
+  homeInfoParams = { Title = "Welcome to MechCarbide", Content = "Learn, Discover, Connect. Explore knowledge and insights on carbide wear parts and precision tools, and a growing directory of global manufacturers." }
   noindex = false
   pinterest_verification = "fcb9e4bf733ddfb9a5515fc219862ce6"
-  description = "Explore insights on tungsten carbide wear parts and heavy machinery used in forestry, construction, oil & gas, and recycling industries. Stay updated with equipment knowledge, industry trends, and more."
+  description = "Explore knowledge and insights on carbide wear parts and precision tools, and a growing directory of global manufacturers."
   hideAuthor = true
   authorName = "Alice Jian"
-  authorBio = "5 years experience in carbide tools and wear parts. Sharing insights on carbide material, carbide tools, road milling teeth, mulcher teeth, and more industrial tools."
+  authorBio = "Explains how carbide tools and wear parts work in real-world applications, from woodworking to heavy equipment."
   authorAvatar = "/images/author.jpg"
 
 
@@ -71,7 +71,16 @@ pagerSize = 10
 
 # 输出格式支持 sitemap 和 RSS（推荐）
 [outputs]
-  home = ["HTML", "RSS", "JSON"]
+home = ["HTML", "RSS", "JSON", "SITEMAP"]  # 首页 sitemap
+section = ["HTML", "SITEMAP"]  # 所有 section 生成 sitemap
+
+[outputFormats.SITEMAP]
+  mediaType = "application/xml"
+  baseName = "index"
+  isPlainText = false
+  notAlternative = true
+  rel = "sitemap"
+
 
 # 启用robots.txt 和 sitemap.xml
 [params.seo]
