@@ -71,9 +71,7 @@ pagerSize = 10
 
 # 输出格式支持 sitemap 和 RSS（推荐）
 [outputs]
-  home = ["HTML", "RSS", "JSON", "SITEMAP"]
-  section = ["HTML", "SITEMAP"]
-  page = ["HTML"]
+  home = ["HTML", "RSS", "JSON"]
 
 
 # 启用robots.txt 和 sitemap.xml

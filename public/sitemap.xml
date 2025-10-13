@@ -2,11 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-10-09T14:31:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/carbide/</loc>
+    <lastmod>2025-10-09T14:31:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/construction/</loc>
+    <lastmod>2025-10-09T14:31:00+08:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/posts/how-to-extend-the-lifespan-of-road-milling-teeth/</loc>
     <lastmod>2025-10-09T14:31:00+08:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-10-09T14:31:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-10-09T14:31:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/forestry/</loc>
+    <lastmod>2025-10-03T15:16:00+08:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/posts/what-is-landing-clearing/</loc>
     <lastmod>2025-10-03T15:16:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/recycling/</loc>
+    <lastmod>2025-09-27T15:31:00+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/what-is-a-horizontal-grinder/</loc>
     <lastmod>2025-09-27T15:31:00+08:00</lastmod>
@@ -25,6 +46,9 @@
   </url><url>
     <loc>http://localhost:1313/posts/road-milling-teeth-and-picks-everything-you-need-to-know/</loc>
     <lastmod>2025-09-08T16:37:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/snow-removal/</loc>
+    <lastmod>2025-09-04T14:07:00+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/types-of-snow-plow-blades-types-materials-and-best-uses/</loc>
     <lastmod>2025-09-04T14:07:00+08:00</lastmod>
@@ -67,5 +91,15 @@
   </url><url>
     <loc>http://localhost:1313/posts/what-is-forestry-mulching-benefits-equipment-and-costs-explained/</loc>
     <lastmod>2025-06-18T02:59:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/about/</loc>
+  </url><url>
+    <loc>http://localhost:1313/suppliers/</loc>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/privacy-policy/</loc>
+  </url><url>
+    <loc>http://localhost:1313/regions/</loc>
   </url>
 </urlset>

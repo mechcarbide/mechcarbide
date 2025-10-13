@@ -2,5 +2,3 @@ User-agent: *
 Disallow:
 
 Sitemap: https://www.mechcarbide.com/sitemap.xml
-Sitemap: https://www.mechcarbide.com/posts/index.xml
-Sitemap: https://www.mechcarbide.com/suppliers/index.xml
