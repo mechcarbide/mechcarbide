@@ -71,15 +71,9 @@ pagerSize = 10
 
 # 输出格式支持 sitemap 和 RSS（推荐）
 [outputs]
-home = ["HTML", "RSS", "JSON", "SITEMAP"]  # 首页 sitemap
-section = ["HTML", "SITEMAP"]  # 所有 section 生成 sitemap
-
-[outputFormats.SITEMAP]
-  mediaType = "application/xml"
-  baseName = "index"
-  isPlainText = false
-  notAlternative = true
-  rel = "sitemap"
+  home = ["HTML", "RSS", "JSON", "SITEMAP"]
+  section = ["HTML", "SITEMAP"]
+  page = ["HTML"]
 
 
 # 启用robots.txt 和 sitemap.xml
