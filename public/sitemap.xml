@@ -101,5 +101,7 @@
     <loc>http://localhost:1313/privacy-policy/</loc>
   </url><url>
     <loc>http://localhost:1313/regions/</loc>
+  </url><url>
+    <loc>http://localhost:1313/suppliers/techgong/</loc>
   </url>
 </urlset>

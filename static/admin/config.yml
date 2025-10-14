@@ -35,18 +35,9 @@ collections:
     create: true
     slug: "{{slug}}"
     fields:
-      # -------------------------------
-      # 基本字段（Front Matter 顶层）
-      # -------------------------------
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Meta Description", name: "description", widget: "string", required: false, hint: "用于搜索引擎的简短描述，建议150-160字符以内。" }
 
-      # ✅ 注意：Body 字段放在 structured_data 之后，可以避免编辑器里混淆层级
-      # （虽然顺序不影响 Hugo 渲染，但在 CMS UI 中更清晰）
-      
-      # -------------------------------
-      # 结构化数据（SEO）
-      # -------------------------------
       - label: "Structured Data (for SEO)"
         name: "structured_data"
         widget: "object"
@@ -72,9 +63,7 @@ collections:
             fields:
               - { label: "Email", name: "email", widget: "string", required: false }
 
-      # -------------------------------
-      # 其他字段
-      # -------------------------------
+
       - label: "Region"
         name: "regions"
         widget: "select"
@@ -84,7 +73,5 @@ collections:
           - { label: "United States", value: "united-states" }
           - { label: "Germany", value: "germany" }
 
-      # -------------------------------
-      # 正文内容
-      # -------------------------------
+
       - { label: "Body", name: "body", widget: "markdown" }
