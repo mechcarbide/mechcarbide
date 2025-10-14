@@ -155,7 +155,6 @@
 {{- partial "google_analytics.html" . }}
 {{- partial "templates/opengraph.html" . }}
 {{- partial "templates/twitter_cards.html" . }}
-{{- partial "templates/schema_json.html" . }}
 {{- end -}}
 
 {{ if .Site.Params.pinterest_verification }}
@@ -163,10 +162,52 @@
 {{ end }}
 
 
-{{- /* --- 结构化数据 (JSON-LD) 开始 --- */ -}}
-{{ with .Params.structured_data }}
-<script type="application/ld+json">
-{{- . | jsonify | safeJS -}} 
-</script>
-{{ end }}
-{{- /* --- 结构化数据 (JSON-LD) 结束 --- */ -}}
+{{- /* ---------------------------------------------------- */ -}}
+{{- /* 供应商页面的主要结构化数据 (Organization Schema) */ -}}
+{{- /* ---------------------------------------------------- */ -}}
+{{- if eq .Section "suppliers" }}
+    {{- with .Params.structured_data }}
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Organization",  // 修正: 确保是 Organization
+      "name": {{- .name | jsonify }},
+      "url": {{- .url | jsonify }},
+      
+      {{- /* 描述字段 */}}
+      {{- with .description -}}
+      "description": {{- . | jsonify }},
+      {{- end -}}
+      
+      {{- /* 嵌套 Address 对象 */}}
+      {{- with .address -}}
+      ,"address": {
+        "@type": "PostalAddress",
+        "addressLocality": {{- .addressLocality | jsonify }},
+        "addressRegion": {{- .addressRegion | jsonify }},
+        "addressCountry": {{- .addressCountry | jsonify }}
+      }
+      {{- end -}}
+      
+      {{- /* 嵌套 Contact 字段 */}}
+      {{- with .contact -}}
+      ,"contactPoint": {
+        "@type": "ContactPoint",
+        "contactType": "Sales",
+        "email": {{- .email | jsonify }}
+      }
+      {{- end -}}
+      
+      ,"logo": {
+        "@type": "ImageObject",
+        "url": "https://www.mechcarbide.com/favicon.ico" 
+      }
+    }
+    </script>
+    {{- end }}
+{{- end }}
+
+{{- /* ---------------------------------------------------- */ -}}
+{{- /* 面包屑结构化数据 (BreadcrumbList Schema) */ -}}
+{{- /* ---------------------------------------------------- */ -}}
+{{ partial "templates/breadcrumb.html" . }}
