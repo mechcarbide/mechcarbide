@@ -155,55 +155,9 @@
 {{- partial "google_analytics.html" . }}
 {{- partial "templates/opengraph.html" . }}
 {{- partial "templates/twitter_cards.html" . }}
-{{- partial "templates/schema_json.html" . }}  <-- ✅ 重新引入这个调用
+{{- partial "templates/schema_json.html" . }}
 {{- end -}}
 
 {{ if .Site.Params.pinterest_verification }}
   <meta name="p:domain_verify" content="{{ .Site.Params.pinterest_verification }}">
 {{ end }}
-
-
-{{- /* ---------------------------------------------------- */ -}}
-{{- /* 供应商页面的主要结构化数据 (Organization Schema) */ -}}
-{{- /* ---------------------------------------------------- */ -}}
-{{- if strings.Contains .Permalink "/suppliers/" }}
-    {{- with .Params.structured_data }}
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "Organization",  // 修正: 确保是 Organization
-      "name": {{- .name | jsonify }},
-      "url": {{- .url | jsonify }},
-      
-      {{- /* 描述字段 */}}
-      {{- with .description -}}
-      "description": {{- . | jsonify }},
-      {{- end -}}
-      
-      {{- /* 嵌套 Address 对象 */}}
-      {{- with .address -}}
-      ,"address": {
-        "@type": "PostalAddress",
-        "addressLocality": {{- .addressLocality | jsonify }},
-        "addressRegion": {{- .addressRegion | jsonify }},
-        "addressCountry": {{- .addressCountry | jsonify }}
-      }
-      {{- end -}}
-      
-      {{- /* 嵌套 Contact 字段 */}}
-      {{- with .contact -}}
-      ,"contactPoint": {
-        "@type": "ContactPoint",
-        "contactType": "Sales",
-        "email": {{- .email | jsonify }}
-      }
-      {{- end -}}
-      
-      ,"logo": {
-        "@type": "ImageObject",
-        "url": "https://www.mechcarbide.com/favicon.ico" 
-      }
-    }
-    </script>
-    {{- end }}
-{{- end }}

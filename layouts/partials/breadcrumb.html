@@ -1,51 +1,61 @@
+{{- /* ------------------------------------------------------------- */ -}}
+{{- /* Unified Breadcrumb HTML + JSON-LD for Suppliers & Blog */ -}}
+{{- /* ------------------------------------------------------------- */ -}}
+
 {{- if (.Param "ShowBreadCrumbs") -}}
-<div class="breadcrumbs">
-    
-    {{- /* ======================================================= */ -}}
-    {{- /* NEW LOGIC: Optimized path for Supplier pages: Home > Suppliers > Current Page */ -}}
-    {{- /* ======================================================= */ -}}
-    {{- if and .IsPage (strings.Contains .Permalink "/suppliers/") }}
 
-        {{- /* 1. Home Link */ -}}
-        <a href="{{ "" | absLangURL }}">{{ i18n "home" | default "Home" }}</a>
-        
-        {{- /* 2. Suppliers Section Link */ -}}
-        {{- $suppliers_page := site.GetPage "/suppliers" -}}
-        {{- if $suppliers_page -}}
-            {{- print "&nbsp;»&nbsp;" | safeHTML -}}<a href="{{ $suppliers_page.Permalink }}">{{ $suppliers_page.Name }}</a>
-        {{- end -}}
-        
-        {{- /* 3. Current Page (Supplier Name) */ -}}
-        {{- print "&nbsp;»&nbsp;" | safeHTML -}}<a href="{{ .Permalink }}">{{ .Name }}</a>
+{{- /* 构建 breadcrumb 路径数组 */ -}}
+{{- $bc_list := slice }}  
 
-    {{- /* ======================================================= */ -}}
-    {{- /* Original Theme Logic: For all other pages (lists, regular pages, etc.) */ -}}
-    {{- /* ======================================================= */ -}}
-    {{- else }}
+{{- /* 供应商页面逻辑 */ -}}
+{{- if and .IsPage (strings.Contains (trimSuffix "/" .Permalink) "/suppliers/") }}
+    {{- $bc_list = $bc_list | append (dict "name" "Home" "item" ("" | absLangURL)) }}
+    {{- $bc_list = $bc_list | append (dict "name" "Suppliers" "item" (site.GetPage "/suppliers" | .Permalink)) }}
+    {{- $bc_list = $bc_list | append (dict "name" .Name "item" .Permalink) }}
 
-        {{- $url := replace .Parent.Permalink (printf "%s" site.Home.Permalink) "" }}
-        {{- $lang_url := strings.TrimPrefix (printf "%s/" .Lang) $url -}}
+{{- else }}
+    {{- /* 普通博客或页面逻辑 */ -}}
+    {{- $url := replace .Parent.Permalink (printf "%s" site.Home.Permalink) "" }}
+    {{- $lang_url := strings.TrimPrefix (printf "%s/" .Lang) $url -}}
+    {{- $scratch := newScratch }}
 
-        <a href="{{ "" | absLangURL }}">{{ i18n "home" | default "Home" }}</a>
-        {{- $scratch := newScratch }}
-        
-        {{- range $index, $element := split $lang_url "/" }}
+    {{- $bc_list = $bc_list | append (dict "name" "Home" "item" ("" | absLangURL)) }}
 
+    {{- range $index, $element := split $lang_url "/" }}
         {{- $scratch.Add "path" (printf "%s/" $element )}}
         {{- $bc_pg := site.GetPage ($scratch.Get "path") -}}
-
-        {{- if (and ($bc_pg) (gt (len . ) 0))}}
-        {{- print "&nbsp;»&nbsp;" | safeHTML -}}<a href="{{ $bc_pg.Permalink }}">{{ $bc_pg.Name }}</a>
+        {{- if $bc_pg }}
+            {{- $bc_list = $bc_list | append (dict "name" $bc_pg.Name "item" $bc_pg.Permalink) }}
         {{- end }}
-
-        {{- end -}}
-        
-        {{- /* Add Current Page to the end of the breadcrumb for non-home pages */ -}}
-        {{- if not .IsHome }}
-            {{- print "&nbsp;»&nbsp;" | safeHTML -}}<a href="{{ .Permalink }}">{{ .Name }}</a>
-        {{- end }}
-        
     {{- end }}
+    {{- $bc_list = $bc_list | append (dict "name" .Name "item" .Permalink) }}
+{{- end }}
 
+{{- /* 前端 HTML 输出 */ -}}
+<div class="breadcrumbs">
+    {{- range $i, $bc := $bc_list }}
+        {{- if $i }}&nbsp;»&nbsp;{{- end }}
+        <a href="{{ $bc.item }}">{{ $bc.name }}</a>
+    {{- end }}
 </div>
-{{- end -}}
+
+{{- /* JSON-LD 输出 */ -}}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {{- range $index, $bc := $bc_list }}
+      {{- if $index}},{{- end }}
+      {
+        "@type": "ListItem",
+        "position": {{ add $index 1 }},
+        "name": {{ $bc.name | jsonify }},
+        "item": {{ $bc.item | jsonify }}
+      }
+    {{- end }}
+  ]
+}
+</script>
+
+{{- end }}
