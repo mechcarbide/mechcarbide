@@ -4,7 +4,7 @@
     {{- /* ======================================================= */ -}}
     {{- /* NEW LOGIC: Optimized path for Supplier pages: Home > Suppliers > Current Page */ -}}
     {{- /* ======================================================= */ -}}
-    {{- if and .IsPage (eq .Section "suppliers") }}
+    {{- if and .IsPage (strings.HasPrefix .RelPermalink "/suppliers/") }}
 
         {{- /* 1. Home Link */ -}}
         <a href="{{ "" | absLangURL }}">{{ i18n "home" | default "Home" }}</a>

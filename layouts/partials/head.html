@@ -9,7 +9,6 @@
 
 {{- /* Title */}}
 <title>{{ if .IsHome }}{{ else }}{{ if .Title }}{{ .Title }} | {{ end }}{{ end }}{{ site.Title }}</title>
-<meta name="x-hugo-section" content="{{ .Section }}">
 
 {{- /* Meta */}}
 {{- if .IsHome }}
@@ -167,7 +166,7 @@
 {{- /* ---------------------------------------------------- */ -}}
 {{- /* 供应商页面的主要结构化数据 (Organization Schema) */ -}}
 {{- /* ---------------------------------------------------- */ -}}
-{{- if eq .Section "suppliers" }}
+{{- if strings.HasPrefix .RelPermalink "/suppliers/" }}
     {{- with .Params.structured_data }}
     <script type="application/ld+json">
     {
