@@ -1,6 +1,6 @@
 ---
 title: Shandong Techgong Geotechnical Engineering Equipment Co., Ltd
-description: As an outstanding manufacturer in China, Shandong Techgong supplies
+meta description: As an outstanding manufacturer in China, Shandong Techgong supplies
   reliable carbide cutting products and solutions to clients worldwide in the
   construction and mining industries.
 structured_data:
