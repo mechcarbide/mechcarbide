@@ -162,3 +162,33 @@
   <meta name="p:domain_verify" content="{{ .Site.Params.pinterest_verification }}">
 {{ end }}
 
+
+{{ if .Params.structured_data }}
+{{ $d := .Params.structured_data }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": {{ $d.name | jsonify }},
+  {{ with $d.url }}"url": {{ . | jsonify }},{{ end }}
+  {{ with $d.description }}"description": {{ . | jsonify }},{{ end }}
+
+  {{ with $d.address }}
+  "address": {
+    "@type": "PostalAddress"
+    {{ with .addressLocality }}, "addressLocality": {{ . | jsonify }}{{ end }}
+    {{ with .addressRegion }}, "addressRegion": {{ . | jsonify }}{{ end }}
+    {{ with .addressCountry }}, "addressCountry": {{ . | jsonify }}{{ end }}
+  },
+  {{ end }}
+
+  {{ with $d.contact }}
+  "contactPoint": {
+    "@type": "ContactPoint"
+    {{ with .email }}, "email": {{ . | jsonify }}{{ end }}
+  }
+  {{ end }}
+}
+</script>
+{{ end }}
+
