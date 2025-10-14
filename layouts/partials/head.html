@@ -166,7 +166,7 @@
 {{- /* ---------------------------------------------------- */ -}}
 {{- /* 供应商页面的主要结构化数据 (Organization Schema) */ -}}
 {{- /* ---------------------------------------------------- */ -}}
-{{- if strings.HasPrefix .RelPermalink "/suppliers/" }}
+{{- if strings.Contains .Permalink "/suppliers/" }}
     {{- with .Params.structured_data }}
     <script type="application/ld+json">
     {

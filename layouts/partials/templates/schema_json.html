@@ -60,9 +60,7 @@
 }
 </script>
 
-{{- if and .IsPage (not (strings.HasPrefix .RelPermalink "/suppliers/")) }} 
-{{- /* 仅针对 BlogPosts 运行，排除 /suppliers/ 路径下的页面 */ -}}
-
+{{- if and .IsPage (not (strings.Contains .Permalink "/suppliers/")) }}
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
