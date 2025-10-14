@@ -163,32 +163,10 @@
 {{ end }}
 
 
-{{ if .Params.structured_data }}
-{{ $d := .Params.structured_data }}
+{{- /* --- 结构化数据 (JSON-LD) 开始 --- */ -}}
+{{ with .Params.structured_data }}
 <script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Organization",
-  "name": {{ $d.name | jsonify }},
-  {{ with $d.url }}"url": {{ . | jsonify }},{{ end }}
-  {{ with $d.description }}"description": {{ . | jsonify }},{{ end }}
-
-  {{ with $d.address }}
-  "address": {
-    "@type": "PostalAddress"
-    {{ with .addressLocality }}, "addressLocality": {{ . | jsonify }}{{ end }}
-    {{ with .addressRegion }}, "addressRegion": {{ . | jsonify }}{{ end }}
-    {{ with .addressCountry }}, "addressCountry": {{ . | jsonify }}{{ end }}
-  },
-  {{ end }}
-
-  {{ with $d.contact }}
-  "contactPoint": {
-    "@type": "ContactPoint"
-    {{ with .email }}, "email": {{ . | jsonify }}{{ end }}
-  }
-  {{ end }}
-}
+{{- . | jsonify | safeJS -}} 
 </script>
 {{ end }}
-
+{{- /* --- 结构化数据 (JSON-LD) 结束 --- */ -}}
