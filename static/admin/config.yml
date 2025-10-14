@@ -35,7 +35,6 @@ collections:
     slug: "{{slug}}"
     fields:
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "Summary", name: "summary", widget: "text" }
       - { label: "Meta Description", name: "description", widget: "string", required: false, hint: "用于搜索引擎的简短描述，建议150-160字符以内。" }
       - { label: "Body", name: "body", widget: "markdown" }
        
