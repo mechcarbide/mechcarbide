@@ -1,0 +1,51 @@
+{{- if (.Param "ShowBreadCrumbs") -}}
+<div class="breadcrumbs">
+    
+    {{- /* ======================================================= */ -}}
+    {{- /* NEW LOGIC: Optimized path for Supplier pages: Home > Suppliers > Current Page */ -}}
+    {{- /* ======================================================= */ -}}
+    {{- if and .IsPage (eq .Section "suppliers") }}
+
+        {{- /* 1. Home Link */ -}}
+        <a href="{{ "" | absLangURL }}">{{ i18n "home" | default "Home" }}</a>
+        
+        {{- /* 2. Suppliers Section Link */ -}}
+        {{- $suppliers_page := site.GetPage "/suppliers" -}}
+        {{- if $suppliers_page -}}
+            {{- print "&nbsp;»&nbsp;" | safeHTML -}}<a href="{{ $suppliers_page.Permalink }}">{{ $suppliers_page.Name }}</a>
+        {{- end -}}
+        
+        {{- /* 3. Current Page (Supplier Name) */ -}}
+        {{- print "&nbsp;»&nbsp;" | safeHTML -}}<a href="{{ .Permalink }}">{{ .Name }}</a>
+
+    {{- /* ======================================================= */ -}}
+    {{- /* Original Theme Logic: For all other pages (lists, regular pages, etc.) */ -}}
+    {{- /* ======================================================= */ -}}
+    {{- else }}
+
+        {{- $url := replace .Parent.Permalink (printf "%s" site.Home.Permalink) "" }}
+        {{- $lang_url := strings.TrimPrefix (printf "%s/" .Lang) $url -}}
+
+        <a href="{{ "" | absLangURL }}">{{ i18n "home" | default "Home" }}</a>
+        {{- $scratch := newScratch }}
+        
+        {{- range $index, $element := split $lang_url "/" }}
+
+        {{- $scratch.Add "path" (printf "%s/" $element )}}
+        {{- $bc_pg := site.GetPage ($scratch.Get "path") -}}
+
+        {{- if (and ($bc_pg) (gt (len . ) 0))}}
+        {{- print "&nbsp;»&nbsp;" | safeHTML -}}<a href="{{ $bc_pg.Permalink }}">{{ $bc_pg.Name }}</a>
+        {{- end }}
+
+        {{- end -}}
+        
+        {{- /* Add Current Page to the end of the breadcrumb for non-home pages */ -}}
+        {{- if not .IsHome }}
+            {{- print "&nbsp;»&nbsp;" | safeHTML -}}<a href="{{ .Permalink }}">{{ .Name }}</a>
+        {{- end }}
+        
+    {{- end }}
+
+</div>
+{{- end -}}

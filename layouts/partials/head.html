@@ -155,6 +155,7 @@
 {{- partial "google_analytics.html" . }}
 {{- partial "templates/opengraph.html" . }}
 {{- partial "templates/twitter_cards.html" . }}
+{{- partial "templates/schema_json.html" . }}  <-- ✅ 重新引入这个调用
 {{- end -}}
 
 {{ if .Site.Params.pinterest_verification }}
@@ -206,8 +207,3 @@
     </script>
     {{- end }}
 {{- end }}
-
-{{- /* ---------------------------------------------------- */ -}}
-{{- /* 面包屑结构化数据 (BreadcrumbList Schema) */ -}}
-{{- /* ---------------------------------------------------- */ -}}
-{{ partial "templates/breadcrumb.html" . }}
