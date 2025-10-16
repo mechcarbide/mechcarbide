@@ -151,12 +151,18 @@
 {{- partial "extend_head.html" . -}}
 
 {{- /* Misc */}}
-{{- if hugo.IsProduction | or (eq site.Params.env "production") }}
-{{- partial "google_analytics.html" . }}
-{{- partial "templates/opengraph.html" . }}
-{{- partial "templates/twitter_cards.html" . }}
-{{- partial "templates/schema_json.html" . }}
-{{- end -}}
+{{- if (or hugo.IsProduction (eq site.Params.env "production")) }}
+  {{- partial "google_analytics.html" . }}
+  {{- partial "templates/opengraph.html" . }}
+  {{- partial "templates/twitter_cards.html" . }}
+
+  {{- if eq .Type "suppliers" }}
+    {{- partial "templates/schema_organization.html" . }}
+  {{- else }}
+    {{- partial "templates/schema_json.html" . }}
+  {{- end }}
+{{- end }}
+
 
 {{ if .Site.Params.pinterest_verification }}
   <meta name="p:domain_verify" content="{{ .Site.Params.pinterest_verification }}">

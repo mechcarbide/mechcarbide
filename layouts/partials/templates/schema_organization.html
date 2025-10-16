@@ -1,0 +1,20 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "{{ .Params.name }}",
+  "url": "{{ .Params.website }}",
+  "description": "{{ .Params.description }}",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "{{ .Params.addressLocality }}",
+    "addressRegion": "{{ .Params.addressRegion }}",
+    "addressCountry": "{{ index .Params.region 0 }}"
+  },
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer service",
+    "email": "{{ .Params.email }}"
+  }
+}
+</script>
