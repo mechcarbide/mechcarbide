@@ -7,13 +7,14 @@ meta description: As an outstanding manufacturer in China, Shandong Techgong
 
 name: Shandong Techgong Geotechnical Engineering Equipment Co., Ltd
 website: http://www.techgong.com/
-description: >
+structured_description: >
   Shandong Techgong Geotechnical Engineering Equipment Co., Ltd ("Techgong") is a professional manufacturer of high-performance carbide tools, including TBM cutters, mining picks, foundation pile tools, and road milling teeth. Techgong exports to over 20 countries, including Australia, Japan, Brazil, Spain, and Turkey. With modern manufacturing facilities, advanced R&D capabilities, and quality control certified to ISO 9001, 14001, and 45001 standards, Techgong provides durable, efficient, and customized solutions, along with responsive global service and technical support.
 addressLocality: Liaocheng
 addressRegion: Shandong
-region:
-  - china
+addressCountry: China
 email: sales@techgong.com
+regions:
+  - china
 ---
 
 ![Techgong, a carbide tool and wear part supplier in China](/uploads/supplier-techgong-1.jpg "Techgong, a carbide tool and wear part supplier in China")

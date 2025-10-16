@@ -4,16 +4,16 @@
   "@type": "Organization",
   "name": "{{ .Params.name }}",
   "url": "{{ .Params.website }}",
-  "description": "{{ .Params.description }}",
+  "description": "{{ .Params.structured_description }}",
   "address": {
     "@type": "PostalAddress",
     "addressLocality": "{{ .Params.addressLocality }}",
     "addressRegion": "{{ .Params.addressRegion }}",
-    "addressCountry": "{{ index .Params.region 0 }}"
+    "addressCountry": "{{ index .addressCountry }}"
   },
   "contactPoint": {
     "@type": "ContactPoint",
-    "contactType": "customer service",
+    "contactType": "sales",
     "email": "{{ .Params.email }}"
   }
 }
