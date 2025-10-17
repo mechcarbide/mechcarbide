@@ -1,9 +1,11 @@
 ---
 title: Shandong Techgong Geotechnical Engineering Equipment Co., Ltd
 type: suppliers
-meta description: As an outstanding manufacturer in China, Shandong Techgong
+description: As an outstanding manufacturer in China, Shandong Techgong
   supplies reliable carbide cutting products and solutions to clients worldwide
   in the construction and mining industries.
+
+summary: Product range includes TBM cutters, road milling teeth, coal mining picks, trencher teeth, HDD weld-on teeth, and bullet teeth. 
 
 name: Shandong Techgong Geotechnical Engineering Equipment Co., Ltd
 website: http://www.techgong.com/
