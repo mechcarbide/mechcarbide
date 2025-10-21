@@ -13,7 +13,7 @@ When I first joined a tungsten carbide trading company, I remember staring at th
 
 *(Background Image Source: Photo by Steve Johnson on Unsplash.com)*
 
-If you've ever felt the same way, you're not alone. The world of tungsten carbide can seem overly technical at first, but once you understand the logic behind grade designations, it all starts to make sense. Let's start with the basics.
+If you've ever felt the same way, you're not alone. The world of [tungsten carbide](https://www.mechcarbide.com/posts/what-is-tungsten-carbide/) can seem overly technical at first, but once you understand the logic behind grade designations, it all starts to make sense. Let's start with the basics.
 
 ## What Are Grades of Tungsten Carbide?
 
