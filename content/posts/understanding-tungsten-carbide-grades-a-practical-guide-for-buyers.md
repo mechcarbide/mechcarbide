@@ -1,6 +1,7 @@
 ---
 title: "Understanding Tungsten Carbide Grades: A Practical Guide for Buyers"
 date: 2025-10-20T15:28:00.000+08:00
+ShowBreadCrumbs: true
 description: Confused by tungsten carbide grades like C2, K20, or P30? Learn the
   practical guide to understanding grade designations, key parameters, and how
   to select to make the right choice.
