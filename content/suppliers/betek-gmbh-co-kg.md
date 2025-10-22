@@ -1,7 +1,20 @@
 ---
 title: BETEK GmbH & Co. KG
+type: suppliers
 description: Global expert in tungsten carbide technology, BETEK designs and
   manufactures premium wear parts and tooling systems for demanding industries.
+
+summary: Germany | Products include road milling bits, surface mining bits, carbide buttons for tricone bits, DTH bits, and HPGRs, cutting tools for underground mining, trenching, HDD, and forestry mulching, and more.
+
+name: BETEK GmbH & Co. KG
+website: https://betek.de/
+structured_description: >
+  BETEK is a German manufacturer of tungsten carbide-tipped wear parts and tool systems, serving industries such as mining, road milling, foundation drilling, and recycling. With production sites in Germany and China and offices in the USA, BETEK provides durable, high-performance solutions engineered with precision and backed by ISO-certified quality.
+addressLocality: Aichhalden
+addressRegion: Baden-Württemberg
+addressCountry: Germany
+email: info@betek.de
+
 regions:
   - germany
 ---
