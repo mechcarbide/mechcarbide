@@ -1,7 +1,20 @@
 ---
 title: KingKong-Tools GmbH & Co. KG
+type: suppliers
 description: KingKong-Tools is a German manufacturer of tungsten carbide tools
   and wear parts for recycling, forestry, construction, and agriculture.
+
+summary: Germany | Products include grinder tips, wood chipper knives, forestry mulcher teeth, stump cutter teeth, carbide-tipped bits for foundation drilling, tunneling, rock crushing, and mining, road milling teeth, and cultivator shares.
+
+name: KingKong-Tools GmbH & Co. KG
+website: https://www.kingkong-tools.com/
+structured_description: >
+  KingKong-Tools is a globally active supplier of tungsten carbide tools and wear parts, headquartered in Germany with U.S. distribution. The company manufactures cutting tools, teeth, holders, and wear components for recycling, forestry, construction, and agricultural equipment, combining strict quality control with fast worldwide delivery.
+addressLocality: Aichhalden
+addressRegion: Baden-Württemberg
+addressCountry: Germany
+email: info@kingkong-tools.com
+
 regions:
   - germany
 ---
