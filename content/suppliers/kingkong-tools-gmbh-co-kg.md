@@ -17,7 +17,7 @@ Carbide-tipped hammers, knives, and holders compatible with major brands such as
 
 ### Forestry
 
-Wood chipper blades, forestry mulcher teeth, and stump cutter teeth for famous brands like Bandit, John Deere, Rayco, and more.
+Wood chipper blades, [forestry mulcher teeth](https://www.mechcarbide.com/posts/choosing-mulcher-teeth-steel-vs-carbide-and-what-works-best/), and stump cutter teeth for famous brands like Bandit, John Deere, Rayco, and more.
 
 ### Construction
 
