@@ -172,3 +172,20 @@ header.header {
   font-size: 0.9rem;
   color: var(--secondary);
 }
+
+.supplier-cta {
+  margin: 2rem 0;
+  padding: 1rem;
+  background-color: #fff7f4; /* 淡主色背景，温和但有区分度 */
+  border-left: 4px solid #ff7b54;
+  text-align: center;
+  font-size: 1.05rem;
+  font-weight: 500;
+  color: #ff7b54;
+  border-radius: 6px;
+}
+
+.supplier-cta .cta-highlight {
+  font-weight: bold;
+  text-decoration: underline;
+}

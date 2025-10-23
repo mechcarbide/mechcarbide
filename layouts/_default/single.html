@@ -41,6 +41,14 @@
   {{/* 文章底部显示作者信息 */}}
   {{ partial "author.html" . }}
 
+  <div class="supplier-cta">
+  <a href="/suppliers/" style="color:#ff7b54; text-decoration:none;">
+    Looking for reliable suppliers of carbide tools or wear parts?  
+    <strong>Visit our Suppliers Page →</strong>
+  </a>
+  </div>
+
+
   <footer class="post-footer">
     {{- $tags := .Language.Params.Taxonomies.tag | default "tags" }}
     <ul class="post-tags">

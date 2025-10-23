@@ -1,8 +1,21 @@
 ---
 title: XTREME TEETH
+type: suppliers
 description: XTREME TEETH, also known as ASTRAK CANADA LTD, provides aftermarket
   forestry mulcher teeth for 100+ brands, with fast shipping across the USA and
   Canada.
+
+summary: Canada | Products include forestry mulcher teeth compatible with 100+ mulcher brands.
+
+name: XTREME TEETH / ASTRAK CANADA LTD
+website: https://www.xtremewearparts.com/
+structured_description: >
+  XTREME TEETH, also known as ASTRAK CANADA LTD, is a Canada-based supplier of aftermarket mulcher teeth and wear parts for heavy equipment. The company serves customers across the USA and Canada, offering replacement parts compatible with over 100 forestry mulcher brands. Customers can order online or submit bulk inquiries, with fast FedEx shipping options and secure payment methods.
+addressLocality: Edmonton
+addressRegion: Alberta
+addressCountry: Canada
+email: salescanada@xwparts.com; sales@xwparts.com
+
 regions:
   - canada
 ---
