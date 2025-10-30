@@ -1,8 +1,21 @@
 ---
 title: Diamond Mowers, LLC
+type: suppliers
 description: Diamond Mowers designs and manufactures mowing, mulching, and brush
   cutting attachments and replacement parts. Offers 2-year warranty, 30-day
   return policy, and U.S. online parts store.
+
+summary: United States | Products include mulching teeth, drum mulchers, disc mulchers, brush cutters, stump grinders, and mowers.
+
+name: Diamond Mowers, LLC
+website: https://diamondmowers.com/
+structured_description: >
+  Diamond Mowers is a U.S.-based manufacturer of patented mowing, mulching, and brush cutting attachments for skid steers, excavators, tractors, and wheel loaders. The company provides durable, in-house–engineered equipment and replacement parts with a no-documentation warranty process. Attachments include drum and disc mulchers, brush cutters, stump grinders, and mowers. Customers can request quotes for attachments or customization online, and purchase parts directly via the official store for the U.S., Canada, and Mexico. Diamond Mowers offers a 2-year warranty on drum products, a 1-year warranty on other attachments, and a 30-day money-back guarantee.
+addressLocality: Sioux Falls
+addressRegion: South Dakota
+addressCountry: United States
+email: hello@diamondmowers.com; parts@diamondmowers.com
+
 regions:
   - united-states
 ---
