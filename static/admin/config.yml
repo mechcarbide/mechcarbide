@@ -48,3 +48,4 @@ collections:
           - { label: "United States", value: "united-states" }
           - { label: "Germany", value: "germany" }
           - { label: "Canada", value: "canada" }
+          - { label: "Italy", value: "italy" }
