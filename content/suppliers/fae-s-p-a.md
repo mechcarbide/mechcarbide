@@ -1,7 +1,20 @@
 ---
 title: FAE S.p.A.
+type: suppliers
 description: FAE, founded in Italy, designs and manufactures forestry mulchers,
   tillers, stump cutters, road planers, and demining machines.
+
+summary: Italy | Products include forestry mulchers, mulching teeth, tillers, stump cutters, stone crushers, road planers, wheel saws, soil stabilizers, demining machines, tracked carriers, and spare parts.
+
+name: FAE S.p.A.
+website: https://www.fae-group.com/
+structured_description: >
+  AE is an Italian manufacturer of advanced land management and construction machinery. Founded in 1989 in Fondo, Italy, FAE produces forestry mulchers, tillers, stump cutters, rotary cutters, stone crushers, multitasks, road planers, wheel saws, soil stabilizers, and demining machines. FAE equipment features the Sonic intelligent system, which automatically calibrates mulchers, dynamically manages rotor torque, reduces stalling risk, and increases productivity. Customers can purchase attachments and equipment through authorized distributors or request parts via branch contacts or email. FAE focuses on technological innovation, precision engineering, and reliable, high-performance solutions for diverse applications worldwide.
+addressLocality: Fondo
+addressRegion: Trentino
+addressCountry: Italy
+email: info@fae-group.com; parts@fae-group.com
+
 regions:
   - italy
 ---
