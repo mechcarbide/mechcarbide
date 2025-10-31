@@ -1,8 +1,21 @@
 ---
 title: FECON
+type: suppliers
 description: Fecon designs and manufactures durable mulching heads, forestry
   attachments, and tractors. Offers Fusion smart control, online parts store,
   30-day returns, and secure payment options.
+
+summary: United States | Products include Bull Hog® mulching heads, mulching teeth, stump grinders, mulching tractors, deck mowers, grapples, and more.
+
+name: FECON
+website: https://fecon.com/
+structured_description: >
+  Fecon is a U.S.-based manufacturer specializing in vegetation management and natural resource recovery equipment. Founded in 1992, the company produces patented Bull Hog® mulching heads, forestry attachments, stump grinders, and mulching tractors such as the FTX150-2, FTX200, and FTX300. Fecon’s Fusion technology provides intelligent real-time performance tuning and connectivity via the Fusion App. Customers can purchase attachments through authorized dealers or order parts and accessories directly online at shop.fecon.com. The company offers secure payment options, a 30-day return policy for parts, and is recognized for its durable, high-performance equipment and customer support.
+addressLocality: Lebanon
+addressRegion: Ohio
+addressCountry: United States
+email: sales@fecon.com; parts@fecon.com
+
 regions:
   - united-states
 ---

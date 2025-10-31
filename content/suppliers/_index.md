@@ -14,4 +14,4 @@ canonicalURL: "https://www.mechcarbide.com/suppliers/"
 - [Canada](/regions/canada/)
 - [China](/regions/china/)
 - [Germany](/regions/germany/)
-- [USA](/regions/united-states/)
+- [United States](/regions/united-states/)
