@@ -1,8 +1,23 @@
 ---
 title: Denis Cimaf, Inc
+type: suppliers
 description: Denis Cimaf designs and manufactures high-quality mulching
   attachments and replacement teeth for skid steers and excavators, offering
   reliable performance and expert service worldwide.
+
+summary: Canada | Products include DAF, DXF, and DAH mulching heads, and mulcher teeth.
+
+name: Denis Cimaf, Inc
+website: https://www.deniscimaf.com/
+structured_description: >
+  Denis Cimaf, a member of the Alamo Group, specializes in innovative mulching attachments for skid steers and excavators. Its product range includes the DAF, DXF, and DAH series of mulching heads, along with durable replacement teeth and blades. Customers can locate authorized dealers across the U.S., Canada, and select international regions. Denis Cimaf provides expert on-site startup, calibration, and ongoing technical support to ensure optimal equipment performance and long-term reliability.
+addressLocality: Roxton Falls
+addressRegion: Quebec
+addressCountry: Canada
+email: inquire@morbark.com; parts@raycomfg.com
+
+ShowReadingTime: false
+
 regions:
   - canada
 ---
