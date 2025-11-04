@@ -45,8 +45,6 @@ The single most serious sign: the tooth is worn so far back that **the tool-hold
 
 Several factors determine how fast a set of mulcher teeth will wear:
 
-![mulcher teeth lifepan range](/uploads/when-to-replace-mulcher-teeth-blog-3.png "Mulcher Teeth Lifespan Range")
-
 #### Tooth design
 
 **Carbide-tipped teeth generally last much longer than steel or planer-style teeth**, because carbide resists abrasion and doesn't require frequent sharpening.
@@ -72,6 +70,8 @@ Operator skill makes a measurable difference. The same machine, in the same soil
 ### 2. Typical lifespan ranges
 
 The information below summarizes data from manufacturers and real-world users:
+
+![mulcher teeth lifespan ranges](/uploads/when-to-replace-mulcher-teeth-blog-3.png "Mulcher Teeth Lifespan Ranges")
 
 * Carbide hammer-style teeth (clean ground): 400–500 h (Up to 600 h)
 * Planer-style or steel teeth (abrasive soil): 50–100 h
