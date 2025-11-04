@@ -16,8 +16,6 @@ addressRegion: Quebec
 addressCountry: Canada
 email: inquire@morbark.com; parts@raycomfg.com
 
-ShowReadingTime: false
-
 regions:
   - canada
 ---

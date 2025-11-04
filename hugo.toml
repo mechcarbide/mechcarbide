@@ -7,7 +7,7 @@ pagerSize = 10
 
 [params]
   defaultTheme = "light"
-  ShowReadingTime = true
+  ShowReadingTime = false
   ShowShareButtons = true
   ShowPostNavLinks = true
   ShowBreadCrumbs = false
