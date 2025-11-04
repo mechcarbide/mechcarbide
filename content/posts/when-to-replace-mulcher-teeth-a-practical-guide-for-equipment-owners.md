@@ -9,7 +9,7 @@ tags:
 ---
 Most forestry mulcher owners often wonder: **when should I replace my mulcher teeth?**
 
-It's not a simple yes-or-no question. Instead, several factors come into play. For instance, did you purchase high-quality original teeth from reliable manufacturers? Do you operate the mulcher according to the user manual? Has your machine struck hard materials like rocks or metal?
+It's not a simple yes-or-no question. Instead, several factors come into play. For instance, did you purchase high-quality original teeth from reliable manufacturers? Do you operate the mulcher according to the user manual? Has your machine struck hard materials, such as rocks or metal?
 
 ![forestry mulching](/uploads/when-to-replace-mulcher-teeth-blog-1.jpg "Forestry Mulching")
 
@@ -19,13 +19,13 @@ All these factors affect how often the teeth need to be changed. So, let's dive 
 
 ## When to Replace Mulcher Teeth?
 
-Here is a short, practical answer: **replace the teeth when they stop cutting efficiently or when inspection shows damage that can't be safely or effectively fixed.** Below I break that down into clear, actionable signs you can use on the job.
+Here is a short, practical answer: **replace the teeth when they stop cutting efficiently or when inspection shows damage that can't be safely or effectively fixed.** Below, I break that down into clear, actionable signs you can use on the job.
 
 ![when to replace mulcher teeth](/uploads/when-to-replace-mulcher-teeth-blog-2.png "When to Replace Mulcher Teeth")
 
 ### 1. Daily visual checks: the fastest way to catch problems
 
-Make a habit of checking the teeth every shift. A quick daily glance will reveal **chips, cracks, missing pieces, or edges that have become rounded.** Those are the first, and most reliable, indicators that a tooth is losing cutting ability. Small chips can sometimes be managed; cracks, fractured or missing teeth mean replace immediately.
+Make a habit of checking the teeth every shift. A quick daily glance will reveal **chips, cracks, missing pieces, or edges that have become rounded.** Those are the first and most reliable indicators that a tooth is losing cutting ability. Small chips can sometimes be managed; cracks, fractured, or missing teeth mean replace immediately.
 
 ### 2. Performance decline: watch what the machine tells you
 
@@ -33,11 +33,11 @@ If your mulcher is noticeably slower, needs more passes to do the same job, or y
 
 ### 3. Excess vibration or strange noises: balance and safety signs
 
-New or evenly worn teeth run smooth. **If the head vibrates excessively or the unit makes unusual sounds, suspect uneven wear, a cracked tooth, or a missing tooth.** Excess vibration not only reduces cutting quality but can damage the rotor, tool holders and bearings.
+New or evenly worn teeth run smoothly. **If the head vibrates excessively or the unit makes unusual sounds, suspect uneven wear, a cracked tooth, or a missing tooth.** Excess vibration not only reduces cutting quality but can damage the rotor, tool holders, and bearings.
 
 ### 4. Tool-holder contact: the critical red flag
 
-The single most serious sign: the tooth is worn so far back that **the tool-holder starts contacting the material.** At that point you risk damage to the holder and rotor. Replace immediately. Daily inspections should include a check for this condition.
+The single most serious sign: the tooth is worn so far back that **the tool-holder starts contacting the material.** At that point, you risk damage to the holder and rotor. Replace immediately. Daily inspections should include a check for this condition.
 
 ## Why Mulcher Teeth Wear Out & Lifespan Ranges
 
