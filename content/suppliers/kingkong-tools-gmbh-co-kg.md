@@ -67,7 +67,3 @@ The replacement parts offered by KingKong-Tools are not original. Any reference 
 **Email:** info@kingkong-tools.com
 
 **Website:** https://www.kingkong-tools.com/
-
-(*This supplier information is provided for reference only. To update or feature your company profile on our website, please contact us.)
-
-Want to be featured as a top supplier? Contact us at: mechcarbide@zohomail.com for details.

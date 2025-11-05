@@ -37,6 +37,10 @@
   </div>
   {{- end }}
 
+  <p style="margin-top: 1.5rem; font-size: 0.95rem; color: #555;">
+    *This supplier information is provided for reference only. To update or feature your company profile on our website, please contact us.
+  </p>
+
   <footer class="post-footer">
     {{- $regions := .Language.Params.Taxonomies.region | default "regions" }}
     {{- $regionTerms := $.GetTerms $regions }}
@@ -48,6 +52,10 @@
     </ul>
     {{- end }}
 
+    <div class="supplier-cta">
+    Want to be featured as a top supplier?
+    Contact us at: <a href="mailto:mechcarbide@zohomail.com" style="color: #555;">mechcarbide@zohomail.com</a> for details.
+    </div>
 
     {{- if (.Param "ShowPostNavLinks") }}
     {{- partial "post_nav_links.html" . }}

@@ -63,7 +63,3 @@ info@fae-group.com (general information)
 parts@fae-group.com (parts only)
 
 **Website:** https://www.fae-group.com/
-
-(*This supplier information is provided for reference only. To update or feature your company profile on our website, please contact us.)
-
-Want to be featured as a top supplier? Contact us at: mechcarbide@zohomail.com for details.

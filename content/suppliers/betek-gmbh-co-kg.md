@@ -52,7 +52,3 @@ As a member of the SIMON GROUP, BETEK cooperates closely with leading partners s
 **Email:** info@betek.de
 
 **Website:** https://betek.de/
-
-(*This supplier information is provided for reference only. To update or feature your company profile on our website, please contact us.)
-
-Want to be featured as a top supplier? Contact us at: mechcarbide@zohomail.com for details.

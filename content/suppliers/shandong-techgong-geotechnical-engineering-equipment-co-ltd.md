@@ -83,10 +83,6 @@ A: Yes, please contact Techgong for more details.
 
 ## Contact
 
-Email: *sales@techgong.com*
+**Email:** sales@techgong.com
 
-Website: *http://www.techgong.com/*
-
-(*This supplier information is provided for reference only. To update or feature your company profile on our website, please contact us.)
-
-Want to be featured as a top supplier? Contact us at: mechcarbide@zohomail.com for details.
+**Website:** http://www.techgong.com/

@@ -78,7 +78,3 @@ hello@diamondmowers.com (general information)
 parts@diamondmowers.com (parts only)
 
 **Website:** https://diamondmowers.com/
-
-(*This supplier information is provided for reference only. To update or feature your company profile on our website, please contact us.)
-
-Want to be featured as a top supplier? Contact us at: mechcarbide@zohomail.com for details.

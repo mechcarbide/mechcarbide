@@ -3,16 +3,25 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-10-20T15:28:00+08:00</lastmod>
+    <lastmod>2025-11-03T13:41:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/carbide/</loc>
-    <lastmod>2025-10-20T15:28:00+08:00</lastmod>
+    <loc>http://localhost:1313/tags/forestry/</loc>
+    <lastmod>2025-11-03T13:41:00+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-10-20T15:28:00+08:00</lastmod>
+    <lastmod>2025-11-03T13:41:00+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-10-20T15:28:00+08:00</lastmod>
+    <lastmod>2025-11-03T13:41:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/when-to-replace-mulcher-teeth-a-practical-guide-for-equipment-owners/</loc>
+    <lastmod>2025-11-03T13:41:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/carbide/</loc>
+    <lastmod>2025-10-29T15:04:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/why-is-tungsten-carbide-more-durable-than-steel/</loc>
+    <lastmod>2025-10-29T15:04:00+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/understanding-tungsten-carbide-grades-a-practical-guide-for-buyers/</loc>
     <lastmod>2025-10-20T15:28:00+08:00</lastmod>
@@ -25,9 +34,6 @@
   </url><url>
     <loc>http://localhost:1313/posts/how-to-extend-the-lifespan-of-road-milling-teeth/</loc>
     <lastmod>2025-10-09T14:31:00+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/forestry/</loc>
-    <lastmod>2025-10-03T15:16:00+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/what-is-landing-clearing/</loc>
     <lastmod>2025-10-03T15:16:00+08:00</lastmod>
@@ -110,7 +116,17 @@
   </url><url>
     <loc>http://localhost:1313/regions/china/</loc>
   </url><url>
+    <loc>http://localhost:1313/suppliers/denis-cimaf-inc/</loc>
+  </url><url>
+    <loc>http://localhost:1313/suppliers/diamond-mowers-llc/</loc>
+  </url><url>
+    <loc>http://localhost:1313/suppliers/fae-s-p-a/</loc>
+  </url><url>
+    <loc>http://localhost:1313/suppliers/fecon/</loc>
+  </url><url>
     <loc>http://localhost:1313/regions/germany/</loc>
+  </url><url>
+    <loc>http://localhost:1313/regions/italy/</loc>
   </url><url>
     <loc>http://localhost:1313/suppliers/kingkong-tools-gmbh-co-kg/</loc>
   </url><url>
