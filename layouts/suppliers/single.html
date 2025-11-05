@@ -37,9 +37,6 @@
   </div>
   {{- end }}
 
-  {{/* 文章底部显示作者信息 */}}
-  {{ partial "author.html" . }}
-
   <footer class="post-footer">
     {{- $regions := .Language.Params.Taxonomies.region | default "regions" }}
     {{- $regionTerms := $.GetTerms $regions }}
