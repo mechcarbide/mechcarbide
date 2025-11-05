@@ -1,6 +1,7 @@
 ---
 title: "About Me"
 slug: "about" 
+hideSupplierCTA: true
 description: "Discover the story behind MechCarbide.com, why Alex Carter started this blog to share real-world insights into carbide tools and wear parts used in various industries."
 draft: false
 ---
