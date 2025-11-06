@@ -1,8 +1,21 @@
 ---
 title: Morbark, LLC
+type: suppliers
 description: Morbark, LLC manufactures innovative forestry, biomass, and
   recycling equipment that converts wood and organic waste into valuable
   products.
+
+summary: United States | Products include brush chippers, Chiparvestors® whole tree chippers, flails, horizontal grinders, tub grinders, sawmill products, and replacement parts.
+
+name: Morbark, LLC
+website: https://www.morbark.com/
+structured_description: >
+  Morbark, LLC is a leading manufacturer of high-performance forestry, biomass, recycling, and tree care equipment headquartered in Winn, Michigan. With more than 65 years of innovation, Morbark designs and builds durable machines that convert wood and organic waste into valuable products. Its comprehensive lineup includes brush chippers, whole tree chippers, flails, horizontal grinders, tub grinders, sawmill products, and replacement parts. Together with its affiliated brands—Rayco, Denis Cimaf, and Boxer Equipment—Morbark delivers sustainable, efficient solutions for vegetation management professionals worldwide.
+addressLocality: Winn
+addressRegion: Michigan
+addressCountry: United States
+email: inquire@morbark.com
+
 regions:
   - united-states
 ---

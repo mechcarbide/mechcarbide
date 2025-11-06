@@ -1,8 +1,21 @@
 ---
 title: Rayco Manufacturing, Inc
+type: suppliers
 description: Rayco manufactures innovative stump cutters, forestry mulchers,
   wheel loaders, and replacement teeth for professional tree care and vegetation
   management worldwide.
+
+summary: United States | Products include forestry mulchers, Super Tooth® replacement teeth, Monster Tooth® replacement teeth, stump grinders, articulated wheel loaders, and AWL attachments.
+
+name: Rayco Manufacturing, Inc
+website: https://www.raycomfg.com/
+structured_description: >
+  Rayco Manufacturing, established in 1978 and headquartered in Wooster, Ohio, designs and produces advanced stump cutters, forestry mulchers, articulated wheel loaders, replacement teeth, and AWL attachments. As part of Alamo Group, Rayco serves professionals in tree care and vegetation management across multiple countries.
+addressLocality: Wooster
+addressRegion: Ohio
+addressCountry: United States
+email: inquire@morbark.com; parts@raycomfg.com
+
 regions:
   - united-states
 ---
