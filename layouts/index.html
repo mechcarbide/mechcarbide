@@ -1,0 +1,66 @@
+{{ define "main" }}
+
+<!-- Hero Section -->
+<section class="hero">
+  <div class="container">
+    <div class="hero-content">
+      <div class="hero-text">
+        <h1>Welcome to MechCarbide</h1>
+        <p>Your global source for tungsten carbide suppliers and industry insights.</p>
+        <a href="/suppliers/" class="btn-primary">Explore Suppliers</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Supplier Directory -->
+<section class="suppliers">
+  <div class="container">
+    <h2>Global Supplier Directory</h2>
+    <div class="supplier-grid">
+      {{ $supplierPages := slice 
+        (site.GetPage "suppliers/betek-gmbh-co-kg.md")
+        (site.GetPage "suppliers/fae-s-p-a.md")
+        (site.GetPage "suppliers/fecon.md")
+        (site.GetPage "suppliers/morbark-llc.md")
+        (site.GetPage "suppliers/rayco-manufacturing-inc.md")
+        (site.GetPage "suppliers/denis-cimaf-inc.md")
+      }}
+      {{ range $index, $supplier := $supplierPages }}
+        {{ if $supplier }}
+        <div class="supplier-card">
+          <h3>
+            <a href="{{ $supplier.RelPermalink }}">
+              {{ if eq $index 0 }}BETEK{{ end }}
+              {{ if eq $index 1 }}FAE{{ end }}
+              {{ if eq $index 2 }}FECON{{ end }}
+              {{ if eq $index 3 }}MORBARK{{ end }}
+              {{ if eq $index 4 }}RAYCO{{ end }}
+              {{ if eq $index 5 }}DENIS CIMAF{{ end }}
+            </a>
+          </h3>
+        </div>
+        {{ end }}
+      {{ end }}
+    </div>
+    <a href="/suppliers/" class="btn-secondary">View All Suppliers</a>
+  </div>
+</section>
+
+
+<!-- Blog Section -->
+<section class="blog">
+  <div class="container">
+    <h2>Latest Articles</h2>
+    <div class="post-grid">
+      {{ range first 4 (where .Site.RegularPages "Section" "posts") }}
+        <div class="post-card">
+          <a href="{{ .Permalink }}"><h3>{{ .Title }}</h3></a>
+        </div>
+      {{ end }}
+    </div>
+    <a href="/posts/" class="btn-secondary">View All Articles</a>
+  </div>
+</section>
+
+{{ end }}

@@ -1,6 +1,7 @@
 ---
 title: "Carbide Suppliers Directory"
 linkTitle: "Carbide Suppliers Directory"
+ShowBreadCrumbs: false
 
 description: "Global suppliers of tungsten carbide tools and wear parts."
 keywords: ["carbide tool suppliers", "wear solutions", "carbide wear part suppliers", "tungsten carbide", "heavy equipment", "construction", "forestry", "recycling", "oil and gas", "cemented carbide"]

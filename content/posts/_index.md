@@ -1,6 +1,7 @@
 ---
 title: "Blog"       # 保持您之前修改的标题
 linkTitle: "Blog"   # 保持您之前修改的链接标题
+ShowBreadCrumbs: false
 
 # SEO 相关的元数据
 description: "All my posts in one place, covering tungsten carbide wear parts, heavy equipment, and industry insights." # 您的页面描述，用于搜索引擎结果

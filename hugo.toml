@@ -10,7 +10,7 @@ pagerSize = 10
   ShowReadingTime = false
   ShowShareButtons = true
   ShowPostNavLinks = true
-  ShowBreadCrumbs = false
+  ShowBreadCrumbs = true
   ShowCodeCopyButtons = true
   DateFormat = "2006-01-02"
   homeInfoParams = { Title = "Welcome to MechCarbide", Content = "Learn, Discover, Connect. Explore knowledge and insights on carbide wear parts and precision tools, and a growing directory of global manufacturers." }
@@ -33,6 +33,10 @@ pagerSize = 10
 
   [params.label]
     icon = "/favicon-96x96.png"
+  
+  [params.footer]
+    text = "[Privacy Policy](/privacy-policy/)"
+
 
   
 
@@ -61,12 +65,6 @@ pagerSize = 10
     name = "About"
     url = "/about/"
     weight = 3
-
-  [[menu.main]]
-    identifier = "privacy"
-    name = "Privacy Policy"
-    url = "/privacy-policy/"
-    weight = 4
 
 
 # 输出格式支持 sitemap 和 RSS（推荐）
