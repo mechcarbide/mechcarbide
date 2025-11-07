@@ -1,7 +1,6 @@
 ---
 title: "Tub Grinder vs. Horizontal Grinder: Which One Fits Your Operation?"
 date: 2025-09-23T10:57:00.000+08:00
-ShowBreadCrumbs: true
 description: Explore the key differences between tub grinders and horizontal
   grinders, including feed systems, efficiency, safety, transportability, and
   maintenance.

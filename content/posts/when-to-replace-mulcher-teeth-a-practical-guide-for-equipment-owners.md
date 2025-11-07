@@ -1,7 +1,6 @@
 ---
 title: "When to Replace Mulcher Teeth: A Practical Guide for Equipment Owners"
 date: 2025-11-03T13:41:00.000+08:00
-ShowBreadCrumbs: true
 description: The service life of each mulcher tooth is limited. Read this
   article to learn when to replace mulcher teeth and the lifespan range of
   mulcher teeth.

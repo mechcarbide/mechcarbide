@@ -1,7 +1,6 @@
 ---
 title: What is Land Clearing?
 date: 2025-10-03T15:16:00.000+08:00
-ShowBreadCrumbs: true
 description: Land Clearing is much more than simply removing trees and brush.
   Read on to discover the truth about it.
 tags:

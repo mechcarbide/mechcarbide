@@ -1,7 +1,6 @@
 ---
 title: What Is a Horizontal Grinder?
 date: 2025-09-27T15:31:00.000+08:00
-ShowBreadCrumbs: true
 description: A straightforward guide to horizontal grinders, covering working
   principles, advantages, challenges, and essential maintenance practices.
 tags:

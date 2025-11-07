@@ -1,11 +1,10 @@
 ---
 title: What Is Forestry Mulching? Benefits, Equipment, and Costs Explained
 date: 2025-06-18T02:59:00.000Z
-ShowBreadCrumbs: true
 description: Discover how forestry mulching works, its equipment types, cost
   factors, and key benefits. Learn why it's an efficient and eco-friendly land
   clearing method.
-images: []
+
 tags:
   - Forestry
 ---

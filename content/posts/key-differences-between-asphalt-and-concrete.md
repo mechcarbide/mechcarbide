@@ -1,7 +1,6 @@
 ---
 title: Key Differences Between Asphalt and Concrete
 date: 2025-09-01T13:57:00.000+08:00
-ShowBreadCrumbs: true
 description: "Asphalt vs concrete driveways: a complete comparison to help you
   decide based on budget, climate, maintenance, and aesthetics."
 tags:
