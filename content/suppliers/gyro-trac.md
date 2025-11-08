@@ -1,7 +1,20 @@
 ---
 title: Gyro-Trac
+type: suppliers
 description: Gyro-Trac is a US-based manufacturer and supplier of mulchers,
   mulching heads, and mulcher teeth.
+
+summary: United States | Products include mulchers, mulching heads, mulcher teeth, and brush chippers.
+
+name: Gyro-Trac
+website: https://gyrotrac.com/
+structured_description: >
+  Gyro-Trac designs and manufactures industry-leading mulching equipment engineered for forestry and land clearing applications. Known for its low ground pressure technology and SABRE-TOOTH TITAN cutting system, Gyro-Trac machines deliver fast, fuel-efficient, and environmentally responsible performance. Supported by the NEXUS® Service Platform and easy online ordering for equipment and parts, Gyro-Trac empowers customers worldwide with reliable, innovative, and sustainable mulching solutions.
+addressLocality: Summerville
+addressRegion: South Carolina
+addressCountry: United States
+email: none
+
 regions:
   - united-states
 ---

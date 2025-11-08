@@ -1,7 +1,20 @@
 ---
 title: Loftness Manufacturing
+type: suppliers
 description: Loftness® is a US-based supplier of vegetation management and
   agricultural equipment, parts and accessories.
+
+summary: United States | Products include Battle Ax® Series mulching heads, mulcher teeth, flail mowers, grain bag loaders, fertilizer spreaders, crop shredders and more.
+
+name: Loftness Manufacturing
+website: https://www.loftness.com/
+structured_description: >
+  Loftness is a North American manufacturer of vegetation management and agricultural equipment, founded in 1956 in Minnesota. Originally known for snow blowers, the company has since expanded into mulching heads, flail mowers, grain bag loaders, fertilizer spreaders, and specialized attachments such as stump grinders and rock pickers. Loftness serves the U.S. and Canadian markets through an authorized dealer network. In 2020, it became 100% employee-owned, reinforcing its commitment to quality, innovation, and customer support. All Battle Ax®, Bad Ax®, and Timber Ax™ mulching heads come with a standard 2-year warranty.
+addressLocality: Hector
+addressRegion: Minnesota
+addressCountry: United States
+email: info@loftness.com; parts@loftness.com
+
 regions:
   - united-states
 ---
