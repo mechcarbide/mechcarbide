@@ -112,6 +112,10 @@ Remote-controlled stump grinders are operated from a distance using a handheld t
 
 A stump grinder removes tree stumps by using a high-speed rotating cutting wheel equipped with durable teeth, often made from tungsten carbide. As the wheel spins, the teeth chip away at the wood layer by layer, gradually reducing the stump until it is below ground level.
 
+![how does a stump grinder work](/uploads/what-is-a-stump-grinder-blog-12.jpg "How does a Stump Grinder Work")
+
+*(Image Source: greenteeth.com)*
+
 The operator guides the cutting wheel across the entire surface of the stump, controlling depth and direction to ensure even removal. Smaller stumps can be cleared relatively quickly, while larger stumps require more passes.
 
 ## Stump Grinder Teeth
