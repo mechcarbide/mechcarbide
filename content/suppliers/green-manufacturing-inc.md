@@ -1,8 +1,21 @@
 ---
 title: Green Manufacturing, Inc.
+type: suppliers
 description: Green Manufacturing offers carbide-tipped Greenteeth® stump grinder
   teeth, pockets, cutting wheels, and upgrade kits. Made in the USA with a focus
   on innovation and durability.
+
+summary: United States | Products include Wearsharp® stump grinder teeth, Red & Green series of Greenteeth® stump grinder teeth, LoPro® pockets, stump grinder cutting wheels (REVERSE-S®, QUADWHEEL®), and performance upgrade kits for Vermeer, Rayco, and Husqvarna Bluebird.
+
+name: Green Manufacturing, Inc.
+website: https://www.greenteeth.com/
+structured_description: >
+  Greenteeth® is a product line from Green Manufacturing, Inc., developed to provide efficient and durable stump grinding solutions. The company offers carbide-tipped teeth, LoPro® pockets, cutting wheels, and performance upgrade kits, all manufactured in the United States using advanced CNC technology and environmentally conscious processes. Green Manufacturing supports customers through multiple ordering options and a 100% satisfaction guarantee.
+addressLocality: Morenci
+addressRegion: Michigan
+addressCountry: United States
+email: sales@greenteeth.com
+
 regions:
   - united-states
 ---

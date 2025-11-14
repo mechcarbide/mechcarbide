@@ -1,8 +1,21 @@
 ---
 title: CEI Supply
+type: suppliers
 description: CEI Supply, established in 1978, provides stump grinder teeth,
   pockets, wheels, upgrade kits, brush chipper knives, and tree cutting
   accessories from top brands and its own CEI line.
+
+summary: United States | Products include stump grinder teeth, bolts, pockets, wheels, brush chipper knives, and tree cutting accessories.
+
+name: CEI Supply
+website: https://www.ceisupply.com/
+structured_description: >
+  Founded in 1978, CEI Supply supplies professional-grade stump grinder parts, brush chipper knives, and tree cutting accessories to tree care and landscaping specialists. The company offers products from leading brands such as Greenteeth, Leonardi, DK2, and its own CEI line. CEI Supply provides a wide product selection, competitive pricing, fast fulfillment, multiple payment options, and flexible shipping solutions, with a customer-focused approach and a 60-day return policy for authorized returns.
+addressLocality: Rogers
+addressRegion: Minnesota
+addressCountry: United States
+email: sales@ceisupply.com
+
 regions:
   - united-states
 ---
