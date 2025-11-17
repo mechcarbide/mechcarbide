@@ -2,28 +2,47 @@
 title: "About Me"
 slug: "about" 
 hideSupplierCTA: true
-description: "Discover the story behind MechCarbide.com, why Alex Carter started this blog to share real-world insights into carbide tools and wear parts used in various industries."
+description: "Discover the story behind MechCarbide.com, why Alex Carter started this website to share information of carbide tool and wear part suppliers in various industries."
 draft: false
 ---
 
-Hi there, and welcome to **mechcarbide.com**. I'm **Alex Carter**, and this blog is where I share what I've learned (and continue to learn) about **carbide tools and wear parts** used in industries like **forestry**, **construction**, **woodworking**, **metalworking**, and more.
+Welcome to **mechcarbide.com**.  
+My name is **Alex Carter**, and this site is dedicated to providing clear, reliable information about **tungsten carbide tool and wear part suppliers** across industries such as forestry, construction & mining, oil & gas, recycling, woodworking, metalworking, and more.
+
+---
+
+## My Background
+
+For five years, I worked as an **internet marketing specialist** at a foreign trade company that manufactured and supplied tungsten carbide tools and wear parts worldwide.  
+
+To be honest, I wasn't interested in any of it at first. I didn't even know what tungsten carbide was! But over time, as I got more familiar with the materials, products, and their real-world applications, I began to find it all… fascinating. Tough, precise, and built for extreme conditions, these tools have stories behind them.
+
+---
 
 ## Why I Started This Website
 
-For five years, I worked as an internet marketing specialist at a foreign trade company that sold tungsten carbide tools and wear parts overseas. To be honest, I wasn't interested in any of it at first. I didn't even know what tungsten carbide was! But over time, as I got more familiar with the materials, products, and their real-world applications, I began to find it all... fascinating. Tough, precise, and built for extreme conditions, these tools have stories behind them.
+During my time in foreign trade, I noticed a recurring challenge:  
+Customers from different countries struggled to find **reliable suppliers of carbide products**. The information was scattered, incomplete, and often buried in general B2B platforms or search engines. It was time-consuming and frustrating for buyers who needed trustworthy sources.
 
-That curiosity is what inspired me to start this blog. Not to sell anything, but simply to **share knowledge and provide information**, in a way that's clear, helpful, and accessible, whether you're new to the field or already working in it.
+That experience revealed a clear need: a **specialized, well-organized resource** focused only on carbide tools and wear parts.  
+**MechCarbide** was created to meet that need, bringing together supplier information from around the world in one place, so professionals can save time, make informed decisions, and connect with the right companies more easily.
+
+---
 
 ## What You'll Find Here
 
-From woodworking tools like **router bits**, **circular saw blades** and **planer blades**, to industrial wear parts such as **road milling teeth**, **PDC cutters**, and **carbide hardfacing**, this blog explains the materials, applications, and working principles of these products.
+- A **curated supplier directory**, organized by industry and region, covering everything from forestry mulcher teeth to metalworking tools and carbide blanks.  
+- **Informative articles and blog posts** that explain product applications, industry trends, and practical insights. These serve as entry points for learning and also link directly to supplier pages, helping you move from knowledge to action.
 
-In addition to informative articles, MechCarbide provides **a curated list of suppliers for carbide tools and industrial wear parts**. Whether you're looking for a supplier for woodworking tools, metalworking tools, or heavy equipment wear parts, the supplier list helps you quickly find companies and contact information you can trust.
+---
 
 ## Get in Touch
 
-Thanks again for stopping by. I hope you find something useful or interesting here. If you'd like to share your thoughts, ask a question, or just say hi, feel free to reach out:
+Thank you for visiting **MechCarbide**.  
+I hope this site helps you find the information and suppliers you need.  
+
+If you'd like to share feedback, ask a question, or suggest a supplier, feel free to reach out:
 
 📩 **mechcarbide@zohomail.com**
 
-Look forward to hearing from you and have a great day!
+Look forward to hearing from you, and have a great day!
