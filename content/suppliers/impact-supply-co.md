@@ -1,8 +1,21 @@
 ---
 title: Impact Supply Co.
+type: suppliers
 description: Impact Supply Company provides aftermarket forestry mulcher teeth
   compatible with equipment from brands such as FAE, CAT, Denis Cimaf, Shearex,
   Fecon, and Bobcat.
+
+summary: United States | Products include aftermarket forestry mulcher teeth compatible with equipment from brands such as FAE, CAT, Denis Cimaf, Shearex, Fecon, and Bobcat.
+
+name: Impact Supply Co.
+website: https://www.impactsupply.shop/
+structured_description: >
+  Impact Supply Company provides aftermarket forestry mulcher teeth compatible with equipment from brands such as FAE, CAT, Denis Cimaf, Shearex, Fecon, and Bobcat. The company focuses on durable wear parts designed to reduce vibration and maintain consistent performance across different mulching conditions. Additional services include online ordering within select U.S. regions, weight-based shipping estimates, a 15-day return policy for unused items, and clear guidance on aftermarket compatibility.
+addressLocality: Unknown
+addressRegion: North Carolina
+addressCountry: United States
+email: support@Impactsupply.shop
+
 regions:
   - united-states
 ---
