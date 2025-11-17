@@ -9,23 +9,15 @@ draft: false
 Welcome to **mechcarbide.com**.  
 My name is **Alex Carter**, and this site is dedicated to providing clear, reliable information about **tungsten carbide tool and wear part suppliers** across industries such as forestry, construction & mining, oil & gas, recycling, woodworking, metalworking, and more.
 
----
-
-## My Background
-
-For five years, I worked as an **internet marketing specialist** at a foreign trade company that manufactured and supplied tungsten carbide tools and wear parts worldwide.  
-
-To be honest, I wasn't interested in any of it at first. I didn't even know what tungsten carbide was! But over time, as I got more familiar with the materials, products, and their real-world applications, I began to find it all… fascinating. Tough, precise, and built for extreme conditions, these tools have stories behind them.
+For five years, I worked as an **internet marketing specialist** at a foreign trade company that manufactured and supplied tungsten carbide tools and wear parts worldwide. To be honest, I wasn't interested in any of it at first. I didn't even know what tungsten carbide was! But over time, as I got more familiar with the materials, products, and their real-world applications, I began to find it all… fascinating. Tough, precise, and built for extreme conditions, these tools have stories behind them.
 
 ---
 
 ## Why I Started This Website
 
-During my time in foreign trade, I noticed a recurring challenge:  
-Customers from different countries struggled to find **reliable suppliers of carbide products**. The information was scattered, incomplete, and often buried in general B2B platforms or search engines. It was time-consuming and frustrating for buyers who needed trustworthy sources.
+During my time in foreign trade, I noticed a recurring challenge: Customers from different countries struggled to find **reliable suppliers of carbide products**. The information was scattered, incomplete, and often buried in general B2B platforms or search engines. It was time-consuming and frustrating for buyers who needed trustworthy sources.
 
-That experience revealed a clear need: a **specialized, well-organized resource** focused only on carbide tools and wear parts.  
-**MechCarbide** was created to meet that need, bringing together supplier information from around the world in one place, so professionals can save time, make informed decisions, and connect with the right companies more easily.
+That experience revealed a clear need: a **specialized, well-organized resource** focused only on carbide tools and wear parts. **MechCarbide** was created to meet that need, bringing together supplier information from around the world in one place, so professionals can save time, make informed decisions, and connect with the right companies more easily.
 
 ---
 
@@ -38,10 +30,7 @@ That experience revealed a clear need: a **specialized, well-organized resource*
 
 ## Get in Touch
 
-Thank you for visiting **MechCarbide**.  
-I hope this site helps you find the information and suppliers you need.  
-
-If you'd like to share feedback, ask a question, or suggest a supplier, feel free to reach out:
+Thank you for visiting **MechCarbide**. I hope this site helps you find the information and suppliers you need. If you'd like to share feedback, ask a question, or suggest a supplier, feel free to reach out:
 
 📩 **mechcarbide@zohomail.com**
 
