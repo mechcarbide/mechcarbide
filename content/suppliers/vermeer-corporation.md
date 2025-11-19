@@ -1,8 +1,21 @@
 ---
 title: Vermeer Corporation
+type: suppliers
 description: Vermeer is a global manufacturer of industrial and agricultural
   equipment, offering machinery for agriculture, environmental work,
   infrastructure and more through a 600-location dealer network.
+
+summary: United States | Products include industrial, environmental and agricultural equipment as well as their parts and accessories.
+
+name: Vermeer Corporation
+website: https://www.vermeer.com/
+structured_description: >
+  Vermeer is a global manufacturer of industrial, environmental and agricultural equipment headquartered in Pella, Iowa. Founded in 1948, the company operates manufacturing facilities in the United States, the Netherlands and China, and is supported by regional offices and a dealer network of more than 600 locations worldwide. Its product categories include agricultural machinery, environmental processing equipment, infrastructure solutions and a full line of parts and accessories. Vermeer also offers systems such as Damage Defense, designed to protect grinder equipment from metal contaminants.
+addressLocality: Pella
+addressRegion: Iowa
+addressCountry: United States
+email: Unknown
+
 regions:
   - united-states
 ---

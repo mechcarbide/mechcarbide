@@ -1,8 +1,21 @@
 ---
 title: Border City Tools
+type: suppliers
 description: Border City Tools offers carbide stump grinder teeth, construction
   bits, and mining drill bits compatible with major equipment brands. Founded in
   1954 in the U.S.
+
+summary: United States | Products include stump grinder teeth, construction bits, and mining drill bits.
+
+name: Border City Tools
+website: http://www.bordercitytools.com/
+structured_description: >
+  Border City Tools is a U.S. manufacturer established in 1954, supplying carbide stump grinder teeth, pockets, bolts, mining bits, and construction drilling bits. Its products are compatible with major brands such as Vermeer, Rayco, Carlton, and Promark. The company focuses on durable, cost-effective replacement components designed for landscaping, construction, and mining applications, with ordering available through the "Call our experts" option on its product page.
+addressLocality: Shelbyville
+addressRegion: Indiana
+addressCountry: United States
+email: sales@drillingworld.com
+
 regions:
   - united-states
 ---
