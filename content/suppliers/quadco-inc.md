@@ -1,8 +1,21 @@
 ---
 title: Quadco Inc.
+type: suppliers
 description: Quadco is a Canadian manufacturer of forestry cutting systems and
   attachments, offering patented cutting tools, teeth and chain sharpeners
   through global OEM and distributor networks.
+
+summary: Canada | Products include mulching heads, felling heads, chainsaw chain sharpeners, mulcher teeth, tub and horizontal grinder teeth, and more.
+
+name: Quadco Inc.
+website: https://www.quadco.com/
+structured_description: >
+  Quadco is a Canadian forestry equipment manufacturer established in 1989 and headquartered in St-Eustache, near Montreal. The company produces cutting systems, mulching and felling heads, harvesting heads, scarification tools, seeders, planters, chain sharpeners and a full line of steel and carbide teeth. With more than 40 patents, Quadco is known for the Quad Tooth System® and supplies products through OEMs and distributors across North America and international markets. Customer support is available through experienced staff in North America, Australia and New Zealand, who provide product guidance and pricing information.
+addressLocality: Saint-Eustache
+addressRegion: Québec
+addressCountry: Canada
+email: info@quadco.com
+
 regions:
   - canada
 ---
