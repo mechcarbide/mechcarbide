@@ -3,16 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-11-03T13:41:00+08:00</lastmod>
+    <lastmod>2025-11-12T16:12:00+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/forestry/</loc>
-    <lastmod>2025-11-03T13:41:00+08:00</lastmod>
+    <lastmod>2025-11-12T16:12:00+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-11-03T13:41:00+08:00</lastmod>
+    <lastmod>2025-11-12T16:12:00+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-11-03T13:41:00+08:00</lastmod>
+    <lastmod>2025-11-12T16:12:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/what-is-a-stump-grinder-types-components-and-how-they-work/</loc>
+    <lastmod>2025-11-12T16:12:00+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/when-to-replace-mulcher-teeth-a-practical-guide-for-equipment-owners/</loc>
     <lastmod>2025-11-03T13:41:00+08:00</lastmod>
@@ -106,13 +109,19 @@
   </url><url>
     <loc>http://localhost:1313/about/</loc>
   </url><url>
+    <loc>http://localhost:1313/suppliers/acreage-tools-llc/</loc>
+  </url><url>
     <loc>http://localhost:1313/suppliers/betek-gmbh-co-kg/</loc>
+  </url><url>
+    <loc>http://localhost:1313/suppliers/border-city-tools/</loc>
   </url><url>
     <loc>http://localhost:1313/regions/canada/</loc>
   </url><url>
     <loc>http://localhost:1313/suppliers/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/suppliers/cei-supply/</loc>
   </url><url>
     <loc>http://localhost:1313/regions/china/</loc>
   </url><url>
@@ -126,13 +135,27 @@
   </url><url>
     <loc>http://localhost:1313/regions/germany/</loc>
   </url><url>
+    <loc>http://localhost:1313/suppliers/green-manufacturing-inc/</loc>
+  </url><url>
+    <loc>http://localhost:1313/suppliers/gyro-trac/</loc>
+  </url><url>
+    <loc>http://localhost:1313/suppliers/hendrix-timber-mulchers/</loc>
+  </url><url>
+    <loc>http://localhost:1313/suppliers/impact-supply-co/</loc>
+  </url><url>
     <loc>http://localhost:1313/regions/italy/</loc>
   </url><url>
     <loc>http://localhost:1313/suppliers/kingkong-tools-gmbh-co-kg/</loc>
   </url><url>
+    <loc>http://localhost:1313/suppliers/leonardi-mfg-co-inc/</loc>
+  </url><url>
+    <loc>http://localhost:1313/suppliers/loftness-manufacturing/</loc>
+  </url><url>
     <loc>http://localhost:1313/suppliers/morbark-llc/</loc>
   </url><url>
     <loc>http://localhost:1313/privacy-policy/</loc>
+  </url><url>
+    <loc>http://localhost:1313/suppliers/quadco-inc/</loc>
   </url><url>
     <loc>http://localhost:1313/suppliers/rayco-manufacturing-inc/</loc>
   </url><url>
@@ -141,6 +164,8 @@
     <loc>http://localhost:1313/suppliers/shandong-techgong-geotechnical-engineering-equipment-co-ltd/</loc>
   </url><url>
     <loc>http://localhost:1313/regions/united-states/</loc>
+  </url><url>
+    <loc>http://localhost:1313/suppliers/vermeer-corporation/</loc>
   </url><url>
     <loc>http://localhost:1313/suppliers/werewolf-parts-llc/</loc>
   </url><url>

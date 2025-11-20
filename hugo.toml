@@ -13,13 +13,12 @@ pagerSize = 10
   ShowBreadCrumbs = true
   ShowCodeCopyButtons = true
   DateFormat = "2006-01-02"
-  homeInfoParams = { Title = "Welcome to MechCarbide", Content = "Learn, Discover, Connect. Explore knowledge and insights on carbide wear parts and precision tools, and a growing directory of global manufacturers." }
   noindex = false
   pinterest_verification = "fcb9e4bf733ddfb9a5515fc219862ce6"
-  description = "Explore knowledge and insights on carbide wear parts and precision tools, and a growing directory of global manufacturers."
+  description = "Mecharbide is the dedicated platform for finding global tungsten carbide suppliers. Bypass generic B2B sites and discover specialized manufacturers by region and application."
   hideAuthor = true
   authorName = "Alex Carter"
-  authorBio = "Alex Carter writes about carbide tools and wear-resistant materials, sharing industry knowledge and supplier insights for professionals in machining and manufacturing."
+  authorBio = "With over 5 years of experience in the tungsten carbide export industry, I specialize in creating in-depth content covering everything from carbide blanks & preforms to precision tools and wear parts."
   authorAvatar = "/images/author.jpg"
 
 

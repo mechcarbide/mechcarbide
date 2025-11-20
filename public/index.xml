@@ -6,8 +6,15 @@
     <description>Recent content on MechCarbide</description>
     <generator>Hugo -- 0.147.8</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 03 Nov 2025 13:41:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 12 Nov 2025 16:12:00 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What Is a Stump Grinder? Types, Components, and How They Work</title>
+      <link>http://localhost:1313/posts/what-is-a-stump-grinder-types-components-and-how-they-work/</link>
+      <pubDate>Wed, 12 Nov 2025 16:12:00 +0800</pubDate>
+      <guid>http://localhost:1313/posts/what-is-a-stump-grinder-types-components-and-how-they-work/</guid>
+      <description>Discover the key parts and types of stump grinders, how they remove tree stumps efficiently, and why tungsten carbide teeth matter.</description>
+    </item>
     <item>
       <title>When to Replace Mulcher Teeth: A Practical Guide for Equipment Owners</title>
       <link>http://localhost:1313/posts/when-to-replace-mulcher-teeth-a-practical-guide-for-equipment-owners/</link>
@@ -195,7 +202,14 @@
       <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>Discover the story behind MechCarbide.com, why Alex Carter started this blog to share real-world insights into carbide tools and wear parts used in various industries.</description>
+      <description>Discover the story behind MechCarbide.com, why Alex Carter started this website to share information of carbide tool and wear part suppliers in various industries.</description>
+    </item>
+    <item>
+      <title>Acreage Tools LLC</title>
+      <link>http://localhost:1313/suppliers/acreage-tools-llc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/suppliers/acreage-tools-llc/</guid>
+      <description>Acreage Tools LLC supplies heavy-duty aftermarket mulcher teeth for Seppi, Prinoth, Loftness, Quadco, and CAT equipment, designed for durability and reliable field performance.</description>
     </item>
     <item>
       <title>BETEK GmbH &amp; Co. KG</title>
@@ -203,6 +217,20 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/suppliers/betek-gmbh-co-kg/</guid>
       <description>Global expert in tungsten carbide technology, BETEK designs and manufactures premium wear parts and tooling systems for demanding industries.</description>
+    </item>
+    <item>
+      <title>Border City Tools</title>
+      <link>http://localhost:1313/suppliers/border-city-tools/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/suppliers/border-city-tools/</guid>
+      <description>Border City Tools offers carbide stump grinder teeth, construction bits, and mining drill bits compatible with major equipment brands. Founded in 1954 in the U.S.</description>
+    </item>
+    <item>
+      <title>CEI Supply</title>
+      <link>http://localhost:1313/suppliers/cei-supply/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/suppliers/cei-supply/</guid>
+      <description>CEI Supply, established in 1978, provides stump grinder teeth, pockets, wheels, upgrade kits, brush chipper knives, and tree cutting accessories from top brands and its own CEI line.</description>
     </item>
     <item>
       <title>Denis Cimaf, Inc</title>
@@ -233,11 +261,53 @@
       <description>Fecon designs and manufactures durable mulching heads, forestry attachments, and tractors. Offers Fusion smart control, online parts store, 30-day returns, and secure payment options.</description>
     </item>
     <item>
+      <title>Green Manufacturing, Inc.</title>
+      <link>http://localhost:1313/suppliers/green-manufacturing-inc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/suppliers/green-manufacturing-inc/</guid>
+      <description>Green Manufacturing offers carbide-tipped Greenteeth® stump grinder teeth, pockets, cutting wheels, and upgrade kits. Made in the USA with a focus on innovation and durability.</description>
+    </item>
+    <item>
+      <title>Gyro-Trac</title>
+      <link>http://localhost:1313/suppliers/gyro-trac/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/suppliers/gyro-trac/</guid>
+      <description>Gyro-Trac is a US-based manufacturer and supplier of mulchers, mulching heads, and mulcher teeth.</description>
+    </item>
+    <item>
+      <title>Hendrix Timber Mulchers</title>
+      <link>http://localhost:1313/suppliers/hendrix-timber-mulchers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/suppliers/hendrix-timber-mulchers/</guid>
+      <description>Hendrix Timber Mulchers supplies new and used forestry and timber mulching equipment and replacement parts, serving East Texas and the U.S. since 1980.</description>
+    </item>
+    <item>
+      <title>Impact Supply Co.</title>
+      <link>http://localhost:1313/suppliers/impact-supply-co/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/suppliers/impact-supply-co/</guid>
+      <description>Impact Supply Company provides aftermarket forestry mulcher teeth compatible with equipment from brands such as FAE, CAT, Denis Cimaf, Shearex, Fecon, and Bobcat.</description>
+    </item>
+    <item>
       <title>KingKong-Tools GmbH &amp; Co. KG</title>
       <link>http://localhost:1313/suppliers/kingkong-tools-gmbh-co-kg/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/suppliers/kingkong-tools-gmbh-co-kg/</guid>
       <description>KingKong-Tools is a German manufacturer of tungsten carbide tools and wear parts for recycling, forestry, construction, and agriculture.</description>
+    </item>
+    <item>
+      <title>Leonardi Mfg Co., Inc.</title>
+      <link>http://localhost:1313/suppliers/leonardi-mfg-co-inc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/suppliers/leonardi-mfg-co-inc/</guid>
+      <description>Leonardi Manufacturing produces American-made stump grinder teeth, cutting wheels, wood chipper blades, and tree rigging equipment, delivering reliable solutions for arborists worldwide.</description>
+    </item>
+    <item>
+      <title>Loftness Manufacturing</title>
+      <link>http://localhost:1313/suppliers/loftness-manufacturing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/suppliers/loftness-manufacturing/</guid>
+      <description>Loftness® is a US-based supplier of vegetation management and agricultural equipment, parts and accessories.</description>
     </item>
     <item>
       <title>Morbark, LLC</title>
@@ -256,6 +326,13 @@
 &lt;p&gt;This Privacy Policy applies only to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in MechCarbide. This policy is not applicable to any information collected offline or via channels other than this website.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Quadco Inc.</title>
+      <link>http://localhost:1313/suppliers/quadco-inc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/suppliers/quadco-inc/</guid>
+      <description>Quadco is a Canadian manufacturer of forestry cutting systems and attachments, offering patented cutting tools, teeth and chain sharpeners through global OEM and distributor networks.</description>
+    </item>
+    <item>
       <title>Rayco Manufacturing, Inc</title>
       <link>http://localhost:1313/suppliers/rayco-manufacturing-inc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -268,6 +345,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/suppliers/shandong-techgong-geotechnical-engineering-equipment-co-ltd/</guid>
       <description>As an outstanding manufacturer in China, Shandong Techgong supplies reliable carbide cutting products and solutions to clients worldwide in the construction and mining industries.</description>
+    </item>
+    <item>
+      <title>Vermeer Corporation</title>
+      <link>http://localhost:1313/suppliers/vermeer-corporation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/suppliers/vermeer-corporation/</guid>
+      <description>Vermeer is a global manufacturer of industrial and agricultural equipment, offering machinery for agriculture, environmental work, infrastructure and more through a 600-location dealer network.</description>
     </item>
     <item>
       <title>Werewolf Parts, LLC</title>
