@@ -1,7 +1,7 @@
 ---
 title: TIGRA GmbH
 type: suppliers
-description: Explore TIGRA GmbH: The global gold standard for woodworking
+description: Explore TIGRA GmbH - The global gold standard for woodworking
   carbide & metalworking blanks. Discover their premium German-made saw tips,
   reversible knives, and proprietary in-house production capabilities.
 
