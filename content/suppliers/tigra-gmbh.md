@@ -1,8 +1,21 @@
 ---
 title: TIGRA GmbH
-description: "Explore TIGRA GmbH: The global gold standard for woodworking
+type: suppliers
+description: Explore TIGRA GmbH: The global gold standard for woodworking
   carbide & metalworking blanks. Discover their premium German-made saw tips,
-  reversible knives, and proprietary in-house production capabilities."
+  reversible knives, and proprietary in-house production capabilities.
+
+summary: Germany | Products include woodworking tools such as reversible knives, planer knives, carbide saw tips, and metal working blanks such as carbide inserts and carbide milling cutters.
+
+name: TIGRA GmbH
+website: https://www.tigra.com/
+structured_description: >
+  Comprehensive supplier profile of TIGRA GmbH, a premier German manufacturer established in 1983 based in Oberndorf. TIGRA specializes in high-precision tungsten carbide solutions, including reversible knives and saw tips for woodworking, as well as rods and preforms for metalworking. Key capabilities include full vertical integration with self-constructed machinery, advanced corrosion-resistant grades, and a dedicated 1,300 m² logistics center serving over 75 countries.
+addressLocality: Oberndorf
+addressRegion: Baden-Württemberg
+addressCountry: Germany
+email: sales@tigra.de
+
 regions:
   - germany
 ---
