@@ -1,8 +1,21 @@
 ---
 title: Basic Carbide, Corp.
+type: suppliers
 description: Basic Carbide is a premier USA manufacturer of tungsten carbide
   preforms, seal rings & wear parts. Features a dedicated Nickel-binder plant &
   massive in-house CNC grinding capabilities serving 50+ countries.
+
+summary: United States | Products include tungsten carbide preforms, custom manufactured tooling, wear parts, and specialty components.
+
+name: Basic Carbide, Corp.
+website: https://www.basiccarbide.com/
+structured_description: >
+  Basic Carbide, established in 1981, is a leading global manufacturer of tungsten carbide based in Pennsylvania, USA. The company operates four specialized facilities totaling over 117,000 sq. ft., including a unique plant dedicated solely to Nickel-binder carbide production for corrosion resistance. Basic Carbide provides full-service manufacturing—from pressing large preforms to precision CNC grinding and EDM finishing—serving customers in over 50 countries with custom tooling, seal rings, and specialty wear components.
+addressLocality: Lowber
+addressRegion: Pennsylvania
+addressCountry: United States
+email: Unknown
+
 regions:
   - united-states
 ---
