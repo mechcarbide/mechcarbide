@@ -1,8 +1,21 @@
 ---
 title: CERATIZIT S.A.
+type: suppliers
 description: Discover CERATIZIT - The global tungsten carbide authority since
   1929. Source premium rods, blanks, and wear parts backed by full-cycle
   sustainable recycling and extreme manufacturing capabilities.
+
+summary: Luxembourg | Products include carbide rods, carbide blanks, carbide inserts, end mills, carbide preforms, and more.
+
+name: CERATIZIT S.A.
+website: https://www.ceratizit.com/
+structured_description: >
+  CERATIZIT Group, headquartered in Mamer, Luxembourg, is a pioneering global leader in hard material solutions with over 100 years of heritage (est. 1929). Operating 30+ production sites with 7,000+ employees, CERATIZIT controls the entire carbide value chain. The company specializes in high-precision rods, blanks, indexable inserts, cutting tools, and wear parts. Key capabilities include producing extreme geometries (from 0.2g micro-inserts to 700kg high-pressure tools), proprietary Gradient Technology for welded tools, and sustainable 'upGRADE' carbide production via advanced in-house recycling.
+addressLocality: Mamer
+addressRegion: Capellen
+addressCountry: Luxembourg
+email: Unknown
+
 regions:
   - luxembourg
 ---
