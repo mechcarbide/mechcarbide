@@ -49,3 +49,4 @@ collections:
           - { label: "Germany", value: "germany" }
           - { label: "Canada", value: "canada" }
           - { label: "Italy", value: "italy" }
+          - { label: "Luxembourg", value: "luxembourg" }
