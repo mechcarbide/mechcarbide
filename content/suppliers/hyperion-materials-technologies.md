@@ -1,8 +1,21 @@
 ---
 title: Hyperion Materials & Technologies
+type: suppliers
 description: Born from GE & Sandvik, Hyperion is a global leader in Tungsten
   Carbide & Synthetic Diamond. Specializing in Can Tooling, Rotary Cutting, and
   revolutionary Carbide 3D Printing.
+
+summary: United States | Products include powders, blanks, preforms, and wear parts made from tungsten carbide, synthetic diamond, and cubic boron nitride.
+
+name: Hyperion Materials & Technologies
+website: https://www.hyperionmt.com/
+structured_description: >
+  Hyperion Materials & Technologies is a premier global developer of hard and super-hard material solutions, boasting a legacy of over 70 years rooted in General Electric (GE), Diamond Innovations, and Sandvik Hard Materials. With over 2,000 employees and a vertically integrated supply chain, Hyperion manufactures Tungsten Carbide, Synthetic Diamond (PCD), and Cubic Boron Nitride (CBN). Key capabilities include revolutionary Carbide Additive Manufacturing (3D Printing), comprehensive material analysis, and sustainable carbide recycling. Hyperion is a dominant market leader in Can Tooling, Hot Rolling, and Rotary Cutting solutions for global industries.
+addressLocality: Worthington
+addressRegion: Ohio
+addressCountry: United States
+email: Unknown
+
 regions:
   - united-states
 ---
