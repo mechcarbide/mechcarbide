@@ -1,8 +1,21 @@
 ---
 title: LEUCO Ledermann GmbH & Co. KG
+type: suppliers
 description: LEUCO is the German innovator behind the patented p-System
   'peeling' technology. Direct source for premium carbide and diamond
   woodworking tools, low-noise saw blades, and global tool management services.
+
+summary: Germany | Products include woodworking carbide-tipped/diamond-tipped circular saw blades, hoggers, cutterheads, shank cutters, boring bits, carbide turnover knives, carbide planer knives, saw teeth, and clamping systems.
+
+name: LEUCO Ledermann GmbH & Co. KG
+website: https://www.leuco.com/
+structured_description: >
+  LEUCO Ledermann GmbH & Co. KG, founded in 1954 in Horb am Neckar, Germany, is one of the world's largest suppliers of carbide and diamond-tipped machine tools for wood and plastic processing. With over 1,200 employees globally, LEUCO is renowned for its revolutionary 'p-System' tools with ≥55° shear angles that create a 'peeling' cut. Key innovations include the Q-Cut G6 saw blades and LowNoise 'airFace' aerodynamic designs. LEUCO operates a direct sales model, providing extensive tool management and resharpening services through subsidiaries in over 20 countries.
+addressLocality: Horb am Neckar
+addressRegion: Baden-Württemberg
+addressCountry: Germany
+email: info@leuco.com
+
 regions:
   - germany
 ---

@@ -1,8 +1,21 @@
 ---
 title: Leitz GmbH & Co. KG
+type: suppliers
 description: Leitz is the world market leader in precision woodworking tools
   since 1876. From WhisperCut sawblades to global Tool Management & Resharpening
   services, Leitz define the industry standard.
+
+summary: Germany | Products include woodworking circular saw blades, jointing cutters, planing tools, profiling tools, shank tools, drills, and clamping systems.
+
+name: Leitz GmbH & Co. KG
+website: https://www.leitz.org/
+structured_description: >
+  The Leitz Group, headquartered in Oberkochen, Germany, is the world's leading manufacturer of precision tools for processing wood, plastics, and advanced materials. Established in 1876, this 5th-generation family business operates 9 production plants and over 120 service centers worldwide. Leitz offers a comprehensive portfolio including circular sawblades, cutterheads, and clamping systems, featuring proprietary innovations like Marathon coating, WhisperCut technology, and RipTec. Beyond manufacturing, Leitz provides full lifecycle solutions through its 'CompleteCare' tool management program and global resharpening services.
+addressLocality: Oberkochen
+addressRegion: Baden-Württemberg
+addressCountry: Germany
+email: leitz@leitz.org
+
 regions:
   - germany
 ---

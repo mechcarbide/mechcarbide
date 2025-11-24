@@ -1,8 +1,21 @@
 ---
 title: EXTRAMET Products, LLC
+type: suppliers
 description: EXTRAMET Products, LLC is a premier source for precision Tungsten
   Carbide Rods & Step Blanks. Combining Swiss quality with USA manufacturing
   (Latrobe, PA). Expert Centerless & CNC Grinding services.
+
+summary: United States | Products include solid carbide rods, rods with coolant holes, helical rods, carbide preforms, and semi-finished carbide blanks.
+
+name: EXTRAMET Products, LLC
+website: https://extramet.net/
+structured_description: >
+  Extramet Products, founded in Switzerland (1980) and headquartered in Latrobe, PA, is a leading supplier of premium Tungsten Carbide materials. The company specializes in 'Blank Preparation,' providing precision Ground Rods and CNC Step Blanks to reduce toolmaker lead times. Core capabilities include high-volume Centerless Grinding (tolerances to 0.0002 inches) and CNC Cylindrical Grinding. Extramet serves critical sectors including Aerospace (composite machining), Medical, and Energy with ISO 9001:2015 certified quality.
+addressLocality: Latrobe
+addressRegion: Pennsylvania
+addressCountry: United States
+email: sales@extramet.net
+
 regions:
   - united-states
 ---
