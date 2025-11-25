@@ -1,9 +1,22 @@
 ---
 title: Sandvik Coromant
+type: suppliers
 description: Sandvik Coromant is the world leader in metal cutting tools since
   1942. Home of PrimeTurning™ & Coromant Capto®. Explore 50,000+ premium
   inserts, digital machining solutions, and sustainable carbide recycling
   services.
+
+summary: Sweden | Products include metalworking carbide inserts and tools.
+
+name: Sandvik Coromant
+website: https://www.sandvik.coromant.com/
+structured_description: >
+  Sandvik Coromant, headquartered in Sandviken, Sweden, is the global market leader in tools and manufacturing solutions for the metalworking industry. Established in 1942, the company drives industry standards with over 1,700 patents, including revolutionary innovations like the T-Max® indexable insert, Coromant Capto® interface, and PrimeTurning™ methodology. With 54,000+ products available globally, Sandvik Coromant offers end-to-end machining solutions, digital services (CoroPlus®), and a closed-loop sustainability program featuring carbide recycling and tool reconditioning.
+addressLocality: Sandviken
+addressRegion: Gävleborg
+addressCountry: Sweden
+email: coromant.us@sandvik.com
+
 regions:
   - sweden
 ---

@@ -1,8 +1,21 @@
 ---
 title: ISCAR LTD.
+type: suppliers
 description: ISCAR is a Berkshire Hathaway company & global leader in
   metalworking innovation. Home of MULTI-MASTER, CHAMDRILL, and 'High IQ'
   tooling solutions for zero setup time.
+
+summary: Israel | Products include metalworking carbide inserts for parting & grooving, milling, turning, drilling, threading, as well as tool holding systems.
+
+name: ISCAR LTD.
+website: https://www.iscar.com/
+structured_description: >
+  ISCAR Ltd., headquartered in Tefen, Israel, is the flagship company of the IMC Group, wholly owned by Berkshire Hathaway. Founded in 1952, ISCAR is a premier innovator in precision carbide metalworking tools, dedicating approx. 10% of resources to R&D. The company is renowned for its modular 'No Setup Time' technologies, including the MULTI-MASTER milling and CHAMDRILL drilling lines. ISCAR was the world's first tool manufacturer to achieve QS-9000 certification and holds AS9100 Rev D for aerospace. Beyond tools, ISCAR provides Industry 4.0 solutions through its MATRIX automated tool dispensers.
+addressLocality: Tefen
+addressRegion: Western Galilee
+addressCountry: Israel
+email: headquarters@iscar.co.il
+
 regions:
   - israel
 ---
