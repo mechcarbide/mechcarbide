@@ -44,10 +44,17 @@ collections:
         widget: "select"
         multiple: true
         options:
-          - { label: "China", value: "china" }
-          - { label: "United States", value: "united-states" }
-          - { label: "Germany", value: "germany" }
           - { label: "Canada", value: "canada" }
+          - { label: "China", value: "china" }
+          - { label: "Germany", value: "germany" }
+          - { label: "Israel", value: "israel" }
           - { label: "Italy", value: "italy" }
           - { label: "Luxembourg", value: "luxembourg" }
           - { label: "Sweden", value: "sweden" }
+          - { label: "United States", value: "united-states" }
+          
+          
+          
+          
+          
+          
