@@ -19,13 +19,13 @@ regions:
 
 ## Editor's Review
 
-Sandvik Coromant doesn't just follow industry trends; they set them. As the company that essentially popularized the indexable insert with the T-Max in 1957 and standardized the tooling interface with Coromant Capto® in 1990, their DNA is written into almost every modern CNC machine.
+Sandvik Coromant doesn't just follow industry trends; they set them. As the company that essentially **popularized the indexable insert** with the T-Max in 1957 and **standardized the tooling interface** with Coromant Capto® in 1990, their DNA is written into almost every modern CNC machine.
 
 ### Why they are the undisputed leader:
 
-* **Innovation at Scale:** Launching 2,500+ new products every year isn't just a statistic; it means that no matter how complex your new aerospace or EV component is, Sandvik likely developed a specific tool for it last week.
+* **Innovation at Scale:** Launching **2,500+ new products every year** isn't just a statistic; it means that no matter how complex your new aerospace or EV component is, Sandvik likely developed a specific tool for it last week.
 * **PrimeTurning™ Revolution:** Their recent invention of PrimeTurning™ (turning in all directions) is a game-changer, potentially doubling productivity for turning operations. This is the kind of efficiency leap that only a giant like Sandvik can deliver.
-* **Manufacturing Wellness:** They look beyond the cutting edge. Their robust recycling buy-back program and reconditioning services help factories reduce CO2 emissions and recover costs, aligning your production with global sustainability goals.
+* **Manufacturing Wellness:** They look beyond the cutting edge. Their robust **recycling buy-back program** and **reconditioning services** help factories reduce CO2 emissions and recover costs, aligning your production with global sustainability goals.
 
 ## Product Range
 
@@ -56,11 +56,11 @@ Sandvik Coromant doesn't just follow industry trends; they set them. As the comp
 
 ### Solving Big Problems Since 1942
 
-Born in a modest shop in Sandviken, Sweden, Sandvik Coromant has grown into the world’s leading supplier of tools, tooling solutions, and know-how to the metalworking industry. With a legacy spanning over 80 years, the company has been the driving force behind pivotal industry shifts, from the first mechanically clamped inserts to digital machining. Today, represented in over 150 countries with 54,000+ products on the shelf, the famous "Yellow Coat" experts are a symbol of machining excellence globally.
+Born in a modest shop in Sandviken, Sweden, Sandvik Coromant has grown into the world’s leading supplier of tools, tooling solutions, and know-how to the metalworking industry. With a legacy spanning over 80 years, the company has been the driving force behind pivotal industry shifts, from the first mechanically clamped inserts to digital machining. Today, represented in over **150 countries** with **54,000+ products** on the shelf, the famous "Yellow Coat" experts are a symbol of machining excellence globally.
 
 ### A Culture of "Manufacturing Wellness"
 
-Sandvik Coromant believes that successful manufacturing is holistic. It's not just about cutting metal; it's about eliminating waste, automating success, and developing people. Their massive investment in R&D has yielded over 1,700 patents, ensuring that partnering with Sandvik means partnering with the engineers of tomorrow.
+Sandvik Coromant believes that successful manufacturing is holistic. It's not just about cutting metal; it's about **eliminating waste, automating success, and developing people**. Their massive investment in R&D has yielded over 1,700 patents, ensuring that partnering with Sandvik means partnering with the engineers of tomorrow.
 
 ## Capabilities
 
