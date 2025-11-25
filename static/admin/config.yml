@@ -50,3 +50,4 @@ collections:
           - { label: "Canada", value: "canada" }
           - { label: "Italy", value: "italy" }
           - { label: "Luxembourg", value: "luxembourg" }
+          - { label: "Sweden", value: "sweden" }

@@ -17,4 +17,5 @@ canonicalURL: "https://www.mechcarbide.com/suppliers/"
 - [Germany](/regions/germany/)
 - [Italy](/regions/italy/)
 - [Luxembourg](/regions/luxembourg/)
+- [Sweden](/regions/sweden/)
 - [United States](/regions/united-states/)
