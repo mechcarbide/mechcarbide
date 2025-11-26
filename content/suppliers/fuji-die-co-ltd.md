@@ -1,8 +1,21 @@
 ---
 title: Fuji Die Co., Ltd.
+type: suppliers
 description: Fuji Die (FUJILLOY) is Japan's premier manufacturer of
   wear-resistant carbide tools & molds. Specializing in EV motor lamination dies
   (VG48) and nano-grade precision.
+
+summary: Japan | Products include carbide dies and plugs, carbide rolls, motor core molds, battery-related molds, can manufacturing tools, mold parts for optical elements, and more.
+
+name: Fuji Die Co., Ltd.
+website: https://www.fujidie.co.jp/
+structured_description: >
+  Fuji Die Co., Ltd., headquartered in Tokyo, Japan, is a publicly traded company (TSE Prime Market) and a global leader in wear-resistant carbide tools and molds. Established in 1949, the company manufactures under the famous 'FUJILLOY' brand. Fuji Die specializes in high-performance tungsten carbide solutions, including the 'VG48' grade for EV motor lamination stamping and 'FS06' nano-grade carbide for precision electronics. With ISO 9001 certifications and 7 international subsidiaries, Fuji Die serves the automotive, battery, and metal forming industries with unmatched Japanese precision.
+addressLocality: Ota-ku
+addressRegion: Tokyo
+addressCountry: Japan
+email: Unknown
+
 regions:
   - japan
 ---
