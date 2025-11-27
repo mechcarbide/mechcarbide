@@ -1,0 +1,22 @@
+<!-- layouts/_default/_markup/render-link.html -->
+
+{{ $destination := .Destination | safeURL }}
+
+<!-- 1. 判断是否是 http/https 开头的链接 -->
+{{ $isRemote := strings.HasPrefix $destination "http" }}
+
+<!-- 2. 【修改处】直接判断链接里是否包含你的域名 -->
+<!-- 请将下面的 "yourdomain.com" 换成你真实的域名，不要带 https 或 www -->
+{{ $isMyDomain := strings.Contains $destination "mechcarbide.com" }}
+
+<a href="{{ $destination }}"
+   {{ with .Title }} title="{{ . }}"{{ end }}
+   
+   
+   {{ if and $isRemote (not $isMyDomain) }}
+   target="_blank" 
+   rel="nofollow noopener noreferrer"
+   {{ end }}
+>
+  {{ .Text | safeHTML }}
+</a>
