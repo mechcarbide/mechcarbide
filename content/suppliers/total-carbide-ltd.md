@@ -1,8 +1,21 @@
 ---
 title: Total Carbide Ltd.
+type: suppliers
 description: Total Carbide is the UK's largest independent manufacturer of
   sintered tungsten carbide. Home of the Intraform™ process for complex Oil &
   Gas valves. Bespoke design & large-scale production.
+
+summary: United Kingdom | Products include oil & gas components, converting knives, metal cutting inserts, dies and blanks, and bespoke wear parts.
+
+name: Total Carbide Ltd.
+website: https://www.totalcarbide.com/
+structured_description: >
+  Total Carbide Ltd, based in Buckinghamshire, UK, is the country's largest independent manufacturer of sintered tungsten carbide. Part of the Versarien plc group, the company traces its roots back to the 1950s (Hoybide/Teco). Total Carbide specializes in bespoke wear parts for Oil & Gas, Aerospace, and Defense. Key capabilities include the proprietary Intraform™ process for complex internal geometries, Hot Isostatic Pressing (HIP), and producing large components up to 420mm in diameter. They offer full lifecycle services from engineering design and powder preparation to precision CNC finishing.
+addressLocality: Aylesbury
+addressRegion: Buckinghamshire
+addressCountry: United Kingdom
+email: info@totalcarbide.co.uk
+
 regions:
   - united-kingdom
 ---
