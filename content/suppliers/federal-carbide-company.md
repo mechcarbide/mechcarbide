@@ -78,6 +78,6 @@ To view the full technical parameters of the manufacturing processes mentioned a
 
 * **Coverage:** Products are warranted to be free from defects in material and workmanship.
 * **Remedy:** Full replacement or fair adjustment will be provided upon factory inspection of defective goods.
-* **Claim Period:** Claims must be made in writing within 30 days of receipt.
+* **Claim Period:** Claims must be made in writing within **30 days** of receipt.
 
   *(Liability is limited to the replacement or repair of the product itself.)*
