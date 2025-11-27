@@ -1,8 +1,21 @@
 ---
 title: Federal Carbide Company
+type: suppliers
 description: Federal Carbide is a fully integrated USA manufacturer of Tungsten
   Carbide & Heavy Alloys. Featuring 750-ton presses for large near-net shapes
   and Sinter-HIP technology. Min order $500.
+
+summary: United States | Products include a wide range of wear parts made from tungsten carbide and tungsten heavy alloy.
+
+name: Federal Carbide Company
+website: https://federalcarbide.com/
+structured_description: >
+  Federal Carbide Company, headquartered in Tyrone, Pennsylvania, is a fully integrated manufacturer of cemented tungsten carbide and tungsten heavy alloys (ASTM B777). Established in 1975, the company distinguishes itself with massive 750-ton presses capable of direct-pressing large 'near-net' shapes to minimize machining costs. Core capabilities include Sinter-HIP technology for maximum toughness, automated CNC finishing, and a specialized metallurgical lab for failure analysis. Federal Carbide serves critical sectors including Oil & Gas (flow control), Nuclear (shielding), and Heavy Industry, welcoming orders starting from $500.
+addressLocality: Tyrone
+addressRegion: Pennsylvania
+addressCountry: United States
+email: inquiry@federalcarbide.com
+
 regions:
   - united-states
 ---
