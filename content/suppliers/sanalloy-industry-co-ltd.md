@@ -1,8 +1,21 @@
 ---
 title: Sanalloy Industry Co.,Ltd.
+type: suppliers
 description: Sanalloy Industry is the Japanese expert in 'problem-solving'
   carbide. Specializing in Low-Friction (P-Series) & Anti-Corrosion (MBN) grades
   for EV and precision stamping dies.
+
+summary: Japan | Products include carbide dies, punches, rolls, and molds.
+
+name: Sanalloy Industry Co.,Ltd.
+website: https://www.sanalloy.co.jp/
+structured_description: >
+  Sanalloy Industry Co., Ltd., headquartered in Hyogo, Japan, is a specialized manufacturer of high-performance cemented carbides. Originating as the 'Sanyo Alloy Research Institute' in 1963, the company retains a strong R&D focus, solving complex manufacturing issues with proprietary materials like the 'P-Series' (Low Friction Alloy) for anti-sticking and 'MBN Alloy' for corrosion resistance. Sanalloy utilizes standard HIP (Hot Isostatic Pressing) technology for defect-free production. With a strong Asian network (Thailand, Malaysia, China) and a newly opened Second Plant in 2024, Sanalloy serves the EV, automotive, and precision electronics industries.
+addressLocality: Kanzaki-gun
+addressRegion: Hyogo
+addressCountry: Japan
+email: seihin-gizyutsu@sanalloy.co.jp
+
 regions:
   - japan
 ---
