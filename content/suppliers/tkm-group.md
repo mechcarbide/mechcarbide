@@ -1,8 +1,21 @@
 ---
 title: TKM Group
+type: suppliers
 description: TKM Group (The Knife Manufacturers) is the global leader in
   industrial slitting knives since 1908. Featuring ±0.0005mm precision, CASKA
   setup software, and circular saw blades for paper & metal.
+
+summary: Germany | Products include rotary slitter knives, top & bottom knives, log saw blades, guillotine knives, shear blades, and more.
+
+name: TKM Group
+website: https://www.tkmgroup.com/
+structured_description: >
+  TKM Group (The Knife Manufacturers), part of the Groz-Beckert Group, is a global market leader in industrial cutting tools established in 1908. With 14 locations and 950 employees worldwide, TKM specializes in high-precision slitting knives, circular saw blades, and doctor blades for the paper, metal, plastic, and wood industries. Key capabilities include ultra-precision grinding (±0.0005 mm tolerance), proprietary CASKA arbor setup software, and advanced thermal coatings. TKM is ISO 9001/14001/50001 certified and a member of the VDMA Blue Competence Initiative.
+addressLocality: Remscheid
+addressRegion: North Rhine-Westphalia
+addressCountry: Germany
+email: info@tkmgroup.com
+
 regions:
   - germany
 ---

@@ -1,8 +1,21 @@
 ---
 title: SLB
+type: suppliers
 description: SLB (formerly Schlumberger) is the global leader in energy
   innovation. Home of Smith Bits, advanced PDC cutters, and industry-leading
   tungsten carbide drilling technologies.
+
+summary: United States | Products include PDC bits, PDC cutters, roller cone bits, downhole drilling tools, and more.
+
+name: SLB
+website: https://www.slb.com/
+structured_description: >
+  SLB (formerly Schlumberger) is a global technology company driving energy innovation for a balanced planet. Established in the 1920s by the Schlumberger brothers, SLB operates in over 100 countries. Through its Drill Bits & Drilling Tools division (including the heritage Smith Bits brand), SLB designs and manufactures advanced tungsten carbide roller cone bits, PDC cutters, and downhole tools. The company leverages proprietary material science and the IDEAS™ simulation platform to deliver superior drilling performance in the world's toughest rock formations.
+addressLocality: Houston
+addressRegion: Texas
+addressCountry: United States
+email: Unknown
+
 regions:
   - united-states
 ---

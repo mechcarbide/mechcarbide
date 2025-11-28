@@ -1,8 +1,21 @@
 ---
 title: DIENES Werke GmbH & Co. KG
+type: suppliers
 description: DIENES Group is a global leader in industrial slitting technology
   since 1913. Specializing in pneumatic knife holders, automatic slitting
   systems, and machine retrofits.
+
+summary: Germany | Products include circular knives, straight knives, razor blades, knife holders, slitting systems, guide rails, compressor valves, and spare parts.
+
+name: DIENES Werke GmbH & Co. KG
+website: https://www.dienes.de/
+structured_description: >
+  DIENES Werke GmbH & Co. KG, established in 1913 in Remscheid, Germany, is the world's leading supplier of precision knives, pneumatic knife holders, and slitting systems for industrial applications. As a 4th-generation family business with 9 global locations, DIENES offers comprehensive solutions including machine retrofits, automatic knife positioning systems, and manufacturer-quality regrinding services. They are renowned for their 'Slitting Academy' training programs and hold numerous patents in cutting technology, serving the paper, film, foil, and non-woven industries.
+addressLocality: Overath
+addressRegion: North Rhine-Westphalia
+addressCountry: Germany
+email: sales@dienes.de
+
 regions:
   - germany
 ---
