@@ -1,11 +1,18 @@
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-{{- if hugo.IsProduction | or (eq site.Params.env "production") | and (ne .Params.robotsNoIndex true) }}
-<meta name="robots" content="index, follow">
+{{- /* 优先使用 front matter robots */ -}}
+{{- if .Params.robots }}
+<meta name="robots" content="{{ .Params.robots }}">
 {{- else }}
+    {{- /* 如果没有设置 robots，则根据环境决定默认值 */ -}}
+    {{- if hugo.IsProduction | or (eq site.Params.env "production") }}
+<meta name="robots" content="index, follow">
+    {{- else }}
 <meta name="robots" content="noindex, nofollow">
+    {{- end }}
 {{- end }}
+
 
 {{- /* Title */}}
 <title>{{ if .IsHome }}{{ else }}{{ if .Title }}{{ .Title }} | {{ end }}{{ end }}{{ site.Title }}</title>
