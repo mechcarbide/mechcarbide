@@ -1,0 +1,172 @@
+{{ define "main" }}
+
+<div id="search-container">
+  <h1>Search Suppliers</h1>
+
+  <div class="search-box">
+    <input id="search-input" type="text" placeholder="Search suppliers...">
+  </div>
+
+  <div id="search-results"></div>
+</div>
+
+
+<script>
+  const input = document.getElementById("search-input");
+  const results = document.getElementById("search-results");
+
+  // 加载索引
+  let data = [];
+  fetch("/index.json")
+    .then(res => res.json())
+    .then(json => data = json);
+
+  // 搜索逻辑
+  input.addEventListener("input", function () {
+    const keyword = this.value.trim().toLowerCase();
+    if (!keyword) {
+      results.innerHTML = "";
+      return;
+    }
+
+    const matched = data.filter(item =>
+      (item.title && item.title.toLowerCase().includes(keyword)) ||
+      (item.summary && item.summary.toLowerCase().includes(keyword)) ||
+      (item.description && item.description.toLowerCase().includes(keyword)) ||
+      (item.regions && item.regions.join(" ").toLowerCase().includes(keyword)) ||
+      (item.products && item.products.join(" ").toLowerCase().includes(keyword)) ||
+      (item.content && item.content.toLowerCase().includes(keyword))
+    );
+
+    renderResults(matched);
+  });
+
+  function renderResults(list) {
+    if (list.length === 0) {
+      results.innerHTML = `
+        <div class="no-results">
+          <p>No suppliers found.</p>
+          <a href="/categories/" class="btn">Browse Categories</a>
+          <a href="/" class="btn secondary">Back to Home</a>
+        </div>`;
+      return;
+    }
+
+    results.innerHTML = list.map(item => `
+      <div class="result">
+        <a href="${item.permalink}"><h3>${item.title}</h3></a>
+        <p>${item.summary || ""}</p>
+      </div>
+    `).join("");
+  }
+</script>
+
+<style>
+#search-container {
+  max-width: 700px;
+  margin: 1rem auto;
+  padding: 1rem;
+}
+
+.search-box input {
+  width: 100%;
+  padding: 12px;
+  border: 2px solid #ff7b54;
+  border-radius: 6px;
+  font-size: 18px;
+  margin-top: 10px;
+}
+
+#search-results {
+  margin-top: 1.5rem;
+}
+
+.result {
+  border-left: 4px solid #ff7b54;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  background: #fff5f0;
+  border-radius: 6px;
+}
+
+.result h3 {
+  margin: 0;
+  color: #ff7b54;
+}
+
+.result p {
+  margin-top: 0.3rem;
+  color: #333;
+}
+
+.no-results {
+  text-align: center;
+  padding: 1rem;
+}
+
+.no-results p {
+  margin-bottom: 10px;
+}
+
+.btn {
+  display: inline-block;
+  margin: 0.5rem;
+  padding: 10px 16px;
+  background: #ff7b54;
+  color: white;
+  border-radius: 6px;
+  text-decoration: none;
+}
+
+.btn.secondary {
+  background: #444;
+}
+
+/* 平板屏幕 */
+@media (max-width: 992px) {
+  #search-container {
+    max-width: 90%;
+    padding: 0.8rem;
+  }
+
+  .search-box input {
+    font-size: 16px;
+    padding: 10px;
+  }
+
+  .result {
+    padding: 0.8rem;
+  }
+
+  .btn {
+    padding: 8px 14px;
+  }
+}
+
+/* 移动端屏幕 */
+@media (max-width: 600px) {
+  #search-container {
+    width: 95%;
+    padding: 0.5rem;
+  }
+
+  .search-box input {
+    font-size: 14px;
+    padding: 8px;
+  }
+
+  .result {
+    padding: 0.6rem;
+  }
+
+  .btn {
+    display: block;
+    width: 100%;
+    margin: 0.4rem 0;
+    padding: 10px;
+  }
+}
+
+</style>
+
+{{ end }}

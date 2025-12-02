@@ -1,5 +1,6 @@
 ---
 title: Federal Carbide Company
+display_name: Federal Carbide
 type: suppliers
 description: Federal Carbide is a fully integrated USA manufacturer of Tungsten
   Carbide & Heavy Alloys. Featuring 750-ton presses for large near-net shapes
@@ -18,6 +19,9 @@ email: inquiry@federalcarbide.com
 
 regions:
   - united-states
+
+categories:
+  - general-wear-parts-and-custom-solutions
 ---
 ## Quick Facts
 

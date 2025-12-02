@@ -1,5 +1,6 @@
 ---
 title: EXTRAMET Products, LLC
+display_name: EXTRAMET
 type: suppliers
 description: EXTRAMET Products, LLC is a premier source for precision Tungsten
   Carbide Rods & Step Blanks. Combining Swiss quality with USA manufacturing
@@ -18,6 +19,9 @@ email: sales@extramet.net
 
 regions:
   - united-states
+
+categories:
+  - carbide-blanks-and-preforms
 ---
 ## Quick Facts
 

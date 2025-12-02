@@ -1,52 +1,131 @@
 {{ define "main" }}
 
 <!-- Hero Section -->
-<section class="hero">
-  <div class="container">
-    <div class="hero-content">
-      <div class="hero-text">
-        <h1>The Global Hub for Tungsten Carbide Suppliers & Carbide Manufacturers</h1>
-        <p>Start your search for global carbide suppliers.</p>
-        <a href="/suppliers/" class="btn-primary">Explore Suppliers</a>
-      </div>
+<section class="homepage-hero">
+  <div class="hero-content">
+    <h1>Connecting the World's Tungsten Carbide </br> Buyers & Sellers</h1>
+    <p class="subtitle">Browse verified tungsten carbide manufacturers & suppliers worldwide.</p>
+
+    <!-- Search Button Only -->
+    <div class="homepage-search">
+      <a href="/search/" class="search-button" style="
+    display:inline-block;
+    padding:0.5rem 1rem;
+    background:#ff7b54;
+    color:white;
+    border-radius:4px;
+    font-weight: 600;
+    text-decoration:none;">Search Suppliers</a>
     </div>
+  </div>
+</section>
+
+
+<!-- Category Section -->
+<section class="homepage-categories">
+  <h2 class="section-title">Explore Supplier Categories</h2>
+
+  <div class="homepage-category-grid">
+
+    <!-- 1 Carbide Blanks & Preforms -->
+    <a class="homepage-category-card" href="/categories/carbide-blanks-and-preforms/">
+      <img class="cat-icon" src="/icons/carbide-blanks-and-preforms.svg" alt="Carbide Blanks">
+      <div class="cat-name">Carbide Blanks & Preforms</div>
+    </a>
+
+    <!-- 2 Carbide Dies, Molds & Punches -->
+    <a class="homepage-category-card" href="/categories/carbide-dies-molds-and-punches/">
+      <img class="cat-icon" src="/icons/carbide-dies-molds-and-punches.svg" alt="Carbide Dies">
+      <div class="cat-name">Carbide Dies, Molds & Punches</div>
+    </a>
+
+    <!-- 3 Woodworking Tools -->
+    <a class="homepage-category-card" href="/categories/woodworking-tools/">
+      <img class="cat-icon" src="/icons/woodworking-tools.svg" alt="Woodworking">
+      <div class="cat-name">Woodworking Tools</div>
+    </a>
+
+    <!-- 4 Metal Cutting Tools & Inserts -->
+    <a class="homepage-category-card" href="/categories/metal-cutting-tools-and-inserts/">
+      <img class="cat-icon" src="/icons/metal-cutting-tools-and-inserts.svg" alt="Metal Cutting">
+      <div class="cat-name">Metal Cutting Tools & Inserts</div>
+    </a>
+
+    <!-- 5 Mining & Construction Tools -->
+    <a class="homepage-category-card" href="/categories/mining-and-construction-tools/">
+      <img class="cat-icon" src="/icons/mining-and-construction-tools.svg" alt="Mining & Construction">
+      <div class="cat-name">Mining & Construction Tools</div>
+    </a>
+
+    <!-- 6 Oil & Gas Components -->
+    <a class="homepage-category-card" href="/categories/oil-and-gas-components/">
+      <img class="cat-icon" src="/icons/oil-and-gas-components.svg" alt="Oil & Gas">
+      <div class="cat-name">Oil & Gas Components</div>
+    </a>
+
+    <!-- 7 Industrial Knives & Blades -->
+    <a class="homepage-category-card" href="/categories/industrial-knives-and-blades/">
+      <img class="cat-icon" src="/icons/industrial-knives-and-blades.svg" alt="Knives">
+      <div class="cat-name">Industrial Knives & Blades</div>
+    </a>
+
+    <!-- 8 Forestry, Agriculture & Recycling -->
+    <a class="homepage-category-card" href="/categories/forestry-agriculture-and-recycling/">
+      <img class="cat-icon" src="/icons/forestry-agriculture-and-recycling.svg" alt="Forestry">
+      <div class="cat-name">Forestry, Agriculture & Recycling</div>
+    </a>
+
+    <!-- 9 General Wear Parts & Custom Solutions -->
+    <a class="homepage-category-card" href="/categories/general-wear-parts-and-custom-solutions/">
+      <img class="cat-icon" src="/icons/general-wear-parts-and-custom-solutions.svg" alt="Wear Parts">
+      <div class="cat-name">General Wear Parts & Custom Solutions</div>
+    </a>
+
   </div>
 </section>
 
 <!-- Supplier Directory -->
 <section class="suppliers">
   <div class="container">
-    <h2>Global Supplier Directory</h2>
-    <div class="supplier-grid">
+    <h2>Featured Suppliers</h2>
+    <div class="homepage-supplier-grid">
       {{ $supplierPages := slice 
+        (site.GetPage "suppliers/tigra-gmbh.md")
+        (site.GetPage "suppliers/hyperion-materials-technologies.md")
+        (site.GetPage "suppliers/leitz-gmbh-co-kg.md")
+        (site.GetPage "suppliers/iscar-ltd.md")
         (site.GetPage "suppliers/betek-gmbh-co-kg.md")
+        (site.GetPage "suppliers/basic-carbide-corp.md")
+        (site.GetPage "suppliers/total-carbide-ltd.md")
+        (site.GetPage "suppliers/tkm-group.md")
         (site.GetPage "suppliers/fae-s-p-a.md")
         (site.GetPage "suppliers/fecon.md")
-        (site.GetPage "suppliers/morbark-llc.md")
-        (site.GetPage "suppliers/rayco-manufacturing-inc.md")
-        (site.GetPage "suppliers/denis-cimaf-inc.md")
       }}
       {{ range $index, $supplier := $supplierPages }}
         {{ if $supplier }}
-        <div class="supplier-card">
+        <div class="homepage-supplier-card">
           <h3>
             <a href="{{ $supplier.RelPermalink }}">
-              {{ if eq $index 0 }}BETEK{{ end }}
-              {{ if eq $index 1 }}FAE{{ end }}
-              {{ if eq $index 2 }}FECON{{ end }}
-              {{ if eq $index 3 }}MORBARK{{ end }}
-              {{ if eq $index 4 }}RAYCO{{ end }}
-              {{ if eq $index 5 }}DENIS CIMAF{{ end }}
+              {{ if eq $index 0 }}TIGRA{{ end }}
+              {{ if eq $index 1 }}HYPERION{{ end }}
+              {{ if eq $index 2 }}LEITZ{{ end }}
+              {{ if eq $index 3 }}ISCAR{{ end }}
+              {{ if eq $index 4 }}BETEK{{ end }}
+              {{ if eq $index 5 }}BASIC CARBIDE{{ end }}
+              {{ if eq $index 6 }}TOTAL CARBIDE{{ end }}
+              {{ if eq $index 7 }}TKM{{ end }}
+              {{ if eq $index 8 }}FAE{{ end }}
+              {{ if eq $index 9 }}FECON{{ end }}
             </a>
           </h3>
         </div>
         {{ end }}
       {{ end }}
+      </div>
+    <div class="homepage-suppliers-bottom-link">
+      <a href="/suppliers/">All Suppliers →</a>
     </div>
-    <a href="/suppliers/" class="btn-secondary">View All Suppliers</a>
-  </div>
 </section>
-
 
 <!-- Blog Section -->
 <section class="blog">
@@ -59,8 +138,10 @@
         </div>
       {{ end }}
     </div>
-    <a href="/posts/" class="btn-secondary">View All Articles</a>
-  </div>
+    <div class="homepage-posts-bottom-link">
+    <a href="/posts/">All Articles →</a>
+    </div>
 </section>
+
 
 {{ end }}

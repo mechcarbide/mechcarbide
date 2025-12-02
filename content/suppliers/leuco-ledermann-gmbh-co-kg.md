@@ -1,5 +1,6 @@
 ---
 title: LEUCO Ledermann GmbH & Co. KG
+display_name: LEUCO
 type: suppliers
 description: LEUCO is the German innovator behind the patented p-System
   'peeling' technology. Direct source for premium carbide and diamond
@@ -18,6 +19,9 @@ email: info@leuco.com
 
 regions:
   - germany
+
+categories:
+  - woodworking-tools
 ---
 ## Quick Facts
 

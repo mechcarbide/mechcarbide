@@ -1,5 +1,6 @@
 ---
 title: Acreage Tools LLC
+display_name: Acreage Tools
 type: suppliers
 description: Acreage Tools LLC supplies heavy-duty aftermarket mulcher teeth for
   Seppi, Prinoth, Loftness, Quadco, and CAT equipment, designed for durability
@@ -18,6 +19,9 @@ email: info@acreagetools.com
 
 regions:
   - united-states
+
+categories:
+  - forestry-agriculture-and-recycling
 ---
 Acreage Tools LLC is a U.S.-based company dedicated to providing high-quality, heavy-duty **aftermarket mulcher teeth** for professional operators. Founded by an experienced equipment operator, the company focuses on durable products designed to withstand tough terrain, severe weather, and demanding field conditions. Every product is tested in real-world use to ensure reliability, improved performance, and longevity. 
 

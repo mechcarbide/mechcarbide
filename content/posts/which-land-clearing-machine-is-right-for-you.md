@@ -1,5 +1,6 @@
 ---
 title: Which Land Clearing Machine Is Right for You?
+type: posts
 date: 2025-07-08T13:46:00.000Z
 description: From small rural lots to large acreage, explore the proper land
   clearing equipment and machines to deal with trees, brush, stumps, and debris

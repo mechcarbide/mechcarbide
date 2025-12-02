@@ -1,5 +1,6 @@
 ---
 title: Diamond Mowers, LLC
+display_name: Diamond Mowers
 type: suppliers
 description: Diamond Mowers designs and manufactures mowing, mulching, and brush
   cutting attachments and replacement parts. Offers 2-year warranty, 30-day
@@ -18,6 +19,9 @@ email: hello@diamondmowers.com; parts@diamondmowers.com
 
 regions:
   - united-states
+
+categories:
+  - forestry-agriculture-and-recycling
 ---
 Founded in 2000 by the Doyle family in **Sioux Falls, South Dakota**, Diamond Mowers has grown from a small startup into a recognized manufacturer of **industrial mowing, mulching, and brush cutting attachments and replacement parts.** Serving skid-steers, tractors, excavators, and wheel loaders, the company focuses on producing durable, high-quality equipment designed to handle demanding outdoor tasks. 
 

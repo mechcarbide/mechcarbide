@@ -1,5 +1,6 @@
 ---
 title: TKM Group
+display_name: TKM
 type: suppliers
 description: TKM Group (The Knife Manufacturers) is the global leader in
   industrial slitting knives since 1908. Featuring ±0.0005mm precision, CASKA
@@ -18,6 +19,9 @@ email: info@tkmgroup.com
 
 regions:
   - germany
+
+categories:
+  - industrial-knives-and-blades
 ---
 ## Quick Facts
 

@@ -1,5 +1,6 @@
 ---
 title: Step by Step Road Construction Process for Modern Pavements
+type: posts
 date: 2025-08-19T15:15:00.000+08:00
 description: Curious about how roads are built? This guide explains road
   construction steps in simple language, covering every stage of the road

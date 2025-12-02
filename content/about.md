@@ -23,8 +23,9 @@ That experience revealed a clear need: a **specialized, well-organized resource*
 
 ## What You'll Find Here
 
-- A **curated supplier directory**, organized by industry and region, covering everything from forestry mulcher teeth to metalworking tools and carbide blanks.  
+- A **curated supplier directory**, organized by industry and region, covering everything from carbide blanks to metalworking tools.
 - **Informative articles and blog posts** that explain product applications, industry trends, and practical insights. These serve as entry points for learning and also link directly to supplier pages, helping you move from knowledge to action.
+- In addition to providing information on global tungsten carbide suppliers, I can also **recommend suitable suppliers based in China** upon request. If you need assistance, please contact me via email with your specific requirements.
 
 ---
 

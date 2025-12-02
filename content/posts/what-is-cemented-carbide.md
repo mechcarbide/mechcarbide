@@ -1,5 +1,6 @@
 ---
 title: What Is Cemented Carbide?
+type: posts
 date: 2025-07-29T14:52:00.000+08:00
 description: Cemented carbide combines extreme hardness with toughness. Discover
   its structure, manufacturing process, types, and common uses.

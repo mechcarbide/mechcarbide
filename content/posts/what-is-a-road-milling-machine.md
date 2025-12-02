@@ -1,5 +1,6 @@
 ---
 title: What Is a Road Milling Machine?
+type: posts
 date: 2025-09-12T12:25:00.000+08:00
 description: Not sure which road milling machine fits your project? Learn how
   cold milling machines work, the different types, and what really matters

@@ -1,5 +1,6 @@
 ---
 title: Road Milling Process Step by Step
+type: posts
 date: 2025-09-14T16:01:00.000+08:00
 description: Old asphalt? Uneven surfaces? Road milling tackles it all. Learn
   the road milling process from planning to resurfacing, with tips on safety,

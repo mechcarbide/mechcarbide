@@ -128,8 +128,8 @@
 
             {{- if eq $name "blog" }}
               {{- $isActive = or (in $currentPath "/posts/") (in $currentPath "/tags/") }}
-            {{- else if eq $name "suppliers" }}
-              {{- $isActive = or (in $currentPath "/suppliers/") (in $currentPath "/regions/") }}
+            {{- else if eq $name "supplier categories" }}
+              {{- $isActive = or (in $currentPath "/suppliers/") (in $currentPath "/regions/") (in $currentPath "/categories/") }}
             {{- else }}
               {{- $menuPath := .URL | relURL }}
               {{- $isActive = eq $menuPath $currentPath }}

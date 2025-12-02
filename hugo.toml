@@ -22,8 +22,6 @@ pagerSize = 10
   authorAvatar = "/images/author.jpg"
 
 
-
-
   [params.assets]
     # Favicon
     favicon = "/favicon.ico"
@@ -48,9 +46,9 @@ pagerSize = 10
 # 菜单导航
 [menu]
   [[menu.main]]
-    identifier = "suppliers"
-    name = "Suppliers"
-    url = "/suppliers/"
+    identifier = "categories"
+    name = "Supplier Categories"
+    url = "/categories/"
     weight = 1
 
   [[menu.main]]
@@ -70,6 +68,9 @@ pagerSize = 10
 [outputs]
   home = ["HTML", "RSS", "JSON"]
 
+[params.fuse_index]
+  sections = ["suppliers"]
+  data = ["content", "title", "summary", "all_data"]
 
 # 启用robots.txt 和 sitemap.xml
 [params.seo]

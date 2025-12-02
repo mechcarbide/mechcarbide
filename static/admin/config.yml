@@ -42,7 +42,7 @@ collections:
       - label: "Region"
         name: "regions"
         widget: "select"
-        multiple: true
+        required: true
         options:
           - { label: "Canada", value: "canada" }
           - { label: "China", value: "china" }
@@ -55,8 +55,31 @@ collections:
           - { label: "United Kingdom", value: "united-kingdom" }
           - { label: "United States", value: "united-states" }
           
+      - label: "Categories"
+        name: "categories"
+        widget: "select"
+        multiple: true
+        options:
+          - { label: "Carbide Blanks & Preforms", value: "carbide-blanks-and-preforms" }
+          - { label: "Carbide Dies, Molds & Punches", value: "carbide-dies-molds-and-punches" }
+          - { label: "Woodworking Tools", value: "woodworking-tools" }
+          - { label: "Metal Cutting Tools & Inserts", value: "metal-cutting-tools-and-inserts" }
+          - { label: "Mining & Construction Tools", value: "mining-and-construction-tools" }
+          - { label: "Oil & Gas Components", value: "oil-and-gas-components" }
+          - { label: "Industrial Knives & Blades", value: "industrial-knives-and-blades" }
+          - { label: "Forestry, Agriculture & Recycling", value: "forestry-agriculture-and-recycling" }
+          - { label: "General Wear Parts & Custom Solutions", value: "general-wear-parts-and-custom-solutions" }
           
-          
-          
+      - label: "Structured Data"
+        name: "structured_data"
+        widget: "object"
+        fields:
+          - { label: "Website", name: "website", widget: "string", required: false }
+          - { label: "Email", name: "email", widget: "string", required: false }
+          - { label: "Address Locality", name: "addressLocality", widget: "string", required: false }
+          - { label: "Address Region", name: "addressRegion", widget: "string", required: false }
+          - { label: "Address Country", name: "addressCountry", widget: "string", required: false }
+          - { label: "Structured Description", name: "structured_description", widget: "text", required: false }
+ 
           
           

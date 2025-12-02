@@ -5,6 +5,13 @@ Read https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#bundling-custom-cs
 */
 /* 在这里添加您的自定义 CSS 样式 */
 
+
+.main {
+  max-width: 1000px;   /* 扩宽主内容区 */
+  margin: 0 auto;      /* 居中 */
+}
+
+
 body {
     font-family: 'Roboto', sans-serif;
 }
@@ -172,71 +179,128 @@ header .nav #menu a span.active {
   --primary-color: #ff7b54;
 }
 
-/* ---------- Hero Section ---------- */
-.hero {
-  position: relative;
-  background: url("/images/hero-banner.jpg") center/cover no-repeat; /* ← 换成你自己的机械背景图 */
-  color: #fff;
+/* Hero section */
+.homepage-hero {
+  background: url('/images/mechcarbide-homepage-hero-banner.jpg') center/cover no-repeat;
+  padding: 100px 20px;
   text-align: center;
-  padding: 5rem 1rem;
-  border-radius: 12px;
+  color: white;
+  border-radius: 8px;
 }
 
-.hero::before {
-  content: "";
-  position: absolute;
-  inset: 0;
-  background: rgba(0,0,0,0.4); /* 半透明遮罩 */
-  border-radius: 12px;
-}
 
-.hero-content {
-  position: relative;
-  z-index: 1;
-}
-
-.hero h1 {
-  font-size: 2.5rem;
-  margin-bottom: 1rem;
-  font-weight: 700;
+.homepage-hero h1 {
+  font-size: 2.4rem;
+  margin-bottom: 15px;
   color: #ff7b54;
 }
 
-.hero p {
+.homepage-hero .subtitle {
   font-size: 1.2rem;
-  margin-bottom: 1.5rem;
+  opacity: 0.9;
+  margin-bottom: 30px;
 }
 
-.btn-primary {
-  background: var(--primary-color);
-  color: #fff;
-  padding: 0.7rem 1.4rem;
-  border-radius: 8px;
+
+/* ===============================
+   CATEGORY SECTION（9 个分类）
+================================= */
+.homepage-categories {
+  padding: 60px 0px;
+  text-align: center;
+}
+
+.homepage-categories .section-title {
+  font-size: 2rem;
+  margin-bottom: 40px;
+  font-weight: 700;
+  color: #333;
+}
+
+/* Category Grid */
+.homepage-category-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); /* 3 列 */
+  gap: 28px;
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+/* Category Card */
+.homepage-category-card {
   text-decoration: none;
-  font-weight: 500;
+  background: #ffffff;
+  border: 1px solid #e8e8e8;
+  border-radius: 10px;
+  padding: 28px 18px;
+  transition: all 0.25s ease;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
-.btn-primary:hover {
-  background: #ff9e7d;
+/* Hover 效果 */
+.homepage-category-card:hover {
+  border-color: #ff7b54;
+  box-shadow: 0 4px 18px rgba(0, 0, 0, 0.09);
+  transform: translateY(-5px);
+}
+
+/* 图标 */
+.cat-icon {
+  width: 48px;
+  height: 48px;
+  margin-bottom: 14px;
+  display: block;
+}
+
+/* 分类名称 */
+.cat-name {
+  font-size: 1rem;
+  font-weight: 600;
+  color: #333;
+  text-align: center;
+  line-height: 1.3;
+}
+
+/* hover 时文字变主色 */
+.homepage-category-card:hover .cat-name {
+  color: #ff7b54;
+}
+
+/* ===============================
+   响应式布局（适配手机和平板）
+================================= */
+@media (max-width: 900px) {
+  .homepage-category-grid {
+    grid-template-columns: repeat(2, 1fr); /* 平板 2 列 */
+  }
+}
+
+@media (max-width: 600px) {
+  .homepage-category-grid {
+    grid-template-columns: repeat(1, 1fr); /* 手机 1 列 */
+  }
 }
 
 /* ---------- Supplier & Blog ---------- */
 .container {
   max-width: 960px;
   margin: 0 auto;
-  padding: 3rem 1rem;
+  padding: 3rem 0rem;
 }
 
 section.suppliers h2,
 section.blog h2 {
   color: #333333;
+  text-align: center;
 }
 
-.supplier-grid {
+.homepage-supplier-grid {
   display: grid;
-  grid-template-columns: repeat(3, 1fr); /* 一排 3 个 */
+  grid-template-columns: repeat(5, 1fr); /* 一排 3 个 */
   gap: 1.5rem;
-  margin-top: 1.5rem;
+  margin-top: 2rem;
 }
 
 .post-grid {
@@ -246,7 +310,7 @@ section.blog h2 {
   margin-top: 1.5rem;
 }
 
-.supplier-card, .post-card {
+.homepage-supplier-card, .post-card {
   background: #fff;
   padding: 1.2rem;
   border-radius: 8px;
@@ -255,11 +319,11 @@ section.blog h2 {
 }
 
 /* 供应商部分标题颜色 */
-section.suppliers .supplier-card h3,
-section.suppliers .supplier-card h3 a {
+section.suppliers .homepage-supplier-card h3,
+section.suppliers .homepage-supplier-card h3 a {
   color: #555555;
-  font-weight: 500;
-  font-size: medium;
+  font-weight: 600;
+  font-size: 1rem;
   text-decoration: none;
   transition: color 0.2s ease;
 }
@@ -275,52 +339,231 @@ section.blog .post-card h3 a {
 }
 
 
-.supplier-card:hover, .post-card:hover {
+.homepage-supplier-card:hover, .post-card:hover {
   transform: translateY(-4px);
   box-shadow: 0 4px 10px rgba(0,0,0,0.15);
 }
 
 
-.btn-secondary {
-  display: inline-block;
-  background: var(--primary-color);
-  color: #fff;
-  padding: 0.6rem 1.2rem;
-  border-radius: 8px;
-  text-decoration: none;
-  margin-top: 1rem;
+/* 右下角 All Suppliers 文本链接 */
+.homepage-suppliers-bottom-link {
+    margin-top: 5px;
+    text-align: right;
 }
 
-.btn-secondary:hover {
-  background: #ff9e7d;
+.homepage-suppliers-bottom-link a {
+    color: #ff7b54;        /* 主题色 */
+    font-weight: 500;
+    font-size: 1rem;
+    text-decoration: none;
 }
+
+.homepage-suppliers-bottom-link a:hover {
+    text-decoration: underline;
+}
+
+/* 右下角 All Articles 文本链接 */
+.homepage-posts-bottom-link {
+    margin-top: 5px;
+    text-align: right;
+}
+
+.homepage-posts-bottom-link a {
+    color: #ff7b54;        /* 主题色 */
+    font-weight: 500;
+    font-size: 1rem;
+    text-decoration: none;
+}
+
+.homepage-posts-bottom-link a:hover {
+    text-decoration: underline;
+}
+
+
 
 
 /* ---------- Responsive ---------- */
-@media (max-width: 768px) {
-  .hero {
-    padding: 3rem 1rem;
-  }
-
-  .hero h1 {
-    font-size: 1.8rem;
-  }
-
-  .hero p {
-    font-size: 1rem;
-  }
-
-  .supplier-grid, .post-grid {
-    grid-template-columns: 1fr;
+/* 平板：一排 3 个 */
+@media (max-width: 900px) {
+  .homepage-supplier-grid {
+    grid-template-columns: repeat(3, 1fr);
   }
 }
 
-/* ---------- Medium screens (tablets) ---------- */
-@media (max-width: 1024px) and (min-width: 769px) {
-  .supplier-grid {
-    grid-template-columns: repeat(2, 1fr); /* 平板一排 2 个 */
+/* 移动端：一排 2 个 */
+@media (max-width: 600px) {
+  .homepage-supplier-grid {
+    grid-template-columns: repeat(2, 1fr);
   }
+}
+
+
+@media (max-width: 600px) {
   .post-grid {
-    grid-template-columns: 1fr; /* 平板博客 1 个 */
+    grid-template-columns: repeat(1, 1fr);
   }
+}
+
+
+/* categories页面九宫格样式 */
+
+.carbide-center-header {
+    text-align: center !important; 
+    max-width: 1000px; /* 限制宽度，防止文字在大屏上拉得太长，难阅读 */
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.carbide-center-header h1 {
+  color: #ff7b54;
+}
+
+.categories-grid {
+  padding: 1rem;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); /* 固定三列 */
+  gap: 1.5rem;
+}
+
+.category-card {
+  position: relative;
+  text-decoration: none;
+  color: white;
+  border-radius: 8px;
+  overflow: hidden;
+  transition: transform 0.3s ease;
+}
+
+.category-card:hover {
+  transform: scale(1.05);
+}
+
+.card-image {
+    position: relative;
+    height: 0;           /* 设置高度为 0 */
+    padding-top: 100%;   /* Padding Hack: 上内边距设置为 100% 宽度，创建 1:1 比例 */
+    background-size: cover;
+    background-position: center;
+    /* Card Title 和 Overlay 必须是绝对定位 */
+}
+
+.card-image .overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0,0,0,0.4); /* 半透明黑罩 */
+}
+
+.card-image h3 {
+    position: absolute; /* 改为绝对定位 */
+    z-index: 2;
+    margin: 0;
+    padding: 0.5rem 1rem;
+    background: #ff7b54; 
+    border-radius: 4px;
+    font-size: 1rem;
+    text-align: center;
+    
+    /* 标题定位在底部居中 */
+    bottom: 15px;
+    left: 50%;
+    transform: translateX(-50%);
+    
+    /* 避免长标题溢出 */
+    max-width: 90%; 
+    white-space: nowrap; 
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+@media (max-width: 900px) {
+  .grid-container {
+    grid-template-columns: repeat(2, 1fr); /* 平板两列 */
+  }
+}
+
+@media (max-width: 600px) {
+  .grid-container {
+    grid-template-columns: 1fr; /* 手机一列 */
+  }
+}
+
+
+
+/* 具体category页面样式 */
+.supplier-grid-container {
+    /* 使用 CSS Grid 实现 5 列布局 */
+    display: grid;
+    /* 自动创建 5 个等宽列，间隙为 1fr */
+    grid-template-columns: repeat(auto-fill, minmax(18%, 1fr));
+    gap: 15px; /* 卡片之间的间距 */
+    padding: 20px 0;
+}
+
+.supplier-card {
+    /* 卡片基础样式 */
+    padding: 10px;
+    text-align: center;
+    border: 1px solid #e0e0e0; 
+    border-radius: 4px;
+    background-color: #f9f9f9; 
+    transition: background-color 0.3s;
+}
+
+.supplier-card:hover {
+    background-color: #ff9e7d;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.supplier-card a {
+    /* 链接样式 */
+    display: block;
+    text-decoration: none;
+    font-weight: bold;
+    color: #444
+}
+
+/* 平板设备 (3 列) - 屏幕宽度在 768px 到 1024px 之间 */
+@media screen and (min-width: 768px) and (max-width: 1024px) {
+    .supplier-grid-container {
+        grid-template-columns: repeat(3, 1fr);
+        gap: 10px;
+    }
+}
+
+/* 手机设备 (2 列) - 屏幕宽度小于 768px */
+@media screen and (max-width: 767px) {
+    .supplier-grid-container {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 8px;
+    }
+    
+    .supplier-card {
+        padding: 8px;
+    }
+    
+    .supplier-card a {
+        font-size: 0.95em;
+    }
+}
+/* 右下角 All Suppliers 文本链接 */
+.category-bottom-link {
+    margin-top: 20px;
+    text-align: right;
+}
+
+.category-bottom-link a {
+    color: #ff7b54;        /* 主题色 */
+    font-weight: 600;
+    font-size: 1.2rem;
+    text-decoration: none;
+}
+
+.category-bottom-link a:hover {
+    text-decoration: underline;
 }

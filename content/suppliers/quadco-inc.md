@@ -1,5 +1,6 @@
 ---
 title: Quadco Inc.
+display_name: Quadco
 type: suppliers
 description: Quadco is a Canadian manufacturer of forestry cutting systems and
   attachments, offering patented cutting tools, teeth and chain sharpeners
@@ -18,6 +19,9 @@ email: info@quadco.com
 
 regions:
   - canada
+
+categories:
+  - forestry-agriculture-and-recycling
 ---
 Quadco is a Canadian manufacturer specializing in **forestry cutting systems and attachment heads**, established in 1989 and headquartered in St-Eustache, near Montreal. The company operates additional facilities in British Columbia and Washington State, with its U.S. division based in Lexington, South Carolina. 
 

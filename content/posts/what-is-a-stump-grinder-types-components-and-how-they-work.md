@@ -1,5 +1,6 @@
 ---
 title: What Is a Stump Grinder? Types, Components, and How They Work
+type: posts
 date: 2025-11-12T16:12:00.000+08:00
 description: Discover the key parts and types of stump grinders, how they remove
   tree stumps efficiently, and why tungsten carbide teeth matter.

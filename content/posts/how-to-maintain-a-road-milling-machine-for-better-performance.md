@@ -1,5 +1,6 @@
 ---
 title: How to Maintain a Road Milling Machine for Better Performance?
+type: posts
 date: 2025-09-17T11:16:00.000+08:00
 description: Road milling machine maintenance made simple—keep your equipment
   reliable with these essential care practices.

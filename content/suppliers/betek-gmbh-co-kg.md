@@ -1,5 +1,6 @@
 ---
 title: BETEK GmbH & Co. KG
+display_name: BETEK
 type: suppliers
 description: Global expert in tungsten carbide technology, BETEK designs and
   manufactures premium wear parts and tooling systems for demanding industries.
@@ -17,6 +18,9 @@ email: info@betek.de
 
 regions:
   - germany
+
+categories:
+  - mining-and-construction-tools
 ---
 BETEK is a globally recognized manufacturer and technical solution provider specializing in **tungsten carbide-tipped wear parts and tool systems**. Headquartered in **Aichhalden, Baden-Württemberg, Germany**, BETEK is dedicated to designing and producing high-performance components that enhance durability, efficiency, and productivity in demanding industrial applications.
 

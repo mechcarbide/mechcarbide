@@ -1,5 +1,6 @@
 ---
 title: Fuji Die Co., Ltd.
+display_name: Fuji Die
 type: suppliers
 description: Fuji Die (FUJILLOY) is Japan's premier manufacturer of
   wear-resistant carbide tools & molds. Specializing in EV motor lamination dies
@@ -18,6 +19,9 @@ email: Unknown
 
 regions:
   - japan
+
+categories:
+  - carbide-dies-molds-and-punches
 ---
 ## Quick Facts
 

@@ -1,5 +1,6 @@
 ---
 title: Loftness Manufacturing
+display_name: Loftness
 type: suppliers
 description: Loftness® is a US-based supplier of vegetation management and
   agricultural equipment, parts and accessories.
@@ -17,6 +18,9 @@ email: info@loftness.com; parts@loftness.com
 
 regions:
   - united-states
+
+categories:
+  - forestry-agriculture-and-recycling
 ---
 Founded in 1956 by Minnesota farmer Dick Loftness, the company began when he built a V-type snow blower in his farm shop. As demand grew, Marv Nelson, a local farmer, joined as a distributor in 1970 and later bought the business in 1979, guiding it into a new era of growth and innovation. Under the Nelson family's leadership, Loftness expanded from snow blowers to **vegetation management equipment and agricultural equipment.** 
 

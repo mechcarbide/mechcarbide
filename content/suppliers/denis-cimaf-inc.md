@@ -1,5 +1,6 @@
 ---
 title: Denis Cimaf, Inc
+display_name: Denis Cimaf
 type: suppliers
 description: Denis Cimaf designs and manufactures high-quality mulching
   attachments and replacement teeth for skid steers and excavators, offering
@@ -18,6 +19,9 @@ email: inquire@morbark.com; parts@raycomfg.com
 
 regions:
   - canada
+
+categories:
+  - forestry-agriculture-and-recycling
 ---
 Founded in 1998 by Laurent Denis and Monique Villancourt, Denis Cimaf is a global leader in high-quality **mulching attachments** for vegetation management and land clearing. The company designs and manufactures innovative mulchers for skid steers and excavators, including the renowned **DAF, DXF, and DAH mulching heads.** 
 

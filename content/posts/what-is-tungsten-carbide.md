@@ -1,5 +1,6 @@
 ---
 title: What Is Tungsten Carbide?
+type: posts
 date: 2025-07-14T17:05:00.000+08:00
 description: Learn what tungsten carbide is, how it's made, and why it's used in
   cutting tools, mining, jewelry, etc.

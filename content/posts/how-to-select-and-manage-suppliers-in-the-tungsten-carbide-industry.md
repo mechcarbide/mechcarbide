@@ -1,5 +1,6 @@
 ---
 title: How to Select and Manage Suppliers in the Tungsten Carbide Industry?
+type: posts
 date: 2025-10-15T11:23:00.000+08:00
 description: Based on real experience in the carbide industry, this guide
   explains how to classify suppliers and choose the right partners for long-term

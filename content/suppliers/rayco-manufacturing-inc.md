@@ -1,5 +1,6 @@
 ---
 title: Rayco Manufacturing, Inc
+display_name: Rayco
 type: suppliers
 description: Rayco manufactures innovative stump cutters, forestry mulchers,
   wheel loaders, and replacement teeth for professional tree care and vegetation
@@ -18,6 +19,9 @@ email: inquire@morbark.com; parts@raycomfg.com
 
 regions:
   - united-states
+
+categories:
+  - forestry-agriculture-and-recycling
 ---
 Founded in 1978 in Wooster, Ohio, **Rayco Manufacturing** designs and produces innovative **stump cutters, forestry mulchers, and articulated wheel loaders** for the tree care and vegetation management industries. With over four decades of equipment excellence, Rayco is recognized for its commitment to reliability, performance, and customer satisfaction. The company continues to uphold its founder John Bowling's vision of delivering durable, high-efficiency solutions that empower professionals worldwide. 
 

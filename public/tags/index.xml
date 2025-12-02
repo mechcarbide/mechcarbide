@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Tags on MechCarbide</title>
+    <title>Tungsten Carbide Articles by Tag on MechCarbide</title>
     <link>http://localhost:1313/tags/</link>
-    <description>Recent content in Tags on MechCarbide</description>
+    <description>Recent content in Tungsten Carbide Articles by Tag on MechCarbide</description>
     <generator>Hugo -- 0.147.8</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 12 Nov 2025 16:12:00 +0800</lastBuildDate>
@@ -13,35 +13,35 @@
       <link>http://localhost:1313/tags/forestry/</link>
       <pubDate>Wed, 12 Nov 2025 16:12:00 +0800</pubDate>
       <guid>http://localhost:1313/tags/forestry/</guid>
-      <description></description>
+      <description>Discover articles on forestry tools, carbide components, and tungsten carbide applications in forestry. Tips, trends, and supplier insights from MechCarbide.</description>
     </item>
     <item>
       <title>Carbide</title>
       <link>http://localhost:1313/tags/carbide/</link>
       <pubDate>Wed, 29 Oct 2025 15:04:00 +0800</pubDate>
       <guid>http://localhost:1313/tags/carbide/</guid>
-      <description></description>
+      <description>Read MechCarbide articles related to tungsten carbide material, carbide blanks, and manufacturing. Learn about suppliers, applications, and industry trends.</description>
     </item>
     <item>
       <title>Construction</title>
       <link>http://localhost:1313/tags/construction/</link>
       <pubDate>Thu, 09 Oct 2025 14:31:00 +0800</pubDate>
       <guid>http://localhost:1313/tags/construction/</guid>
-      <description></description>
+      <description>Explore MechCarbide articles about construction tools, carbide wear parts, and industrial applications. Stay updated on suppliers, technology, and trends.</description>
     </item>
     <item>
       <title>Recycling</title>
       <link>http://localhost:1313/tags/recycling/</link>
       <pubDate>Sat, 27 Sep 2025 15:31:00 +0800</pubDate>
       <guid>http://localhost:1313/tags/recycling/</guid>
-      <description></description>
+      <description>Read articles about recycling equipment, tungsten carbide wear parts, and sustainable industrial applications. Insights and supplier information on MechCarbide.</description>
     </item>
     <item>
       <title>Snow Removal</title>
       <link>http://localhost:1313/tags/snow-removal/</link>
       <pubDate>Thu, 04 Sep 2025 14:07:00 +0800</pubDate>
       <guid>http://localhost:1313/tags/snow-removal/</guid>
-      <description></description>
+      <description>Discover articles on snow removal equipment and carbide components, including tungsten carbide tips, supplier insights, and product trends.</description>
     </item>
   </channel>
 </rss>

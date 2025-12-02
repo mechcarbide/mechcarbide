@@ -1,5 +1,6 @@
 ---
 title: What Is Asphalt Milling?
+type: posts
 date: 2025-08-26T13:45:00.000+08:00
 description: Wondering what asphalt milling is? Discover the process, equipment,
   and eco-friendly benefits of road milling, plus why it's better than full

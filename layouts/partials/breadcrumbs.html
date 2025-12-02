@@ -1,10 +1,12 @@
 {{- if (.Param "ShowBreadCrumbs") -}}
 <div class="breadcrumbs">
+  <!-- Home -->
   <a href="{{ "" | absLangURL }}">{{ i18n "home" | default "Home" }}</a>
 
   {{- $path := .RelPermalink }}
 
-  {{- if in $path "/posts/" }}
+  <!-- Blog -->
+  {{- if hasPrefix $path "/posts/" }}
     <span>›</span>
     <a href="/posts/">Blog</a>
     {{- with index .Params.tags 0 }}
@@ -14,41 +16,44 @@
     <span>›</span>
     <span>{{ .Title }}</span>
 
+
+  <!-- Blog Tags-->
   {{- else if in $path "/tags/" }}
-    <span>›</span>
-    <a href="/posts/">Blog</a>
-    <span>›</span>
-    <span>{{ .Title }}</span>
+  <span>›</span>
+  <a href="/posts/">Blog</a>
+  <span>›</span>
+  <span>{{ .Title }}</span>
 
-  {{- else if in $path "/suppliers/" }}
+
+  <!-- Categories & Suppliers -->
+  {{- else if or (hasPrefix $path "/categories/") (hasPrefix $path "/suppliers/") }}
     <span>›</span>
-    <a href="/suppliers/">Suppliers</a>
-    {{- with index .Params.regions 0 }}
+    <a href="/categories/">Supplier Categories</a>
+
+    {{- with index .Params.categories 0 }}
       <span>›</span>
-      <a href="/regions/{{ . | urlize }}/">{{ . | title }}</a>
+      <a href="/categories/{{ . | urlize }}/">{{ . | humanize | replaceRE `\band\b` "&" | title }}</a>
     {{- end }}
+
     <span>›</span>
     <span>{{ .Title }}</span>
 
-
-  {{- else if in $path "/regions/" }}
+  <!-- Regions -->
+  {{- else if hasPrefix $path "/regions/" }}
     <span>›</span>
-    <a href="/suppliers/">Suppliers</a>
+    <a href="/suppliers/">All Suppliers</a>
     <span>›</span>
     <span>{{ .Title }}</span>
 
+  <!-- About -->
+  {{- else if hasPrefix $path "/about/" }}
+    <span>›</span>
+    <a href="/about/">About</a>
+    <span>›</span>
+    <span>{{ .Title }}</span>
+
+  <!-- 其他页面保底逻辑 -->
   {{- else }}
-    {{- $url := replace .Parent.Permalink (printf "%s" site.Home.Permalink) "" }}
-    {{- $lang_url := strings.TrimPrefix (printf "%s/" .Lang) $url -}}
-    {{- $scratch := newScratch }}
-    {{- range $index, $element := split $lang_url "/" }}
-      {{- $scratch.Add "path" (printf "%s/" $element )}}
-      {{- $bc_pg := site.GetPage ($scratch.Get "path") -}}
-      {{- if (and ($bc_pg) (gt (len . ) 0))}}
-        <span>›</span>
-        <a href="{{ $bc_pg.Permalink }}">{{ $bc_pg.Name }}</a>
-      {{- end }}
-    {{- end }}
     <span>›</span>
     <span>{{ .Title }}</span>
   {{- end }}

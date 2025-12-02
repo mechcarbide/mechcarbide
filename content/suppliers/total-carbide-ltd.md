@@ -1,5 +1,6 @@
 ---
 title: Total Carbide Ltd.
+display_name: Total Carbide
 type: suppliers
 description: Total Carbide is the UK's largest independent manufacturer of
   sintered tungsten carbide. Home of the Intraform™ process for complex Oil &
@@ -18,6 +19,9 @@ email: info@totalcarbide.co.uk
 
 regions:
   - united-kingdom
+
+categories:
+  - oil-and-gas-components
 ---
 ## Quick Facts
 

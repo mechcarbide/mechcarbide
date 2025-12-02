@@ -1,5 +1,6 @@
 ---
 title: Leitz GmbH & Co. KG
+display_name: Leitz
 type: suppliers
 description: Leitz is the world market leader in precision woodworking tools
   since 1876. From WhisperCut sawblades to global Tool Management & Resharpening
@@ -18,6 +19,9 @@ email: leitz@leitz.org
 
 regions:
   - germany
+
+categories:
+  - woodworking-tools
 ---
 ## Quick Facts
 

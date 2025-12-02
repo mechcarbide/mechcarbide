@@ -1,5 +1,6 @@
 ---
 title: Leonardi Mfg Co., Inc.
+display_name: Leonardi
 type: suppliers
 description: Leonardi Manufacturing produces American-made stump grinder teeth,
   cutting wheels, wood chipper blades, and tree rigging equipment, delivering
@@ -18,6 +19,9 @@ email: Sales@LeonardiMfg.com
 
 regions:
   - united-states
+
+categories:
+  - forestry-agriculture-and-recycling
 ---
 Leonardi Manufacturing is a family-operated company in Weedsport, NY, known for producing **replacement parts for stump grinders and tree care equipment.** Its product range includes stump grinder teeth, cutting wheels, wood chipper blades, and tree rigging components, supported by decades of industry experience. While the company continues to manufacture its legacy handbag frames, its core strength today lies in delivering reliable solutions for arborists and tree care professionals. 
 

@@ -1,5 +1,6 @@
 ---
 title: ISCAR LTD.
+display_name: ISCAR
 type: suppliers
 description: ISCAR is a Berkshire Hathaway company & global leader in
   metalworking innovation. Home of MULTI-MASTER, CHAMDRILL, and 'High IQ'
@@ -18,6 +19,9 @@ email: headquarters@iscar.co.il
 
 regions:
   - israel
+
+categories:
+  - metal-cutting-tools-and-inserts
 ---
 ## Quick Facts
 

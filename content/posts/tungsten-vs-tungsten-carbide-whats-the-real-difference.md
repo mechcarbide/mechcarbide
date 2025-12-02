@@ -1,5 +1,6 @@
 ---
 title: "Tungsten vs Tungsten Carbide: What's the Real Difference?"
+type: posts
 date: 2025-07-21T10:22:00.000+08:00
 description: Wondering about tungsten vs tungsten carbide? Scroll down to learn
   the real differences to help you choose the right material for tools, rings,

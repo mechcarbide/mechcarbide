@@ -1,5 +1,6 @@
 ---
 title: SLB
+display_name: SLB
 type: suppliers
 description: SLB (formerly Schlumberger) is the global leader in energy
   innovation. Home of Smith Bits, advanced PDC cutters, and industry-leading
@@ -18,6 +19,9 @@ email: Unknown
 
 regions:
   - united-states
+
+categories:
+  - oil-and-gas-components
 ---
 ## Quick Facts
 

@@ -2,19 +2,19 @@
 {
   "@context": "https://schema.org",
   "@type": "Organization",
-  "name": "{{ .Params.name }}",
-  "url": "{{ .Params.website }}",
-  "description": "{{ .Params.structured_description }}",
+  "name": "{{ .Title }}",
+  "url": "{{ .Params.structured_data.website }}",
+  "description": "{{ .Params.structured_data.structured_description }}",
   "address": {
     "@type": "PostalAddress",
-    "addressLocality": "{{ .Params.addressLocality }}",
-    "addressRegion": "{{ .Params.addressRegion }}",
-    "addressCountry": "{{ .Params.addressCountry }}"
+    "addressLocality": "{{ .Params.structured_data.addressLocality }}",
+    "addressRegion": "{{ .Params.structured_data.addressRegion }}",
+    "addressCountry": "{{ .Params.structured_data.addressCountry }}"
   },
   "contactPoint": {
     "@type": "ContactPoint",
     "contactType": "sales",
-    "email": "{{ .Params.email }}"
+    "email": "{{ .Params.structured_data.email }}"
   }
 }
 </script>

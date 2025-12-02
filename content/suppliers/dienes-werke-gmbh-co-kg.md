@@ -1,5 +1,6 @@
 ---
 title: DIENES Werke GmbH & Co. KG
+display_name: DIENES
 type: suppliers
 description: DIENES Group is a global leader in industrial slitting technology
   since 1913. Specializing in pneumatic knife holders, automatic slitting
@@ -18,6 +19,9 @@ email: sales@dienes.de
 
 regions:
   - germany
+
+categories:
+  - industrial-knives-and-blades
 ---
 ## Quick Facts
 

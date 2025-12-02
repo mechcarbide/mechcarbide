@@ -1,6 +1,8 @@
 ---
 title: XTREME TEETH
+display_name: XTREME TEETH
 type: suppliers
+draft: false
 description: XTREME TEETH, also known as ASTRAK CANADA LTD, provides aftermarket
   forestry mulcher teeth for 100+ brands, with fast shipping across the USA and
   Canada.
@@ -18,6 +20,9 @@ email: salescanada@xwparts.com; sales@xwparts.com
 
 regions:
   - canada
+
+categories:
+  - forestry-agriculture-and-recycling
 ---
 XTREME TEETH, also known as **ASTRAK CANADA LTD**, is a **Canada-based supplier of [mulcher teeth](https://www.mechcarbide.com/posts/choosing-mulcher-teeth-steel-vs-carbide-and-what-works-best/)** and other aftermarket wear parts for heavy equipment. The company **also operates offices in the United States** and serves customers exclusively across **North America** (Canada and the USA). XTREME TEETH's range of replacement mulcher teeth covers **more than 100 different forestry mulcher brands**.
 

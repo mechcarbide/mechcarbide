@@ -1,5 +1,6 @@
 ---
 title: Shandong Techgong Geotechnical Engineering Equipment Co., Ltd
+display_name: Techgong
 type: suppliers
 description: As an outstanding manufacturer in China, Shandong Techgong
   supplies reliable carbide cutting products and solutions to clients worldwide
@@ -17,6 +18,9 @@ addressCountry: China
 email: sales@techgong.com
 regions:
   - china
+
+categories:
+  - mining-and-construction-tools
 ---
 
 ![Techgong, a carbide tool and wear part supplier in China](/uploads/supplier-techgong-1.jpg "Techgong, a carbide tool and wear part supplier in China")

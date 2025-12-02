@@ -1,5 +1,6 @@
 ---
 title: TIGRA GmbH
+display_name: TIGRA
 type: suppliers
 description: Explore TIGRA GmbH - The global gold standard for woodworking
   carbide & metalworking blanks. Discover their premium German-made saw tips,
@@ -18,6 +19,9 @@ email: sales@tigra.de
 
 regions:
   - germany
+
+categories:
+  - woodworking-tools
 ---
 ## Quick Facts
 

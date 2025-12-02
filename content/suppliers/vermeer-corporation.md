@@ -1,5 +1,6 @@
 ---
 title: Vermeer Corporation
+display_name: Vermeer
 type: suppliers
 description: Vermeer is a global manufacturer of industrial and agricultural
   equipment, offering machinery for agriculture, environmental work,
@@ -18,6 +19,9 @@ email: Unknown
 
 regions:
   - united-states
+
+categories:
+  - forestry-agriculture-and-recycling
 ---
 Vermeer is a global manufacturer of **industrial and agricultural equipment** headquartered in Pella, Iowa, USA. Founded in 1948, the company operates manufacturing facilities in the United States, the Netherlands, and China, supported by regional offices in Europe, South America, and Asia, as well as **a dealer network of more than 600 locations worldwide**. 
 

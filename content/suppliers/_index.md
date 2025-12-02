@@ -3,7 +3,7 @@ title: "Carbide Suppliers Directory"
 linkTitle: "Carbide Suppliers Directory"
 ShowBreadCrumbs: false
 
-description: "Global suppliers of tungsten carbide tools and wear parts."
+description: "Explore all global manufacturers and suppliers of tungsten carbide tools, blanks, and wear parts."
 keywords: ["carbide tool suppliers", "wear solutions", "carbide wear part suppliers", "tungsten carbide", "heavy equipment", "construction", "forestry", "recycling", "oil and gas", "cemented carbide"]
 
 canonicalURL: "https://www.mechcarbide.com/suppliers/"

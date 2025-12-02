@@ -1,5 +1,6 @@
 ---
 title: Sandvik Coromant
+display_name: Sandvik Coromant
 type: suppliers
 description: Sandvik Coromant is the world leader in metal cutting tools since
   1942. Home of PrimeTurning™ & Coromant Capto®. Explore 50,000+ premium
@@ -19,6 +20,9 @@ email: coromant.us@sandvik.com
 
 regions:
   - sweden
+
+categories:
+  - metal-cutting-tools-and-inserts
 ---
 ## Quick Facts
 

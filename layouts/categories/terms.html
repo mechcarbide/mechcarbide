@@ -1,0 +1,42 @@
+{{ define "main" }}
+
+<header class="page-header carbide-center-header">
+      <h1>{{ .Title }}</h1>
+</header>
+
+<div class="page-intro carbide-center-header">
+      {{ if .Content }}
+        {{ .Content }}
+      {{ end }}
+</div>
+
+<section class="categories-grid">
+  <div class="grid-container">
+    {{ $categories := slice
+      (dict "name" "Carbide Blanks & Preforms" "url" "/categories/carbide-blanks-and-preforms/" "img" "/images/categories/carbide-blanks-and-preforms.jpg")
+      (dict "name" "Carbide Dies, Molds & Punches" "url" "/categories/carbide-dies-molds-and-punches/" "img" "/images/categories/carbide-dies-molds-and-punches.jpg")
+      (dict "name" "Woodworking Tools" "url" "/categories/woodworking-tools/" "img" "/images/categories/woodworking-tools.jpg")
+      (dict "name" "Metal Cutting Tools & Inserts" "url" "/categories/metal-cutting-tools-and-inserts/" "img" "/images/categories/metal-cutting-tools-and-inserts.jpg")
+      (dict "name" "Mining & Construction Tools" "url" "/categories/mining-and-construction-tools/" "img" "/images/categories/mining-and-construction-tools.jpg")
+      (dict "name" "Oil & Gas Components" "url" "/categories/oil-and-gas-components/" "img" "/images/categories/oil-and-gas-components.jpg")
+      (dict "name" "Industrial Knives & Blades" "url" "/categories/industrial-knives-and-blades/" "img" "/images/categories/industrial-knives-and-blades.jpg")
+      (dict "name" "Forestry, Agriculture & Recycling" "url" "/categories/forestry-agriculture-and-recycling/" "img" "/images/categories/forestry-agriculture-and-recycling.jpg")
+      (dict "name" "General Wear Parts & Custom Solutions" "url" "/categories/general-wear-parts-and-custom-solutions/" "img" "/images/categories/general-wear-parts-and-custom-solutions.jpg")
+    }}
+
+    {{ range $categories }}
+      <a href="{{ .url }}" class="category-card">
+        <div class="card-image" style="background-image: url('{{ .img }}');">
+          <div class="overlay"></div>
+          <h3>{{ .name }}</h3>
+        </div>
+      </a>
+    {{ end }}
+  </div>
+</section>
+
+<div class="category-bottom-link">
+    <a href="/suppliers/">All Suppliers →</a>
+</div>
+
+{{ end }}

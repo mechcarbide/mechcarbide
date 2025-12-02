@@ -1,5 +1,6 @@
 ---
 title: Gyro-Trac
+display_name: Gyro-Trac
 type: suppliers
 description: Gyro-Trac is a US-based manufacturer and supplier of mulchers,
   mulching heads, and mulcher teeth.
@@ -17,6 +18,9 @@ email: none
 
 regions:
   - united-states
+
+categories:
+  - forestry-agriculture-and-recycling
 ---
 Founded over 25 years ago in Canada by brothers Daniel and Guy Gaudreault, Gyro-Trac revolutionized the **land-clearing industry** with the invention of the world's first **low ground pressure, self-propelled mulching machine**. 
 

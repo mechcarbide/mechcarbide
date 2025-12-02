@@ -1,5 +1,6 @@
 ---
 title: Hendrix Timber Mulchers
+display_name: Hendrix
 type: suppliers
 description: Hendrix Timber Mulchers supplies new and used forestry and timber
   mulching equipment and replacement parts, serving East Texas and the U.S.
@@ -18,6 +19,9 @@ email: sales@hendrixtimbermulchers.com
 
 regions:
   - united-states
+
+categories:
+  - forestry-agriculture-and-recycling
 ---
 Hendrix Timber Mulchers is a family-owned company based in Livingston, Texas, **serving East Texas and the U.S.** since 1980. The company specializes in **new and used environmental land clearing and timber mulching equipment**, offering sales, service, and **parts** nationwide. Hendrix Timber Mulchers is an **authorized dealer** for manufacturers including ASV, Barko, Fecon, FAE, Bron, Diamond Mowers, Plaisance Equipment, Donaldson Filters, and Gates Hoses & Fittings. With two locations in Livingston, the company aims to provide convenient access to equipment, parts, and maintenance services for forestry and timber mulching operations across the United States.
 

@@ -1,5 +1,6 @@
 ---
 title: CERATIZIT S.A.
+display_name: CERATIZIT
 type: suppliers
 description: Discover CERATIZIT - The global tungsten carbide authority since
   1929. Source premium rods, blanks, and wear parts backed by full-cycle
@@ -18,6 +19,10 @@ email: Unknown
 
 regions:
   - luxembourg
+
+categories:
+  - woodworking-tools
+  - carbide-blanks-and-preforms
 ---
 ## Quick Facts
 

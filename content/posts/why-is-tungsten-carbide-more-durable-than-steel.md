@@ -1,5 +1,6 @@
 ---
 title: Why Is Tungsten Carbide More Durable Than Steel?
+type: posts
 date: 2025-10-29T15:04:00.000+08:00
 description: Learn why tungsten carbide lasts longer than steel. Compare
   hardness, wear resistance, and heat tolerance to choose the right material.

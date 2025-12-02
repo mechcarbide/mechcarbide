@@ -2,10 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>http://localhost:1313/tags/forestry/</loc>
     <lastmod>2025-11-12T16:12:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/forestry/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2025-11-12T16:12:00+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
@@ -117,21 +117,21 @@
   </url><url>
     <loc>http://localhost:1313/suppliers/border-city-tools/</loc>
   </url><url>
-    <loc>http://localhost:1313/regions/canada/</loc>
+    <loc>http://localhost:1313/categories/carbide-blanks-and-preforms/</loc>
+  </url><url>
+    <loc>http://localhost:1313/categories/carbide-dies-molds-and-punches/</loc>
   </url><url>
     <loc>http://localhost:1313/suppliers/</loc>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
   </url><url>
     <loc>http://localhost:1313/suppliers/cei-supply/</loc>
   </url><url>
     <loc>http://localhost:1313/suppliers/ceratizit-s-a/</loc>
   </url><url>
-    <loc>http://localhost:1313/regions/china/</loc>
-  </url><url>
     <loc>http://localhost:1313/suppliers/denis-cimaf-inc/</loc>
   </url><url>
     <loc>http://localhost:1313/suppliers/diamond-mowers-llc/</loc>
+  </url><url>
+    <loc>http://localhost:1313/suppliers/dienes-werke-gmbh-co-kg/</loc>
   </url><url>
     <loc>http://localhost:1313/suppliers/extramet-products-llc/</loc>
   </url><url>
@@ -139,9 +139,13 @@
   </url><url>
     <loc>http://localhost:1313/suppliers/fecon/</loc>
   </url><url>
+    <loc>http://localhost:1313/suppliers/federal-carbide-company/</loc>
+  </url><url>
+    <loc>http://localhost:1313/categories/forestry-agriculture-and-recycling/</loc>
+  </url><url>
     <loc>http://localhost:1313/suppliers/fuji-die-co-ltd/</loc>
   </url><url>
-    <loc>http://localhost:1313/regions/germany/</loc>
+    <loc>http://localhost:1313/categories/general-wear-parts-and-custom-solutions/</loc>
   </url><url>
     <loc>http://localhost:1313/suppliers/green-manufacturing-inc/</loc>
   </url><url>
@@ -153,13 +157,9 @@
   </url><url>
     <loc>http://localhost:1313/suppliers/impact-supply-co/</loc>
   </url><url>
+    <loc>http://localhost:1313/categories/industrial-knives-and-blades/</loc>
+  </url><url>
     <loc>http://localhost:1313/suppliers/iscar-ltd/</loc>
-  </url><url>
-    <loc>http://localhost:1313/regions/israel/</loc>
-  </url><url>
-    <loc>http://localhost:1313/regions/italy/</loc>
-  </url><url>
-    <loc>http://localhost:1313/regions/japan/</loc>
   </url><url>
     <loc>http://localhost:1313/suppliers/kingkong-tools-gmbh-co-kg/</loc>
   </url><url>
@@ -171,9 +171,13 @@
   </url><url>
     <loc>http://localhost:1313/suppliers/loftness-manufacturing/</loc>
   </url><url>
-    <loc>http://localhost:1313/regions/luxembourg/</loc>
+    <loc>http://localhost:1313/categories/metal-cutting-tools-and-inserts/</loc>
+  </url><url>
+    <loc>http://localhost:1313/categories/mining-and-construction-tools/</loc>
   </url><url>
     <loc>http://localhost:1313/suppliers/morbark-llc/</loc>
+  </url><url>
+    <loc>http://localhost:1313/categories/oil-and-gas-components/</loc>
   </url><url>
     <loc>http://localhost:1313/privacy-policy/</loc>
   </url><url>
@@ -181,21 +185,51 @@
   </url><url>
     <loc>http://localhost:1313/suppliers/rayco-manufacturing-inc/</loc>
   </url><url>
-    <loc>http://localhost:1313/regions/</loc>
+    <loc>http://localhost:1313/suppliers/sanalloy-industry-co-ltd/</loc>
   </url><url>
     <loc>http://localhost:1313/suppliers/sandvik-coromant/</loc>
   </url><url>
+    <loc>http://localhost:1313/search/</loc>
+  </url><url>
     <loc>http://localhost:1313/suppliers/shandong-techgong-geotechnical-engineering-equipment-co-ltd/</loc>
+  </url><url>
+    <loc>http://localhost:1313/suppliers/slb/</loc>
+  </url><url>
+    <loc>http://localhost:1313/suppliers/tigra-gmbh/</loc>
+  </url><url>
+    <loc>http://localhost:1313/suppliers/tkm-group/</loc>
+  </url><url>
+    <loc>http://localhost:1313/suppliers/total-carbide-ltd/</loc>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/regions/</loc>
+  </url><url>
+    <loc>http://localhost:1313/regions/canada/</loc>
+  </url><url>
+    <loc>http://localhost:1313/regions/china/</loc>
+  </url><url>
+    <loc>http://localhost:1313/regions/germany/</loc>
+  </url><url>
+    <loc>http://localhost:1313/regions/israel/</loc>
+  </url><url>
+    <loc>http://localhost:1313/regions/italy/</loc>
+  </url><url>
+    <loc>http://localhost:1313/regions/japan/</loc>
+  </url><url>
+    <loc>http://localhost:1313/regions/luxembourg/</loc>
   </url><url>
     <loc>http://localhost:1313/regions/sweden/</loc>
   </url><url>
-    <loc>http://localhost:1313/suppliers/tigra-gmbh/</loc>
+    <loc>http://localhost:1313/regions/united-kingdom/</loc>
   </url><url>
     <loc>http://localhost:1313/regions/united-states/</loc>
   </url><url>
     <loc>http://localhost:1313/suppliers/vermeer-corporation/</loc>
   </url><url>
     <loc>http://localhost:1313/suppliers/werewolf-parts-llc/</loc>
+  </url><url>
+    <loc>http://localhost:1313/categories/woodworking-tools/</loc>
   </url><url>
     <loc>http://localhost:1313/suppliers/xtreme-teeth/</loc>
   </url>

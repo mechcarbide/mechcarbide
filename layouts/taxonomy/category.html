@@ -1,0 +1,48 @@
+{{ define "main" }}
+
+{{- partial "breadcrumbs.html" . -}}
+
+<header class="page-header carbide-center-header">
+      <h1>{{ .Title }}</h1>
+</header>
+
+<div class="page-intro carbide-center-header">
+      {{ if .Content }}
+        {{ .Content }}
+      {{ end }}
+</div>
+
+{{ $pages := .Data.Pages.ByTitle }} 
+{{ $paginator := .Paginate $pages 25 }}
+
+{{ if $paginator }}
+<div class="supplier-grid-container">
+    {{ range $paginator.Pages }}
+    <div class="supplier-card">
+        {{ $displayName := .Params.display_name | default .Title }}
+        <a href="{{ .Permalink }}" title="{{ .Title }}">
+            {{ $displayName }}
+        </a>
+    </div>
+    {{ end }}
+</div>
+
+{{ template "_internal/pagination.html" . }}
+{{ else }}
+<div class="supplier-grid-container">
+    {{ range .Data.Pages }}
+    <div class="supplier-card">
+        {{ $displayName := .Params.display_name | default .Title }}
+        <a href="{{ .Permalink }}" title="{{ .Title }}">
+            {{ $displayName }}
+        </a>
+    </div>
+    {{ end }}
+</div>
+{{ end }}
+
+<div class="category-bottom-link">
+    <a href="/suppliers/">All Suppliers →</a>
+</div>
+
+{{ end }}

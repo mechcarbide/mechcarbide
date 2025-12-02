@@ -1,5 +1,6 @@
 ---
 title: Basic Carbide, Corp.
+display_name: Basic Carbide
 type: suppliers
 description: Basic Carbide is a premier USA manufacturer of tungsten carbide
   preforms, seal rings & wear parts. Features a dedicated Nickel-binder plant &
@@ -18,6 +19,9 @@ email: Unknown
 
 regions:
   - united-states
+
+categories:
+  - general-wear-parts-and-custom-solutions
 ---
 ## Quick Facts
 

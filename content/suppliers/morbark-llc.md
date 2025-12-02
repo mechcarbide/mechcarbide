@@ -1,5 +1,6 @@
 ---
 title: Morbark, LLC
+display_name: Morbark
 type: suppliers
 description: Morbark, LLC manufactures innovative forestry, biomass, and
   recycling equipment that converts wood and organic waste into valuable
@@ -18,6 +19,9 @@ email: inquire@morbark.com
 
 regions:
   - united-states
+
+categories:
+  - forestry-agriculture-and-recycling
 ---
 Founded in 1957 and headquartered in Winn, Michigan, Morbark, LLC is a global leader in manufacturing high-performance equipment for forestry, biomass, recycling, and tree care industries. With over six decades of innovation, Morbark designs durable solutions that **transform wood and organic waste into valuable resources.** Its extensive product lineup includes **brush chippers, whole tree chippers, flails, horizontal grinders, tub grinders, and sawmill products.** 
 

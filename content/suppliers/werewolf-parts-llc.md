@@ -1,6 +1,8 @@
 ---
 title: Werewolf Parts, LLC
+display_name: Werewolf Parts
 type: suppliers
+draft: false
 description: Discover Werewolf Parts, a North American supplier of aftermarket
   mulching teeth and stump grinding teeth. Includes ordering, shipping, and
   return policy details.
@@ -18,6 +20,9 @@ email: alpha@werewolfparts.com
 
 regions:
   - united-states
+
+categories:
+  - forestry-agriculture-and-recycling
 ---
 Werewolf Parts, LLC is a U.S.-based aftermarket supplier specializing in **wear parts for forestry, agriculture, and construction equipment.** According to its official website, the company emphasizes durability, fast delivery, and customer support, aiming to serve professionals operating in demanding field conditions. The brand adopts a "wolf pack" identity to reflect its values, including loyalty, resilience, and teamwork.
 

@@ -1,5 +1,6 @@
 ---
 title: Sanalloy Industry Co.,Ltd.
+display_name: Sanalloy
 type: suppliers
 description: Sanalloy Industry is the Japanese expert in 'problem-solving'
   carbide. Specializing in Low-Friction (P-Series) & Anti-Corrosion (MBN) grades
@@ -18,6 +19,9 @@ email: seihin-gizyutsu@sanalloy.co.jp
 
 regions:
   - japan
+
+categories:
+  - carbide-dies-molds-and-punches
 ---
 ## Quick Facts
 

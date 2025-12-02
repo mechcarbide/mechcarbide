@@ -1,5 +1,6 @@
 ---
 title: FECON
+display_name: FECON
 type: suppliers
 description: Fecon designs and manufactures durable mulching heads, forestry
   attachments, and tractors. Offers Fusion smart control, online parts store,
@@ -18,6 +19,9 @@ email: sales@fecon.com; parts@fecon.com
 
 regions:
   - united-states
+
+categories:
+  - forestry-agriculture-and-recycling
 ---
 Founded in 1992 in Ohio, Fecon is a leading manufacturer of **land management and natural resource recovery equipment.** With more than 30 years of experience, the company is known for producing some of the most durable **mulching heads** in the industry, along with a broad range of specialized equipment designed for forestry, land clearing, and environmental applications. Fecon emphasizes **technology, innovation, and operational efficiency** to deliver high-value, long-lasting products. With **over 25,000 mulcher heads** supplied worldwide, Fecon continues to support professionals through reliable equipment and strong customer partnerships.
 

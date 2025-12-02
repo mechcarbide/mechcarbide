@@ -1,5 +1,6 @@
 ---
 title: Green Manufacturing, Inc.
+display_name: Greenteeth
 type: suppliers
 description: Green Manufacturing offers carbide-tipped Greenteeth® stump grinder
   teeth, pockets, cutting wheels, and upgrade kits. Made in the USA with a focus
@@ -18,6 +19,9 @@ email: sales@greenteeth.com
 
 regions:
   - united-states
+
+categories:
+  - forestry-agriculture-and-recycling
 ---
 Greenteeth®, a brand under Green Manufacturing, Inc., originated in the 1990s when arborist Kevin Green sought **a more efficient way to replace stump grinder teeth in the field**. This led to the development of **a turnable, carbide-tipped tooth system** that eliminated the need to remove pockets during replacement. The positive performance of the early prototypes prompted the establishment of Green Manufacturing to produce Greenteeth for tree-care professionals globally. 
 

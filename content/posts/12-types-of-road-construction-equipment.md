@@ -1,5 +1,6 @@
 ---
 title: 12 Types of Road Construction Equipment
+type: posts
 date: 2025-08-12T09:34:00.000+08:00
 description: Learn about different types of road construction equipment and
   machines, their uses, and how they help build safe, durable roads for modern

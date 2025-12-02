@@ -1,5 +1,6 @@
 ---
 title: What Is a Tub Grinder? A Guide for Landowners and Pros
+type: posts
 date: 2025-07-03T10:43:00.000Z
 description: Tub grinders are powerful machines used in forestry, agriculture,
   and recycling to turn wood waste into mulch or compost. Learn how they work,

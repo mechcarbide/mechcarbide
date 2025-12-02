@@ -1,5 +1,6 @@
 ---
 title: Hyperion Materials & Technologies
+display_name: Hyperion
 type: suppliers
 description: Born from GE & Sandvik, Hyperion is a global leader in Tungsten
   Carbide & Synthetic Diamond. Specializing in Can Tooling, Rotary Cutting, and
@@ -18,6 +19,10 @@ email: Unknown
 
 regions:
   - united-states
+
+categories:
+  - carbide-blanks-and-preforms
+  - carbide-dies-molds-and-punches
 ---
 ## Quick Facts
 
