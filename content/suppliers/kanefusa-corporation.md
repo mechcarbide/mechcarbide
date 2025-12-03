@@ -1,5 +1,6 @@
 ---
 title: KANEFUSA CORPORATION
+type: suppliers
 description: "Kanefusa Corporation is Japan's #1 manufacturer of industrial saw
   blades & knives. Pioneer of 'Single Use' Cold Saw technology, Thin Kerf saws,
   and VITECH-TC paper knives."

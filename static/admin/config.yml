@@ -40,6 +40,11 @@ collections:
       - { label: "Display Name (Short Name)", name: "display_name", widget: "string", required: false, hint: "用于分类页展示的短名称，留空则使用 Title。" }
       - { label: "Summary", name: "summary", widget: "text", required: false, hint: "用于地区页（/regions/）供应商卡片的简介。" }
       - { label: "Body", name: "body", widget: "markdown" }
+      
+      - label: "Type"
+        name: "type"
+        widget: "hidden"
+        default: "suppliers"
 
       - label: "Region"
         name: "regions"
