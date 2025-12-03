@@ -117,6 +117,8 @@
   </url><url>
     <loc>http://localhost:1313/suppliers/border-city-tools/</loc>
   </url><url>
+    <loc>http://localhost:1313/regions/canada/</loc>
+  </url><url>
     <loc>http://localhost:1313/categories/carbide-blanks-and-preforms/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/carbide-dies-molds-and-punches/</loc>
@@ -126,6 +128,8 @@
     <loc>http://localhost:1313/suppliers/cei-supply/</loc>
   </url><url>
     <loc>http://localhost:1313/suppliers/ceratizit-s-a/</loc>
+  </url><url>
+    <loc>http://localhost:1313/regions/china/</loc>
   </url><url>
     <loc>http://localhost:1313/suppliers/denis-cimaf-inc/</loc>
   </url><url>
@@ -147,6 +151,8 @@
   </url><url>
     <loc>http://localhost:1313/categories/general-wear-parts-and-custom-solutions/</loc>
   </url><url>
+    <loc>http://localhost:1313/regions/germany/</loc>
+  </url><url>
     <loc>http://localhost:1313/suppliers/green-manufacturing-inc/</loc>
   </url><url>
     <loc>http://localhost:1313/suppliers/gyro-trac/</loc>
@@ -161,6 +167,14 @@
   </url><url>
     <loc>http://localhost:1313/suppliers/iscar-ltd/</loc>
   </url><url>
+    <loc>http://localhost:1313/regions/israel/</loc>
+  </url><url>
+    <loc>http://localhost:1313/regions/italy/</loc>
+  </url><url>
+    <loc>http://localhost:1313/regions/japan/</loc>
+  </url><url>
+    <loc>http://localhost:1313/suppliers/kanefusa-corporation/</loc>
+  </url><url>
     <loc>http://localhost:1313/suppliers/kingkong-tools-gmbh-co-kg/</loc>
   </url><url>
     <loc>http://localhost:1313/suppliers/leitz-gmbh-co-kg/</loc>
@@ -170,6 +184,8 @@
     <loc>http://localhost:1313/suppliers/leuco-ledermann-gmbh-co-kg/</loc>
   </url><url>
     <loc>http://localhost:1313/suppliers/loftness-manufacturing/</loc>
+  </url><url>
+    <loc>http://localhost:1313/regions/luxembourg/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/metal-cutting-tools-and-inserts/</loc>
   </url><url>
@@ -195,6 +211,8 @@
   </url><url>
     <loc>http://localhost:1313/suppliers/slb/</loc>
   </url><url>
+    <loc>http://localhost:1313/regions/sweden/</loc>
+  </url><url>
     <loc>http://localhost:1313/suppliers/tigra-gmbh/</loc>
   </url><url>
     <loc>http://localhost:1313/suppliers/tkm-group/</loc>
@@ -205,27 +223,13 @@
   </url><url>
     <loc>http://localhost:1313/regions/</loc>
   </url><url>
-    <loc>http://localhost:1313/regions/canada/</loc>
-  </url><url>
-    <loc>http://localhost:1313/regions/china/</loc>
-  </url><url>
-    <loc>http://localhost:1313/regions/germany/</loc>
-  </url><url>
-    <loc>http://localhost:1313/regions/israel/</loc>
-  </url><url>
-    <loc>http://localhost:1313/regions/italy/</loc>
-  </url><url>
-    <loc>http://localhost:1313/regions/japan/</loc>
-  </url><url>
-    <loc>http://localhost:1313/regions/luxembourg/</loc>
-  </url><url>
-    <loc>http://localhost:1313/regions/sweden/</loc>
-  </url><url>
     <loc>http://localhost:1313/regions/united-kingdom/</loc>
   </url><url>
     <loc>http://localhost:1313/regions/united-states/</loc>
   </url><url>
     <loc>http://localhost:1313/suppliers/vermeer-corporation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/suppliers/vista-metals-inc/</loc>
   </url><url>
     <loc>http://localhost:1313/suppliers/werewolf-parts-llc/</loc>
   </url><url>

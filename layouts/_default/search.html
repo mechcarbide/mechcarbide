@@ -33,10 +33,25 @@
       (item.title && item.title.toLowerCase().includes(keyword)) ||
       (item.summary && item.summary.toLowerCase().includes(keyword)) ||
       (item.description && item.description.toLowerCase().includes(keyword)) ||
-      (item.regions && item.regions.join(" ").toLowerCase().includes(keyword)) ||
-      (item.products && item.products.join(" ").toLowerCase().includes(keyword)) ||
+      (
+        item.regions &&
+        (
+          Array.isArray(item.regions)
+            ? item.regions.join(" ").toLowerCase()
+            : String(item.regions).toLowerCase()
+        ).includes(keyword)
+      ) ||
+      (
+        item.products &&
+        (
+          Array.isArray(item.products)
+            ? item.products.join(" ").toLowerCase()
+            : String(item.products).toLowerCase()
+        ).includes(keyword)
+      ) ||
       (item.content && item.content.toLowerCase().includes(keyword))
     );
+
 
     renderResults(matched);
   });
