@@ -1,92 +1,135 @@
 ---
-title: Shandong Techgong Geotechnical Engineering Equipment Co., Ltd
-display_name: Techgong
-type: suppliers
-description: As an outstanding manufacturer in China, Shandong Techgong
-  supplies reliable carbide cutting products and solutions to clients worldwide
-  in the construction and mining industries.
-
-summary: China | Products include TBM cutters, road milling teeth, coal mining picks, trencher teeth, HDD weld-on teeth, and bullet teeth. 
-
-name: Shandong Techgong Geotechnical Engineering Equipment Co., Ltd
-website: http://www.techgong.com/
-structured_description: >
-  Shandong Techgong Geotechnical Engineering Equipment Co., Ltd ("Techgong") is a professional manufacturer of high-performance carbide tools, including TBM cutters, mining picks, foundation pile tools, and road milling teeth. Techgong exports to over 20 countries, including Australia, Japan, Brazil, Spain, and Turkey. With modern manufacturing facilities, advanced R&D capabilities, and quality control certified to ISO 9001, 14001, and 45001 standards, Techgong provides durable, efficient, and customized solutions, along with responsive global service and technical support.
-addressLocality: Liaocheng
-addressRegion: Shandong
 addressCountry: China
-email: sales@techgong.com
-regions:
-  - china
-
+summary: China | Products include TBM cutters, road milling teeth, coal mining
+  picks, trencher teeth, HDD weld-on teeth, and bullet teeth.
+addressRegion: Shandong
+display_name: Techgong
+name: Shandong Techgong Geotechnical Engineering Equipment Co., Ltd
+structured_description: >
+  Shandong Techgong Geotechnical Engineering Equipment Co., Ltd ("Techgong") is
+  a professional manufacturer of high-performance carbide tools, including TBM
+  cutters, mining picks, foundation pile tools, and road milling teeth. Techgong
+  exports to over 20 countries, including Australia, Japan, Brazil, Spain, and
+  Turkey. With modern manufacturing facilities, advanced R&D capabilities, and
+  quality control certified to ISO 9001, 14001, and 45001 standards, Techgong
+  provides durable, efficient, and customized solutions, along with responsive
+  global service and technical support.
+addressLocality: Liaocheng
+title: Shandong Techgong Geotechnical Engineering Equipment Co., Ltd
+type: suppliers
+regions: china
+structured_data:
+  website: http://www.techgong.com/
+  email: sales@techgong.com
+  addressLocality: Liaocheng
+  addressRegion: Shandong
+  addressCountry: China
+  structured_description: Shandong Techgong Geotechnical Engineering Equipment
+    Co., Ltd. (Techgong) is a premier manufacturer of rock drilling and cutting
+    tools based in China. As the drafter of the National Industry Standard for
+    Shield Cutters, Techgong specializes in TBM disc cutters, mining picks, and
+    road milling tools. The company operates a massive manufacturing facility
+    with an annual capacity of over 14 million tools, utilizing advanced 1600T
+    forging presses and vacuum heat treatment. With subsidiaries in Australia
+    and Japan, Techgong exports to over 20 countries, serving major subway,
+    highway, and mining projects.
+website: http://www.techgong.com/
 categories:
   - mining-and-construction-tools
+email: sales@techgong.com
+description: Techgong is a leading Chinese manufacturer of Shield Cutters (TBM)
+  & Mining Picks. Industry standard setter (JB/T 11861) with annual capacity of
+  6M+ tools. Serving tunneling & mining globally.
 ---
-
 ![Techgong, a carbide tool and wear part supplier in China](/uploads/supplier-techgong-1.jpg "Techgong, a carbide tool and wear part supplier in China")
 
-Shandong Techgong Geotechnical Engineering Equipment Co., Ltd ("Techgong") is a leading manufacturer and supplier of **high-performance carbide tools and cutting solutions** for metro, bridge, and tunnel construction, as well as coal and iron ore mining. Headquartered in China with eight subsidiaries in Sydney, Shanghai, Shenzhen, and Liaocheng, Techgong produces a wide range of products, including TBM (shield tunneling machine) cutters, coal mining picks, trencher teeth, HDD weld-on teeth, bullet teeth, and road milling teeth. Its products are highly regarded domestically and **exported to over 20 countries,** including Australia, Japan, Brazil, Spain, and Turkey. With a workforce of nearly **300 professionals**, Techgong is recognized as a top player in the global carbide tools industry.
+## Quick Facts
 
-## Product Categories
+**Headquarters:** China
+
+**Established:** 2000
+
+**Business Type:** Manufacturer
+
+**Factory Size:** 40,000+ sqm
+
+**Employee:** >400
+
+**Certificate:** ISO9001:2015, ISO14001-2015, ISO45001:2018
+
+**Key Client:** FMG, SANY, Tesmec, …
+
+**Ideal For:** Tunneling Contractors, Mining Companies, Foundation & Piling Engineers, Road Maintenance Firms
+
+## Editor's Review
+
+Techgong is a defining force in China's massive infrastructure boom. As the drafter of the **Industrial Standard for Shield Cutters (JB/T 11861-2014)**, Techgong has proven that Chinese engineering can compete globally on quality while maintaining a competitive price advantage.
+
+### Why Techgong is a smart strategic partner:
+
+* **Standard-Setting Quality:** When a company writes the industry rulebook, you know they understand the technology. Their designation as a 'Post-doctoral Research Station' ensures that their alloy grades and brazing techniques are scientifically backed.
+* **Massive Scalability:** For mega-projects (like subway systems or large mines) where supply chain continuity is critical, Techgong's annual capacity of **6 million mining tools** and **600 sets of shield cutters** offers unmatched security. You won't run out of consumables.
+* **Global Support:** With subsidiaries in **Australia and Japan**, they have bridged the gap between Chinese manufacturing and local service, offering responsive after-sales support that pure exporters cannot match.
+
+## Product Range
 
 ![Techgong product range](/uploads/supplier-techgong-2.jpg "Techgong product range")
 
-**TBM (Shield Tunneling Machine) Cutters:** Used in metro, bridge, and tunnel construction for continuous excavation. Available in various diameters and cutting-edge types to suit different rock conditions.
+### Shield Cutters
 
-**Coal Mining Picks:** Designed for high-efficiency coal and mineral extraction. Typical specifications include tungsten carbide tips with durable steel shanks.
+* Disc Cutters
+* Scrapers / Rippers
 
-**Trencher Teeth:** Ideal for trenching and pipeline installation projects. Offered in multiple sizes and shapes for soil and rock cutting.
+### Mining Tools
 
-**HDD Weld-On Teeth:** Used in horizontal directional drilling to enlarge the pilot bore for pipes and cables.
+* Conical Picks
+* Radial Picks
 
-**Bullet Teeth:** Mainly employed in foundation drilling projects, especially designed for tough conditions.
+### Construction Tools
 
-**Road Milling Teeth:** Applied in asphalt and concrete milling for road construction and repair. Commonly made of a cemented carbide tip brazed into a solid steel body.
+* Round Shank Picks / Bullet Teeth
+* Auger Bits / Core Barrels
 
-## Manufacturing & R&D Capabilities
+### Road Milling Tools
 
-Techgong operates modern manufacturing facilities equipped with over 300 machines, including 4-axis and 5-axis machining centers, 1600T friction presses, controlled-atmosphere furnaces, and vacuum quenching furnaces. The company's **annual production capacity** reaches 600 TBM cutters, 6 million mining picks, 4 million foundation pile tools, and 4 million road milling teeth.
+* Asphalt Milling Picks
 
-Driven by innovation, Techgong invests heavily in **research and development**. Its laboratory spans 1,800 square meters with an additional 2,648 square meters of experimental workshops, featuring over 20 advanced testing and analysis instruments such as FOUNDRY-MASTER Pro. The R&D team includes 64 professionals, comprising PhD graduates, master's graduates, and bachelor's graduates, dedicated to advancing technology and product performance in the carbide tools industry.
+## Company Profile
 
-## Quality Control
+### China's Leading Force in Geotechnical Equipment
 
-Techgong implements a comprehensive production quality management system, supported by modern testing equipment, including spectrometers, material testing machines, Alnico measuring devices, and a range of length and angle measurement instruments. The company strictly adheres to international standards, maintaining **ISO 9001:2015** for Quality Management System, **ISO 14001:2015** for Environmental Management System, and **ISO 45001:2018** for Occupation Health Safety Management System. All certifications have been officially obtained, reflecting Techgong's commitment to consistent product quality, operational excellence, and sustainable, safe manufacturing practices in the carbide tools industry.
+Shandong Techgong Geotechnical Engineering Equipment Co., Ltd. (Techgong) stands as a pillar of the Chinese excavation tool industry. Located in Liaocheng City, the company has integrated independent innovation with large-scale manufacturing to become a preferred supplier for tunneling, mining, and civil engineering projects worldwide.
 
-## Export & Service
+### Innovation & Global Reach
 
-Techgong emphasizes strong marketing and customer-oriented service as a key driver of its growth. The company provides **24/7 support**, both on-site and online, ensuring timely follow-up and technical assistance for all clients. Working closely with customers, Techgong delivers cost-effective, fit-for-purpose solutions and can **supply customized products** to meet specific requirements. Its technical team continuously improves products, offering ongoing value-added support and innovative design ideas.
+Techgong distinguishes itself through intense R&D, hosting a **1,800 sqm laboratory** and a team of over **60 researchers**, including **PhDs**. This commitment to technology has earned them the status of an Intellectual Property Demonstration Enterprise with the highest number of patents in the industry. Their products are not only dominant domestically but are exported to demanding markets including Australia, Japan, Germany, and the USA.
 
-Techgong's products are widely used across China and exported to over 20 countries, such as Australia, Japan, Brazil, Spain, and Turkey. TBM cutters primarily serve metro, tunnel, and municipal projects. Mining picks are supplied to iron ore companies in Australia, Turkey, Brazil, and major domestic coal mines. Foundation pile tools are exported to Japan, Vietnam, Malaysia, and India, as well as employed in domestic infrastructure projects. This global reach reflects Techgong's commitment to quality and responsive service.
+## Capabilities
 
-## Frequently Asked Questions (FAQ)
+### Advanced Heat Treatment & Forging
 
-**Q: Is Techgong a manufacturer or a trading company?**
+* **1600T Friction Press:** Utilizes massive forging pressure to ensure the structural density and impact resistance of tool bodies, critical for heavy-duty mining picks.
+* **Vacuum Quenching Furnaces:** Advanced controlled atmosphere heat treatment ensures uniform hardness and toughness, eliminating the risk of brittle fractures in hard rock conditions.
 
-A: Techgong is a professional manufacturer.
+### Production Capacity
 
-**Q: What are the payment and delivery terms?**
+Techgong operates a modern facility with over 300 sets of machinery, delivering staggering annual outputs:
 
-A: Techgong accepts T/T, L/C, Western Union, and PayPal. Typically, a 30% deposit is paid in advance, with the balance settled before delivery.
+* **Shield Cutters:** 600 full sets (for TBMs).
+* **Mining Tools:** 6,000,000 pieces.
+* **Construction & Milling Tools:** 8,000,000 pieces combined.
 
-**Q: What is the minimum order quantity (MOQ)?**
+### Quality Lab & Testing
 
-A: 1 piece.
+* **Spectral Analysis:** Equipped with direct-reading spectrometers (FM) to verify raw material alloy composition.
+* **Microstructure Inspection:** Uses image processing universal microscopes to analyze the metallurgical bond between carbide and steel body, ensuring zero brazing failures.
 
-**Q: What transportation methods are available?**
+## Contact & Ordering
 
-A: DHL, TNT, FedEx express, air, sea, and rail transport are all available.
-
-**Q: Is there any discount?**
-
-A: Prices depend on the product type and order quantity.
-
-**Q: Does Techgong accept sample orders?**
-
-A: Yes, please contact Techgong for more details.
-
-## Contact
+**Website:** http://www.techgong.com/
 
 **Email:** sales@techgong.com
 
-**Website:** http://www.techgong.com/
+**Service Region:** Global (active in 20+ countries)
+
+**MOQ:** One Piece
