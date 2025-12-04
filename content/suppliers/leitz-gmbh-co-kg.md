@@ -1,27 +1,47 @@
 ---
-title: Leitz GmbH & Co. KG
+addressCountry: Germany
+summary: Germany | Products include woodworking circular saw blades, jointing
+  cutters, planing tools, profiling tools, shank tools, drills, and clamping
+  systems.
+addressRegion: Baden-Württemberg
 display_name: Leitz
+name: Leitz GmbH & Co. KG
+structured_description: >
+  The Leitz Group, headquartered in Oberkochen, Germany, is the world's leading
+  manufacturer of precision tools for processing wood, plastics, and advanced
+  materials. Established in 1876, this 5th-generation family business operates 9
+  production plants and over 120 service centers worldwide. Leitz offers a
+  comprehensive portfolio including circular sawblades, cutterheads, and
+  clamping systems, featuring proprietary innovations like Marathon coating,
+  WhisperCut technology, and RipTec. Beyond manufacturing, Leitz provides full
+  lifecycle solutions through its 'CompleteCare' tool management program and
+  global resharpening services.
+addressLocality: Oberkochen
+title: Leitz GmbH & Co. KG
 type: suppliers
+regions: germany
+structured_data:
+  website: https://www.leitz.org/
+  email: leitz@leitz.org
+  addressLocality: Oberkochen
+  addressRegion: Baden-Württemberg
+  addressCountry: Germany
+  structured_description: The Leitz Group, headquartered in Oberkochen, Germany,
+    is the world's leading manufacturer of precision tools for processing wood,
+    plastics, and advanced materials. Established in 1876, this 5th-generation
+    family business operates 9 production plants and over 120 service centers
+    worldwide. Leitz offers a comprehensive portfolio including circular
+    sawblades, cutterheads, and clamping systems, featuring proprietary
+    innovations like Marathon coating, WhisperCut technology, and RipTec. Beyond
+    manufacturing, Leitz provides full lifecycle solutions through its
+    'CompleteCare' tool management program and global resharpening services.
+website: https://www.leitz.org/
+categories:
+  - woodworking-tools
+email: leitz@leitz.org
 description: Leitz is the world market leader in precision woodworking tools
   since 1876. From WhisperCut sawblades to global Tool Management & Resharpening
   services, Leitz define the industry standard.
-
-summary: Germany | Products include woodworking circular saw blades, jointing cutters, planing tools, profiling tools, shank tools, drills, and clamping systems.
-
-name: Leitz GmbH & Co. KG
-website: https://www.leitz.org/
-structured_description: >
-  The Leitz Group, headquartered in Oberkochen, Germany, is the world's leading manufacturer of precision tools for processing wood, plastics, and advanced materials. Established in 1876, this 5th-generation family business operates 9 production plants and over 120 service centers worldwide. Leitz offers a comprehensive portfolio including circular sawblades, cutterheads, and clamping systems, featuring proprietary innovations like Marathon coating, WhisperCut technology, and RipTec. Beyond manufacturing, Leitz provides full lifecycle solutions through its 'CompleteCare' tool management program and global resharpening services.
-addressLocality: Oberkochen
-addressRegion: Baden-Württemberg
-addressCountry: Germany
-email: leitz@leitz.org
-
-regions:
-  - germany
-
-categories:
-  - woodworking-tools
 ---
 ## Quick Facts
 
@@ -43,7 +63,7 @@ Leitz is not just a tool manufacturer; they are the **operating system** for the
 
 ### Why Leitz is in a league of its own:
 
-* **Service as a Product:** While others just sell new tools, Leitz operates a massive network of **120+ service centers worldwide**. Their 'manufacturer-quality' resharpening service ensures your tool performs like new after every grind, drastically lowering your total cost of ownership.
+* **Service as a Product:** While others sell new tools, Leitz operates a massive network of **100 service centers worldwide**. Their 'manufacturer-quality' resharpening service ensures your tool performs like new after every grind, drastically lowering your total cost of ownership.
 * **Tool Management 4.0:** Their '**CompleteCare**' program allows large factories to outsource their entire tool logistics. Leitz manages the stock, the sharpening, and the Just-in-Time delivery, letting you focus purely on production.
 * **Innovation Leader:** Whether it's the **RipTec** jointing system for stronger windows or the **WhisperCut** technology for quieter factories, Leitz consistently sets the technological benchmark that others follow.
 
@@ -113,8 +133,8 @@ With **9 production plants**, **38 distribution centers**, and over **4,000 empl
 
 ### Revolutionary Cutting Technologies
 
-* **Marathon Coating:** A proprietary coating that extends tool life by up to **5 times**, especially effective in wet and acidic woods (a common pain point in window manufacturing).
-* **WhisperCut:** The industry benchmark for noise reduction. By using lightweight bodies and optimized geometries, these tools reduce noise by up to **5 dB(A)**—a massive improvement for worker safety.
+* **Marathon Coating:** A proprietary coating that extends tool life by 30%, especially effective in wet and acidic woods (a common pain point in window manufacturing).
+* **WhisperCut:** The industry benchmark for noise reduction. By using lightweight bodies and optimized geometries, these tools produce noise by up to **5 dB(A)**, a massive improvement for worker safety.
 * **RipTec Cutting:** A patented ribbed cutting profile that increases the glue surface area for window joints, creating stronger, weather-resistant connections.
 
 ### Digital & Intelligent Tooling
@@ -124,7 +144,7 @@ With **9 production plants**, **38 distribution centers**, and over **4,000 empl
 
 ### Service & Lifecycle Management
 
-* **Resharpening Network:** With over **120 service locations** globally, Leitz picks up your dull tools and returns them sharpened to original factory specifications.
+* **Resharpening Network:** With over **100 service locations** globally, Leitz picks up your dull tools and returns them sharpened to original factory specifications.
 * **Tool Recycling:** A sustainable loop where Leitz collects used carbide scrap (drills, inserts) and credits the customer, ensuring raw materials are responsibly recycled.
 
 ## Contact & Ordering
