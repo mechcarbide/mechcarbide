@@ -84,7 +84,8 @@
 {{- end }}
 
 {{- /* Search */}}
-{{- if (eq .Layout `search`) -}}
+{{- /* 检查布局是否为 search 且 相对路径不是 /search/ */}}
+{{- if (and (eq .Layout `search`) (not (eq .RelPermalink "/search/"))) -}} 
 <link crossorigin="anonymous" rel="preload" as="fetch" href="../index.json">
 {{- $fastsearch := resources.Get "js/fastsearch.js" | js.Build (dict "params" (dict "fuseOpts" site.Params.fuseOpts)) | resources.Minify }}
 {{- $fusejs := resources.Get "js/fuse.basic.min.js" }}
