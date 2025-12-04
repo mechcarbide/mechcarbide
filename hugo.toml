@@ -22,20 +22,15 @@ pagerSize = 10
   authorAvatar = "/images/author.jpg"
 
 
-  [params.assets]
-    # Favicon
-    favicon = "/favicon.ico"
-    apple_touch_icon = "/apple-touch-icon.png"
-    safari_pinned_tab = "/favicon.svg"
-
   [params.label]
-    icon = "/favicon-96x96.png"
+    icon = "/favicon.svg"
   
+
+
   [params.footer]
     text = "[Privacy Policy](/privacy-policy/)"
 
 
-  
 
 [taxonomies]
   tag = "tags"
