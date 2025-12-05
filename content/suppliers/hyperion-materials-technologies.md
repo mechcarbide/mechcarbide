@@ -1,209 +1,102 @@
 ---
-title: Hyperion Materials & Technologies
-display_name: Hyperion
-type: suppliers
-description: Born from GE & Sandvik, Hyperion is a global leader in Tungsten
-  Carbide & Synthetic Diamond. Specializing in Can Tooling, Rotary Cutting, and
-  revolutionary Carbide 3D Printing.
-
-summary: United States | Products include powders, blanks, preforms, and wear parts made from tungsten carbide, synthetic diamond, and cubic boron nitride.
-
-name: Hyperion Materials & Technologies
-website: https://www.hyperionmt.com/
-structured_description: >
-  Hyperion Materials & Technologies is a premier global developer of hard and super-hard material solutions, boasting a legacy of over 70 years rooted in General Electric (GE), Diamond Innovations, and Sandvik Hard Materials. With over 2,000 employees and a vertically integrated supply chain, Hyperion manufactures Tungsten Carbide, Synthetic Diamond (PCD), and Cubic Boron Nitride (CBN). Key capabilities include revolutionary Carbide Additive Manufacturing (3D Printing), comprehensive material analysis, and sustainable carbide recycling. Hyperion is a dominant market leader in Can Tooling, Hot Rolling, and Rotary Cutting solutions for global industries.
-addressLocality: Worthington
-addressRegion: Ohio
 addressCountry: United States
-email: Unknown
-
-regions:
-  - united-states
-
+summary: United States | Products include powders, blanks, preforms, and wear
+  parts made from tungsten carbide, synthetic diamond, and cubic boron nitride.
+addressRegion: Ohio
+display_name: Hyperion
+name: Hyperion Materials & Technologies
+structured_description: >
+  Hyperion Materials & Technologies is a premier global developer of hard and
+  super-hard material solutions, boasting a legacy of over 70 years rooted in
+  General Electric (GE), Diamond Innovations, and Sandvik Hard Materials. With
+  over 2,000 employees and a vertically integrated supply chain, Hyperion
+  manufactures Tungsten Carbide, Synthetic Diamond (PCD), and Cubic Boron
+  Nitride (CBN). Key capabilities include revolutionary Carbide Additive
+  Manufacturing (3D Printing), comprehensive material analysis, and sustainable
+  carbide recycling. Hyperion is a dominant market leader in Can Tooling, Hot
+  Rolling, and Rotary Cutting solutions for global industries.
+addressLocality: Worthington
+title: Hyperion Materials & Technologies
+type: suppliers
+regions: united-states
+structured_data:
+  website: https://www.hyperionmt.com/
+  email: Unknown
+  addressLocality: Worthington
+  addressRegion: Ohio
+  addressCountry: United States
+  structured_description: Hyperion Materials & Technologies is a premier global
+    developer of hard and super-hard material solutions, boasting a legacy of
+    over 70 years rooted in General Electric (GE), Diamond Innovations, and
+    Sandvik Hard Materials. With over 2,000 employees and a vertically
+    integrated supply chain, Hyperion manufactures Tungsten Carbide, Synthetic
+    Diamond (PCD), and Cubic Boron Nitride (CBN). Key capabilities include
+    revolutionary Carbide Additive Manufacturing (3D Printing), comprehensive
+    material analysis, and sustainable carbide recycling. Hyperion is a dominant
+    market leader in Can Tooling, Hot Rolling, and Rotary Cutting solutions for
+    global industries.
+website: https://www.hyperionmt.com/
 categories:
   - carbide-blanks-and-preforms
   - carbide-dies-molds-and-punches
+email: Unknown
+description: Born from GE & Sandvik, Hyperion is a global leader in Tungsten
+  Carbide & Synthetic Diamond. Specializing in Can Tooling, Rotary Cutting, and
+  revolutionary Carbide 3D Printing.
 ---
 ## Quick Facts
 
-**Headquarters:** United States
+**Headquarters:** USA
 
 **Established:** 1955
 
 **Business Type:** Manufacturer
 
-**Employee:** >2000 (worldwide)
+**Employees:** >2,000
 
-**Ideal For:** Wholesalers / End Users / Tool Makers
+## 📦 Products
 
-## Editor's Review
+**Hard Materials:** Mesh/Micron Diamond, CBN, PCD (Compax™), PCBN (BZN™).
 
-Hyperion is not just a carbide supplier; it is the **genetic successor of giants**. Born from the combined legacies of **General Electric (GE)**—the inventors of synthetic diamond—and **Sandvik Hard Materials**, Hyperion possesses an unrivaled pedigree in both diamond and cemented carbide technologies.
+**Precision Components:** Can Tooling (Bodymakers/Cuppers), Rotary Cutters, Fluid Nozzles.
 
-### Why choose Hyperion?
+**Carbide Blanks:** Rods, Gear Hob Blanks, Insert Blanks, Mining Compacts.
 
-* **The Can Tooling Authority:** If you are in the metal packaging industry, Hyperion is the definitive global leader. Their expertise in Bodymaker and Cupper tooling is the industry standard.
-* **Design Freedom:** While most suppliers are limited by traditional pressing molds, Hyperion’s **Additive Manufacturing (3D Printing) capability** allows engineers to design complex carbide geometries (like internal cooling channels) that were previously impossible, without sacrificing wear resistance.
-* **Vertical Control:** From their own tungsten powder production to finished precision components, their vertically integrated supply chain offers a level of traceability and consistency that generic suppliers cannot match.
+**Wear Parts:** Wire Drawing Dies, Rolls for Steel Mills, High-Pressure Components.
 
-## Product Range
+**Powder:** Ready-To-Press (RTP) Tungsten Carbide, Thermal Spray Powder.
 
-### Abrasives
+## 📌 Editor's Insight
 
-* Mesh CBN
-* Micron CBN Powders
-* Synthetic Mesh Diamonds
-* Micron Diamond Powders
-* Ultra Premium Micron Diamond Powder
+**Best For:** Metal Packaging (Can) Manufacturers, Energy Sector (Oil & Gas) buyers, and Precision Tool Makers requiring premium PCD/PCBN substrates.
 
-### Can Tooling
+### The Technical Advantage (Hard Power)
 
-* Cupper Press Tooling Solutions
-* Bodymaker Tooling Solutions
-* Necker Tooling Solutions
+* **Additive Manufacturing:** Hyperion has mastered the industrialization of **Carbide 3D printing**. This technology liberates engineers from traditional molding constraints, enabling the creation of components with complex internal cooling channels or lattice structures. For the buyer, this translates to significantly improved thermal management in high-heat applications, extending tool life where standard parts fail.
+* **The Diamond Legacy:** As the successor to **General Electric**'s superhard material division (the inventors of synthetic diamond), Hyperion offers the industry's most proven **PCD (Compax™)** and **PCBN (BZN™)** materials. This deep metallurgical lineage guarantees unmatched thermal stability and abrasion resistance, providing critical reliability for machining advanced aerospace alloys and composites.
+* **Can Tooling Authority:** For the **metal packaging** industry, Hyperion's specialized carbide grades for **Bodymakers** and **Cuppers** are the global benchmark. These tools are engineered to withstand millions of high-speed strokes without deformation, ensuring maximum throughput and minimizing downtime for beverage can production lines.
 
-### Carbide Rods
+### The Operational Advantage (Soft Power)
 
-* High Performance Carbide Rods
-* Application Specific Carbide Rods
-* General Purpose Carbide Rods
+* **Vertical Integration & R&D:** Hyperion controls the entire chain from tungsten powder production to finished precision components. This allows their R&D team (130+ scientists) to analyze customer-specific wear patterns and "tweak" the material composition at the powder level, creating custom-formulated solutions.
+* **Sustainability & Recycling:** They offer a comprehensive global **recycling service** that converts scrap carbide back into virgin-quality raw materials. This helps large industrial clients stabilize raw material costs against mining fluctuations.
 
-### Carbide Rolls
+## 🏆 Certificates
 
-* Tungsten Carbide Rings
-* Tungsten Carbide Rolls
+ISO 9001 (Quality Management)
 
-### Diamond Compounds & Slurries
+ISO 14001 (Environmental Management)
 
-* Diamond Compound Pastes
-* Diamond Slurries & Suspensions
-* Hyperion Diamond Slurry
+ISO 45001 (Occupational Health & Safety)
 
-### Metal Forming Tools
+IATF 16949 (Automotive Quality - Barcelona Site)
 
-* Forming Tools Blanks
-* High-pressure, high-temperature (HPHT) Diamond & Carbide Tools
+EN 9100 (Aerospace Quality - Epinouze Site)
 
-### Gear Cutting Tool Blanks
-
-* Gear Hob Cutter Blanks
-* Bevel Stick Blade Blanks
-* Skivit™ Power Skiving Blanks
-
-### Insert Blanks
-
-* Custom Insert Blanks
-
-### Mining
-
-* Carbide Mining Solutions
-
-### Oil and Gas Components
-
-* Drill Bits and Downhole Tools
-* Rotary Steerable Systems
-* Flow Control Valves
-
-### Polycrystalline Cubic Boron Nitride (PCBN)
-
-* BZN™ Compacts
-* Specialty Thick BZN™
-
-### Polycrystalline Diamond (PCD)
-
-* Compax™ PCD Tool Blanks
-* P-Series PCD
-* U-Series PCD
-
-### Precision Solutions
-
-* Defense Machining Components
-
-### Ready-To-Press (RTP) Powders
-
-* Custom Tungsten Carbide Powder
-* Standard Tungsten Carbide Powder
-
-### Rotary Die Cutters
-
-### Carbide Saw Tips and Blanks
-
-* Metal Cutting Saw Tip Blanks
-* Tungsten Carbide Strip Blanks
-
-### Wear Parts
-
-* Cold Forming Processes
-* Engine and Transmission
-* Fluid and Food Processing
-* Medical and Dental
-* General Wear Solutions
-
-### Wire Drawing Dies
-
-* Cemented Carbide Nib Blanks
-* Compax™ PCD Wire Die Blanks
-* DuraNib™ Carbide Nibs
-* Shaving Die Blanks
-* Versirion™ & Versimax™
-* 6UDPlus Steel Cord Wire Drawing Grade
-
-## Company Profile
-
-### A Legacy of Titans
-
-Hyperion Materials & Technologies stands on the shoulders of industry titans. Its history spans over **seven decades**, rooted in the pioneering work of **General Electric (GE)**, **Diamond Innovations**, and **Sandvik Hard Materials**. Today, as an independent global leader, Hyperion employs over **2,000 experts** across the globe, dedicated to developing advanced hard and super-hard material solutions.
-
-### Global R&D and Innovation
-
-Innovation is in Hyperion's DNA. With a specialized **Carbide Research & Development Center in Barcelona** and materials analysis laboratories in the USA and Germany, the company employs over **130 R&D scientists**. They hold more than **180 active patent families**, proving their commitment to staying ahead of market needs. Their recent expansion includes acquiring specialized precision manufacturers like **GLE Precision** and **Crafts Technology**, further cementing their ability to deliver finished, high-precision components.
-
-### Sustainability & Recycling
-
-Hyperion is deeply committed to closing the loop. Through strategic global partnerships, they offer comprehensive **carbide recycling services**, converting scrap into virgin-quality raw materials. This not only reduces reliance on unstable mining supply chains but also cuts energy consumption by 70% compared to producing new tungsten.
-
-## Capabilities
-
-### The Frontier: Additive Manufacturing (AM)
-
-Hyperion is one of the few companies globally that has mastered **Carbide 3D Printing**.
-
-* **No Compromise:** Unlike traditional sintering, which limits shapes, their AM process delivers complex geometries (such as lattice structures or curved internal channels) with the same wear resistance as conventionally pressed carbide.
-* **Rapid Prototyping:** Minimum batch sizes are irrelevant. Customers can test functional carbide prototypes in days, not months.
-
-### World-Class Materials Analysis
-
-Their Worthington, Ohio laboratory is a powerhouse of analytical science, ensuring every batch meets rigorous standards:
-
-* **Microscopy:** Scanning Electron Microscopy (SEM) for microstructure analysis.
-* **Chemical Analysis:** ICP-OES and XRD for precise elemental composition.
-* **Physical Testing:** From Vickers hardness to magnetic saturation and porosity analysis.
-* **Post-Mortem Analysis:** They don't just sell tools; they analyze why your used tools failed to engineer better solutions for the next generation.
-
-### Specialized Application Competence
-
-Hyperion translates material science into industry-specific dominance:
-
-* **Can Tooling:** Complete solutions for DWI cans, bodymakers, and neckers.
-* **Hot Rolling:** Composite rolls and Cast-in-Carbide (CIC™) solutions for steel mills.
-* **Rotary Cutting:** High-volume cutters for hygiene and non-woven industries.
-
-## Certificates List
-
-ISO 9001:2015
-
-ISO 14001:2015
-
-ISO 45001:2018
-
-IATF 16949:2016 (Barcelona, Spain)
-
-EN 9100:2018 (Epinouze, France)
-
-## Contact & Ordering
+## 📩 Contact & Ordering
 
 **Website:** https://www.hyperionmt.com/
 
 **Phone:** +1-800-343-0636
 
-**Service Region:** Global
+**Service Region:** Global (USA, Europe, Asia, Mexico)
