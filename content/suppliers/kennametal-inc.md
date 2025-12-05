@@ -56,7 +56,7 @@ Aerospace, automotive, mining, infrastructure contractors, and high-volume machi
 * Industry-leading carbide grades with predictable performance
 * Strong support for reducing cost-per-part and improving uptime
 
-## 🛒Strengths & Specialties
+## ✨Strengths & Specialties
 
 * **Metal Cutting Tools:** Indexable inserts, solid carbide tools, PCD tooling
 * **Mining Tools:** Bits, conical picks, KenCast™ wear-protection
