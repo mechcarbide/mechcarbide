@@ -1,155 +1,105 @@
 ---
-title: ISCAR LTD.
+addressCountry: Israel
+summary: Israel | Products include metalworking carbide inserts for parting &
+  grooving, milling, turning, drilling, threading, as well as tool holding
+  systems.
+addressRegion: Western Galilee
 display_name: ISCAR
+name: ISCAR LTD.
+structured_description: >
+  ISCAR Ltd., headquartered in Tefen, Israel, is the flagship company of the IMC
+  Group, wholly owned by Berkshire Hathaway. Founded in 1952, ISCAR is a premier
+  innovator in precision carbide metalworking tools, dedicating approx. 10% of
+  resources to R&D. The company is renowned for its modular 'No Setup Time'
+  technologies, including the MULTI-MASTER milling and CHAMDRILL drilling lines.
+  ISCAR was the world's first tool manufacturer to achieve QS-9000 certification
+  and holds AS9100 Rev D for aerospace. Beyond tools, ISCAR provides Industry
+  4.0 solutions through its MATRIX automated tool dispensers.
+addressLocality: Tefen
+title: ISCAR LTD.
 type: suppliers
+regions: israel
+structured_data:
+  website: https://www.iscar.com/
+  email: headquarters@iscar.co.il
+  addressLocality: Tefen
+  addressRegion: Western Galilee
+  addressCountry: Israel
+  structured_description: ISCAR Ltd., headquartered in Tefen, Israel, is the
+    flagship company of the IMC Group, wholly owned by Berkshire Hathaway.
+    Founded in 1952, ISCAR is a premier innovator in precision carbide
+    metalworking tools, dedicating approx. 6%~10% of resources to R&D. The
+    company is renowned for its modular 'No Setup Time' technologies, including
+    the MULTI-MASTER milling and CHAMDRILL drilling lines. ISCAR was the world's
+    first tool manufacturer to achieve QS-9000 certification and holds AS9100
+    Rev D for aerospace. Beyond tools, ISCAR provides Industry 4.0 solutions
+    through its MATRIX automated tool dispensers.
+website: https://www.iscar.com/
+categories:
+  - metal-cutting-tools-and-inserts
+email: headquarters@iscar.co.il
 description: ISCAR is a Berkshire Hathaway company & global leader in
   metalworking innovation. Home of MULTI-MASTER, CHAMDRILL, and 'High IQ'
   tooling solutions for zero setup time.
-
-summary: Israel | Products include metalworking carbide inserts for parting & grooving, milling, turning, drilling, threading, as well as tool holding systems.
-
-name: ISCAR LTD.
-website: https://www.iscar.com/
-structured_description: >
-  ISCAR Ltd., headquartered in Tefen, Israel, is the flagship company of the IMC Group, wholly owned by Berkshire Hathaway. Founded in 1952, ISCAR is a premier innovator in precision carbide metalworking tools, dedicating approx. 10% of resources to R&D. The company is renowned for its modular 'No Setup Time' technologies, including the MULTI-MASTER milling and CHAMDRILL drilling lines. ISCAR was the world's first tool manufacturer to achieve QS-9000 certification and holds AS9100 Rev D for aerospace. Beyond tools, ISCAR provides Industry 4.0 solutions through its MATRIX automated tool dispensers.
-addressLocality: Tefen
-addressRegion: Western Galilee
-addressCountry: Israel
-email: headquarters@iscar.co.il
-
-regions:
-  - israel
-
-categories:
-  - metal-cutting-tools-and-inserts
 ---
 ## Quick Facts
 
-**Headquarters:** Israel
+Headquarters: Israel
 
-**Established:** 1952
+Established: 1952
 
-**Business Type:** Manufacturer
+Business Type: Manufacturer
 
-**Ideal For:** End Users / Tool Makers
+## 📦 Products
 
-## Editor's Review
+Parting & Grooving: Parting, Groove Turn, Face Grooving.
 
-If Sandvik is the encyclopedia of tooling, ISCAR is the iPhone. As the crown jewel of the **IMC Group (a Berkshire Hathaway company)**, ISCAR is famous for rewriting the rules of machining geometry. They don't just improve existing tools; they invent entirely new categories.
+Hole Making: SUMOCHAM (Exchangeable Head Drills), Deep Drilling, Reaming.
 
-### Why ISCAR is unique:
+Milling: MULTI-MASTER (Exchangeable Head Endmills), High-Feed Milling.
 
-* **The Modular Revolution:** Their **MULTI-MASTER** and **CHAMDRILL** lines allow operators to replace just the carbide head without removing the tool shank from the machine. This 'No Setup Time' concept saves thousands of hours annually for factories.
-* **Obsessive Innovation:** Dedicating **10% of resources to R&D** (nearly double the industry average) pays off. ISCAR was the first metalworking company globally to achieve **QS-9000** certification, proving their quality systems are decades ahead of the curve.
-* **Direct & Digital:** With their **MATRIX** automated dispensers and a direct sales model, ISCAR doesn't just sell you inserts; they literally manage your inventory on your shop floor, guaranteeing you never run out of critical tools.
+Turning: ISO Turning, Heavy Duty Turning, Thread Turning.
 
-## Product Range
+Tool Holding: SHRINKIN Chucks, Hydraulic Chucks, Dampened Boring Bars.
 
-### Parting & Grooving
+Industry 4.0: MATRIX Automated Tool Dispensers.
 
-* Parting
-* Groove Turn
-* Face Grooving
+## 📌 Why Choose ISCAR?
 
-### Turning
+Best For: Aerospace Manufacturers, Automotive Industry, Energy Sector, Die & Mold Production, General Metalworking & Industrial Manufacturing.
 
-* ISO Turning Tools
-* SUMOTURN
-* HELITURN
-* JETCUT
+The Technical Advantage (Hard Power)
 
-### Hole Making
+Modular "No-Setup" Revolution (MULTI-MASTER & SUMOCHAM): ISCAR redefined efficiency with its interchangeable head systems for milling and drilling. Unlike standard tools that require total replacement and re-measuring, ISCAR allows operators to replace just the worn carbide head while the shank remains clamped in the machine. This guarantees zero repeatability error and eliminates setup time, saving thousands of production hours annually for busy factories.
 
-* Reamers
-* Drilling
-* Deep Drilling
-* Boring
+Advanced Geometry & Tangential Clamping (LOGIQ): ISCAR is famous for inventing entirely new machining logic, such as mounting inserts tangentially (sideways) to direct cutting forces into the holder's thickest cross-section. This structural rigidity allows for extreme feed rates that would snap standard tools, significantly boosting productivity in parting, grooving, and heavy milling operations.
 
-### Threading
+The Operational Advantage (Soft Power)
 
-* Thread Turning
-* Thread Milling
-* One Tap
+Smart Shop Floor Management (MATRIX): They go beyond manufacturing tools by managing them via MATRIX automated dispensers. These smart vending machines track every insert usage and automate re-ordering, guaranteeing that a factory never faces a production stoppage due to running out of critical inventory.
 
-### Milling
+R&D Powerhouse Stability: As the crown jewel of the IMC Group (a Berkshire Hathaway company), ISCAR reinvests roughly 6%~10% of sales into R&D. This massive financial backing ensures a continuous stream of "First-to-Market" innovations, giving their partners access to the most advanced machining strategies years before they become industry standards.
 
-* Milling & Drilling
-* Profiling
-* Solid Carbide
-* HPC
-* Shouldering
-* Plunging
-* Facing
-* Slotting
-* Slitting
-* HFM
-* Thread Milling
-* MULTI-MASTER
+## 🏆Certificates
 
-### Heavy General
+AS9100 Rev D (Aerospace Quality)
 
-### Solutions for Miniature Applications
+ISO 9001:2015 (Quality Management)
 
-### Toolholding
+QS-9000 (Automotive Quality - First in the industry)
 
-* Damping Systems
-* Chucking System
-* Straight Shank
-* ITSBORE
-* Clamping System
-* SHRINKIN - Integral Shrink Chucks
-* SPINJET
+ISO 14001:2015 (Environmental Management)
 
-## Company Profile
+ISO 45001:2018 (Occupational Health & Safety)
 
-### From a Backyard Shack to Warren Buffett's Portfolio
+ISO 50001:2018 (Energy Management)
 
-ISCAR's story is one of the most legendary in the industrial world. Founded in 1952 by Stef Wertheimer in a small shack in Israel, it has grown into the largest of the 15 companies comprising the **IMC Group**. In 2006, ISCAR's relentless growth and profitability caught the eye of **Berkshire Hathaway**, making it one of Warren Buffett’s most significant international acquisitions.
+## 📩Contact & Ordering
 
-### Global Powerhouse
+Website: https://www.iscar.com/
 
-Today, headquartered in Tefen, Israel, ISCAR operates in over **60 countries** with more than **130 subsidiaries**. Their massive central manufacturing facility is a fully automated marvel of robotics and AI. ISCAR is not just a manufacturer but an educational institution, hosting technical seminars globally to train customers on the latest 'High IQ' machining strategies.
+Email: headquarters@iscar.co.il
 
-## Capabilities
+Service Region: Global (active in 60+ countries)
 
-### Modular "Change-and-Go" Technology
-
-ISCAR dominates the market with its interchangeable head systems:
-
-* **MULTI-MASTER:** A family of milling tools with threaded carbide heads. Operators can replace a worn head by hand in seconds, ensuring **zero repeatability error** and eliminating machine downtime.
-* **CHAMDRILL / SUMOCHAM:** The world's most successful interchangeable tip drilling lines. The unique **self-clamping** design uses cutting forces to tighten the grip—the harder you drill, the tighter it holds.
-
-### LOGIQ & High-Feed Geometries
-
-ISCAR's "LOGIQ" campaign focuses on smarter machining:
-
-* **Tangential Clamping:** Their inserts are often mounted tangentially (sideways) rather than flat. This directs cutting forces into the thickest part of the holder, allowing for **extreme feed rates** that would snap standard tools.
-* **JET-CUT Cooling:** Many ISCAR tools feature internal coolant channels that blast high-pressure fluid directly at the cutting edge, breaking chips instantly and extending tool life in heat-resistant superalloys (HRSA).
-
-### Industry 4.0 & Tool Management
-
-* **MATRIX Dispensers:** Smart vending machines that track every single insert usage.
-* **Insert Converter:** An intelligent app that cross-references competitors' grades to find the exact ISCAR equivalent, making switching suppliers seamless.
-
-### Grades
-
-To view the full technical parameters of the manufacturing processes mentioned above, you can download the comprehensive material list and grade specifications here:
-
-📄 [Download Official ISCAR Grade Chart](https://www.iscar.com/eCatalog/GradesGuide.aspx)
-
-## Certificates List
-
-* **AS9100 Rev D**
-* ISO 9001:2015
-* **QS-9000**
-* ISO 14001:2015
-* ISO 45001:2018
-* ISO 50001:2018
-
-## Contact & Ordering
-
-**Website:** https://www.iscar.com/
-
-**Email:** headquarters@iscar.co.il
-
-**Service Region:** Global (active in 60+ countries)
+*[[Visit Official Carbide Grade Chart](https://www.iscar.com/eCatalog/GradesGuide.aspx)]*
