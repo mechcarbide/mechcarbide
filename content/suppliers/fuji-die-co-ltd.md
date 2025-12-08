@@ -1,117 +1,94 @@
 ---
-title: Fuji Die Co., Ltd.
+addressCountry: Japan
+summary: Japan | Products include carbide dies and plugs, carbide rolls, motor
+  core molds, battery-related molds, can manufacturing tools, mold parts for
+  optical elements, and more.
+addressRegion: Tokyo
 display_name: Fuji Die
+name: Fuji Die Co., Ltd.
+structured_description: >
+  Fuji Die Co., Ltd., headquartered in Tokyo, Japan, is a publicly traded
+  company (TSE Prime Market) and a global leader in wear-resistant carbide tools
+  and molds. Established in 1949, the company manufactures under the famous
+  'FUJILLOY' brand. Fuji Die specializes in high-performance tungsten carbide
+  solutions, including the 'VG48' grade for EV motor lamination stamping and
+  'FS06' nano-grade carbide for precision electronics. With ISO 9001
+  certifications and 7 international subsidiaries, Fuji Die serves the
+  automotive, battery, and metal forming industries with unmatched Japanese
+  precision.
+addressLocality: Ota-ku
+title: Fuji Die Co., Ltd.
 type: suppliers
+regions: japan
+structured_data:
+  website: https://www.fujidie.co.jp/
+  addressLocality: Ota-ku
+  email: Unknown
+  addressRegion: Tokyo
+  addressCountry: Japan
+  structured_description: Fuji Die Co., Ltd., headquartered in Tokyo, Japan, is a
+    publicly traded company (TSE Prime Market) and a global leader in
+    wear-resistant carbide tools and molds. Established in 1949, the company
+    manufactures under the famous 'FUJILLOY' brand. Fuji Die specializes in
+    high-performance tungsten carbide solutions, including the 'VG48' grade for
+    EV motor lamination stamping and 'FS06' nano-grade carbide for precision
+    electronics. With ISO 9001 certifications and 7 international subsidiaries,
+    Fuji Die serves the automotive, battery, and metal forming industries with
+    unmatched Japanese precision.
+website: https://www.fujidie.co.jp/
+categories:
+  - carbide-dies-molds-and-punches
+email: Unknown
 description: Fuji Die (FUJILLOY) is Japan's premier manufacturer of
   wear-resistant carbide tools & molds. Specializing in EV motor lamination dies
   (VG48) and nano-grade precision.
-
-summary: Japan | Products include carbide dies and plugs, carbide rolls, motor core molds, battery-related molds, can manufacturing tools, mold parts for optical elements, and more.
-
-name: Fuji Die Co., Ltd.
-website: https://www.fujidie.co.jp/
-structured_description: >
-  Fuji Die Co., Ltd., headquartered in Tokyo, Japan, is a publicly traded company (TSE Prime Market) and a global leader in wear-resistant carbide tools and molds. Established in 1949, the company manufactures under the famous 'FUJILLOY' brand. Fuji Die specializes in high-performance tungsten carbide solutions, including the 'VG48' grade for EV motor lamination stamping and 'FS06' nano-grade carbide for precision electronics. With ISO 9001 certifications and 7 international subsidiaries, Fuji Die serves the automotive, battery, and metal forming industries with unmatched Japanese precision.
-addressLocality: Ota-ku
-addressRegion: Tokyo
-addressCountry: Japan
-email: Unknown
-
-regions:
-  - japan
-
-categories:
-  - carbide-dies-molds-and-punches
 ---
-## Quick Facts
+Quick Facts
 
-**Headquarters:** Japan
+Headquarters: Japan
 
-**Established:** 1949
+Established: 1949
 
-**Business Type:** Manufacturer
+Business Type: Manufacturer
 
-**Employee:** Approx. 1000
+Employee: ~1,000 (Global)
 
-**Certificate:** ISO 9001, ISO 14001
+📦 Products
 
-**Ideal For:** EV Motor Core Manufacturers, Electronic Connector Stampers, and Wire Drawing Mills
+Forming and Wear-Resistant Tools: Dies and Plugs, Rolls, Powder Compacting Mold, Cold Forging Tool.
 
-## Editor's Review
+Specialized Dies and Components: Can Manufacturing Tool, Mold Parts for Optical Elements, Motor Core Mold, Battery-Related Mold.
 
-In the niche world of wear-resistant tools and molds, Fuji Die is the undisputed heavyweight champion of Asia. Unlike generalist carbide suppliers, Fuji Die's entire DNA is engineered for one thing: **Extreme Wear Resistance**.
+Base Materials and Coatings: Carbide Material (Blank), Steel Tool, CVC/PVD Coating Tool, Ceramic Tool.
 
-### Why they are the top choice for mold makers:
+📌 Why Choose Fuji Die?
 
-* **The FUJILLOY Standard:** Their proprietary **FUJILLOY carbide grades** are legendary. When a Japanese automotive or electronics engineer needs a mold that lasts **millions of cycles**, they specify FUJILLOY.
-* **Nano-Grain Technology:** Their **FS06 nano-grade carbide** is a technological marvel. By miniaturizing WC particles to the absolute limit, they achieve a sharpness and edge retention that standard micro-grains simply cannot match.
-* **Financial Stability:** As a company listed on the **Prime Market** of the Tokyo Stock Exchange, Fuji Die offers a level of **corporate stability** and **supply chain security** that smaller family-run workshops cannot provide.
+Best For: EV Motor Core Manufacturers, Electronic Connector Stampers, and Wire/Tube Drawing Mills demanding extreme mold longevity and surface finish.
 
-## Product Range
+The Technical Advantage (Hard Power)
 
-* Die and Plug
-* Roll
-* Motor Core Mold
-* Battery-Related Mold
-* Can Manufacturing Tool
-* Mold Parts for Optical Elements
-* Kneading & Extruding Tool
-* Tool for Ultra High Pressure Generator
-* Powder Compacting Mold
-* Cold Forging Tool
-* Precise Cutting Tool
-* Super Precise Carbide Gauge
-* Carbide Material (Blank)
-* Steel Tool
-* CVC/PVD Coating Tool
-* Ceramic Tool
-* Tungsten Based Alloy Tool
-* Copper Tungsten Alloy for Electrode
-* Electroplated Diamond/CBN Tool
-* Self-Lubricating Composite Alloy
+EV Motor Core Specialization (FUJILLOY VG Series): High-speed stamping of thin electrical steel sheets often causes standard carbide edges to chip due to "particle dropout." Fuji Die developed specific grades like VG48 with an optimized binder-structure balance. For EV motor manufacturers, this technology prevents premature edge failure, ensuring molds last for millions of strokes while maintaining burr-free precision.
 
-## Company Profile
+Nano-Grain Technology (FS06): For the semiconductor and micro-electronics industries, standard micro-grain carbide isn't sharp enough. Fuji Die's FS06 utilizes ultra-fine nanoparticles to achieve extreme flexural strength and razor-sharp edge retention. This allows for the production of slitting knives and connector molds that deliver flawless cuts on microscopic components.
 
-### 75 Years of Japanese Precision
+The Operational Advantage (Soft Power)
 
-Founded in 1949 by Takayoshi Shinjo, Fuji Die Co., Ltd. has grown from a local workshop in Fukuoka to a publicly traded giant headquartered in Tokyo. With a capital of **164 million yen** and **approx. 1,000 employees**, Fuji Die operates a vast network of **domestic plants** (Kumamoto, Okayama, etc.) and **international subsidiaries** across Thailand, Indonesia, Malaysia, and India.
+Prime Market Stability: As a company listed on the Tokyo Stock Exchange (Prime Market), Fuji Die offers a level of corporate governance and financial stability that smaller family-run mold shops cannot provide. This makes them a "zero-risk" long-term partner for global automotive and battery giants who require a secure supply chain capable of scaling with their multi-decade production plans.
 
-### A Publicly Listed Powerhouse
+🏆 Certificates
 
-Listed on the **Prime Market** of the Tokyo Stock Exchange (No. 6167), Fuji Die represents the pinnacle of corporate governance and manufacturing reliability. Their extensive manufacturing footprint, including **7 consolidated subsidiaries**, ensures they can meet the massive volume demands of the global **automotive, electronics, and battery** industries.
+ISO 9001 (Quality Management)
 
-## Capabilities
+ISO 14001 (Environmental Management)
 
-### Proprietary Material Science (FUJILLOY)
+📩 Contact & Ordering
 
-Fuji Die doesn't just buy powder; they engineer specific microstructures for specific pains:
+Website: https://www.fujidie.co.jp/
 
-* **For Motor Lamination (VG48):** Designed specifically for high-speed stamping of **EV motor cores**. It perfectly balances wear resistance and toughness to prevent the common issue of WC particle fall-off, extending mold life significantly.
-* **Nano-Grade Precision (FS06):** A breakthrough material with **ultra-fine nanoparticles**. It offers extreme flexural strength and allows for incredibly sharp cutting edges, ideal for **slitting knives** and high-precision **electronic connectors**.
+Phone: +81-3-3759-7181 (Head Office)
 
-### Diverse Product Portfolio
+Service Region: Global (Strong presence in Asia: Thailand, Indonesia, Malaysia, India)
 
-Their "Wear-Resistant" expertise covers a vast range:
+\[View Official Carbide Grade Chart]
 
-* **Drawing Dies:** For wire and tube manufacturing.
-* **Stamping Molds:** For automotive and semiconductor lead frames.
-* **Rolls & Cylinders:** For battery film production and steel rolling.
-* **Hot/Cold Forging Tools:** Capable of withstanding extreme impact and heat.
-
-### Quality Assurance
-
-* **Certified Excellence:** Holding both **ISO 9001** and **ISO 14001** certifications across their group companies, Fuji Die maintains rigorous Japanese quality control standards, ensuring every batch of FUJILLOY performs identically.
-
-### Grades
-
-To view the full technical parameters of the manufacturing processes mentioned above, you can download the comprehensive material list and grade specifications here:
-
-📄 [Download Official Fuji Die Grade Chart](https://www.fujidie.co.jp/en/products/materials)
-
-## Contact & Ordering
-
-**Website:** https://www.fujidie.co.jp/
-
-**Phone:**＋81-3-3759-7181 (Head Office)
-
-**Service Region:** Global
+https://www.fujidie.co.jp/en/products/materials
