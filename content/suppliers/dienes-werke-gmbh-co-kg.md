@@ -1,27 +1,46 @@
 ---
-title: DIENES Werke GmbH & Co. KG
+addressCountry: Germany
+summary: Germany | Products include circular knives, straight knives, razor
+  blades, knife holders, slitting systems, guide rails, compressor valves, and
+  spare parts.
+addressRegion: North Rhine-Westphalia
 display_name: DIENES
+name: DIENES Werke GmbH & Co. KG
+structured_description: >
+  DIENES Werke GmbH & Co. KG, established in 1913 in Remscheid, Germany, is the
+  world's leading supplier of precision knives, pneumatic knife holders, and
+  slitting systems for industrial applications. As a 4th-generation family
+  business with 9 global locations, DIENES offers comprehensive solutions
+  including machine retrofits, automatic knife positioning systems, and
+  manufacturer-quality regrinding services. They are renowned for their
+  'Slitting Academy' training programs and hold numerous patents in cutting
+  technology, serving the paper, film, foil, and non-woven industries.
+addressLocality: Overath
+title: DIENES Werke GmbH & Co. KG
 type: suppliers
+regions: germany
+structured_data:
+  website: https://www.dienes.de/
+  email: sales@dienes.de
+  addressLocality: Overath
+  addressRegion: North Rhine-Westphalia
+  addressCountry: Germany
+  structured_description: DIENES Werke GmbH & Co. KG, established in 1913 in
+    Remscheid, Germany, is the world's leading supplier of precision knives,
+    pneumatic knife holders, and slitting systems for industrial applications.
+    As a 4th-generation family business with 9 global locations, DIENES offers
+    comprehensive solutions including machine retrofits, automatic knife
+    positioning systems, and manufacturer-quality regrinding services. They are
+    renowned for their 'Slitting Academy' training programs and hold numerous
+    patents in cutting technology, serving the paper, film, foil, and non-woven
+    industries.
+website: https://www.dienes.de/
+categories:
+  - industrial-knives-and-blades
+email: sales@dienes.de
 description: DIENES Group is a global leader in industrial slitting technology
   since 1913. Specializing in pneumatic knife holders, automatic slitting
   systems, and machine retrofits.
-
-summary: Germany | Products include circular knives, straight knives, razor blades, knife holders, slitting systems, guide rails, compressor valves, and spare parts.
-
-name: DIENES Werke GmbH & Co. KG
-website: https://www.dienes.de/
-structured_description: >
-  DIENES Werke GmbH & Co. KG, established in 1913 in Remscheid, Germany, is the world's leading supplier of precision knives, pneumatic knife holders, and slitting systems for industrial applications. As a 4th-generation family business with 9 global locations, DIENES offers comprehensive solutions including machine retrofits, automatic knife positioning systems, and manufacturer-quality regrinding services. They are renowned for their 'Slitting Academy' training programs and hold numerous patents in cutting technology, serving the paper, film, foil, and non-woven industries.
-addressLocality: Overath
-addressRegion: North Rhine-Westphalia
-addressCountry: Germany
-email: sales@dienes.de
-
-regions:
-  - germany
-
-categories:
-  - industrial-knives-and-blades
 ---
 ## Quick Facts
 
@@ -31,72 +50,40 @@ categories:
 
 **Business Type:** Manufacturer
 
-**Employee:** Approx. 500
+**Employees:** ~500 (9 Locations Worldwide)
 
-**Certificate:** DIN EN ISO 9001:2015
+## 📦 Products
 
-**Ideal For:** Machine Builders (OEMs), Paper & Film Converters, High-End Slitting Operations
+**Knife Holders:** Pneumatic Shear Cut, Crush Cut, Razor Blade, and Heat Cut Holders.
 
-## Editor's Review
+**Industrial Knives:** Circular Top/Bottom Knives, Multi-Groove Knives, Straight Knives.
 
-DIENES is widely regarded as the intellectual leader in the slitting world. While many companies can grind a sharp edge, DIENES engineers the entire ecosystem around the cut. They are the inventors of the modern **pneumatic knife holder** and the pioneers of **automatic slitting positioning systems**.
+**Slitting Systems:** SIMU-FLASH (Automatic Positioning), Manual/Semi-Auto Systems.
 
-### Why DIENES stands alone:
+**Valves & Accessories:** Multi-Port Valves, Depth Control Systems.
 
-* **Beyond the Blade:** Their expertise lies in the interaction between the knife, the holder, and the material. If you are struggling with dust generation or edge quality, DIENES doesn't just sell you a new knife; they analyze your shear angle and holder pressure to solve the root cause.
-* **The Retrofit Expert:** DIENES is the go-to partner for upgrading old slitting lines. Their modular modernization service can turn a 20-year-old manual slitter into a fully automated, Industry 4.0-ready machine without the cost of buying new.
-* **Knowledge Sharing:** With their **Slitting Academy**, they are the only major player actively training the industry on the science of cutting. This commitment to education proves they are true masters of their craft.
+## 📌 Why Choose DIENES?
 
-## Product Range
+**Best For:** Machine Builders (OEMs), Paper & Film Converters, and factories dealing with dust-sensitive materials (e.g., medical packaging, optical films).
 
-### Knife Holders
+### The Technical Advantage (Hard Power)
 
-* Shear Cut Holders
-* Crush Cut Holders
-* Razor Blade Holders
-* Heat Cut Holders
+* **Precision "Shear Angle" Control (The Perfect Cut):** While many suppliers focus only on sharpness, DIENES masters the interaction between the knife and the holder. Their advanced **pneumatic knife holders** (like the "Golden Slit" concept) allow for microscopic adjustment of side load and overlap depth. For converters, this precise geometry control drastically **reduces dust generation** and **extends knife life**, solving the critical issue of edge contamination in high-end **film and paper** processing.
+* **Automatic Positioning Systems (SIMU-FLASH):** In high-mix production, manual knife setup is the biggest cause of downtime. DIENES offers **fully automatic slitting systems** that position knives simultaneously within seconds. This technology eliminates human setup errors and reduces changeover time to a minimum, significantly boosting the Overall Equipment Effectiveness (OEE) for slitting lines.
 
-### Knives
+### The Operational Advantage (Soft Power)
 
-* Circular Top/Bottom Knives
-* Crush Cut Knives
-* Straight Knives
+* **The "Retrofit" Modernization Service:** DIENES is the go-to partner for factories that cannot afford brand-new machinery but need better performance. They specialize in upgrading existing, older slitting lines with modern drive controls and automated knife systems. This allows customers to achieve Industry 4.0 standards and safety compliance at a fraction of the cost of buying a new machine.
+* **Process Validation:** They operate a unique "**Slitting Academy**" and test laboratory. Before you buy, DIENES can test your specific material to determine the exact cutting parameters (shear angle, pressure). This consultative approach ensures you get a solution guaranteed to work for your specific application, rather than just buying off-the-shelf hardware.
 
-### Slitting Systems
+## 🏆 Certificates
 
-* Manual/Semi-Auto/Automatic Positioning Systems
-* SIMU-FLASH
+DIN EN ISO 9001:2015 (Quality Management)
 
-## Company Profile
-
-### 110 Years of Family Innovation
-
-Founded in 1913 in Remscheid, Germany, DIENES has remained a family-owned business for over a century, now led by the third and fourth generations. This long-term stability allows them to focus on deep technological research rather than short-term profits. Today, the DIENES Group employs approx. **500 people** across **9 locations** worldwide, maintaining its status as the global market leader in knives, knife holders, and slitting systems.
-
-### A 360° Performance Promise
-
-DIENES prides itself on being a "holistic" partner. They don't just manufacture components; they act as a development partner, offering everything from standardized series production to individual R&D projects. Their commitment to sustainability is woven into their operations, achieving massive CO2 savings and promoting energy-efficient cutting solutions.
-
-## Capabilities
-
-### World-Class Slitting Systems
-
-* **Pneumatic Knife Holders:** DIENES set the standard for crush cut and shear cut holders. Their holders offer precise side-load control and quick-change features, essential for high-speed converting.
-* **Automatic Positioning:** From manual to fully automatic, their modular systems (like **SIMU-FLASH**) allow for knife setup times of mere seconds, drastically reducing downtime.
-
-### Retrofit & Modernization
-
-* **Machine Upgrades:** They specialize in bringing existing slitting lines up to modern standards. This includes upgrading drive controls, integrating safety features, and installing automated knife positioning systems step-by-step.
-
-### Service & Knowledge
-
-* **Regrinding Network:** Using their self-developed **LEONI DNS-360** grinding machines, DIENES offers manufacturer-quality regrinding worldwide (often within 48 hours). They even provide detailed test reports on tool wear to help you optimize your machine settings.
-* **Slitting Academy:** A unique service offering Kaizen analysis, cutting lab trials, and operator training to ensure customers get the maximum performance out of their equipment.
-
-## Contact & Ordering
+## 📩 Contact & Ordering
 
 **Website:** https://www.dienes.de/
 
 **Email:** sales@dienes.de
 
-**Service Region:** Global
+**Service Regions:** Global (Subsidiaries in USA, Asia, Europe)
