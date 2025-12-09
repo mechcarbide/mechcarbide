@@ -41,13 +41,13 @@ description: Basic Carbide is a premier USA manufacturer of tungsten carbide
 ---
 ## Quick Facts
 
-Headquarters: United States
+**Headquarters:** United States
 
-Established: 1981
+**Established:** 1981
 
-Business Type: Manufacturer
+**Business Type:** Manufacturer
 
-Factory: > 117,000 sq. ft.
+**Factory:** > 117,000 sq. ft.
 
 ## 📦 Products
 
