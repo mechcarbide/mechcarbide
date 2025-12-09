@@ -1,27 +1,44 @@
 ---
-title: SLB
+addressCountry: United States
+summary: United States | Products include PDC bits, PDC cutters, roller cone
+  bits, downhole drilling tools, and more.
+addressRegion: Texas
 display_name: SLB
+name: SLB
+structured_description: >
+  SLB (formerly Schlumberger) is a global technology company driving energy
+  innovation for a balanced planet. Established in the 1920s by the Schlumberger
+  brothers, SLB operates in over 100 countries. Through its Drill Bits &
+  Drilling Tools division (including the heritage Smith Bits brand), SLB designs
+  and manufactures advanced tungsten carbide roller cone bits, PDC cutters, and
+  downhole tools. The company leverages proprietary material science and the
+  IDEAS™ simulation platform to deliver superior drilling performance in the
+  world's toughest rock formations.
+addressLocality: Houston
+title: SLB
 type: suppliers
+regions: united-states
+structured_data:
+  website: https://www.slb.com/
+  email: Unknown
+  addressLocality: Houston
+  addressRegion: Texas
+  addressCountry: United States
+  structured_description: SLB (formerly Schlumberger) is a global technology
+    company driving energy innovation for a balanced planet. Established in the
+    1920s by the Schlumberger brothers, SLB operates in over 100 countries.
+    Through its Drill Bits & Drilling Tools division (including the heritage
+    Smith Bits brand), SLB designs and manufactures advanced tungsten carbide
+    roller cone bits, PDC cutters, and downhole tools. The company leverages
+    proprietary material science and the IDEAS™ simulation platform to deliver
+    superior drilling performance in the world's toughest rock formations.
+website: https://www.slb.com/
+categories:
+  - oil-and-gas-components
+email: Unknown
 description: SLB (formerly Schlumberger) is the global leader in energy
   innovation. Home of Smith Bits, advanced PDC cutters, and industry-leading
   tungsten carbide drilling technologies.
-
-summary: United States | Products include PDC bits, PDC cutters, roller cone bits, downhole drilling tools, and more.
-
-name: SLB
-website: https://www.slb.com/
-structured_description: >
-  SLB (formerly Schlumberger) is a global technology company driving energy innovation for a balanced planet. Established in the 1920s by the Schlumberger brothers, SLB operates in over 100 countries. Through its Drill Bits & Drilling Tools division (including the heritage Smith Bits brand), SLB designs and manufactures advanced tungsten carbide roller cone bits, PDC cutters, and downhole tools. The company leverages proprietary material science and the IDEAS™ simulation platform to deliver superior drilling performance in the world's toughest rock formations.
-addressLocality: Houston
-addressRegion: Texas
-addressCountry: United States
-email: Unknown
-
-regions:
-  - united-states
-
-categories:
-  - oil-and-gas-components
 ---
 ## Quick Facts
 
@@ -29,69 +46,45 @@ categories:
 
 **Established:** 1926
 
-**Business Type:** Manufacturer
+**Business Type:** Global Technology Company
 
-**Factory Size:** 900+ facilities
+**Factory:** 900+ facilities
 
-**Ideal For:** Major Energy Operators, Directional Drilling Projects, Geothermal & Mining Companies
+**Employee:** >100,000
 
-## Editor's Review
+## 📦 Products
 
-SLB (formerly Schlumberger) is not just a supplier; they are the **operating system of the global oil & gas industry**. While their recent rebranding emphasizes digital and new energy, their legacy in hard rock drilling remains unmatched through their **Smith Bits** heritage.
+**Innovating in Oil and Gas:** Rig and Rig-Equipment, Drill Bits and Downhole Tools, Drilling Fluids and Fluid-Management Systems.
 
-### Why SLB defines the industry:
+**Decarbonizing Industry:** Gas Treatment Systems, Horizontal Pumping Systems.
 
-* **Material Science at the Edge:** SLB doesn't just buy carbide; they engineer it. Their drill bits utilize proprietary PDC and tungsten carbide grades designed to survive the harshest environments on Earth (high heat, extreme abrasion, and shock).
-* **The Smith Bits Legacy:** By integrating Smith Bits, SLB offers the world's most advanced portfolio of Roller Cone and PDC bits. If you are drilling through the toughest granite or abrasive sandstone, their bit technology is the gold standard.
-* **Global Scale:** With hubs in **100+ countries** and R&D centers that rival top universities, SLB offers a level of field support and technical availability that no standalone carbide manufacturer can touch.
+**Scaling New Energy Systems:** Integrated Lithium Solutions, Geothermal & Hydrogen Technologies.
 
-## Product Range
+**Delivering Digital at Scale:** Lumi Data and AI Platform, Digital Transformation Tools.
 
-### Drill Bits (Smith Bits)
+## 📌 Why Choose SLB?
 
-* PDC Bits
-* Roller Cone Bits
-* Stinger™ Elements
+**Best For:** Major Oil & Gas Operators, Geothermal Drilling Projects, and Mining Companies facing extreme drilling environments (Hard Rock, HPHT) where equipment failure is not an option.
 
-### Downhole Drilling Tools
+### The Technical Advantage (Hard Power)
 
-* Rotary Steerable Systems (RSS)
-* Reamers & Hole Openers
-* Mud Motors
+* **Crushing Hard Rock:** SLB's Smith Bits portfolio solves the classic trade-off between **durability** and **drilling speed**. Their proprietary **Stinger™ conical diamond elements** feature a significantly **thicker diamond layer** than standard flat cutters. This unique geometry creates a concentrated point load to fracture high-compressive-strength rock more efficiently, delivering superior impact resistance and drastically increasing Rate of Penetration (ROP) in the toughest formations where standard bits fail.
+* **Simulation-Driven Performance:** SLB utilizes the **IDEAS™ integrated design platform** to simulate exactly how a specific bit design and carbide grade will interact with the target lithology. This ensures that the tool is mathematically optimized for the specific well profile before it is ever manufactured, guaranteeing stable drilling dynamics and reducing costly trips out of the hole.
 
-### Cutting Elements (Components)
+### The Operational Advantage (Soft Power)
 
-* Diamond (PDC) Cutters
-* Carbide Inserts
+* **Unmatched Global Proximity:** With hubs in over **100 countries**, SLB offers a level of field availability that no standalone tool manufacturer can match. This **massive footprint** ensures that drill bit repair, servicing, and technical engineering support are available locally near the rig site, minimizing logistical downtime and ensuring rapid response to unexpected downhole challenges.
 
-## Company Profile
+## 🏆 Certificates
 
-### A Century of Pushing Limits
+API Spec Q1 (Quality Management for Petroleum Industry)
 
-The story began in France in the 1920s when brothers Conrad and Marcel Schlumberger invented wireline logging, forever changing how we map the subsurface. Over the next 100 years, the company evolved from a logging pioneer into a global technology powerhouse.
+ISO 9001 (Quality Management)
 
-### Strategic Evolution
+ISO 14001 (Environmental Management)
 
-A pivotal moment for hard material technology was the acquisition of **Smith International** in 2010, which brought world-class drill bit manufacturing (Smith Bits) under the Schlumberger umbrella. In October 2022, the company rebranded as SLB, signaling a strategic shift towards decarbonizing the energy industry while continuing to innovate in oil and gas efficiency. Today, **SLB** operates in over 100 countries with a workforce representing 160 nationalities.
-
-## Capabilities
-
-### Advanced Drill Bit Engineering (Smith Bits)
-
-* **Proprietary Cutting Structures:** SLB engineers specific carbide shapes and PDC cutter layouts (like the Stinger™ conical diamond element) to maximize Rate of Penetration (ROP).
-* **IDEAS™ Simulation:** They don't guess; they simulate. Their integrated drillbit design platform tests how specific carbide grades will interact with specific rock formations before a physical bit is ever made.
-
-### Extreme Environment Solutions
-
-* **HPHT Mastery:** SLB tools are designed for High-Pressure High-Temperature wells, requiring carbide and diamond components that maintain integrity where standard materials fail.
-* **Rotary Steerable Systems (RSS):** Their **PowerDrive** systems utilize complex, ruggedized carbide components to steer drill bits miles underground with pinpoint accuracy.
-
-### Global Manufacturing & Service
-
-* With over **900 facilities** globally, SLB has the capability to manufacture, repair, and service drilling tools locally, ensuring that the right hard material solution is always within reach of the rig site.
-
-## Contact & Ordering
+## 📩 Contact & Ordering
 
 **Website:** https://www.slb.com/
 
-**Service Region:** Global (active in 100+ countries)
+**Service Regions:** Global (Active in practically every energy-producing region worldwide)
