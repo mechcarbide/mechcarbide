@@ -44,49 +44,47 @@ description: Sanalloy Industry is the Japanese expert in 'problem-solving'
 ---
 ## Quick Facts
 
-Headquarters: Japan
+**Headquarters:** Japan
 
-Established: 1963
+**Established:** 1963
 
-Business Type: Manufacturer
+**Business Type:** Manufacturer
 
-Employees: ~190
+**Employees:** ~190
 
 ## 📦 Products
 
-RD Series Carbides: Excellent balance of characteristics (Wear and Strength).
+**RD Series Carbides:** Excellent balance of characteristics (Wear and Strength).
 
-RV/RL Series Carbides: Specialized for Impact Resistance.
+**RV/RL Series Carbides:** Specialized for Impact Resistance.
 
-RF Series Carbides: Good balance of Wear and Chipping Resistance.
+**RF Series Carbides:** Good balance of Wear and Chipping Resistance.
 
-RX Series Carbides: Combined Impact Resistance and High Fracture Toughness.
+**RX Series Carbides:** Combined Impact Resistance and High Fracture Toughness.
 
-F Series Carbides: High Hardness and High Strength.
+**F Series Carbides:** High Hardness and High Strength.
 
-NA Series Carbides: Non-Magnetic with excellent Corrosion Resistance.
+**NA Series Carbides:** Non-Magnetic with excellent Corrosion Resistance.
 
-KA / KEA Series Carbides: Excellent Oxidation Resistance.
+**KA / KEA Series Carbides:** Excellent Oxidation Resistance.
 
-W Series Carbides: High durability and toughness for Warm/Hot Forging.
+**W Series Carbides:** High durability and toughness for Warm/Hot Forging.
 
-P Series (PRF/PRD/PRV) Carbides: Low Friction and Seizure Resistance.
+**P Series (PRF/PRD/PRV) Carbides:** Low Friction and Seizure Resistance.
 
 ## 📌 Why Choose Sanalloy?
 
-Best For: EV & Automotive Component Suppliers, Precision Electronic Mold Makers, and Deep Drawing Houses struggling with tool adhesion (galling) or chemical corrosion.
+**Best For:** EV & Automotive Component Suppliers, Precision Electronic Mold Makers, and Deep Drawing Houses struggling with tool adhesion (galling) or chemical corrosion.
 
-The Technical Advantage (Hard Power)
+### The Technical Advantage (Hard Power)
 
-PRD12N Grade: This is Sanalloy's new grade specifically designed for motor core molds, essential for the production of electric vehicle (EV) components. It offers superior seizure resistance, wear resistance, and corrosion resistance, making it highly effective for punching electromagnetic steel sheets and significantly extending die life.
+* **PRD12N Grade:** This is Sanalloy's new grade specifically designed for motor core molds, essential for the production of electric vehicle (EV) components. It offers superior **seizure resistance**, **wear resistance**, and **corrosion resistance**, making it highly effective for punching electromagnetic steel sheets and significantly extending die life.
+* **Dual-Protection Metallurgy:** Typically, carbide is either hard or corrosion-resistant, rarely both. Sanalloy developed the **MBN Alloy** to solve this trade-off. It maintains **high hardness** for wear resistance while **withstanding chemical degradation**, making it the perfect solution for molds exposed to **corrosive resins** or **harsh lubricants** that would eat away at standard grades.
 
-Dual-Protection Metallurgy (MBN Alloy): Typically, carbide is either hard or corrosion-resistant, rarely both. Sanalloy developed the MBN Alloy to solve this trade-off. It maintains high hardness for wear resistance while withstanding chemical degradation, making it the perfect solution for molds exposed to corrosive resins or harsh lubricants that would eat away at standard grades.
+### The Operational Advantage (Soft Power)
 
-The Operational Advantage (Soft Power)
-
-Expanding Capacity & Stability: While many manufacturers are consolidating, Sanalloy is aggressively growing. The opening of their Second Plant in 2024 significantly boosted production capacity. For global buyers, this signals robust financial health and guarantees shorter, more reliable lead times for both prototype and mass-production orders.
-
-Research-Driven Problem Solving: Originating as a "Research Institute" rather than a mass-production factory, their core DNA is metallurgical problem solving. They don't just sell standard catalogs; they actively act as technical consultants to customize alloy compositions for clients facing specific failure modes.
+* **Expanding Capacity & Stability:** While many manufacturers are consolidating, Sanalloy is **aggressively growing**. The opening of their Second Plant in **2024** significantly boosted production capacity. For global buyers, this signals robust **financial health** and guarantees shorter, more reliable lead times for both prototype and mass-production orders.
+* **Research-Driven Problem Solving:** Originating as a "**Research Institute**" rather than a mass-production factory, their core DNA is **metallurgical problem solving**. They don't just sell standard catalogs; they actively act as technical consultants to customize alloy compositions for clients facing specific failure modes.
 
 ## 🏆 Certificates
 
@@ -94,10 +92,10 @@ ISO 9001:2015 (Quality Management)
 
 ## 📩 Contact & Ordering
 
-Website: https://www.sanalloy.co.jp/
+**Website:** https://www.sanalloy.co.jp/
 
-Email: seihin-gizyutsu@sanalloy.co.jp
+**Email:** seihin-gizyutsu@sanalloy.co.jp
 
-Service Regions: Global (Strong local support in Japan, Thailand, Malaysia)
+**Service Regions:** Global (Strong local support in Japan, Thailand, Malaysia)
 
 *[[View Official Carbide Grade Chart](https://www.sanalloy.co.jp/en/material-chart/)]*
