@@ -76,15 +76,10 @@ description: Sanalloy Industry is the Japanese expert in 'problem-solving'
 
 **Best For:** EV & Automotive Component Suppliers, Precision Electronic Mold Makers, and Deep Drawing Houses struggling with tool adhesion (galling) or chemical corrosion.
 
-### The Technical Advantage (Hard Power)
-
 * **PRD12N Grade:** This is Sanalloy's new grade specifically designed for motor core molds, essential for the production of electric vehicle (EV) components. It offers superior **seizure resistance**, **wear resistance**, and **corrosion resistance**, making it highly effective for punching electromagnetic steel sheets and significantly extending die life.
 * **Dual-Protection Metallurgy:** Typically, carbide is either hard or corrosion-resistant, rarely both. Sanalloy developed the **MBN Alloy** to solve this trade-off. It maintains **high hardness** for wear resistance while **withstanding chemical degradation**, making it the perfect solution for molds exposed to **corrosive resins** or **harsh lubricants** that would eat away at standard grades.
-
-### The Operational Advantage (Soft Power)
-
 * **Expanding Capacity & Stability:** While many manufacturers are consolidating, Sanalloy is **aggressively growing**. The opening of their Second Plant in **2024** significantly boosted production capacity. For global buyers, this signals robust **financial health** and guarantees shorter, more reliable lead times for both prototype and mass-production orders.
-* **Research-Driven Problem Solving:** Originating as a "**Research Institute**" rather than a mass-production factory, their core DNA is **metallurgical problem solving**. They don't just sell standard catalogs; they actively act as technical consultants to customize alloy compositions for clients facing specific failure modes.
+* **Research-Driven Problem Solving:** Originating as a "**Research Institute**" rather than a mass-production factory, their core DNA is **metallurgical problem-solving**. They don't just sell standard catalogs; they actively act as technical consultants to customize alloy compositions for clients facing specific failure modes.
 
 ## 🏆 Certificates
 
