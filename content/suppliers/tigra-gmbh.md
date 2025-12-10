@@ -61,15 +61,10 @@ description: Explore TIGRA GmbH - The global gold standard for woodworking
 
 ## 📌Why Choose TIGRA?
 
-**Best For:** Tool Manufacturers, Woodworking Companies and Manufacturers, Metalworking and Composite Material Industries.
+**Best For:** Tool Manufacturers, Woodworking Companies and Manufacturers, Metalworking, and Composite Material Industries.
 
-### The Technical Advantage (Hard Power)
-
-* **Proprietary Machine Engineering:** TIGRA designs and builds its own pressing and grinding machinery **in-house**. This allows for extreme dimensional precision and complex custom geometries that off-the-shelf machines simply cannot produce. For the buyer, this means buying "Near-Net Shape" blanks that require significantly less grinding time, lowering your production costs.
+* **Proprietary Machine Engineering:** TIGRA designs and builds its own in-house pressing and grinding machinery. This allows for extreme dimensional precision and complex custom geometries that off-the-shelf machines simply cannot produce. For the buyer, this means buying "Near-Net Shape" blanks that require significantly less grinding time, lowering your production costs.
 * **Advanced Binder Science (Ni/Cr Grades):** TIGRA produces its own Ready-to-Press (RTP) powder, allowing for unique binder compositions beyond standard Cobalt. Their specialized **Nickel/Chrome binder** grades offer superior corrosion resistance. This is a critical solution for woodworking clients processing acidic woods (like Oak) or MDF, as it prevents the microscopic "binder leaching" that causes premature tool failure in standard carbide.
-
-### The Operational Advantage (Soft Power)
-
 * **The "Buffer Warehouse" Logistics:** With a dedicated **1,300 m² logistics center** and high stock levels of standard items, TIGRA effectively acts as your external warehouse. This guarantees rapid shipment even for large bulk orders, allowing you to keep your own inventory lean while never missing a production deadline.
 * **Global "Hidden Champion" Support:** As a German manufacturer with subsidiaries in the USA, China, and Brazil, they combine German engineering rigor with local responsiveness. You get the stability of a Tier-1 supplier (**80%+ export share**) with local time-zone support, ensuring no communication gaps in your supply chain.
 
