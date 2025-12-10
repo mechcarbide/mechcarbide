@@ -65,14 +65,9 @@ description: Total Carbide is the UK's largest independent manufacturer of
 
 **Best For:** Oil & Gas Valve Manufacturers, Pump OEMs, and Engineering firms needing custom-designed wear parts with complex internal geometries.
 
-### The Technical Advantage (Hard Power)
-
 * **Complex Internal Geometry:** Total Carbide's proprietary **Intraform™** process enables the production of carbide components with **intricate internal forms** (e.g., choke valves) that are impossible to machine using conventional methods. For Oil & Gas clients, this process can withstand pressures up to 760 bar, significantly outlasting traditional cast steel components.
 * **Large Format Capability:** Total Carbide can produce large-scale rings and wear components up to **420mm** in diameter. This capability is critical for heavy industrial pump and seal manufacturers who require large, single-piece carbide liners without segmentation.
-
-### The Operational Advantage (Soft Power)
-
-* **Design-Led Engineering:** They distinguish themselves from "print-to-part" job shops by offering active **engineering consultancy**. Their team specializes in **Reverse Engineering**, taking a customer's existing steel component and redesigning it for tungsten carbide production. This partnership approach ensures that the final part is not just harder, but geometrically optimized for the sintering process to maximize performance and minimize cost.
+* **Design-Led Engineering:** They distinguish themselves from "print-to-part" job shops by offering active **engineering consultancy**. Their team specializes in **Reverse Engineering**, taking a customer's existing steel component and redesigning it for tungsten carbide production. This partnership approach ensures that the final part is not just harder but geometrically optimized for the sintering process to maximize performance and minimize cost.
 
 ## 🏆 Certificates
 
