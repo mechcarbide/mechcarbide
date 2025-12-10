@@ -51,13 +51,8 @@ structured_data:
 
 **Best For:** Tool & Die Shops, Mold Makers, and Stamping Houses that operate on tight deadlines and require rapid "emergency" turnarounds.
 
-### The Technical Advantage (Hard Power)
-
 * **The "EDM Plus" Guarantee:** Wire EDM machining often creates thermal stress that causes standard carbide to crack, destroying expensive workpieces. Vista employs a proprietary material treatment that fully relieves these internal stresses, offering a unique guarantee that their **EDM Blocks** will withstand intricate wire cutting without failure. For mold makers, this provides "**risk-free**" machining assurance on high-value dies.
 * **Custom Grade Formulation:** Vista blends its own powders in-house. This allows them to produce specialized grades like **VM-NM12 (Non-Magnetic)**, which is engineered to solve the problem of magnetic interference in tooling used for electric motors and magnets, a critical capability for the growing **EV sector**.
-
-### The Operational Advantage (Soft Power)
-
 * **Unrivaled Speed & Agility:** In an industry where 6-8 week lead times are standard, Vista Metals distinguishes itself by offering **7-10 day deliveries** on custom preforms and generating quotes in hours, not days. This agility makes them the ideal "emergency partner" for domestic manufacturers who cannot afford the downtime associated with waiting for overseas shipments.
 
 ## 🏆 Certificates
