@@ -70,14 +70,9 @@ description: Born from GE & Sandvik, Hyperion is a global leader in Tungsten
 
 **Best For:** Metal Packaging (Can) Manufacturers, End-User Industrial Manufacturers (key industries served include Aerospace & Automotive, Oil & Gas, Energy & Mining), Tool Manufacturers.
 
-### The Technical Advantage (Hard Power)
-
 * **Additive Manufacturing:** Hyperion has mastered the industrialization of **Carbide 3D printing**. This technology liberates engineers from traditional molding constraints, enabling the creation of components with complex internal cooling channels or lattice structures. For the buyer, this translates to significantly improved thermal management in high-heat applications, extending tool life where standard parts fail.
 * **The Diamond Legacy:** As the successor to **General Electric**'s superhard material division (the inventors of synthetic diamond), Hyperion offers the industry's most proven **PCD (Compax™)** and **PCBN (BZN™)** materials. This deep metallurgical lineage guarantees unmatched thermal stability and abrasion resistance, providing critical reliability for machining advanced aerospace alloys and composites.
 * **Can Tooling Authority:** For the **metal packaging** industry, Hyperion's specialized carbide grades for **Bodymakers** and **Cuppers** are the global benchmark. These tools are engineered to withstand millions of high-speed strokes without deformation, ensuring maximum throughput and minimizing downtime for beverage can production lines.
-
-### The Operational Advantage (Soft Power)
-
 * **Vertical Integration & R&D:** Hyperion controls the entire chain from tungsten powder production to finished precision components. This allows their R&D team (130+ scientists) to analyze customer-specific wear patterns and "tweak" the material composition at the powder level, creating custom-formulated solutions.
 * **Sustainability & Recycling:** They offer a comprehensive global **recycling service** that converts scrap carbide back into virgin-quality raw materials. This helps large industrial clients stabilize raw material costs against mining fluctuations.
 
