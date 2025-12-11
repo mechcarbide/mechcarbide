@@ -3,7 +3,7 @@ title: MITSUBISHI MATERIALS Corporation
 description: Mitsubishi Materials is the manufacturer of IMPACT MIRACLE end
   mills, DXAS drills, and premium carbide inserts. They also offer automated
   production consistency and expert line diagnosis for global machining success.
-display_name: Mitsubishi Materials
+display_name: MMC
 summary: Japan | Products include metalworking carbide inserts for turning &
   milling, solid carbide end mills & drills, and broaches.
 type: suppliers
