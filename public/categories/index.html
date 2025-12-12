@@ -26,7 +26,7 @@
 
 ">
 <link rel="canonical" href="http://localhost:1313/categories/">
-<link crossorigin="anonymous" href="/assets/css/stylesheet.9cdc71456f3407201f74c39909dd4108a1df5015cd1dcc4fc6d8e12bc3fec3ee.css" integrity="sha256-nNxxRW80ByAfdMOZCd1BCKHfUBXNHcxPxtjhK8P&#43;w&#43;4=" rel="preload stylesheet" as="style">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.77cc2ffb6b9808bc5a88dfdb078edaf44ab54f11f8dc6bec720feb85c06ce468.css" integrity="sha256-d8wv&#43;2uYCLxaiN/bB47a9Eq1TxH43Gvscg/rhcBs5Gg=" rel="preload stylesheet" as="style">
 <link rel="icon" href="http://localhost:1313/favicon.ico">
 <link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/favicon-16x16.png">
 <link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/favicon-32x32.png">
@@ -129,12 +129,11 @@
       <h1>Tungsten Carbide Supplier Categories</h1>
 </header>
 
-<div class="page-intro carbide-center-header">
-      
-        <p>Explore all carbide supplier categories at MechCarbide, from blanks and cutting tools to wear parts and custom solutions. Find trusted global manufacturers and suppliers for every industry application.</p>
 
-      
-</div>
+<div class="page-intro carbide-center-header">
+    <h2 id="explore-all-carbide-supplier-categories-at-mechcarbide-from-blanks-and-cutting-tools-to-wear-parts-and-custom-solutions">Explore all carbide supplier categories at MechCarbide, from blanks and cutting tools to wear parts and custom solutions.</h2>
+  </div>
+
 
 <section class="categories-grid">
   <div class="grid-container">
@@ -210,6 +209,109 @@
 <div class="category-bottom-link">
     <a href="/suppliers/">All Suppliers →</a>
 </div>
+
+
+<section class="carbide-intro-section">
+
+  <h3 class="carbide-intro-title">The Most Complete Tungsten Carbide Suppliers Directory</h3>
+
+  
+  <p class="carbide-intro-short">
+    Welcome to the comprehensive list for sourcing tungsten carbide companies. 
+    We aim to simplify the global sourcing process for engineers and procurement managers.
+  </p>
+
+  
+  <div class="carbide-intro-content collapsed" id="carbideContent">
+    <p>
+      Whether you are looking for raw materials like carbide rods and preforms, or finished precision cutting tools and wear parts, 
+      MechCarbide connects you with trustworthy manufacturers and suppliers worldwide.
+    </p>
+    <p><strong>Covering All Hard Metal Applications</strong></p>
+    <p>
+      Our categories cover the entire supply chain of the cemented carbide industry, featuring top manufacturers from United States, 
+      China, Germany, and other countries. Browse suppliers specializing in mining tools, woodworking inserts, metalworking dies, and
+       custom industrial solutions. We help you find the right hard metal partners for your specific engineering needs.
+    </p>
+    <p><strong>How to use this Category Index?</strong></p>
+    <p>Click on the specific category above to filter suppliers by their main product or industry focus. For example, visit the <strong>[Carbide
+       Blanks & Prefroms category]</strong> to find rod and preform manufacturers.</p>
+  </div>
+
+  
+  <button class="carbide-read-more-btn" onclick="toggleCarbideIntro()">Read More</button>
+
+</section>
+
+
+
+<style>
+  .carbide-intro-section {
+    max-width: 1000px;
+    margin: 20px;
+    margin-top: 50px;
+    padding: 10px 15px;
+    font-size: 1rem;
+    line-height: 1.6;
+    color: var(--fg);
+    opacity: 0.95;
+  }
+
+  .carbide-intro-title {
+    font-size: 1.4rem;
+    margin-bottom: 10px;
+    font-weight: 600;
+    text-align: left;
+    opacity: 0.9;
+  }
+
+  .carbide-intro-short {
+    margin-bottom: 10px;
+  }
+
+  .carbide-intro-content {
+    overflow: hidden;
+    max-height: 0;
+    transition: max-height 0.3s ease;
+  }
+
+  .carbide-intro-content.expanded {
+    max-height: 900px;  
+  }
+
+  .carbide-read-more-btn {
+    margin-top: 12px;
+    padding: 6px 14px;
+    background: var(--tertiary);
+    color: var(--fg);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 0.9rem;
+    transition: background 0.2s ease;
+  }
+
+  .carbide-read-more-btn:hover {
+    background: #ff7b54;
+  }
+</style>
+
+
+
+<script>
+function toggleCarbideIntro() {
+  const content = document.getElementById("carbideContent");
+  const btn = document.querySelector(".carbide-read-more-btn");
+
+  if (content.classList.contains("expanded")) {
+    content.classList.remove("expanded");
+    btn.textContent = "Read More";
+  } else {
+    content.classList.add("expanded");
+    btn.textContent = "Read Less";
+  }
+}
+</script>
 
 
     </main>

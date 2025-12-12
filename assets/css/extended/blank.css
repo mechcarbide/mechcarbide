@@ -418,6 +418,17 @@ section.blog .post-card h3 a {
   color: #ff7b54;
 }
 
+.page-intro.carbide-center-header h2 {
+  font-size: 1.2em; /* 降低字号，使其适中，可根据 PaperMod 风格调整 */
+  font-weight: 500; /* 降低粗细，使其不那么粗壮 */
+  color: #333; /* 设置为深灰色 */
+  margin-top: 0;
+  margin-bottom: 20px; /* 标题下方留出一定空间 */
+  margin-left: 20px;
+  margin-right: 20px;
+  text-align: center; /* 居中显示（可选，取决于您想要的效果） */
+}
+
 .categories-grid {
   padding: 1rem;
 }
