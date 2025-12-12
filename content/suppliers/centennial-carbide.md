@@ -63,7 +63,7 @@ Please contact the supplier directly for specific ISO or material analysis certi
 
 ## 📩Contact & Ordering
 
-**Website:** centennialcarbide.com
+**Website:** https://centennialcarbide.com/
 
 **Phone:** +1 (763) 792-8546
 
@@ -71,4 +71,4 @@ Please contact the supplier directly for specific ISO or material analysis certi
 
 **Service Regions:** North America & Global
 
-*[\[View Offcial Carbide Grade Chart]](https://centennialcarbide.com/carbide-grades/)*
+*[[View Official Carbide Grade Chart](https://centennialcarbide.com/carbide-grades/)]*
