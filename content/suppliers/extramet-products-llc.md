@@ -3,7 +3,7 @@ addressCountry: United States
 summary: United States | Products include solid carbide rods, rods with coolant
   holes, helical rods, carbide preforms, and semi-finished carbide blanks.
 addressRegion: Pennsylvania
-display_name: EXTRAMET
+display_name: EXTRAMET (USA)
 name: EXTRAMET Products, LLC
 structured_description: >
   Extramet Products, founded in Switzerland (1980) and headquartered in Latrobe,
