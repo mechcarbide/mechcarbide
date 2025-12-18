@@ -130,6 +130,8 @@
   </url><url>
     <loc>http://localhost:1313/suppliers/cei-supply/</loc>
   </url><url>
+    <loc>http://localhost:1313/suppliers/centennial-carbide/</loc>
+  </url><url>
     <loc>http://localhost:1313/suppliers/ceratizit-s-a/</loc>
   </url><url>
     <loc>http://localhost:1313/regions/china/</loc>
@@ -159,6 +161,10 @@
     <loc>http://localhost:1313/suppliers/green-manufacturing-inc/</loc>
   </url><url>
     <loc>http://localhost:1313/suppliers/gyro-trac/</loc>
+  </url><url>
+    <loc>http://localhost:1313/suppliers/h-b-carbide/</loc>
+  </url><url>
+    <loc>http://localhost:1313/suppliers/hartmetall-uk-ltd/</loc>
   </url><url>
     <loc>http://localhost:1313/suppliers/hendrix-timber-mulchers/</loc>
   </url><url>
@@ -216,9 +222,13 @@
   </url><url>
     <loc>http://localhost:1313/suppliers/shandong-techgong-geotechnical-engineering-equipment-co-ltd/</loc>
   </url><url>
+    <loc>http://localhost:1313/suppliers/sinter-sud-s-p-a/</loc>
+  </url><url>
     <loc>http://localhost:1313/suppliers/slb/</loc>
   </url><url>
     <loc>http://localhost:1313/regions/sweden/</loc>
+  </url><url>
+    <loc>http://localhost:1313/suppliers/techmet-carbides/</loc>
   </url><url>
     <loc>http://localhost:1313/suppliers/tigra-gmbh/</loc>
   </url><url>
