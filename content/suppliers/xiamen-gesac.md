@@ -3,7 +3,7 @@ title: Xiamen GESAC
 description: Xiamen Golden Egret (GESAC), established in 1989, is a leading
   manufacturer of tungsten powder, carbide rods, and cutting tools. Vertically
   integrated for superior quality control.
-display_name: GESAC
+display_name: Xiamen GESAC
 summary: China | Products include carbide rods, tungsten powders, wear parts,
   metal cutting carbide inserts, and carbide burr blanks.
 type: suppliers
