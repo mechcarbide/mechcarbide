@@ -3,7 +3,7 @@ title: Preform Specialties, Inc.
 description: US manufacturer of tungsten carbide preforms and extruded rods (PSI
   & CMI). Featuring Sinter-HIP technology, green machining, and precision
   grinding to .0002" tolerance.
-display_name: Preform Specialties
+display_name: PSI & CMI
 summary: United States | Products include custom tungsten carbide preforms,
   extruded solid carbide rods, extruded carbide rods with coolant holes,
   rectangular strips, STB blanks, industrial knife blades, wear pads, centerless
