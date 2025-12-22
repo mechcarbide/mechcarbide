@@ -58,6 +58,7 @@ collections:
           - { label: "Italy", value: "italy" }
           - { label: "Japan", value: "japan" }
           - { label: "Luxembourg", value: "luxembourg" }
+          - { label: "Netherlands", value: "netherlands" }
           - { label: "Sweden", value: "sweden" }
           - { label: "Switzerland", value: "switzerland" }
           - { label: "United Kingdom", value: "united-kingdom" }
