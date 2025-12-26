@@ -2,6 +2,7 @@
 title: "About Me"
 slug: "about" 
 hideSupplierCTA: true
+ShowBreadCrumbs: false
 description: "Discover the story behind MechCarbide.com, why SHIJIE JIAN started this website to share information of carbide tool and wear part suppliers in various industries."
 draft: false
 ---
