@@ -74,3 +74,8 @@ pagerSize = 10
 [services]
   [services.googleAnalytics]
     id = "G-CZQJ5DCB15"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      typographer = false

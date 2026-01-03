@@ -114,6 +114,10 @@
   </url><url>
     <loc>http://localhost:1313/suppliers/acreage-tools-llc/</loc>
   </url><url>
+    <loc>http://localhost:1313/suppliers/arno-friedrichs-hartmetall-gmbh-co-kg/</loc>
+  </url><url>
+    <loc>http://localhost:1313/suppliers/axismateria-ltd/</loc>
+  </url><url>
     <loc>http://localhost:1313/suppliers/basic-carbide-corp/</loc>
   </url><url>
     <loc>http://localhost:1313/suppliers/betek-gmbh-co-kg/</loc>
@@ -142,6 +146,10 @@
   </url><url>
     <loc>http://localhost:1313/suppliers/dienes-werke-gmbh-co-kg/</loc>
   </url><url>
+    <loc>http://localhost:1313/suppliers/durit-hartmetall-gmbh/</loc>
+  </url><url>
+    <loc>http://localhost:1313/suppliers/extramet-ag/</loc>
+  </url><url>
     <loc>http://localhost:1313/suppliers/extramet-products-llc/</loc>
   </url><url>
     <loc>http://localhost:1313/suppliers/fae-s-p-a/</loc>
@@ -160,6 +168,8 @@
   </url><url>
     <loc>http://localhost:1313/suppliers/green-manufacturing-inc/</loc>
   </url><url>
+    <loc>http://localhost:1313/suppliers/gse-technology-b-v/</loc>
+  </url><url>
     <loc>http://localhost:1313/suppliers/gyro-trac/</loc>
   </url><url>
     <loc>http://localhost:1313/suppliers/h-b-carbide/</loc>
@@ -168,11 +178,15 @@
   </url><url>
     <loc>http://localhost:1313/suppliers/hendrix-timber-mulchers/</loc>
   </url><url>
+    <loc>http://localhost:1313/suppliers/hydro-carbide-tool-company/</loc>
+  </url><url>
     <loc>http://localhost:1313/suppliers/hyperion-materials-technologies/</loc>
   </url><url>
     <loc>http://localhost:1313/suppliers/impact-supply-co/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/industrial-knives-and-blades/</loc>
+  </url><url>
+    <loc>http://localhost:1313/suppliers/innovative-carbide/</loc>
   </url><url>
     <loc>http://localhost:1313/suppliers/iscar-ltd/</loc>
   </url><url>
@@ -206,7 +220,11 @@
   </url><url>
     <loc>http://localhost:1313/suppliers/morbark-llc/</loc>
   </url><url>
+    <loc>http://localhost:1313/regions/netherlands/</loc>
+  </url><url>
     <loc>http://localhost:1313/categories/oil-and-gas-components/</loc>
+  </url><url>
+    <loc>http://localhost:1313/suppliers/preform-specialties-inc/</loc>
   </url><url>
     <loc>http://localhost:1313/privacy-policy/</loc>
   </url><url>
@@ -228,6 +246,8 @@
   </url><url>
     <loc>http://localhost:1313/regions/sweden/</loc>
   </url><url>
+    <loc>http://localhost:1313/regions/switzerland/</loc>
+  </url><url>
     <loc>http://localhost:1313/suppliers/techmet-carbides/</loc>
   </url><url>
     <loc>http://localhost:1313/suppliers/tigra-gmbh/</loc>
@@ -240,6 +260,10 @@
   </url><url>
     <loc>http://localhost:1313/regions/</loc>
   </url><url>
+    <loc>http://localhost:1313/suppliers/ultra-carbide-llc/</loc>
+  </url><url>
+    <loc>http://localhost:1313/suppliers/ultra-met-carbide-technologies/</loc>
+  </url><url>
     <loc>http://localhost:1313/regions/united-kingdom/</loc>
   </url><url>
     <loc>http://localhost:1313/regions/united-states/</loc>
@@ -251,6 +275,8 @@
     <loc>http://localhost:1313/suppliers/werewolf-parts-llc/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/woodworking-tools/</loc>
+  </url><url>
+    <loc>http://localhost:1313/suppliers/xiamen-gesac/</loc>
   </url><url>
     <loc>http://localhost:1313/suppliers/xtreme-teeth/</loc>
   </url>

@@ -507,61 +507,185 @@ section.blog .post-card h3 a {
 
 
 /* 具体category页面样式 */
-.supplier-grid-container {
-    /* 使用 CSS Grid 实现 5 列布局 */
-    display: grid;
-    /* 自动创建 5 个等宽列，间隙为 1fr */
-    grid-template-columns: repeat(auto-fill, minmax(18%, 1fr));
-    gap: 15px; /* 卡片之间的间距 */
-    padding: 20px 0;
+.category-container { max-width: 1200px; margin: 0 auto; padding: 0; }
+.section-divider { margin: 40px 0; border: 0; border-top: 1px solid #eee; }
+.list-title { margin-bottom: 30px; font-size: 1.8rem; color: #333; }
+
+.page-header h1 {
+  color: #ff7b54;
 }
 
-.supplier-card {
-    /* 卡片基础样式 */
-    padding: 10px;
-    text-align: center;
-    border: 1px solid #e0e0e0; 
-    border-radius: 4px;
-    background-color: #f9f9f9; 
-    transition: background-color 0.3s;
+
+/* 控制隐藏区域内所有文字的排版 */
+#full-content {
+    line-height: 1.8;      /* 增加行间距，阅读更轻松 */
+    color: #444;           /* 深灰色文字，比纯黑更高级 */
+    font-size: 1.05rem;
 }
 
-.supplier-card:hover {
-    background-color: #ff9e7d;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+/* 专门给 H2 标题设样式 */
+#full-content h2 {
+    color: #2c3e50;
+    margin-top: 35px;
+    margin-bottom: 15px;
+    padding-left: 10px;
+    border-left: 4px solid #ff7b54; /* 标题左侧加一条橙色边框，非常工业风 */
+    font-size: 1.5rem;
 }
 
-.supplier-card a {
-    /* 链接样式 */
-    display: block;
-    text-decoration: none;
+/* 专门给 H3 标题设样式 */
+#full-content h3 {
+    color: #333;
+    margin-top: 25px;
+    font-size: 1.25rem;
+}
+
+/* 段落间距 */
+#full-content p {
+    margin-bottom: 20px;
+    text-align: justify; /* 两端对齐，排版更整齐 */
+}
+
+/* Read More 按钮样式 */
+#readMoreBtn {
+    margin-top: 15px;
+    padding: 8px 24px;
+    background: #fff;
+    color: #ff7b54;
+    border: 2px solid #ff7b54;
+    border-radius: 20px;
+    cursor: pointer;
     font-weight: bold;
-    color: #444
+    transition: 0.3s;
+}
+#readMoreBtn:hover { background: #ff7b54; color: #fff; }
+
+/* 供应商卡片 Grid - 桌面端 3 列 */
+.supplier-detailed-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 25px;
 }
 
-/* 平板设备 (3 列) - 屏幕宽度在 768px 到 1024px 之间 */
-@media screen and (min-width: 768px) and (max-width: 1024px) {
-    .supplier-grid-container {
-        grid-template-columns: repeat(3, 1fr);
-        gap: 10px;
+.supplier-detailed-card {
+    border: 1px solid #eee;
+    border-radius: 8px;
+    padding: 20px;
+    background: #fdfdfd;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    transition: 0.3s;
+}
+
+.supplier-detailed-card:hover {
+    border-color: #ff7b54;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.05);
+}
+
+.supplier-name a {
+    color: #ff7b54;
+    text-decoration: none;
+    font-size: 1.2rem;
+    display: block;
+    margin-bottom: 10px;
+}
+
+.supplier-summary-text {
+    font-size: 0.9rem;
+    color: #666;
+    line-height: 1.5;
+}
+
+.card-footer {
+    margin-top: 15px;
+    padding-top: 10px;
+    border-top: 1px solid #f0f0f0;
+}
+
+.view-link { color: #888; font-size: 0.85rem; text-decoration: none; font-style: italic; }
+
+/* 响应式调整 */
+@media (max-width: 992px) { .supplier-detailed-grid { grid-template-columns: repeat(2, 1fr); } }
+@media (max-width: 600px) { .supplier-detailed-grid { grid-template-columns: 1fr; } }
+
+
+/* 分页容器 */
+.pagination-wrapper {
+    margin: 40px 0;
+    display: flex;
+    justify-content: center; /* 居中 */
+}
+
+/* Hugo 默认分页 HTML 结构美化 */
+/* 分页容器外层 */
+.pagination-wrapper {
+    margin: 50px 0 30px;
+    display: flex;
+    justify-content: center;
+}
+
+/* 分页列表基础样式 */
+.pagination {
+    display: flex;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    gap: 10px; /* 按钮之间的间距 */
+    align-items: center;
+}
+
+/* 每一个分页按钮 */
+.pagination li a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 40px;
+    height: 40px;
+    padding: 0 10px;
+    border: 2px solid #f0f0f0; /* 默认浅灰色边框 */
+    border-radius: 8px; /* 圆角 */
+    background-color: #ffffff;
+    color: #555; /* 默认文字颜色 */
+    text-decoration: none;
+    font-weight: 600;
+    transition: all 0.3s ease;
+}
+
+/* 鼠标悬停效果 */
+.pagination li a:hover {
+    border-color: #ff7b54;
+    color: #ff7b54;
+    background-color: #fff9f7;
+    transform: translateY(-2px); /* 悬浮微动感 */
+    box-shadow: 0 4px 10px rgba(255, 123, 84, 0.15);
+}
+
+/* 当前选中的页码（激活状态） */
+.pagination li.active a {
+    background-color: #ff7b54;
+    border-color: #ff7b54;
+    color: #ffffff !important; /* 强制白色文字 */
+    box-shadow: 0 4px 12px rgba(255, 123, 84, 0.3);
+}
+
+/* 禁用状态（比如已经在第一页时点击“上一页”） */
+.pagination li.disabled a {
+    color: #ccc;
+    border-color: #f9f9f9;
+    cursor: not-allowed;
+    pointer-events: none;
+}
+
+/* 移动端适配：按钮稍微变小一点 */
+@media screen and (max-width: 768px) {
+    .pagination li a {
+        min-width: 35px;
+        height: 35px;
+        font-size: 0.9rem;
     }
 }
 
-/* 手机设备 (2 列) - 屏幕宽度小于 768px */
-@media screen and (max-width: 767px) {
-    .supplier-grid-container {
-        grid-template-columns: repeat(2, 1fr);
-        gap: 8px;
-    }
-    
-    .supplier-card {
-        padding: 8px;
-    }
-    
-    .supplier-card a {
-        font-size: 0.95em;
-    }
-}
 /* 右下角 All Suppliers 文本链接 */
 .category-bottom-link {
     margin-top: 20px;

@@ -2,47 +2,74 @@
 
 {{- partial "breadcrumbs.html" . -}}
 
-<header class="page-header carbide-center-header">
-      <h1>{{ .Title }}</h1>
-</header>
+<div class="category-container">
+    <header class="page-header">
+        <h1>{{ .Title }}</h1>
+    </header>
 
-<div class="page-intro carbide-center-header">
-      {{ if .Content }}
-        {{ .Content }}
-      {{ end }}
-</div>
-
-{{ $pages := .Data.Pages.ByTitle }} 
-{{ $paginator := .Paginate $pages 25 }}
-
-{{ if $paginator }}
-<div class="supplier-grid-container">
-    {{ range $paginator.Pages }}
-    <div class="supplier-card">
-        {{ $displayName := .Params.display_name | default .Title }}
-        <a href="{{ .Permalink }}" title="{{ .Title }}">
-            {{ $displayName }}
-        </a>
+    <div class="category-intro-section">
+        <div class="content-summary">
+            <p>{{ .Params.intro_lead | markdownify }}</p>
+        </div>
+        
+        {{ if .Truncated }}
+        <div id="full-content" style="display: none; margin-top: 20px;">
+            {{ .Content }}
+        </div>
+        <button id="readMoreBtn" onclick="toggleContent()">Read More ↓</button>
+        {{ end }}
     </div>
-    {{ end }}
-</div>
 
-{{ template "_internal/pagination.html" . }}
-{{ else }}
-<div class="supplier-grid-container">
-    {{ range .Data.Pages }}
-    <div class="supplier-card">
-        {{ $displayName := .Params.display_name | default .Title }}
-        <a href="{{ .Permalink }}" title="{{ .Title }}">
-            {{ $displayName }}
-        </a>
+    <hr class="section-divider">
+
+    <section class="supplier-section">
+        <h2 class="list-title">{{ .Params.list_title | default "Verified Suppliers" }}</h2>
+        
+        {{ $pages := .Data.Pages.ByTitle }} 
+        {{ $paginator := .Paginate $pages 30 }}
+
+        <div class="supplier-detailed-grid">
+            {{ range $paginator.Pages }}
+            <div class="supplier-detailed-card">
+                <div class="card-body">
+                    <h3 class="supplier-name">
+                        <a href="{{ .Permalink }}">{{ .Params.display_name | default .Title }}</a>
+                    </h3>
+                    <p class="supplier-summary-text">{{ .Params.summary }}</p>
+                </div>
+                <div class="card-footer">
+                    <a href="{{ .Permalink }}" class="view-link">View Details →</a>
+                </div>
+            </div>
+            {{ end }}
+        </div>
+
+        {{ if gt $paginator.TotalPages 1 }}
+        <div class="pagination-wrapper">
+            {{ template "_internal/pagination.html" . }}
+        </div>
+        {{ end }}
+    </section>
+
+    <div class="category-bottom-link">
+        <a href="/suppliers/">All Carbide Suppliers →</a>
     </div>
-    {{ end }}
 </div>
-{{ end }}
 
-<div class="category-bottom-link">
-    <a href="/suppliers/">All Suppliers →</a>
-</div>
+<script>
+function toggleContent() {
+    var fullContent = document.getElementById("full-content");
+    var btn = document.getElementById("readMoreBtn");
+    if (fullContent.style.display === "none") {
+        fullContent.style.display = "block";
+        btn.innerHTML = "Read Less ↑";
+    } else {
+        fullContent.style.display = "none";
+        btn.innerHTML = "Read More ↓";
+        // 点击收起后，页面自动滚回到顶部文字区，体验更好
+        window.scrollTo({top: 100, behavior: 'smooth'});
+    }
+}
+</script>
 
 {{ end }}
