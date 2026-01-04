@@ -3,16 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-12-10T16:31:00+08:00</lastmod>
+    <lastmod>2025-12-29T15:54:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/carbide/</loc>
-    <lastmod>2025-12-10T16:31:00+08:00</lastmod>
+    <lastmod>2025-12-29T15:54:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-12-10T16:31:00+08:00</lastmod>
+    <lastmod>2025-12-29T15:54:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-12-10T16:31:00+08:00</lastmod>
+    <lastmod>2025-12-29T15:54:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/what-is-the-hardness-of-tungsten-carbide-and-why-does-it-matter/</loc>
+    <lastmod>2025-12-29T15:54:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/why-is-carbide-used-as-a-cutting-tool-material/</loc>
     <lastmod>2025-12-10T16:31:00+08:00</lastmod>
@@ -132,6 +135,8 @@
   </url><url>
     <loc>http://localhost:1313/suppliers/</loc>
   </url><url>
+    <loc>http://localhost:1313/suppliers/castlebar-corporation/</loc>
+  </url><url>
     <loc>http://localhost:1313/suppliers/cei-supply/</loc>
   </url><url>
     <loc>http://localhost:1313/suppliers/centennial-carbide/</loc>
@@ -139,6 +144,8 @@
     <loc>http://localhost:1313/suppliers/ceratizit-s-a/</loc>
   </url><url>
     <loc>http://localhost:1313/regions/china/</loc>
+  </url><url>
+    <loc>http://localhost:1313/suppliers/cy-carbide/</loc>
   </url><url>
     <loc>http://localhost:1313/suppliers/denis-cimaf-inc/</loc>
   </url><url>
@@ -228,6 +235,8 @@
   </url><url>
     <loc>http://localhost:1313/privacy-policy/</loc>
   </url><url>
+    <loc>http://localhost:1313/suppliers/qingdao-bortome/</loc>
+  </url><url>
     <loc>http://localhost:1313/suppliers/quadco-inc/</loc>
   </url><url>
     <loc>http://localhost:1313/suppliers/rayco-manufacturing-inc/</loc>
@@ -239,6 +248,8 @@
     <loc>http://localhost:1313/search/</loc>
   </url><url>
     <loc>http://localhost:1313/suppliers/shandong-techgong-geotechnical-engineering-equipment-co-ltd/</loc>
+  </url><url>
+    <loc>http://localhost:1313/suppliers/shanghai-truer/</loc>
   </url><url>
     <loc>http://localhost:1313/suppliers/sinter-sud-s-p-a/</loc>
   </url><url>

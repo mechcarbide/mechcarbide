@@ -128,8 +128,14 @@
 
             {{- if eq $name "blog" }}
               {{- $isActive = or (in $currentPath "/posts/") (in $currentPath "/tags/") }}
-            {{- else if eq $name "supplier categories" }}
-              {{- $isActive = or (in $currentPath "/suppliers/") (in $currentPath "/regions/") (in $currentPath "/categories/") }}
+
+            {{- else if or (eq $name "by region") (eq $name "suppliers by region") }}
+              {{- $isActive = or (eq $currentPath "/suppliers/") (in $currentPath "/regions/") }}
+    
+            {{- else if or (eq $name "categories") (eq $name "product categories") }}
+              {{- $isDetail := and (in $currentPath "/suppliers/") (ne $currentPath "/suppliers/") }}
+              {{- $isActive = or (in $currentPath "/categories/") $isDetail }}
+
             {{- else }}
               {{- $menuPath := .URL | relURL }}
               {{- $isActive = eq $menuPath $currentPath }}
@@ -154,6 +160,16 @@
               </a>
             </li>
           {{- end }}
+            <li>
+              <a href="{{ "search/" | absLangURL }}" title="Search (Alt + /)" accesskey="/">
+                  <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" 
+                      stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" 
+                      style="vertical-align: middle; margin-top: -3px;">
+                      <circle cx="11" cy="11" r="8"></circle>
+                      <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+                  </svg>
+              </a>
+            </li>
         </ul>
     </nav>
 </header>

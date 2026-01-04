@@ -1,5 +1,5 @@
 ---
-title: "Carbide Suppliers Directory"
+title: "Browse Suppliers by Region"
 linkTitle: "Carbide Suppliers Directory"
 ShowBreadCrumbs: false
 
@@ -10,17 +10,4 @@ canonicalURL: "https://www.mechcarbide.com/suppliers/"
 
 ---
 
-## Browse by Region
-
-- [Canada](/regions/canada/)
-- [China](/regions/china/)
-- [Germany](/regions/germany/)
-- [Israel](/regions/israel/)
-- [Italy](/regions/italy/)
-- [Japan](/regions/japan/)
-- [Luxembourg](/regions/luxembourg/)
-- [Netherlands](/regions/netherlands/)
-- [Sweden](/regions/sweden/)
-- [Switzerland](/regions/switzerland/)
-- [United Kingdom](/regions/united-kingdom/)
-- [United States](/regions/united-states/)
+[Canada](/regions/canada/) | [China](/regions/china/) | [Germany](/regions/germany/) | [Israel](/regions/israel/) | [Italy](/regions/italy/) | [Japan](/regions/japan/) | [Luxembourg](/regions/luxembourg/) | [Netherlands](/regions/netherlands/) | [Sweden](/regions/sweden/) | [Switzerland](/regions/switzerland/) | [United Kingdom](/regions/united-kingdom/) | [United States](/regions/united-states/)

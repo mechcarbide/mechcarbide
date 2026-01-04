@@ -67,6 +67,20 @@ header .nav #menu a span.active {
 }
 
 
+/* 导航栏搜索图标样式 */
+#menu li a svg {
+    transition: transform 0.2s ease-in-out;
+}
+
+#menu li a:hover svg {
+    color: #ff7b54; /* 悬停时变为你的主题橙色 */
+}
+
+/* 适配 PaperMod 的暗黑模式 */
+.dark #menu li a svg {
+    stroke: rgba(255, 255, 255, 0.8);
+}
+
 
 /* footer样式 */
 .footer {
@@ -157,6 +171,7 @@ header .nav #menu a span.active {
 /* 博客详情页底部供应商指引样式 */
 .supplier-cta {
   margin: 2rem 0;
+  margin-top: 1rem;
   padding: 1rem;
   background-color: #fff7f4; /* 淡主色背景，温和但有区分度 */
   border-left: 4px solid #ff7b54;
@@ -345,20 +360,20 @@ section.blog .post-card h3 a {
 }
 
 
-/* 右下角 All Suppliers 文本链接 */
-.homepage-suppliers-bottom-link {
+/* 右下角 categories 文本链接 */
+.homepage-categories-bottom-link {
     margin-top: 5px;
     text-align: right;
 }
 
-.homepage-suppliers-bottom-link a {
+.homepage-categories-bottom-link a {
     color: #ff7b54;        /* 主题色 */
     font-weight: 500;
     font-size: 1rem;
     text-decoration: none;
 }
 
-.homepage-suppliers-bottom-link a:hover {
+.homepage-categories-bottom-link a:hover {
     text-decoration: underline;
 }
 
@@ -686,19 +701,73 @@ section.blog .post-card h3 a {
     }
 }
 
-/* 右下角 All Suppliers 文本链接 */
-.category-bottom-link {
-    margin-top: 20px;
-    text-align: right;
+
+/* 分类标签容器 */
+.supplier-category-tags {
+    margin: 15px 0 25px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    flex-wrap: wrap;
 }
 
-.category-bottom-link a {
-    color: #ff7b54;        /* 主题色 */
+/* "Main Category:" 文字样式 */
+.tag-label {
+    font-size: 0.9rem;
+    color: #666;
     font-weight: 600;
-    font-size: 1.2rem;
-    text-decoration: none;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
 }
 
-.category-bottom-link a:hover {
-    text-decoration: underline;
+
+
+.supplier-metadata {
+    margin: 20px 0;
+    margin-bottom: 0px;
+    padding: 15px;
+    background: var(--code-bg); /* 适配主题背景色 */
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
 }
+
+.meta-item {
+    display: flex;
+    flex-wrap: wrap; /* 手机端自动换行 */
+    align-items: center;
+    gap: 8px;
+}
+
+.meta-label {
+    font-size: 0.85rem;
+    font-weight: 700;
+    color: var(--secondary);
+    min-width: 80px;
+}
+
+/* 标签通用样式 */
+.category-tag, .tag-region {
+    font-size: 0.8rem;
+    padding: 3px 10px;
+    border-radius: 4px;
+    text-decoration: none !important;
+    border: 1px solid;
+}
+
+.category-tag {
+    color: #ff7b54;
+    border-color: #ff7b54;
+    background: rgba(255, 123, 84, 0.05);
+}
+
+.tag-region {
+    color: #3498db;
+    border-color: #3498db;
+    background: rgba(52, 152, 219, 0.05);
+}
+
+/* 悬停效果 */
+.category-tag:hover { background: #ff7b54; color: #fff !important; }
+.tag-region:hover { background: #3498db; color: #fff !important; }

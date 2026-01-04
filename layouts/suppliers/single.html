@@ -41,18 +41,59 @@
     *Disclaimer: The information provided on this page is compiled from the supplier's official website and other public sources for general reference only. While MechCarbide strives to ensure the accuracy and timeliness of the content, we make no warranties or representations regarding the completeness or reliability of the information.<br>
     MechCarbide is not affiliated with the supplier listed above and assumes no liability for any business transactions or disputes that may arise. We strongly recommend that you conduct your own due diligence and verify all details, including product specifications and certifications, directly with the supplier before making any purchasing decisions.
   </p>
+  
+  <div class="supplier-metadata">
+    {{- /* 定义全局变量，防止在 range 中丢失上下文 */ -}}
+    {{- $page := . -}}
+    {{- $site := .Site -}}
+
+    {{- /* 分类标签部分 */ -}}
+    {{- with $page.Params.categories -}}
+    <div class="meta-item">
+        <span class="meta-label">Categories:</span>
+        {{- range . -}}
+            {{- /* 使用 $site 确保能从全局获取页面 */ -}}
+            {{- $cat_slug := . | urlize -}}
+            {{- $cat_page := $site.GetPage (printf "/categories/%s" $cat_slug) -}}
+            {{- if $cat_page -}}
+                <a href="{{ $cat_page.Permalink }}" class="category-tag">{{ $cat_page.Title }}</a>
+            {{- else -}}
+                <span class="category-tag">{{ . | title }}</span>
+            {{- end -}}
+        {{- end -}}
+    </div>
+    {{- end -}}
+
+    {{- /* 地区标签部分 */ -}}
+    {{- with $page.Params.regions -}}
+    <div class="meta-item">
+    <span class="meta-label">Location:</span>
+    {{- /* 获取 regions 参数 */ -}}
+    {{- $regions := $page.Params.regions -}}
+    
+    {{- /* 判断：如果是字符串，将其转换为切片（数组）；如果是数组，直接使用 */ -}}
+    {{- $regionList := slice -}}
+    {{- if printf "%T" $regions | eq "string" -}}
+        {{- $regionList = slice $regions -}}
+    {{- else -}}
+        {{- $regionList = $regions -}}
+    {{- end -}}
+
+    {{- /* 现在安全地进行 range 循环 */ -}}
+    {{- range $regionList -}}
+        {{- $reg_slug := . | urlize -}}
+        {{- $reg_page := $site.GetPage (printf "/regions/%s" $reg_slug) -}}
+        {{- if $reg_page -}}
+            <a href="{{ $reg_page.Permalink }}" class="tag-region">📍 {{ $reg_page.LinkTitle }}</a>
+        {{- else -}}
+            <span class="tag-region">📍 {{ . | title }}</span>
+        {{- end -}}
+    {{- end -}}
+    </div>
+    {{- end -}}
+  </div>
 
   <footer class="post-footer">
-    {{- $regions := .Language.Params.Taxonomies.region | default "regions" }}
-    {{- $regionTerms := $.GetTerms $regions }}
-    {{- if $regionTerms }}
-    <ul class="post-tags">
-      {{- range $regionTerms }}
-      <li><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
-      {{- end }}
-    </ul>
-    {{- end }}
-
     <div class="supplier-cta">
     Want to be featured as a top supplier?
     Contact us at: <a href="mailto:mechcarbide@zohomail.com" style="color: #555;">mechcarbide@zohomail.com</a> for details.

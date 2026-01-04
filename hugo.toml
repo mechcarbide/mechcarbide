@@ -42,21 +42,27 @@ pagerSize = 10
 [menu]
   [[menu.main]]
     identifier = "categories"
-    name = "Supplier Categories"
+    name = "Categories"
     url = "/categories/"
     weight = 1
+  
+  [[menu.main]]
+    identifier = "suppliers"
+    name = "By Region"
+    url = "/suppliers/"
+    weight = 2
 
   [[menu.main]]
     identifier = "posts"
     name = "Blog"
     url = "/posts/"
-    weight = 2
+    weight = 3
 
   [[menu.main]]
     identifier = "about"
     name = "About"
     url = "/about/"
-    weight = 3
+    weight = 4
 
 
 # 输出格式支持 sitemap 和 RSS（推荐）
