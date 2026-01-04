@@ -28,11 +28,14 @@
   <!-- Categories & Suppliers -->
   {{- else if or (hasPrefix $path "/categories/") (hasPrefix $path "/suppliers/") }}
     <span>›</span>
-    <a href="/categories/">Supplier Categories</a>
+    <a href="/categories/">Categories</a>
 
-    {{- with index .Params.categories 0 }}
+  {{- with index .Params.categories 0 }}
+
       <span>›</span>
+
       <a href="/categories/{{ . | urlize }}/">{{ . | humanize | replaceRE `\band\b` "&" | title }}</a>
+
     {{- end }}
 
     <span>›</span>
@@ -41,14 +44,7 @@
   <!-- Regions -->
   {{- else if hasPrefix $path "/regions/" }}
     <span>›</span>
-    <a href="/suppliers/">All Suppliers</a>
-    <span>›</span>
-    <span>{{ .Title }}</span>
-
-  <!-- About -->
-  {{- else if hasPrefix $path "/about/" }}
-    <span>›</span>
-    <a href="/about/">About</a>
+    <a href="/suppliers/">By Region</a>
     <span>›</span>
     <span>{{ .Title }}</span>
 

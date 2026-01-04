@@ -747,7 +747,7 @@ section.blog .post-card h3 a {
     min-width: 80px;
 }
 
-/* 标签通用样式 */
+/* 供应商详情页底部标签通用样式 */
 .category-tag, .tag-region {
     font-size: 0.8rem;
     padding: 3px 10px;
@@ -763,11 +763,11 @@ section.blog .post-card h3 a {
 }
 
 .tag-region {
-    color: #3498db;
-    border-color: #3498db;
+    color: #2c3e50;
+    border-color: #2c3e50;
     background: rgba(52, 152, 219, 0.05);
 }
 
 /* 悬停效果 */
 .category-tag:hover { background: #ff7b54; color: #fff !important; }
-.tag-region:hover { background: #3498db; color: #fff !important; }
+.tag-region:hover { background: #2c3e50; color: #fff !important; }

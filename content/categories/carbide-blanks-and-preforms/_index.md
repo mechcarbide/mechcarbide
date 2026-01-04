@@ -1,7 +1,7 @@
 ---
-title: "Carbide Blank & Preform Suppliers"
+title: "Carbide Blanks & Preforms"
 description: "Find global suppliers of tungsten carbide blanks and preforms, including rods, strips, plates, bars, and near-net-shape parts for machining and tooling at MechCarbide.com."
-intro_lead: "**Carbide blanks & carbide preforms** are semi-finished tungsten carbide materials that serve as the foundation for many precision and industrial tools. They are widely used to make cutting tools, dies, wear parts, and other components where hardness and long service life matter. On this page, you'll find a clear overview of carbide blank & preform definitions, types of carbide blanks, typical applications, and **a verified list of global manufacturers and suppliers** to help you connect with the right source."
+intro_lead: "**Carbide blanks & carbide preforms** are semi-finished tungsten carbide materials that serve as the foundation for many precision and industrial tools. They are widely used to make cutting tools, dies, wear parts, and other components where hardness and long service life matter. On this page, you'll find a clear overview of carbide blank & preform definitions, types of carbide blanks, typical applications, and **a verified list of Carbide Blanks & Preforms Suppliers** to help you connect with the right source."
 image: "images/categories/carbide-blanks-and-preforms.jpg"
 list_title: "Global Carbide Blank & Preform Suppliers"
 ---

@@ -43,16 +43,13 @@
   </p>
   
   <div class="supplier-metadata">
-    {{- /* 定义全局变量，防止在 range 中丢失上下文 */ -}}
     {{- $page := . -}}
     {{- $site := .Site -}}
 
-    {{- /* 分类标签部分 */ -}}
     {{- with $page.Params.categories -}}
     <div class="meta-item">
         <span class="meta-label">Categories:</span>
         {{- range . -}}
-            {{- /* 使用 $site 确保能从全局获取页面 */ -}}
             {{- $cat_slug := . | urlize -}}
             {{- $cat_page := $site.GetPage (printf "/categories/%s" $cat_slug) -}}
             {{- if $cat_page -}}
@@ -64,14 +61,11 @@
     </div>
     {{- end -}}
 
-    {{- /* 地区标签部分 */ -}}
     {{- with $page.Params.regions -}}
     <div class="meta-item">
     <span class="meta-label">Location:</span>
-    {{- /* 获取 regions 参数 */ -}}
     {{- $regions := $page.Params.regions -}}
     
-    {{- /* 判断：如果是字符串，将其转换为切片（数组）；如果是数组，直接使用 */ -}}
     {{- $regionList := slice -}}
     {{- if printf "%T" $regions | eq "string" -}}
         {{- $regionList = slice $regions -}}
@@ -79,7 +73,6 @@
         {{- $regionList = $regions -}}
     {{- end -}}
 
-    {{- /* 现在安全地进行 range 循环 */ -}}
     {{- range $regionList -}}
         {{- $reg_slug := . | urlize -}}
         {{- $reg_page := $site.GetPage (printf "/regions/%s" $reg_slug) -}}
