@@ -61,19 +61,19 @@ of temperature, time, and atmosphere is crucial to ensure consistent quality. Th
 
 This more advanced technique is used when high purity and fine particle size are required, and it involves more complex equipment and higher costs.
 
-**Raw Material Preparation:** Tungsten and carbon are converted into gaseous state using techniques such as chemical vapor deposition (CVD) or thermal evaporation under controlled conditions.
+**Raw Material Preparation:** Tungsten and carbon are converted into a gaseous state using techniques such as chemical vapor deposition (CVD) or thermal evaporation under controlled conditions.
 
-**Gas-Phase Reaction:** The tungsten and carbon (in the gaseous state) produce chemical reaction to form tungsten carbide particles.
+**Gas-Phase Reaction:** The tungsten and carbon (in the gaseous state) produce a chemical reaction to form tungsten carbide particles.
 
 **Collection and Processing:** The generated WC powder is collected and further processed to meet product requirements.
 
 ## Cemented Tungsten Carbide
 
-To be honest, I used to be quite confused about the difference between [cemented carbide](https://www.mechcarbide.com/posts/what-is-cemented-carbide/) and tungsten carbide. I thought they were the same thing. But I was wrong. As I mentioned earlier, tungsten carbide is a raw material for manufacturing cemented tungsten carbide, or cemented carbide.
+To be honest, I used to be quite confused about the difference between [cemented carbide](https://www.mechcarbide.com/posts/what-is-cemented-carbide/) and tungsten carbide. I thought they were the same thing. But I was wrong. As I mentioned earlier, tungsten carbide is a raw material used in the manufacturing of cemented tungsten carbide, also known as cemented carbide.
 
 Once the WC powder is prepared, it's mixed with a **metal binder**, most commonly **cobalt (Co), though nickel (Ni) or iron (Fe)** can also be used in certain applications. The binder plays a crucial role in holding the hard carbide particles together, adding toughness to the material.
 
-The WC–binder powder mixture is then pressed into desired shapes, such as tool blanks, inserts, or dies, and undergoes a process called **sintering**. (Yes, this step is absolutely crucial!) **The main purpose of sintering is to use cobalt as a binder to improve the toughness of the material and enhance its overall performance.** During sintering, the compacted material is heated to temperatures between 1,400 and 1,600°C, often in a vacuum furnace. At these temperatures, the metal binder melts, partially dissolves the WC particles, and causes them to fuse tightly together. This results in a dense, solid piece of cemented carbide, ready for finishing and shaping.
+The WC–binder powder mixture is then pressed into desired shapes, such as inserts, knives, or dies, and undergoes a process called **sintering**. (Yes, this step is absolutely crucial!) **The main purpose of sintering is to use cobalt as a binder to improve the toughness of the material and enhance its overall performance.** During sintering, the compacted material is heated to temperatures between 1,400 and 1,600°C, often in a vacuum furnace. At these temperatures, the metal binder melts, partially dissolves the WC particles, and causes them to fuse tightly together. This results in a dense, solid piece of [cemented carbide blank](https://www.mechcarbide.com/categories/carbide-blanks-and-preforms/), ready for grinding and finishing.
 
 ## Applications of Tungsten Carbide
 
@@ -85,9 +85,9 @@ Tungsten carbide is widely used across multiple industries thanks to its excepti
 
 **Mining and Construction:** You'll find tungsten carbide in **road milling machines, foundation drills, and DTH bits.** It's typically used as button inserts set in a steel matrix. These carbide-tipped tools can last up to 10 times longer than conventional options, cutting down on maintenance and downtime.
 
-**Oil and Gas:** Tungsten carbide is widely used for **hardfacing**,a welding process that improves tool life in harsh drilling environments. It’s also a key material in making **PDC bits**, essential tools for downhole operations.
+**Oil and Gas:** Tungsten carbide is widely used for **hardfacing**, a welding process that improves tool life in harsh drilling environments. It’s also a key material in making **PDC bits**, essential tools for downhole operations.
 
-**Wear Parts:** Due to its durability, tungsten carbide is commonly used in a wide range of wear-resistant components, including: **seal rings and bushings, industrial dies and punches, VSI crusher rotor tips, and decanter centrifuge tiles.** These parts are often made of straight WC-Co hardmetals, offering a great balance of toughness and hardness for challenging industrial environments.
+**Wear Parts:** Due to its durability, tungsten carbide is commonly used in a wide range of wear-resistant components, including **seal rings and bushings, industrial dies and punches, VSI crusher rotor tips, and decanter centrifuge tiles.** These parts are often made of straight WC-Co hardmetals, offering a great balance of toughness and hardness for challenging industrial environments.
 
 **Forestry:** Tungsten carbide is widely used to enhance the durability and performance of **cutting and grinding tools.** Whether it's for wood chippers, stump grinders, saw teeth, debarking tools, or mulching blades, tungsten carbide-tipped components offer exceptional wear resistance, impact strength, and cutting precision, even in harsh, abrasive environments.
 
