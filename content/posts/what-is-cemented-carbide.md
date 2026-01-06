@@ -15,11 +15,11 @@ At its core, cemented carbide is a tough, high-performance composite made by com
 
 ## How Is Cemented Carbide Made?
 
-Cemented carbide is manufactured through a powder metallurgy technology. Finely ground carbide powders are blended with a small percentage of binder metal (usually 3%-30%) in a ball mill. It takes about 8 to 24 hours to ensure uniform particle size. The mixture is then pressed into shape and is ready for sintering.
+Cemented carbide is manufactured through powder metallurgy technology. Finely ground carbide powders are blended with a small percentage of binder metal (usually 3%-30%) in a ball mill. It takes about 8 to 24 hours to ensure uniform particle size. The mixture is then pressed into shape and is ready for sintering.
 
 ![how is cemented carbide made](/uploads/what-is-cemented-carbide-blog-2.png "Production Process of Cemented Carbide")
 
-**Sintering is the most crucial process of manufacturing cemented carbide.** There are three most commonly used sintering techniques: Vacuum Sintering, Hot Isostatic Pressing (HIP), and Spark Plasma Sintering (SPS). During sintering, the particles fuse together to form a dense, solid structure with minimal porosity and excellent mechanical integrity.
+**Sintering is the most crucial process of manufacturing cemented carbide.** There are three most commonly used sintering techniques: Vacuum Sintering, Hot Isostatic Pressing (HIP), and Spark Plasma Sintering (SPS). During sintering, the particles fuse to form a dense, solid structure with minimal porosity and excellent mechanical integrity.
 
 ## Types of Cemented Carbide
 
@@ -48,7 +48,7 @@ Cemented carbide is engineered for extreme environments, places where high loads
 
 One of the most common applications is in **cutting tools**, including drills, end mills, carbide inserts, and saw blades. These tools often operate at high speeds and temperatures, especially when machining hard metals like stainless steel or cast iron. Cemented carbide not only withstands the heat and stress, but also maintains a sharp cutting edge for much longer than traditional HSS.
 
-Beyond cutting, cemented carbide is widely used in **wear parts and tooling components & blanks**, including:
+Beyond cutting, cemented carbide is widely used in **wear parts and tooling components & [carbide blanks](https://www.mechcarbide.com/categories/carbide-blanks-and-preforms/)**, including:
 
 * Punches and dies in metal forming
 * Nozzles and valve seats in fluid handling systems
