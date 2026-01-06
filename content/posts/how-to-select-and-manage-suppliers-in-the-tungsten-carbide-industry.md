@@ -21,6 +21,10 @@ Then, let's discuss supplier types from two main perspectives:
 * **Qualification and performance levels;**
 * **Cooperation value and risk relationship.**
 
+In practice, supplier evaluation always needs to be applied to specific product categories. The requirements for carbide blanks, cutting tools, wear parts, or mining components can be very different.
+
+If you want a clearer overview of how tungsten carbide suppliers are typically grouped, you can start from this [supplier category overview](https://www.mechcarbide.com/categories/), and then apply the evaluation logic discussed below to each category.
+
 You'll also find practical advice on how purchasing managers can develop strategies for each supplier type in the tungsten carbide industry.
 
 ## 1. Supplier Types by Qualification and Performance
@@ -163,6 +167,4 @@ Keep searching for E-Class suppliers to maintain flexibility and healthy competi
 
 ## Conclusion
 
-In the tungsten carbide industry, supplier management is not just about controlling cost. It's also about **managing risk and creating value**. By establishing **a clear classification system**, companies can define their supplier strategies more scientifically and achieve a supply chain that is steady, flexible, and win-win for all parties. If you’re building or optimizing your carbide supply chain, start with a simple question: "**Do you really know what type of supplier you’re dealing with?**" Because the better you understand them, the smarter your purchasing decisions will be.
-
-Looking for tungsten carbide suppliers? Check out my [Suppliers page](https://www.mechcarbide.com/suppliers/). I've started building a list of trusted global suppliers you can explore.
+In the tungsten carbide industry, supplier management is not just about controlling cost. It's also about **managing risk and creating value**. By establishing **a clear classification system**, companies can define their supplier strategies more scientifically and achieve a supply chain that is steady, flexible, and win-win for all parties. If you’re building or optimizing your carbide supply chain, start with a simple question: "**Do you really know what type of supplier you're dealing with?**" Because the better you understand them, the smarter your purchasing decisions will be.
