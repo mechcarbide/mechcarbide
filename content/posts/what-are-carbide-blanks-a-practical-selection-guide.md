@@ -98,7 +98,7 @@ The same logic applies to non-cutting applications. Carbide used against rock, s
 
 Carbide grade selection is one of the most important decisions.
 
-Different carbide grades vary in [hardness](https://www.mechcarbide.com/posts/what-is-the-hardness-of-tungsten-carbide-and-why-does-it-), toughness, and heat resistance. Grades with higher hardness generally perform better in high-speed cutting or abrasive conditions, but they may be more brittle. Tougher grades can handle impact and vibration better, though they may wear faster.
+Different carbide grades vary in [hardness](https://www.mechcarbide.com/posts/what-is-the-hardness-of-tungsten-carbide-and-why-does-it-matter/), toughness, and heat resistance. Grades with higher hardness generally perform better in high-speed cutting or abrasive conditions, but they may be more brittle. Tougher grades can handle impact and vibration better, though they may wear faster.
 
 Reliable suppliers usually offer **their own grade systems**. Understanding what each grade is designed for helps avoid over-specifying or under-specifying the material.
 
