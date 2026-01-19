@@ -43,7 +43,7 @@ Green compacts are strong enough for handling but still very fragile. At this st
 
 Sintering is the most critical step where carbide blanks gain their final **mechanical properties**. During this stage, a series of complex physical and chemical changes take place.
 
-The process starts with **debinding and pre-sintering**. The green compacts are slowly heated to a relatively low temperature, typically between 300°C and 600°C, under a protective atmosphere. This step removes the organic binder (wax, PEG, or rubber) completely and safely.
+The process starts with **dewaxing**. The green compacts are slowly heated to a relatively low temperature, typically between 300°C and 600°C, under a protective atmosphere. This step removes the organic binder (wax, PEG, or rubber) completely and safely.
 
 After debinding, the blanks enter **vacuum sintering**, which is the most common and core process in carbide manufacturing. Sintering is carried out at high temperatures, usually above 1300°C to 1500°C, in a vacuum sintering furnace. At this temperature, the binder (Co or Ni) melts and bonds carbide particles together, allowing the material to reach near-theoretical density with very low porosity.
 
