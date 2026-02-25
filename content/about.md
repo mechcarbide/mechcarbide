@@ -7,32 +7,42 @@ description: "Discover the story behind MechCarbide.com, why SHIJIE JIAN started
 draft: false
 ---
 
-Welcome to **mechcarbide.com**! This website is dedicated to providing clear, reliable information about **tungsten carbide tool and wear part suppliers** across industries such as construction & mining, oil & gas, woodworking, metalworking, forestry, recycling, and more.
+**Welcome to mechcarbide.com!**
 
-I'm SHIJIE (Alice) JIAN, the editor of MechCarbide. For nearly five years, I worked as an **internet marketing specialist** at a foreign trade company that manufactured and supplied tungsten carbide tools and wear parts worldwide. To be honest, I wasn't interested in any of it at first. I didn't even know what tungsten carbide was! But over time, as I got more familiar with the materials, products, and their real-world applications, I began to find it all… fascinating. Tough, precise, and built for extreme conditions, these tools have stories behind them.
+Hi, I'm Shijie (Alice) Jian, the person behind this site.
 
----
+If you're looking for a place to start your sourcing journey for tungsten carbide tools and wear parts, without the noise of giant B2B platforms, you've landed in the right spot.
 
-## Why I Started This Website
+### A Little Background
 
-During my time in foreign trade, I noticed a recurring challenge: Customers from different countries struggled to find **reliable suppliers of carbide products**. The information was scattered, incomplete, and often buried in general B2B platforms or search engines. It was time-consuming and frustrating for buyers who needed trustworthy sources.
+For nearly five years, I worked as an internet marketing specialist at a foreign trade company that manufactured and supplied tungsten carbide tools and wear parts to customers around the world. To be honest? I didn't know a thing about tungsten carbide when I started. I barely even knew what it *was*. But over time, writing about it, talking to engineers, learning how these tiny pieces of metal actually behave inside a road milling machine or a woodworking router, I got hooked. There's something oddly fascinating about materials built to handle extreme conditions.
 
-That experience revealed a clear need: a **specialized, well-organized resource** focused only on carbide tools and wear parts. **MechCarbide** was created to meet that need, bringing together supplier information from around the world in one place, so professionals can save time, make informed decisions, and connect with the right companies more easily.
+### What This Site Is (and Isn't)
 
----
+This website is my way of organizing what I've learned, and sharing it in a way that's actually useful.
 
-## What You'll Find Here
+**What it *is*:** A supplier directory. Organized by industry (construction, woodworking, metalworking, mining, etc.) and by region. I personally summarize each supplier's features based on what I know, so you're not just staring at a list of names, you're getting a little context.
 
-- A **verified supplier directory**, organized by industry, application and region, covering everything from carbide blanks to metalworking tools.
-- **Informative articles and blog posts** that explain product applications, industry trends, and practical insights. These serve as entry points for learning and also link directly to supplier pages, helping you move from knowledge to action.
-- In addition to providing information on global tungsten carbide suppliers, I can also **recommend suitable suppliers based in China** upon request. If you need assistance, please contact me via email with your specific requirements.
+**What it *isn't*:** A platform with paid placements, biased rankings, or sponsored listings. I'm trying to keep this space as neutral as possible. If a supplier is listed here, it's because they make decent stuff, not because they paid to be seen.
 
----
+### How I Can Help
 
-## Get in Touch
+If you're sourcing carbide products and need a hand, or if you've got a writing project related to this industry, here's what I can do, all via email.
 
-Thank you for visiting **MechCarbide**. I hope this site helps you find the information and suppliers you need. If you'd like to share feedback, ask a question, or suggest a supplier, feel free to reach out:
+**1. Sourcing Assistance (Free Introduction)**
+If you're looking for a specific type of product, say, router bits or road milling teeth, and you'd like a recommendation for reliable Chinese suppliers, **send me an email with your requirements.** I know the landscape here, and I'm happy to point you in the right direction. No fees, no strings attached.
 
-📩 **mechcarbide@zohomail.com**
+**2. Technical Writing, Translation & Proofreading**
+My background is in writing and editing. If you need help with:
+- Writing or polishing technical articles about carbide applications
+- Translating or proofreading product brochures, websites, or technical documents (Chinese to English, or just cleaning up English that doesn't quite flow)
 
-Look forward to hearing from you, and have a great day!
+...I'm your person. This is the "pen for hire" side of what I do, and honestly, it's the kind of work I enjoy most.
+
+### Get in Touch
+
+This site is still growing. I add new suppliers, write new posts, and slowly shape it into something more useful. If you have feedback, a question, a supplier to suggest, or a project you think I might be able to help with, **I'd genuinely love to hear from you.**
+
+Just drop me a line at: mechcarbide@zohomail.com
+
+Thanks for stopping by. Hope you find what you're looking for.
