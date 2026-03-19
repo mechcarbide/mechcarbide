@@ -25,7 +25,7 @@ collections:
         name: "tags"
         widget: "select"
         multiple: true
-        options: ["Forestry", "Carbide", "Recycling", "Construction", "Snow Removal"]
+        options: ["Woodworking", "Forestry", "Carbide", "Recycling", "Construction", "Snow Removal"]
 
 
   
