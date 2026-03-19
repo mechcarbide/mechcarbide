@@ -15,6 +15,7 @@ canonicalURL: "https://www.mechcarbide.com/posts/"
 ## Browse by Tag
 
 - [Carbide](/tags/carbide/)
+- [Woodworking](/tags/woodworking/)
 - [Construction](/tags/construction/)
 - [Forestry](/tags/forestry/)
 - [Recycling](/tags/recycling/)
