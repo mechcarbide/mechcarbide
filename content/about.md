@@ -49,9 +49,9 @@ My background is in writing and editing. If you need help with:
 
 I know browsing a list of suppliers can feel like a chore. Since this is a niche, hand-built site (no fancy AI filters yet!), here's the quickest way to find what you need:
 
-**If you know the exact industry**: Jump straight to the 9 Categories. Looking for Woodworking Tools? Click that section. It's all there.
+**If you know the exact industry**: Jump straight to the [9 Categories](/categories/). Looking for Woodworking Tools? Click that section. It's all there.
 
-**If you want to see who's nearby**: Head over to the Browse by Region page. It's grouped by country tags. Perfect if you prefer to deal with a specific logistics route.
+**If you want to see who's nearby**: Head over to the [Browse by Region page](/suppliers/). It's grouped by country tags. Perfect if you prefer to deal with a specific logistics route.
 
 **If you know the product name (e.g., "router bits")**: Use the Search Bar (top right). Type it in and see which suppliers mention it.
 
