@@ -10,4 +10,4 @@ canonicalURL: "https://www.mechcarbide.com/suppliers/"
 
 ---
 
-[Canada](/regions/canada/) | [China](/regions/china/) | [Germany](/regions/germany/) | [Israel](/regions/israel/) | [Italy](/regions/italy/) | [Japan](/regions/japan/) | [Luxembourg](/regions/luxembourg/) | [Netherlands](/regions/netherlands/) | [Poland](/regions/poland/) | [South Africa](/regions/south-africa/) | [Sweden](/regions/sweden/) | [Switzerland](/regions/switzerland/) | [United Kingdom](/regions/united-kingdom/) | [United States](/regions/united-states/)
+[Canada](/regions/canada/) | [China](/regions/china/) | [Finland](/regions/finland/) | [Germany](/regions/germany/) | [Israel](/regions/israel/) | [Italy](/regions/italy/) | [Japan](/regions/japan/) | [Luxembourg](/regions/luxembourg/) | [Netherlands](/regions/netherlands/) | [Poland](/regions/poland/) | [South Africa](/regions/south-africa/) | [Sweden](/regions/sweden/) | [Switzerland](/regions/switzerland/) | [United Kingdom](/regions/united-kingdom/) | [United States](/regions/united-states/)

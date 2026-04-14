@@ -53,6 +53,7 @@ collections:
         options:
           - { label: "Canada", value: "canada" }
           - { label: "China", value: "china" }
+          - { label: "Finland", value: "finland" }
           - { label: "Germany", value: "germany" }
           - { label: "Israel", value: "israel" }
           - { label: "Italy", value: "italy" }
