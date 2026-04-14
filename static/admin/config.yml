@@ -60,6 +60,7 @@ collections:
           - { label: "Luxembourg", value: "luxembourg" }
           - { label: "Netherlands", value: "netherlands" }
           - { label: "Poland", value: "poland" }
+          - { label: "South Africa", value: "south-africa" }
           - { label: "Sweden", value: "sweden" }
           - { label: "Switzerland", value: "switzerland" }
           - { label: "United Kingdom", value: "united-kingdom" }
