@@ -1,84 +1,84 @@
 ---
-title: Diamond Mowers, LLC
-display_name: Diamond Mowers
-type: suppliers
-description: Diamond Mowers designs and manufactures mowing, mulching, and brush
-  cutting attachments and replacement parts. Offers 2-year warranty, 30-day
-  return policy, and U.S. online parts store.
-
-summary: United States | Products include mulching teeth, drum mulchers, disc mulchers, brush cutters, stump grinders, and mowers.
-
-name: Diamond Mowers, LLC
-website: https://diamondmowers.com/
-structured_description: >
-  Diamond Mowers is a U.S.-based manufacturer of patented mowing, mulching, and brush cutting attachments for skid steers, excavators, tractors, and wheel loaders. The company provides durable, in-house–engineered equipment and replacement parts with a no-documentation warranty process. Attachments include drum and disc mulchers, brush cutters, stump grinders, and mowers. Customers can request quotes for attachments or customization online, and purchase parts directly via the official store for the U.S., Canada, and Mexico. Diamond Mowers offers a 2-year warranty on drum products, a 1-year warranty on other attachments, and a 30-day money-back guarantee.
-addressLocality: Sioux Falls
-addressRegion: South Dakota
 addressCountry: United States
-email: hello@diamondmowers.com; parts@diamondmowers.com
-
-regions:
-  - united-states
-
+summary: United States | Products include mulchers, brush cutters, stump
+  grinders, mowers, carbide-tipped replacement teeth, and more.
+addressRegion: South Dakota
+display_name: Diamond Mowers
+name: Diamond Mowers, LLC
+structured_description: >
+  Diamond Mowers is a U.S.-based manufacturer of patented mowing, mulching, and
+  brush cutting attachments for skid steers, excavators, tractors, and wheel
+  loaders. The company provides durable, in-house–engineered equipment and
+  replacement parts with a no-documentation warranty process. Attachments
+  include drum and disc mulchers, brush cutters, stump grinders, and mowers.
+  Customers can request quotes for attachments or customization online, and
+  purchase parts directly via the official store for the U.S., Canada, and
+  Mexico. Diamond Mowers offers a 2-year warranty on drum products, a 1-year
+  warranty on other attachments, and a 30-day money-back guarantee.
+addressLocality: Sioux Falls
+title: Diamond Mowers, LLC
+type: suppliers
+regions: united-states
+structured_data:
+  website: https://diamondmowers.com/
+  email: hello@diamondmowers.com
+  addressLocality: Sioux Falls
+  addressRegion: South Dakota
+  addressCountry: United States
+  structured_description: Diamond Mowers is an American manufacturer of industrial
+    mowing, mulching, and brush-cutting attachments, founded in 2000 and
+    headquartered in Sioux Falls, South Dakota. The company provides a wide
+    range of heavy-duty tools for skid-steers, tractors, excavators, and wheel
+    loaders, alongside a specialized line of replacement carbide teeth and
+    cutting parts. Known for their "No Documentation" warranty process and
+    30-day satisfaction guarantee, Diamond Mowers focuses on maximizing uptime
+    and delivering high-performance solutions for land-clearing and roadside
+    maintenance professionals worldwide.
+website: https://diamondmowers.com/
 categories:
   - forestry-agriculture-and-recycling
+email: hello@diamondmowers.com; parts@diamondmowers.com
+description: Find Diamond Mowers, a top manufacturer of industrial mulching and
+  mowing attachments. Explore their rugged skid-steer and excavator tools with
+  hassle-free support.
 ---
-Founded in 2000 by the Doyle family in **Sioux Falls, South Dakota**, Diamond Mowers has grown from a small startup into a recognized manufacturer of **industrial mowing, mulching, and brush cutting attachments and replacement parts.** Serving skid-steers, tractors, excavators, and wheel loaders, the company focuses on producing durable, high-quality equipment designed to handle demanding outdoor tasks. 
+## Quick Facts
 
-Over more than two decades, Diamond Mowers has built a reputation for rugged reliability and innovative design. The company emphasizes long-term partnerships with its customers, supporting professionals in landscaping, land clearing, and other outdoor operations by providing attachments that combine performance, durability, and consistent results.
+**Headquarters**: United States
 
-## Product Categories
+**Established**: 2000
 
-Diamond Mowers specializes in manufacturing attachments for skid steers, excavators, tractors, and wheel loaders, designed for mowing, mulching, and brush cutting tasks. Besides, they also provide replacement parts compatible with their attachments. All products are designed and engineered in-house, with registered patents.
+**Business Type**: Manufacturer & OEM
 
-![Diamond Mowers product range](/uploads/diamond-mowers-product-range.png "Diamond Mowers Product Range")
+## 📦 Products
 
-* **Attachments:** Drum mulchers, disc mulchers, brush cutters, stump grinders, and mowers.
-* **Replacement Parts:** Mulching teeth, Bearings, cylinders, shafts, filters, hydraulic fittings, knives, motors, spindles, and more.
+Skid-Steer Attachments (Drum Mulchers, Disc Mulchers, Brush Cutters)
 
-## Ordering
+Excavator Attachments (Stump Grinders, Brush Cutters, Mulchers)
 
-* **Attachments:** Customers need to fill out an online form to request a quote.
-* **Replacement Parts:** Parts can be purchased directly through the online store: shop.diamondmowers.com. Prices are displayed online. Currently, shipping is available only to the United States, Canada, and Mexico.
-* **Customization:** Both attachments and parts can be customized to meet specific requirements. Submit a quote request through the online form for personalized service.
+Tractor Attachments (Boom Mowers, Flail Mowers, Rotary Mowers)
 
-## Warranty
+Wheel Loader Attachments
 
-* Diamond Mowers offers a "No Documentation Warranty Process", designed to simplify claims and reduce downtime.
-* Drum products include a 2-year Parts & Labor Warranty.
-* All other products come with a 1-year Parts & Labor Warranty.
+Replacement Wear Parts (Carbide Mulcher Teeth, Cutting Hardware)
 
-## Refund & Return Policy
+DM360™ and DM360X™ Municipal Maintenance Machines
 
-### 1. Attachments
+## 📌 Why Choose Diamond Mowers?
 
-All Diamond Mowers attachments are covered by a 30-day Money Back Guarantee.
+**Best For**: Landscape contractors, land-clearing professionals, and municipal maintenance crews who require heavy-duty equipment with fast, no-hassle technical support.
 
-### 2. Replacement Parts
+* **Hassle-Free "No Documentation" Warranty**: To solve the common headache of industrial paperwork, Diamond Mowers offers **a simplified warranty process**. Instead of getting buried in forms and slow approvals, users simply **call to start a claim**. Diamond's team works directly with your service department to diagnose the issue and authorizes repairs immediately. This focus on speed ensures your equipment spends more time on the job and less time waiting for administrative approval.
+* **Rugged "Built to Grind" Engineering**: Diamond's attachments are engineered to be the "muscle behind your hustle." Specifically, their drum products are backed by a **2-year parts and labor warranty**, reflecting their confidence in the machine's ability to handle intense, season-long grinding. This durability is crucial for contractors working in harsh terrains where equipment reliability directly affects the profitability of a project.
+* **30-Day Satisfaction Guarantee**: Purchasing large industrial attachments is a significant investment. Diamond mitigates this risk by offering a **30-day money-back guarantee** on most attachments. This allows buyers to test the equipment's performance on their specific land-clearing challenges; if the tool doesn't meet expectations, it can be returned, providing a level of purchase security that is rare in the heavy attachment industry.
+* **Direct Partner-Style Support**: Diamond positions itself as an extension of your own **crew** rather than just a machinery vendor. Their service model includes direct phone diagnosis, shipping parts quickly, and providing flat-rate labor for repairs. This **collaborative approach** means you have a reliable partner helping you navigate technical challenges and maximize the output of your fleet.
 
-* Returns are accepted for non-obsolete parts in new condition.
-* Hoses cannot be returned.
-* The local dealer is responsible for return freight costs.
-* Refunds are issued for the purchase price only, with no restocking fee.
+## 📩 Contact & Ordering
 
-#### Return Process
+**Website**: https://diamondmowers.com/
 
-* Order Issues: If the wrong or defective part is received, contact the Parts Sales Team immediately.
-* Inventory Adjustments: For excess stock or seasonal adjustments, contact the Parts Team with an RMA form, photos, and a reason for return. Approval is required before sending items back.
+**Email**: hello@diamondmowers.com
 
-#### Return Terms
+**Phone**: +1 (605) 977-3300
 
-* End Users: 30-day return policy.
-* After 30 days: 20% restocking fee applies.
-* No returns after 120 days.
-* Dealers: Coordinate with a Parts Team representative for stock order returns; credit will be issued and valid for one year.
-
-## Contact
-
-**Email:** 
-
-hello@diamondmowers.com (general information)
-
-parts@diamondmowers.com (parts only)
-
-**Website:** https://diamondmowers.com/
+**Service Regions**: Global (Primary operations in North America)
