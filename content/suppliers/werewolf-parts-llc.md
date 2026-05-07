@@ -1,93 +1,84 @@
 ---
-title: Werewolf Parts, LLC
-display_name: Werewolf Parts
-type: suppliers
 draft: false
-description: Discover Werewolf Parts, a North American supplier of aftermarket
-  mulching teeth and stump grinding teeth. Includes ordering, shipping, and
-  return policy details.
-
-summary: United Stated | Products include mulcher teeth, stump grinding teeth, trenching teeth, chipper knives, rubber tracks, and more.
-
-name: Werewolf Parts, LLC
-website: https://werewolfparts.com/
-structured_description: >
-  Werewolf Parts, LLC is a U.S.-based aftermarket supplier specializing in wear parts for forestry, agriculture, and construction equipment. Werewolf Parts offers replacement parts compatible with major OEMs, including mulching teeth, stump grinding teeth, trenching teeth, chipper knives, agricultural tools, and rubber tracks. Additional accessories include fire suppression, wiper blades, headsets, and more.
-addressLocality: Lebanon
-addressRegion: Ohio
 addressCountry: United States
-email: alpha@werewolfparts.com
-
-regions:
-  - united-states
-
+title: Werewolf Parts, LLC
+summary: United Stated | Products include mulcher teeth, stump grinding teeth,
+  trenching teeth, chipper knives, rubber tracks, and more.
+addressRegion: Ohio
+display_name: Werewolf Parts
+name: Werewolf Parts, LLC
+structured_description: >
+  Werewolf Parts, LLC is a U.S.-based aftermarket supplier specializing in wear
+  parts for forestry, agriculture, and construction equipment. Werewolf Parts
+  offers replacement parts compatible with major OEMs, including mulching teeth,
+  stump grinding teeth, trenching teeth, chipper knives, agricultural tools, and
+  rubber tracks. Additional accessories include fire suppression, wiper blades,
+  headsets, and more.
+addressLocality: Lebanon
+type: suppliers
+structured_data:
+  website: https://werewolfparts.com/
+  email: alpha@werewolfparts.com
+  addressLocality: Lebanon
+  addressRegion: Ohio
+  addressCountry: United States
+  structured_description: Werewolf Parts, LLC is an independent American
+    distributor specializing in high-quality aftermarket wear parts for the
+    forestry, agriculture, and construction industries. They provide a
+    comprehensive range of replacement components, including German-engineered
+    mulcher teeth, American-made chipper knives, and stump grinding teeth
+    compatible with major OEM brands such as Bobcat, FAE, John Deere, and
+    Vermeer. Focused on resilience and rapid fulfillment, Werewolf Parts offers
+    a cost-effective alternative for heavy-duty ground engagement and vegetation
+    management tools.
+website: https://werewolfparts.com/
 categories:
   - forestry-agriculture-and-recycling
+email: alpha@werewolfparts.com
+description: Werewolf Parts, LLC is an independent American distributor
+  specializing in high-quality aftermarket wear parts for the forestry,
+  agriculture, and construction industries.
+regions: united-states
 ---
-Werewolf Parts, LLC is a U.S.-based aftermarket supplier specializing in **wear parts for forestry, agriculture, and construction equipment.** According to its official website, the company emphasizes durability, fast delivery, and customer support, aiming to serve professionals operating in demanding field conditions. The brand adopts a "wolf pack" identity to reflect its values, including loyalty, resilience, and teamwork.
+## Quick Facts
 
-## Product Categories
+**Headquarters**: United States
 
-Werewolf Parts offers **replacement parts compatible with major OEMs**, including **mulching teeth, stump grinding teeth, trenching teeth, chipper knives, agricultural tools, and rubber tracks**. Additional accessories include fire suppression, wiper blades, headsets, and more.
+**Business Type**: Aftermarket Specialist & Distributor
 
-## Ordering
+**Specialization**: Heavy-duty wear parts for Forestry, Agriculture, and Construction
 
-* Online ordering is available for standard products via the website.
-* Bulk inquiries and custom quotes can be submitted through contact forms or by phone.
+**Inventory Philosophy**: Rapid fulfillment of high-demand "workhorse" components
 
-## Shipping
+## 📦 Products
 
-* **Shipping Carrier:** Orders are shipped via UPS.
-* **Cost & Delivery Estimates:** Calculated based on item availability and UPS rates at checkout.
-* **Weight-Based Pricing:** Most shipping fees are based on item weight, rounded up to the next full pound.
-* **Weight Info:** Product weights are listed on individual item pages.
-* **Shipping Region:** Service is limited to North America only.
-* **Dispatch Timing:** Orders placed by 12:00 PM Eastern Time qualify for same-day shipping.
+Mulcher Teeth
 
-## Refund & Return Policy
+Stump Grinder Teeth
 
-**Return Window:** Items may be returned within 30 days of receipt.
+Brush Chipper Knives
 
-**Eligibility:** Products must be unused, in original packaging, with tags, and accompanied by proof of purchase.
+Trenching Teeth
 
-**Return Process:**
+Rubber Tracks
 
-* Contact Werewolf Parts to initiate a return.
-* Returns must be sent to: 1087-B Mane Way, Lebanon, OH 45036.
-* A return shipping label and instructions will be provided if the return is approved.
-* Unsolicited returns (without prior approval) will not be accepted.
+Agricultural Tools
 
-**Damaged or Incorrect Items:** Customers should inspect orders upon arrival and report any issues immediately for resolution.
+## 📌 Why Choose Werewolf Parts?
 
-**Non-Returnable Items:**
+**Best For**: Independent contractors, arborists, and fleet managers who need high-performance replacement parts for diverse machinery without the premium cost of OEM branding.
 
-* Perishables (e.g., food, plants)
-* Custom or personalized products
-* Personal care items
-* Hazardous materials, flammable liquids/gases
-* Sale items and gift cards
+* **Premium Global Material Sourcing**: Werewolf Parts prioritizes durability by sourcing components from specialized regions: they offer **German-made mulching teeth** for high-wear resistance and **American-made stump grinding teeth and chipper knives** for maximum impact strength. This ensures that the carbide and steel used can handle the "wildest" conditions, extending the intervals between part replacements and lowering your cost-per-hour.
+* **Massive Cross-Brand Compatibility**: Managing a fleet with **multiple brands** can be a logistical headache. Werewolf Parts solves this by offering a **one-stop catalog** compatible with almost every major name in the industry, from CAT and John Deere to specialized brands like FAE, Vermeer, and Denis Cimaf. This wide-reaching compatibility ensures you can find the right fit for both modern and legacy equipment in one place.
+* **Rapid Logistics and Fulfillment**: In the forestry and construction sectors, every hour of downtime is a lost profit. Werewolf Parts operates with a "**wolf pack**" mentality of speed and reliability, utilizing weight-based **UPS** shipping estimates to get parts to your job site as quickly as possible. Their streamlined ordering process is designed to get your mulchers and chippers back to work with minimal delay.
+* **Transparent Aftermarket Expertise**: They provide a clear, honest alternative to original equipment manufacturers. By specializing strictly in **aftermarket parts**, they focus on providing the best balance of price and performance. Their culture of accountability means they stand behind their products with a clear **30-day return** policy, acting as a loyal partner to small and large operations alike.
 
-**Exchanges:** Not directly supported. Customers should return the item and place a new order separately.
+## 📩 Contact & Ordering
 
-**EU Customers:** A 14-day cooling-off period applies to orders shipped within the European Union, allowing for cancellation or return without justification.
+**Website**: https://werewolfparts.com/
 
-**Refund Timeline:**
+**Email**: alpha@werewolfparts.com
 
-* Refunds are processed within 10 business days after return approval and inspection.
-* Bank or card processing may take additional time.
-* If no refund is received after 15 business days, contact Werewolf Parts via email or phone.
+**Phone**: 1-866-629-6062
 
-## Payment
-
-Accepted payment methods include major **credit cards (Visa, MasterCard, Amex) and PayPal.**
-
-## Notes
-
-* **Aftermarket Positioning:** Products are not OEM-certified; compatibility should be verified before purchase.
-* **Warranty Risk:** Installing non-OEM parts may void manufacturer warranties. Confirm with your equipment provider.
-
-## Contact
-
-**Email:** alpha@werewolfparts.com
-
-**Website:** https://werewolfparts.com/
+**Service Regions**: North America
