@@ -1,102 +1,79 @@
 ---
-title: XTREME TEETH
-display_name: XTREME TEETH
-type: suppliers
 draft: false
-description: XTREME TEETH, also known as ASTRAK CANADA LTD, provides aftermarket
-  forestry mulcher teeth for 100+ brands, with fast shipping across the USA and
-  Canada.
-
-summary: Canada | Products include forestry mulcher teeth compatible with 100+ mulcher brands.
-
-name: XTREME TEETH / ASTRAK CANADA LTD
-website: https://www.xtremewearparts.com/
-structured_description: >
-  XTREME TEETH, also known as ASTRAK CANADA LTD, is a Canada-based supplier of aftermarket mulcher teeth and wear parts for heavy equipment. The company serves customers across the USA and Canada, offering replacement parts compatible with over 100 forestry mulcher brands. Customers can order online or submit bulk inquiries, with fast FedEx shipping options and secure payment methods.
-addressLocality: Edmonton
-addressRegion: Alberta
 addressCountry: Canada
-email: salescanada@xwparts.com; sales@xwparts.com
-
-regions:
-  - canada
-
+title: XTREME TEETH
+summary: Canada | Products include mulcher teeth & stump grinder teeth
+  compatible with 100+ equipment brands.
+addressRegion: Alberta
+display_name: XTREME TEETH
+name: XTREME TEETH / ASTRAK CANADA LTD
+structured_description: >
+  XTREME TEETH, also known as ASTRAK CANADA LTD, is a Canada-based supplier of
+  aftermarket mulcher teeth and wear parts for heavy equipment. The company
+  serves customers across the USA and Canada, offering replacement parts
+  compatible with over 100 forestry mulcher brands. Customers can order online
+  or submit bulk inquiries, with fast FedEx shipping options and secure payment
+  methods.
+addressLocality: Edmonton
+type: suppliers
+structured_data:
+  website: https://www.xtremewearparts.com/
+  email: salescanada@xwparts.com
+  addressLocality: Edmonton
+  addressRegion: Alberta
+  addressCountry: Canada
+  structured_description: ASTRAK CANADA LTD / Xtreme Wear Parts is a North
+    American-based supplier specializing in aftermarket wear parts and
+    accessories for heavy machinery used in forestry, construction, and
+    agriculture. They offer a wide range of compatible replacement components
+    for major international brands, including Caterpillar, John Deere, Vermeer,
+    and Bobcat. The company focuses on providing cost-effective alternatives to
+    original equipment manufacturer (OEM) parts, backed by a 100% satisfaction
+    guarantee, a 14-day return policy, and efficient shipping solutions across
+    Canada and the United States.
+website: https://www.xtremewearparts.com/
 categories:
   - forestry-agriculture-and-recycling
+email: salescanada@xwparts.com; sales@xwparts.com
+description: Xtreme Wear Parts (Astrak Canada) provides high-quality aftermarket
+  wear parts for heavy equipment. Compatible with CAT, Vermeer, and more. 100%
+  satisfaction guaranteed.
+regions: canada
 ---
-XTREME TEETH, also known as **ASTRAK CANADA LTD**, is a **Canada-based supplier of [mulcher teeth](https://www.mechcarbide.com/posts/choosing-mulcher-teeth-steel-vs-carbide-and-what-works-best/)** and other aftermarket wear parts for heavy equipment. The company **also operates offices in the United States** and serves customers exclusively across **North America** (Canada and the USA). XTREME TEETH's range of replacement mulcher teeth covers **more than 100 different forestry mulcher brands**.
+## Quick Facts
 
-## Ordering
+**Headquarters**: Canada
 
-XTREME TEETH's website features an easy-to-use search tool, allowing customers to select a mulcher brand and model to view compatible replacement parts. Customers must **log in to view product prices**.
+**Business Type**: Aftermarket Parts Specialist / Distributor
 
-![XTREME TEETH product select tool](/uploads/xtreme-teeth-product.jpg "XTREME TEETH Product Select Tool")
+**Service Focus**: Wear parts and accessories for heavy industrial machinery
 
-XTREME TEETH provides two main options for purchasing:
+**Key Policy**: 14-Day Easy Return & 100% Satisfaction Guarantee
 
-* Online Orders: Products can be added directly to the cart and purchased through the company's website.
-* Bulk Inquiries: Customers seeking large quantities or special requests can fill out the online inquiry form available on the Contact Us page.
+**Shipping Special**: Free ground shipping on orders over $500 (USA & Canada)
 
-## Shipping
+**Core Market**: North American Forestry, Construction, and Agriculture
 
-### United States:
+## 📦 Products
 
-* FREE 2-Day FedEx Air Shipping on orders **over $250**
-* Flat-Rate 2-Day FedEx Air Shipping ($30) on orders under $250
-* Next-Day FedEx Air Shipping available at checkout for an additional fee
+Mulcher Teeth and Holders
 
-### Canada:
+Stump Grinder Teeth and Holders
 
-* FREE FedEx Ground Shipping on orders **over $500**
-* Flat-Rate FedEx Ground Shipping ($30) on orders under $500
+## 📌 Why Choose ASTRAK CANADA / Xtreme Wear Parts?
 
-## Refund & Return Policy
+**Best For**: Independent contractors and fleet managers in North America seeking a cost-effective, reliable alternative to high-priced OEM wear parts.
 
-ASTRAK CANADA LTD / XTREME WEAR PARTS stands 100% behind the quality of its products. If a customer is not fully satisfied, unused products may be returned within 14 days of receipt for a full refund, subject to the following terms:
+* **Comprehensive Cross-Brand Compatibility**: Xtreme Wear Parts serves as a convenient hub for operators running mixed fleets. They provide a massive selection of **aftermarket parts** designed to be fully compatible with nearly every major heavy equipment brand, from **Caterpillar** and **John Deere** to specialized forestry names like **FAE** and **Vermeer**. This allows buyers to source all their replacement teeth and wear components from a single supplier, simplifying the procurement process.
+* **Risk-Reduced Purchasing Guarantee**: To address the uncertainty often associated with aftermarket parts, the company offers a 100% Customer Satisfaction Guarantee and a **14-day "no questions asked" return policy** for unused products. This transparent approach gives customers the confidence to test their parts' performance on the job site, knowing they have a clear path to a refund if the components do not meet their specific expectations.
+* **Efficient Trans-Border Logistics**: Recognizing the importance of keeping heavy machinery in motion, they have optimized their shipping for the North American market. With free FedEx Ground shipping on orders over **$500** and **tiered** flat-rate options for smaller orders across both the **USA** and **Canada**, they ensure that critical wear parts are delivered cost-effectively without the complexity of traditional cross-border shipping problems.
 
-### Return Requirements:
+## 📩 Contact & Ordering
 
-* Purchased directly from Xtreme Wear Parts
-* No outstanding payment balance
-* Valid Return Merchandise Authorization (RMA) code obtained
-* The product is unused
-* Return request must be submitted through our online form within 14 days of receipt
+**Website**: https://www.xtremewearparts.com/
 
-### Refund Process:
+**Email**: salescanada@xwparts.com (Canada) /sales@xwparts.com (United States)
 
-* Refund issued to the original purchaser using the same payment method
-* Processed within 15 days of receiving the returned product
-* All products must be returned at the purchaser's expense, including any applicable freight or customs duties
-* Orders originally shipped with FREE SHIPPING will have the actual shipping cost deducted
-* Return shipping cost, 20% import fee (for U.S. orders), and 5% credit-card reprocessing fee (if applicable) will be charged back
+**Phone**: 1.800.936.1320
 
-## Payment
-
-Accepted payment methods include **Visa, Mastercard, Discover, and American Express.**
-
-## Opening Times
-
-* Open Monday 8:00 am - 4:30 pm MST
-* Open Monday 8:00 am - 4:30 pm MST
-* Open Tuesday 8:00 am - 4:30 pm MST
-* Open Wednesday 8:00 am - 4:30 pm MST
-* Open Thursday 8:00 am - 4:30 pm MST
-* Open Friday 8:00 am - 4:30 pm MST
-* Closed Saturday
-* Closed Sunday
-
-## Legal Notice
-
-XTREME TEETH / ASTRAK CANADA LTD sells aftermarket parts for heavy equipment.
-
-The company is not affiliated with any original equipment manufacturers (OEMs). Brand names, model numbers, and part numbers shown on the site are used only to identify compatible replacement parts, and do not mean that these parts are made by or approved by the original manufacturers.
-
-## Contact: 
-
-**Email:** 
-
-salescanada@xwparts.com (Canada) 
-
-sales@xwparts.com (United States)
-
-**Website:** https://www.xtremewearparts.com/
+**Service Regions**: North America
