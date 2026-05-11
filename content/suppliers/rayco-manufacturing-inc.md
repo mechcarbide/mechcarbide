@@ -1,82 +1,86 @@
 ---
-title: Rayco Manufacturing, Inc
-display_name: Rayco
-type: suppliers
-description: Rayco manufactures innovative stump cutters, forestry mulchers,
-  wheel loaders, and replacement teeth for professional tree care and vegetation
-  management worldwide.
-
-summary: United States | Products include forestry mulchers, Super Tooth® replacement teeth, Monster Tooth® replacement teeth, stump grinders, articulated wheel loaders, and AWL attachments.
-
-name: Rayco Manufacturing, Inc
-website: https://www.raycomfg.com/
-structured_description: >
-  Rayco Manufacturing, established in 1978 and headquartered in Wooster, Ohio, designs and produces advanced stump cutters, forestry mulchers, articulated wheel loaders, replacement teeth, and AWL attachments. As part of Alamo Group, Rayco serves professionals in tree care and vegetation management across multiple countries.
-addressLocality: Wooster
-addressRegion: Ohio
 addressCountry: United States
-email: inquire@morbark.com; parts@raycomfg.com
-
-regions:
-  - united-states
-
+summary: United States | Products include forestry mulchers, Super Tooth®
+  replacement teeth, Monster Tooth® replacement teeth, stump grinders,
+  articulated wheel loaders, and AWL attachments.
+addressRegion: Ohio
+display_name: Rayco
+name: Rayco Manufacturing, Inc
+structured_description: >
+  Rayco Manufacturing, established in 1978 and headquartered in Wooster, Ohio,
+  designs and produces advanced stump cutters, forestry mulchers, articulated
+  wheel loaders, replacement teeth, and AWL attachments. As part of Alamo Group,
+  Rayco serves professionals in tree care and vegetation management across
+  multiple countries.
+addressLocality: Wooster
+title: Rayco Manufacturing, Inc
+type: suppliers
+regions: united-states
+structured_data:
+  website: https://www.raycomfg.com/
+  email: inquire@morbark.com
+  addressLocality: Wooster
+  addressRegion: Ohio
+  addressCountry: United States
+  structured_description: Rayco Manufacturing is a premier US-based manufacturer
+    specializing in innovative equipment for tree care and vegetation
+    management. With over 45 years of expertise, they offer a comprehensive
+    range of forestry mulchers, stump cutters, and articulated wheel loaders.
+    Rayco is particularly recognized for its high-quality carbide-tipped wear
+    parts, including the Super Tooth and Monster Tooth lines, designed to
+    deliver maximum cutting efficiency and durability in challenging
+    land-clearing environments. As part of the Alamo Group, Rayco provides
+    global support through an extensive dealer network and user-friendly digital
+    maintenance resources.
+website: https://www.raycomfg.com/
 categories:
   - forestry-agriculture-and-recycling
+email: inquire@morbark.com; parts@raycomfg.com
+description: Explore Rayco Manufacturing's high-performance forestry mulchers,
+  stump cutters, and durable carbide replacement teeth. Trusted US-made
+  equipment since 1978.
 ---
-Founded in 1978 in Wooster, Ohio, **Rayco Manufacturing** designs and produces innovative **stump cutters, forestry mulchers, and articulated wheel loaders** for the tree care and vegetation management industries. With over four decades of equipment excellence, Rayco is recognized for its commitment to reliability, performance, and customer satisfaction. The company continues to uphold its founder John Bowling's vision of delivering durable, high-efficiency solutions that empower professionals worldwide. 
+## Quick Facts
 
-Rayco became part of Morbark, LLC in 2017 and is now a member of the Alamo Group's Vegetation Management Division, alongside Morbark and Denis Cimaf.
+**Headquarters**: United States
 
-## Product Categories
+**Established**: 1978
 
-### 1. Equipment
+**Business Type**: Manufacturer
 
-![Rayco equipment](/uploads/rayco-equipment.jpg "Rayco Equipment")
+**Employee**: 125+
 
-**Forestry Mulchers:** T415 Forestry Mulcher & Hydra-Stumper, C275 Forestry Mulcher, C200 Forestry Mulcher, C120 Forestry Mulcher
+**Parent Company**: Alamo Group (Vegetation Management Division)
 
-*(All models can be equipped with a Denis Cimaf Mulching Head.)*
+**Industry Legacy**: 45+ Years of Innovation in Tree Care
 
-**Stump Cutters:** RG165T-R, RG80-R, RG74T-R, RG55, RG37, RG27 Super Jr, RG25HD, RG13 Series II
+## 📦Products
 
-**Stump Cutter Trailers:** TR100L Trailer, TRG Trailer
+Forestry Mulchers (C120, C200, C275, T415)
 
-**Articulated Wheel Loaders:** 4000AWL, 1800AWL
+Stump Grinders (RG165T-R, RG80-R, RG74T-R, RG55, RG37, RG27 Super Jr, RG25HD, RG13 Series II)
 
-**AWL Attachments:** auger bits, buckets, excavating, grapples, and more.
+Articulated Wheel Loaders (1800AWL, 4000AWL)
 
-### 2. Parts
+Super Tooth® Replacement Teeth
 
-![Rayco replacement teeth](/uploads/rayco-parts.jpg "Rayco Replacement Teeth")
+Monster Tooth® Heavy-Duty Teeth
 
-**Super Tooth® Replacement Teeth**
+## 📌Why Choose Rayco?
 
-Rayco's Super Tooth® is engineered for maximum durability and performance. Its one-piece design integrates the mounting block, neck, and strike point, **eliminating common failures like bending or breakage.** The low-profile shape allows clean cutting and full carbide contact for efficient stump grinding. Compatible with most stump cutters, including other brands.
+**Best For**: Professional arborists, land clearing contractors, and forestry equipment distributors who require high-durability wear parts and specialized vegetation management machinery.
 
-**Monster Tooth® Replacement Teeth**
+* **Synergy Between Machine & Carbide Tooling**: Unlike generic part suppliers, Rayco designs both the heavy machinery and the **carbide-tipped cutting teeth** (such as the **Super Tooth®**). This vertical integration ensures that the teeth geometry is perfectly optimized for the engine's torque, resulting in smoother grinding and higher fuel efficiency during demanding stump removal tasks.
+* **Engineered for Extreme Environments**: The "**Monster Tooth**" system is specifically developed for high-production forestry mulchers. These components utilize high-grade carbide inserts that can withstand the impact of dense undergrowth and abrasive soil. As a result, the service life of the cutting head is greatly extended, and the frequency of teeth replacement is reduced.
+* **"Maintenance Made Easy" Culture**: Rayco prioritizes the operator's independence. Through an extensive library of **step-by-step video guidance** and a **global factory-trained dealer network**, they ensure that equipment owners can perform routine maintenance and parts replacement quickly and correctly, minimizing costly downtime in the field.
+* **Global Corporate Backing**: As a member of the **Alamo Group**, Rayco combines the personalized service of a Michigan-based manufacturer with the stability and logistical reach of a global industrial powerhouse. This ensures long-term availability of genuine replacement parts and consistent product evolution.
 
-The Monster Tooth®, a patented, heavy-duty version of the Super Tooth®, is designed for the **T415 Forestry Mulcher/Hydra-Stumper**, providing superior strength and reliability for large-scale forestry work.
+## 📩Contact & Ordering
 
-**Filter Maintenance Kits**
+**Website**: https://www.raycomfg.com/
 
-Comprehensive filter kits are available to maintain excellent performance and extend the lifespan of Rayco stump grinders, forestry mulchers, and wheel loaders, minimizing downtime and ensuring consistent efficiency.
+**Email**: inquire@morbark.com
 
-## Ordering
+**Phone**: 989.866.2381 or 800.831.0042
 
-### 1. Equipment
-
-Rayco forestry mulchers, stump cutters, and articulated wheel loaders can be purchased through **authorized dealers**. On each product page, customers can either use the "**Find a Dealer**" tool to locate the nearest distributor or **submit a Request a Quote form** to inquire about availability and pricing.
-
-### 2. Parts & Accessories
-
-Replacement parts, including Super Tooth® and Monster Tooth® teeth, are also available through the **Find a Dealer** tool on the product pages.
-
-### 3. Service Regions
-
-Rayco's dealer network provides sales and support in the following countries:
-
-Argentina, Australia, Brazil, Cambodia, Canada, Chile, Japan, Malaysia, Netherlands, New Zealand, Singapore, South Africa, Sweden, United Kingdom, United States, Uruguay, and Vietnam.
-
-## Contact
-
-**Website:** https://www.raycomfg.com/
+**Service Regions**: Global
