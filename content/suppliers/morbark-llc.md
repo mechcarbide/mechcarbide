@@ -1,78 +1,98 @@
 ---
-title: Morbark, LLC
-display_name: Morbark
-type: suppliers
-description: Morbark, LLC manufactures innovative forestry, biomass, and
-  recycling equipment that converts wood and organic waste into valuable
-  products.
-
-summary: United States | Products include brush chippers, Chiparvestors® whole tree chippers, flails, horizontal grinders, tub grinders, sawmill products, and replacement parts.
-
-name: Morbark, LLC
-website: https://www.morbark.com/
-structured_description: >
-  Morbark, LLC is a leading manufacturer of high-performance forestry, biomass, recycling, and tree care equipment headquartered in Winn, Michigan. With more than 65 years of innovation, Morbark designs and builds durable machines that convert wood and organic waste into valuable products. Its comprehensive lineup includes brush chippers, whole tree chippers, flails, horizontal grinders, tub grinders, sawmill products, and replacement parts. Together with its affiliated brands—Rayco, Denis Cimaf, and Boxer Equipment—Morbark delivers sustainable, efficient solutions for vegetation management professionals worldwide.
-addressLocality: Winn
-addressRegion: Michigan
 addressCountry: United States
-email: inquire@morbark.com
-
-regions:
-  - united-states
-
+summary: United States | Products include horizontal grinders, tub grinders,
+  Wolf Pack® grinder inserts, BVR brush chippers, drum chippers, Chiparvestors,
+  flails, sawmill products, and more.
+addressRegion: Michigan
+display_name: Morbark
+name: Morbark, LLC
+structured_description: >
+  Morbark, LLC is a leading manufacturer of high-performance forestry, biomass,
+  recycling, and tree care equipment headquartered in Winn, Michigan. With more
+  than 65 years of innovation, Morbark designs and builds durable machines that
+  convert wood and organic waste into valuable products. Its comprehensive
+  lineup includes brush chippers, whole tree chippers, flails, horizontal
+  grinders, tub grinders, sawmill products, and replacement parts. Together with
+  its affiliated brands—Rayco, Denis Cimaf, and Boxer Equipment—Morbark delivers
+  sustainable, efficient solutions for vegetation management professionals
+  worldwide.
+addressLocality: Winn
+title: Morbark, LLC
+type: suppliers
+regions: united-states
+structured_data:
+  website: https://www.morbark.com/
+  email: inquire@morbark.com
+  addressLocality: Winn
+  addressRegion: Michigan
+  addressCountry: United States
+  structured_description: Morbark, LLC is a globally recognized manufacturer of
+    equipment designed to transform waste wood and organic materials into
+    valuable products. With over 65 years of innovation, Morbark provides a
+    comprehensive lineup of horizontal and tub grinders, brush chippers, and
+    whole tree chippers. The company is a leader in wear-part technology,
+    offering specialized carbide-tipped Wolf Pack inserts and SharpEdge knives
+    that maximize cutting efficiency and tool life. As a key brand within the
+    Alamo Group, Morbark supports forestry, recycling, and biomass professionals
+    worldwide through an extensive dealer network and a commitment to durable,
+    high-output industrial solutions.
+website: https://www.morbark.com/
 categories:
   - forestry-agriculture-and-recycling
+email: inquire@morbark.com
+description: Discover Morbark's high-performance wood grinders, chippers, and
+  Wolf Pack® carbide inserts. Leading the industry in wood waste conversion
+  since 1957.
 ---
-Founded in 1957 and headquartered in Winn, Michigan, Morbark, LLC is a global leader in manufacturing high-performance equipment for forestry, biomass, recycling, and tree care industries. With over six decades of innovation, Morbark designs durable solutions that **transform wood and organic waste into valuable resources.** Its extensive product lineup includes **brush chippers, whole tree chippers, flails, horizontal grinders, tub grinders, and sawmill products.** 
+## Quick Facts
 
-Together with its affiliated brands, **Rayco, DENIS CIMAF, and Boxer Equipment**, Morbark provides comprehensive vegetation management solutions worldwide. As a proud member of the **Alamo Group**, Morbark continues to empower professionals with sustainable, reliable, and efficient equipment that drives environmental stewardship and productivity.
+**Headquarters**: United States
 
-## Product Categories
+**Established**: 1957
 
-### 1. Equipment
+**Business Type**: Manufacturer
 
-![Morbark equipment](/uploads/morbark-equipment.jpg "Morbark Equipment")
+**Parent Company**: Alamo Group (Vegetation Management Division)
 
-**BVR Brush Chippers:** BVR19, BVR16, BVR13, BVR10
+**Product Range**: 28+ Leading Product Lines
 
-**TW Series Brush Chippers:** TW 160PH, TW 230HB, TW 230VTR Track, TW 280PHB, TW 280FTR Track
+## 📦Products
 
-**Eeger Beever Brush Chippers:** 1215, 1415, 1621X, 1821, 1922, 2131, 2230, M20 Forestry Brush Chipper
+Horizontal Grinders (Wood Hog Series: 2400X to 6400XT)
 
-**Chiparvestors®:** Model 30, Model 23X
+Tub Grinders (950 to 1600)
 
-**Drum Chippers:** 50/48X Whole Drum Tree Chipper, 40/36 Whole Tree Drum Chipper, 30/36 Whole Tree Drum Chipper, M20R Forestry Drum Chipper
+BVR Brush Chippers
 
-**Flails:** 2755 Flail Chiparvestor®, 2455 Stand-Alone Flail, 2355 Flail Chiparvestor®, 223 Stand-Alone Flail
+Drum Chippers
 
-**Horizontal Grinders:** 6400X, 3400X, 3000X, 2400X
+TW Series Brush Chippers
 
-**Tub Grinders:** 1600, 1300B, 1200XL, 1100, 1000, 950
+Eeger Beever Brush Chippers
 
-**Sawmill Products:** C-Series Debarker, PS8 Post Peeler, Chip Screens, Green Chains, and more.
+Wolf Pack® Grinder Inserts (Carbide-tipped)
 
-### 2. Parts
+Chiparvestors
 
-Brush chipper knives, Wolf Pack® Inserts for grinders, grates, filters, knife grinders, and more.
+Flails
 
-## Ordering
+Sawmill Products
 
-### 1. Equipment
+## 📌Why Choose Morbark?
 
-Morbark brush chippers, Chiparvestors® whole tree chippers, flails, horizontal grinders, tub grinders, and sawmill products can be purchased through **authorized dealers**. On each product page, customers can either use the "**Find a Dealer**" tool to locate the nearest distributor or **submit a Request a Quote form** to inquire about availability and pricing.
+**Best For**: Large-scale land clearing contractors, industrial wood recyclers, and biomass energy producers seeking high-output machinery and long-life wear parts.
 
-### 2. Parts & Accessories
+* **Advanced Tooling for Lower Cost-Per-Ton**: Morbark's **Wolf Pack® inserts** are specifically engineered for heavy-duty grinding. By using **premium carbide grades** and **optimized geometries**, these inserts maintain their edge longer against abrasive wood waste. For the operator, this means fewer tool changes, reduced fuel consumption, and a significant increase in the volume of saleable mulch produced before maintenance is required.
+* **Intelligent Machine Protection**: To solve the common industry problem of equipment damage from "ungrindable" contaminants, Morbark developed the **VTECTION®** and **ZeroClutch™** technologies. These systems monitor **drum speed** and **vibration** in real-time, preventing the clutch from engaging or the machine from sustaining damage when obstructions occur. This proactive protection saves owners from catastrophic repair costs and unexpected downtime.
+* **High-Efficiency Feed Geometry**: The **BVR line of brush chippers** features a unique **reverse-style pivot assembly** that contours to the drum's radius. By eliminating "dead space" between the feed wheel and the cutting drum, the machine gains a mechanical advantage in down pressure. This allows operators to process twisted or challenging materials much faster and with a more consistent chip quality.
+* **Empowered Self-Service & Support**: Morbark bridges the gap between complex industrial machinery and user-friendly maintenance. Through their "**Maintenance Made Easy**" video series and factory-trained dealer network, they provide clear, **step-by-step guidance** and **genuine OEM parts**. This ensures that even when working in remote locations, operators have the resources to keep their equipment running at peak performance for decades.
 
-Replacement parts, such as brush chipper knives and Wolf Pack® Inserts, are also available through the **Find a Dealer** tool on the product pages.
+## 📩Contact & Ordering
 
-### 3. Service Regions
+**Website**: https://www.morbark.com/
 
-Morbark's dealer network provides sales and support in the following countries:
+**Email**: inquire@morbark.com
 
-Argentina, Australia, Brazil, Cambodia, Canada, Chile, Japan, Malaysia, Netherlands, New Zealand, Singapore, South Africa, Sweden, United Kingdom, United States, Uruguay, and Vietnam.
+**Phone**: 989.866.2381 or 800.831.0042
 
-## Contact
-
-**Email:** inquire@morbark.com
-
-**Website:** https://www.morbark.com/
+**Service Regions**: Global
