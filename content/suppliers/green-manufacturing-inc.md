@@ -1,63 +1,86 @@
 ---
-title: Green Manufacturing, Inc.
-display_name: Greenteeth
-type: suppliers
-description: Green Manufacturing offers carbide-tipped Greenteeth® stump grinder
-  teeth, pockets, cutting wheels, and upgrade kits. Made in the USA with a focus
-  on innovation and durability.
-
-summary: United States | Products include Wearsharp® stump grinder teeth, Red & Green series of Greenteeth® stump grinder teeth, LoPro® pockets, stump grinder cutting wheels (REVERSE-S®, QUADWHEEL®), and performance upgrade kits for Vermeer, Rayco, and Husqvarna Bluebird.
-
-name: Green Manufacturing, Inc.
-website: https://www.greenteeth.com/
-structured_description: >
-  Greenteeth® is a product line from Green Manufacturing, Inc., developed to provide efficient and durable stump grinding solutions. The company offers carbide-tipped teeth, LoPro® pockets, cutting wheels, and performance upgrade kits, all manufactured in the United States using advanced CNC technology and environmentally conscious processes. Green Manufacturing supports customers through multiple ordering options and a 100% satisfaction guarantee.
-addressLocality: Morenci
-addressRegion: Michigan
 addressCountry: United States
-email: sales@greenteeth.com
-
-regions:
-  - united-states
-
+summary: United States | Products include Wearsharp® stump grinder teeth, Red &
+  Green series of Greenteeth® stump grinder teeth, LoPro® pockets, stump grinder
+  cutting wheels (REVERSE-S®, QUADWHEEL®), and performance upgrade kits for
+  Vermeer, Rayco, and Husqvarna Bluebird.
+addressRegion: Michigan
+display_name: Greenteeth
+name: Green Manufacturing, Inc.
+structured_description: >
+  Greenteeth® is a product line from Green Manufacturing, Inc., developed to
+  provide efficient and durable stump grinding solutions. The company offers
+  carbide-tipped teeth, LoPro® pockets, cutting wheels, and performance upgrade
+  kits, all manufactured in the United States using advanced CNC technology and
+  environmentally conscious processes. Green Manufacturing supports customers
+  through multiple ordering options and a 100% satisfaction guarantee.
+addressLocality: Morenci
+title: Green Manufacturing, Inc.
+type: suppliers
+regions: united-states
+structured_data:
+  website: https://www.greenteeth.com/
+  email: sales@greenteeth.com
+  addressLocality: Morenci
+  addressRegion: Michigan
+  addressCountry: United States
+  structured_description: Green Manufacturing is a premier American manufacturer
+    specializing in the innovative Greenteeth® stump grinder tooth and pocket
+    system. Founded by an arborist to solve field efficiency challenges, the
+    company produces high-performance carbide-tipped teeth that can be rotated
+    three times for extended use. Key technologies include the Wearsharp®
+    self-sharpening design, LoPro® slim-profile pockets for reduced drag, and
+    the Quadwheel® cutting system for optimized RPM recovery. All products are
+    CNC-machined in the USA and are designed for universal compatibility with
+    major equipment brands like Vermeer and Rayco, making them a global standard
+    for professional tree care and stump removal.
+website: https://www.greenteeth.com/
 categories:
   - forestry-agriculture-and-recycling
+email: sales@greenteeth.com
+description: Upgrade your stump grinder with Greenteeth® and Wearsharp® teeth.
+  USA-made, rotatable carbide teeth designed to reduce downtime and cut faster.
+  Shop global dealers.
 ---
-Greenteeth®, a brand under Green Manufacturing, Inc., originated in the 1990s when arborist Kevin Green sought **a more efficient way to replace stump grinder teeth in the field**. This led to the development of **a turnable, carbide-tipped tooth system** that eliminated the need to remove pockets during replacement. The positive performance of the early prototypes prompted the establishment of Green Manufacturing to produce Greenteeth for tree-care professionals globally. 
+## Quick Facts
 
-Today, the company continues to focus on innovation, using advanced CNC machining and environmentally conscious processes. **All products are manufactured in the United States** and designed to improve durability and operational efficiency.
+**Headquarters**: United States
 
-## Product Categories
+**Established**: 1990s
 
-![Greenteeth product range](/uploads/greenteeth-product-range.jpg "Greenteeth Product Range")
+**Business Type**: Manufacturer
 
-### 1. Teeth & Pockets
+**Flagship Brand**: Greenteeth®
 
-**LoPro® pockets:** 500 Series™, 700 series®, 900 series®, 1100 Series®
+**Innovation**: Inventors of the first rotatable, multi-edged stump cutting tooth
 
-**Teeth:** Wearsharp® teeth, Red & Green series of Greenteeth®
+## 📦Products
 
-### 2. Cutting Wheels
+Wearsharp® Stump Grinder Teeth 
 
-REVERSE-S® CUTTING SYSTEM, QUADWHEEL®, GREENTEETH® REPLACEMENT WHEEL FOR VERMEER SC30TX, GREENTEETH® REPLACEMENT WHEEL FOR VERMEER SC40TX
+Red & Green Series of Greenteeth® Stump Grinder Teeth
 
-### 3. Performance Upgrade Kits
+LoPro® Pockets
 
-Performance upgrade kits are currently available for the Vermeer 252, 292, 362, most Rayco Jrs & Super Jrs, and the Husqvarna Bluebird 1314A.
+Stump Grinder Cutting Wheels (REVERSE-S®, QUADWHEEL®)
 
-## Ordering
+Performance Upgrade Kits for Vermeer, Rayco, and Husqvarna Bluebird
 
-* Customers can place orders directly with Green Manufacturing by **contacting the sales team at 800-473-3683.** 
-* The company also provides a dealer locator on its website for those who prefer to purchase through **local distributors.** 
-* In addition, Green Manufacturing products are available on **Amazon** for convenient online ordering.
-* The brand serves multiple regions, including the **United States, Canada, the United Kingdom, Australia, New Zealand, Belgium, and Denmark**.
+## 📌Why Choose Green Manufacturing?
 
-## Warranty
+**Best For**: Arborists and professional tree care contractors who need to minimize field downtime and maximize the lifespan of their cutting tools in challenging soil conditions.
 
-Green Manufacturing offers a 100% satisfaction guarantee on its products. Customers who are not fully satisfied or do not experience the expected cost savings may request a return authorization within 30 days of purchase. Proof of purchase is required to process all returns.
+* **3-in-1 Rotatable Cutting Edges**: Greenteeth® solved the industry's biggest headache, losing time to dull teeth in the middle of a job. Each tooth can be **rotated three times** to provide a fresh, sharp cutting surface without ever removing the pocket. This patented system effectively triples the work life of each component and allows for rapid "on-the-fly" adjustments right in the field.
+* **Wearsharp® Self-Sharpening Geometry**: Standard carbide teeth often round off and lose efficiency quickly. The Wearsharp® technology utilizes **a unique wear pattern** and **specific angles** that allow the tooth to actually **maintain a sharp edge** as it wears down. For the operator, this means faster cutting speeds, less machine vibration, and lower fuel consumption from the first stump to the last.
+* **LoPro® Slim-Profile Pockets**: Designed with a specialized **3/4" clearance** between the pocket side and the stump, the **LoPro® series** significantly reduces friction and pocket wear. These pockets are also universally threaded and counter-bored, meaning they can be placed on either side of the wheel, simplifying your inventory and reducing the number of spare parts you need to carry.
+* **Optimized RPM Recovery with Quadwheel®**: The Quadwheel® design creates **intentional gaps between sets of teeth**. This clever engineering allows the machine to **regain its RPMs** between cuts rather than constantly bogging down. This results in a smoother cutting experience and allows lower-horsepower machines to perform like much larger, more expensive units.
 
-## Contact
+## 📩Contact & Ordering
 
-**Email:** sales@greenteeth.com (8:00 AM to 5:00 PM EST Monday – Friday)
+**Website**: https://www.greenteeth.com/
 
-**Website:** https://www.greenteeth.com/
+**Email**: sales@greenteeth.com
+
+**Phone**: 1-800-473-3683
+
+**Service Regions**: Global
