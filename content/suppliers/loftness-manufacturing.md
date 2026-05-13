@@ -1,83 +1,87 @@
 ---
-title: Loftness Manufacturing
-display_name: Loftness
-type: suppliers
-description: Loftness® is a US-based supplier of vegetation management and
-  agricultural equipment, parts and accessories.
-
-summary: United States | Products include Battle Ax® Series mulching heads, mulcher teeth, flail mowers, grain bag loaders, fertilizer spreaders, crop shredders and more.
-
-name: Loftness Manufacturing
-website: https://www.loftness.com/
-structured_description: >
-  Loftness is a North American manufacturer of vegetation management and agricultural equipment, founded in 1956 in Minnesota. Originally known for snow blowers, the company has since expanded into mulching heads, flail mowers, grain bag loaders, fertilizer spreaders, and specialized attachments such as stump grinders and rock pickers. Loftness serves the U.S. and Canadian markets through an authorized dealer network. In 2020, it became 100% employee-owned, reinforcing its commitment to quality, innovation, and customer support. All Battle Ax®, Bad Ax®, and Timber Ax™ mulching heads come with a standard 2-year warranty.
-addressLocality: Hector
-addressRegion: Minnesota
 addressCountry: United States
-email: info@loftness.com; parts@loftness.com
-
-regions:
-  - united-states
-
+summary: United States | Products include Battle Ax® Series mulching heads,
+  mulcher teeth, Kwik Cut brush cutter, Stump Ax™ stump grinder, and more.
+addressRegion: Minnesota
+display_name: Loftness
+name: Loftness Manufacturing
+structured_description: >
+  Loftness is a North American manufacturer of vegetation management and
+  agricultural equipment, founded in 1956 in Minnesota. Originally known for
+  snow blowers, the company has since expanded into mulching heads, flail
+  mowers, grain bag loaders, fertilizer spreaders, and specialized attachments
+  such as stump grinders and rock pickers. Loftness serves the U.S. and Canadian
+  markets through an authorized dealer network. In 2020, it became 100%
+  employee-owned, reinforcing its commitment to quality, innovation, and
+  customer support. All Battle Ax®, Bad Ax®, and Timber Ax™ mulching heads come
+  with a standard 2-year warranty.
+addressLocality: Hector
+title: Loftness Manufacturing
+type: suppliers
+regions: united-states
+structured_data:
+  website: https://www.loftness.com/
+  email: info@loftness.com
+  addressLocality: Hector
+  addressRegion: Minnesota
+  addressCountry: United States
+  structured_description: Loftness Specialized Equipment is a premier American
+    manufacturer of high-performance vegetation management and agricultural
+    machinery. Founded in 1956 and now 100% employee-owned, the company is
+    globally recognized for its innovative Battle Ax mulching heads, which
+    feature advanced bite-limiting rotors and two-stage cutting chambers for
+    superior wood processing. Loftness provides a comprehensive range of durable
+    attachments, including brush cutters and stump grinders, all engineered to
+    utilize high-strength carbide teeth and beveled blades. Their commitment to
+    craftsmanship and reliability ensures maximum productivity for professional
+    contractors in the forestry and land clearing industries.
+website: https://www.loftness.com/
 categories:
   - forestry-agriculture-and-recycling
+email: info@loftness.com; parts@loftness.com
+description: Explore Loftness Battle Ax mulching heads and high-performance
+  carbide teeth. American-made, employee-owned forestry equipment built for
+  durability since 1956.
 ---
-Founded in 1956 by Minnesota farmer Dick Loftness, the company began when he built a V-type snow blower in his farm shop. As demand grew, Marv Nelson, a local farmer, joined as a distributor in 1970 and later bought the business in 1979, guiding it into a new era of growth and innovation. Under the Nelson family's leadership, Loftness expanded from snow blowers to **vegetation management equipment and agricultural equipment.** 
+## Quick Facts
 
-In 2020, the company became **employee-owned through an ESOP program**, ensuring that every team member shares in its legacy of innovation, quality, and customer success. Today, Loftness remains dedicated to producing equipment that performs reliably in the toughest conditions.
+**Headquarters**: United States
 
-![Loftness equipment](/uploads/loftness-equipment.jpg "Loftness Equipment")
+**Established**: 1956
 
-## Product Categories
+**Business Type**: Manufacturer
 
-### 1. Vegetation Management Equipment
+**Ownership**: 100% Employee-Owned (ESOP)
 
-**Mulching heads:** Battle Ax® - L, S, H Series, Battle Ax® Extreme, Battle Ax® Tractor, Battle Ax® - 10, 20, 30, 40, 50 Series, Bad Ax® Disc Mulcher, Timber Ax™ (for skid steers)
+**Product Specialty**: Vegetation Management & Agricultural Equipment
 
-**Flail Mowers:** New Flail Mower – Hydro, Flail Mower – Hydro, Flail Mower - PTO
+## 📦Products
 
-### 2. Agricultural Equipment & Attachments
+Battle Ax® Mulching Heads
 
-Grain bag loaders, Fertilizer spreaders, Crop shredders, Other related equipment
+Kwik Cut Brush Cutters
 
-### 3. Parts & Attachments
+Stump Ax™ Stump Grinders
 
-![Loftness parts](/uploads/loftness-parts.jpg "Loftness Parts")
+Carbide Cutting Teeth (Replacement Parts)
 
-**Parts:** Mulcher teeth, other replacement parts
+Timber Ax® Mulching Heads
 
-**Attachments:** Stump Ax™ Stump Grinder (For Skid Steer / Excavator), COOL FLOW™, EZ Pick® Rock Picker, Ditcher
+## 📌Why Choose Loftness?
 
-## Ordering
+**Best For**: Professional land clearing contractors and agricultural operators who need versatile cutting heads that can switch between high-speed blades and durable carbide teeth without losing efficiency.
 
-### 1. Equipment
+* **Battle Ax® Bite-Limiting Technology**: The core innovation of the **Battle Ax series** is its unique **depth gauge** design. These depth gauges act like a raker tooth on a chainsaw. They regulate the intake of material to prevent the rotor from stalling, even when using aggressive carbide teeth, while still maintaining the ability to pick up and process debris from the ground efficiently.
+* **Two-Stage Cutting Chamber**: To ensure superior mulch quality, Loftness designs their heads with **two separate shear bars**. This means wood and vegetation are processed twice before being discharged. For the user, this results in a much finer particle size and more consistent finish, which is a critical requirement for high-end landscaping or forestry projects.
+* **Staggered Spiral Tooth Pattern**: Vibration and rotor balance are major pain points for machine operators. Loftness utilizes an exclusive **spiral tooth arrangement** that ensures only **one tooth makes contact with the work surface** at any given time. This constant contact maintains optimal balance, reduces wear on the machine's bearings, and translates to smoother operation and a longer service life for the carbide inserts.
+* **Employee-Owned Reliability (ESOP)**: Since becoming an **employee-owned company** in 2020, every person involved in the manufacturing and service of Loftness equipment has a personal stake in the product's success. This culture of ownership ensures a higher standard of quality control and a level of dedicated customer support that helps owners minimize downtime through direct access to expert technical guidance.
 
-To purchase Loftness equipment, use the "**Find a Dealer**" feature on their website to locate **the nearest authorized dealer** and contact them directly.
+## 📩Contact & Ordering
 
-### 2. Parts
+**Website**: https://www.loftness.com/
 
-Loftness parts can be ordered by **calling the factory parts department at 800-828-7624**. Alternatively, use the **dealer locator online** to find a local sales representative who can assist with parts inquiries and orders.
+**Email**: info@loftness.com
 
-### 3. Service Regions
+**Phone**: 320-848-6266 (International)/ 800-828-7624 (US and Canada)
 
-Loftness products are sold only in **North America (the United States and Canada)**.
-
-### 4. Price
-
-You can find "**Price Sheets**" on Loftness' official website for reference.
-
-## Warranty
-
-Loftness® offers **a standard 2-year warranty on all Battle Ax®, Bad Ax®, and Timber Ax™ mulching heads**. Effective November 1, 2022, eligible products are automatically enrolled in this warranty, which is twice as long as most competitors'.
-
-For the complete warranty policy, visit the "**[WARRANTY](https://www.loftness.com/warranty/)**" page on the website.
-
-## Contact
-
-**Email:**
-
-info@loftness.com (general information)
-
-parts@loftness.com (parts only)
-
-**Website:** https://www.loftness.com/
+**Service Regions**: Global
