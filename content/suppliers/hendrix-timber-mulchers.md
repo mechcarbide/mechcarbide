@@ -1,58 +1,79 @@
 ---
-title: Hendrix Timber Mulchers
-display_name: Hendrix
-type: suppliers
-description: Hendrix Timber Mulchers supplies new and used forestry and timber
-  mulching equipment and replacement parts, serving East Texas and the U.S.
-  since 1980.
-
-summary: United States | Products include forestry mulchers, mulcher teeth, and replacement parts, compatible with popular brands like FAE, Fecon, and more.
-
-name: Hendrix Timber Mulchers
-website: https://hendrixtimbermulchers.com/
-structured_description: >
-  Hendrix Timber Mulchers is a family-owned company in Livingston, Texas, providing new and used forestry and timber mulching equipment, replacement parts such as mulcher teeth, and nationwide sales, service, and support. The company is an authorized dealer for brands including ASV, Barko, Fecon, FAE, Bron, Diamond Mowers, Plaisance Equipment, Donaldson Filters, and Gates Hoses & Fittings. Customers can order online within the U.S., pay via major credit cards, and follow the company’s return policy for eligible items.
-addressLocality: Livingston
-addressRegion: Texas
 addressCountry: United States
-email: sales@hendrixtimbermulchers.com
-
-regions:
-  - united-states
-
+summary: United States | Products include forestry mulchers, mulcher teeth, and
+  replacement parts, compatible with popular brands like FAE, Fecon, and more.
+addressRegion: Texas
+display_name: Hendrix Timber
+name: Hendrix Timber Mulchers
+structured_description: >
+  Hendrix Timber Mulchers is a family-owned company in Livingston, Texas,
+  providing new and used forestry and timber mulching equipment, replacement
+  parts such as mulcher teeth, and nationwide sales, service, and support. The
+  company is an authorized dealer for brands including ASV, Barko, Fecon, FAE,
+  Bron, Diamond Mowers, Plaisance Equipment, Donaldson Filters, and Gates Hoses
+  & Fittings. Customers can order online within the U.S., pay via major credit
+  cards, and follow the company’s return policy for eligible items.
+addressLocality: Livingston
+title: Hendrix Timber Mulchers
+type: suppliers
+regions: united-states
+structured_data:
+  website: https://hendrixtimbermulchers.com/
+  email: sales@hendrixtimbermulchers.com
+  addressLocality: Livingston
+  addressRegion: Texas
+  addressCountry: United States
+  structured_description: Hendrix Timber Mulchers is a premier family-owned
+    authorized dealer based in Livingston, Texas, specializing in new and used
+    forestry and land clearing equipment since 1980. As a leading distributor
+    for top-tier brands like FAE, Fecon, and Diamond Mowers, they provide
+    high-performance mulching heads, genuine carbide wear parts, and specialized
+    attachments for the timber industry. With two physical service locations,
+    Hendrix offers comprehensive lifecycle support, including machinery
+    maintenance, hydraulic solutions via Gates, and industrial filtration from
+    Donaldson, serving contractors and forestry professionals throughout the
+    United States.
+website: https://hendrixtimbermulchers.com/
 categories:
   - forestry-agriculture-and-recycling
+email: sales@hendrixtimbermulchers.com
+description: Hendrix Timber Mulchers is Texas's dealer for FAE, Fecon, and
+  Barko. Providing expert sales, service, and genuine carbide mulcher parts
+  across the USA since 1980.
 ---
-Hendrix Timber Mulchers is a family-owned company based in Livingston, Texas, **serving East Texas and the U.S.** since 1980. The company specializes in **new and used environmental land clearing and timber mulching equipment**, offering sales, service, and **parts** nationwide. Hendrix Timber Mulchers is an **authorized dealer** for manufacturers including ASV, Barko, Fecon, FAE, Bron, Diamond Mowers, Plaisance Equipment, Donaldson Filters, and Gates Hoses & Fittings. With two locations in Livingston, the company aims to provide convenient access to equipment, parts, and maintenance services for forestry and timber mulching operations across the United States.
+## Quick Facts
 
-## Product Categories
+**Headquarters**: United States
 
-![Hendrix Timber Mulchers product range](/uploads/hendrix-timber-mulchers-product.jpg "Hendrix Timber Mulchers Product Range")
+**Established**: 1980
 
-### 1. Forestry & Mulching Equipment
+**Business Type**: Authorized Distributor & Service Provider
 
-New and used equipment from manufacturers such as FAE, Barko, Fecon, ASV, and others.
+**Locations**: 2 specialized facilities in East Texas
 
-#### 2. Replacement Parts
+## 📦Products
 
-Aftermarket parts for forestry and mulching equipment, including **mulcher teeth** and other essential components.
+Mulcher Teeth
 
-## Ordering
+Aftermarket Teeth to Barko, ASV and more
 
-* Customers can **place orders directly through the website**, where product pricing is clearly displayed. 
-* Service is limited to locations **within the United States**.
+Land Cearing Equipment
 
-## Payment
+## 📌Why Choose Hendrix Timber Mulchers?
 
-Hendrix Timber Mulchers accepts major credit cards, including **Mastercard, Visa, American Express, and Discover**, for convenient online and in-person payments.
+**Best For**: Land clearing contractors and forestry professionals who need a "one-stop" partner for high-end equipment sourcing, genuine carbide wear parts, and immediate technical support.
 
-## Return Policy
+* **Integrated "One-Call" Solutions**: Hendrix simplifies the complex supply chain for forestry operators. By acting as a single point of contact for machinery sales, genuine carbide teeth replacement, and specialized maintenance, they solve the problem of coordinating between multiple vendors. This **integrated approach** minimizes administrative downtime and ensures that the carrier and the attachment are perfectly matched for the job.
+* **Authorized Tier-1 Brand Expertise**: As an **authorized dealer** for industry leaders like FAE and Fecon, Hendrix provides access to the most advanced carbide cutting technology available. Customers benefit from genuine components engineered for specific rotor balances and impact resistance, which directly translates to cleaner mulch finish and longer tool life compared to unverified alternatives.
+* **Service-Backbone Reliability**: Unlike brokers who only facilitate sales, Hendrix operates **two service locations** with deep mechanical expertise. They understand the "East Texas Tough" conditions and provide practical advice on which carbide tooth configurations will maximize productivity in specific soil and timber types, ensuring buyers get the most efficient setup for their regional environment.
+* **Critical Component Availability**: Beyond the heavy machinery, Hendrix stocks essential **support parts** including Gates hydraulic fittings and Donaldson filtration kits. This comprehensive inventory means that a simple hose failure or a clogged filter doesn't sideline an entire operation, providing contractors with the logistical security needed for time-sensitive land clearing projects.
 
-* All returns are subject to a **15% restocking fee**.
-* Customers are responsible for all return shipping costs.
+## 📩Contact & Ordering
 
-## Contact
+**Website**: https://hendrixtimbermulchers.com/
 
-**Email:** sales@hendrixtimbermulchers.com
+**Email**: sales@hendrixtimbermulchers.com
 
-**Website:** https://hendrixtimbermulchers.com/
+**Phone**: 936-563-4174
+
+**Service Regions**: United States
