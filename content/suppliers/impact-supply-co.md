@@ -1,76 +1,80 @@
 ---
-title: Impact Supply Co.
-display_name: Impact Supply
-type: suppliers
-description: Impact Supply Company provides aftermarket forestry mulcher teeth
-  compatible with equipment from brands such as FAE, CAT, Denis Cimaf, Shearex,
-  Fecon, and Bobcat.
-
-summary: United States | Products include aftermarket forestry mulcher teeth compatible with equipment from brands such as FAE, CAT, Denis Cimaf, Shearex, Fecon, and Bobcat.
-
-name: Impact Supply Co.
-website: https://www.impactsupply.shop/
-structured_description: >
-  Impact Supply Company provides aftermarket forestry mulcher teeth compatible with equipment from brands such as FAE, CAT, Denis Cimaf, Shearex, Fecon, and Bobcat. The company focuses on durable wear parts designed to reduce vibration and maintain consistent performance across different mulching conditions. Additional services include online ordering within select U.S. regions, weight-based shipping estimates, a 15-day return policy for unused items, and clear guidance on aftermarket compatibility.
-addressLocality: Unknown
-addressRegion: North Carolina
 addressCountry: United States
-email: support@Impactsupply.shop
-
-regions:
-  - united-states
-
+summary: United States | Products include aftermarket forestry mulcher teeth
+  compatible with equipment from brands such as FAE, CAT, and Denis Cimaf.
+addressRegion: North Carolina
+display_name: Impact Supply
+name: Impact Supply Co.
+structured_description: >
+  Impact Supply Company provides aftermarket forestry mulcher teeth compatible
+  with equipment from brands such as FAE, CAT, Denis Cimaf, Shearex, Fecon, and
+  Bobcat. The company focuses on durable wear parts designed to reduce vibration
+  and maintain consistent performance across different mulching conditions.
+  Additional services include online ordering within select U.S. regions,
+  weight-based shipping estimates, a 15-day return policy for unused items, and
+  clear guidance on aftermarket compatibility.
+addressLocality: Unknown
+title: Impact Supply Co.
+type: suppliers
+regions: united-states
+structured_data:
+  website: https://www.impactsupply.shop/
+  email: support@Impactsupply.shop
+  addressLocality: Unknown
+  addressRegion: North Carolina
+  addressCountry: United States
+  structured_description: Impact Supply Company is a specialized supplier of
+    aftermarket forestry mulcher teeth, focusing on high-quality replacements
+    for FAE, CAT, and Denis Cimaf equipment. Their products are engineered for
+    maximum durability, featuring wear-resistant coatings and premium carbide
+    inserts to withstand demanding land clearing environments. Impact’s teeth
+    are designed for a seamless "bolt-on" fit using original OEM hardware,
+    ensuring easy installation and reduced machine vibration. With a commitment
+    to efficiency and cost-effectiveness, they provide professional-grade wear
+    parts that enhance productivity for forestry contractors worldwide.
+website: https://www.impactsupply.shop/
 categories:
   - forestry-agriculture-and-recycling
+email: support@Impactsupply.shop
+description: Shop high-performance aftermarket mulcher teeth for FAE, CAT, and
+  Denis Cimaf. Impact Supply offers durable carbide-tipped teeth with free
+  shipping over $600.
 ---
-Impact Supply Company provides **aftermarket forestry mulcher teeth** compatible with equipment brands such as **FAE, CAT, Denis Cimaf, and Shearex**. The company focuses on producing wear parts designed for durability, reduced vibration, and stable performance in forestry mulching applications. Its products incorporate **wear-resistant coatings and hard materials** aimed at extending service life and supporting consistent productivity across varying operating conditions and equipment types.
+## Quick Facts
 
-## Product Categories
+**Headquarters**: United States
 
-![Impact Supply Co. product range](/uploads/impact-supply-product.jpg "Impact Supply Co. Product Range")
+**Business Type**: Supplier / Aftermarket Specialist
 
-Aftermarket forestry mulcher teeth compatible with FAE, CAT, Denis Cimaf, Shearex, Fecon, and Bobcat equipment.
+**Specialization**: High-wear replacement teeth for FAE, CAT, and Denis Cimaf mulchers
 
-## Ordering
+**Compatibility**: 100% bolt-on ready with OEM stock hardware
 
-* Customers can place orders directly through the website, where product pricing is clearly displayed. 
-* For a quick checkout without creating an account, Apple Pay and Google Pay are available as guest payment options.
+**Shipping Policy**: Free shipping on orders over $600
 
-## Shipping
+**Return Window**: 15-day return policy for unused items
 
-* Free shipping on orders over $600.
-* Shipping and delivery estimates are provided at checkout based on item availability and the shipping option selected. 
-* Rates for most items are calculated by weight, with all weights rounded up to the next full pound in accordance with carrier requirements. 
-* The fastest available delivery method within the chosen timeframe will be used. As a result, orders may occasionally arrive earlier than expected and may be delivered by a different carrier than initially indicated.
+**Core Material**: Premium tungsten carbide with wear-resistant coatings
 
-## Refund & Return Policy
+## 📦Products
 
-### Return Eligibility
+Aftermarket Mulcher Teeth (FAE, CAT, Denis Cimaf)
 
-Most new and unused items may be returned within 15 days of the delivery date. Returned products must be in their original, unused condition.
+## 📌Why Choose Impact Supply Company?
 
-### Return Process
+**Best For**: Forestry contractors and land clearing professionals running FAE, CAT, or Denis Cimaf equipment who need high-performance replacement teeth without the OEM price tag.
 
-**Return Shipping Costs:**
+* **Precision "Zero-Guesswork" Fit**: Impact's aftermarket teeth are engineered to be direct replacements that bolt straight into C/3 rotors using your existing stock hardware. This eliminates the need for specialized adapters or modifications, allowing operators to swap parts quickly and get back to work without compatibility issues.
+* **Enhanced Wear-Resistant Coatings**: To combat the abrasive nature of forestry mulching, these teeth are treated with **specialized hard coatings**. This material advantage significantly extends the component's lifespan in rocky or sandy soil, reducing the frequency of maintenance stops and lowering your total cost-per-hour of operation.
+* **Vibration-Damping Design**: Each tooth is meticulously designed to ensure smooth drum **balance** during high-RPM operations. By minimizing machine vibration, Impact teeth not only improve the consistency of the mulch finish but also protect your expensive rotor bearings and mower heads from premature mechanical fatigue.
+* **Agile Fulfillment for Professionals**: Recognizing that downtime is lost revenue, Impact offers a streamlined online ordering process with free shipping on qualifying professional-grade orders. Their focused inventory on specific high-demand brands (FAE, CAT, Denis Cimaf) ensures that parts are in stock and ready to ship when critical repairs are needed.
 
-* Customers are responsible for all return shipping costs, including any applicable freight or customs duty fees.
-* If the return is due to the Company's error, such as receiving an incorrect or defective item, the Company will cover the return shipping costs.
-* For orders that originally shipped for free, the actual shipping cost will be deducted from the refund.
+## 📩Contact & Ordering
 
-**How to Initiate a Return:**
+**Website**: https://www.impactsupply.shop/
 
-Please contact Impact Supply Company with your order number and the details of the item you wish to return. They will provide instructions on how to proceed with the return.
+**Email**: support@Impactsupply.shop
 
-### Refund Process
+**Phone**: 980-981-6605
 
-Refunds are processed within 15 days after the returned item is received. In some cases, refunds may be issued sooner. Eligible refunds will be issued to the original payment method, minus original and return shipping costs, when applicable.
-
-## Legal Notice
-
-Impact Supply Company is not affiliated with, authorized by, or endorsed by any of the original equipment manufacturers (OEMs) referenced. OEM names, models, part numbers, and descriptions are used solely for the purpose of identifying compatible aftermarket parts. All products offered by Impact Supply Company are aftermarket replacement parts and are not OEM items.
-
-## Contact
-
-**Email:** support@Impactsupply.shop
-
-**Website:** https://www.impactsupply.shop/
+**Service Regions**: North America / Global
