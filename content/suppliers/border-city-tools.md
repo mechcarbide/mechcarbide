@@ -34,6 +34,7 @@ structured_data:
 website: http://www.bordercitytools.com/
 categories:
   - forestry-agriculture-and-recycling
+  - mining-and-construction-tools
 email: sales@drillingworld.com
 description: Border City Tools specializes in USA-made stump grinder teeth,
   mining bits, and construction tools since 1954. Patented carbide solutions for
