@@ -3,7 +3,7 @@ addressCountry: China
 summary: China | Products include TBM cutters, road milling teeth, coal mining
   picks, trencher teeth, HDD weld-on teeth, and bullet teeth.
 addressRegion: Shandong
-display_name: Techgong
+display_name: Shandong Techgong
 name: Shandong Techgong Geotechnical Engineering Equipment Co., Ltd
 structured_description: >
   Shandong Techgong Geotechnical Engineering Equipment Co., Ltd ("Techgong") is
@@ -15,7 +15,7 @@ structured_description: >
   provides durable, efficient, and customized solutions, along with responsive
   global service and technical support.
 addressLocality: Liaocheng
-title: Shandong Techgong Geotechnical Engineering Equipment Co., Ltd
+title: Shandong Techgong
 type: suppliers
 regions: china
 structured_data:
