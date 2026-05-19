@@ -1,58 +1,118 @@
 ---
-title: BETEK GmbH & Co. KG
-display_name: BETEK
-type: suppliers
-description: Global expert in tungsten carbide technology, BETEK designs and
-  manufactures premium wear parts and tooling systems for demanding industries.
-
-summary: Germany | Products include road milling bits, surface mining bits, carbide buttons for tricone bits, DTH bits, and HPGRs, cutting tools for underground mining, trenching, HDD, and forestry mulching, and more.
-
-name: BETEK GmbH & Co. KG
-website: https://betek.de/
-structured_description: >
-  BETEK is a German manufacturer of tungsten carbide-tipped wear parts and tool systems, serving industries such as mining, road milling, foundation drilling, and recycling. With production sites in Germany and China and offices in the USA, BETEK provides durable, high-performance solutions engineered with precision and backed by ISO-certified quality.
-addressLocality: Aichhalden
-addressRegion: Baden-Württemberg
 addressCountry: Germany
-email: info@betek.de
-
-regions:
-  - germany
-
+summary: Germany | Products include road milling bits, surface mining bits,
+  carbide buttons for tricone bits, DTH bits, and HPGRs, cutting tools for
+  underground mining, trenching, HDD, and forestry mulching, and more.
+addressRegion: Baden-Württemberg
+display_name: BETEK
+name: BETEK GmbH & Co. KG
+structured_description: >
+  BETEK is a German manufacturer of tungsten carbide-tipped wear parts and tool
+  systems, serving industries such as mining, road milling, foundation drilling,
+  and recycling. With production sites in Germany and China and offices in the
+  USA, BETEK provides durable, high-performance solutions engineered with
+  precision and backed by ISO-certified quality.
+addressLocality: Aichhalden
+title: BETEK GmbH & Co. KG
+type: suppliers
+regions: germany
+structured_data:
+  website: https://betek.de/
+  email: info@betek.de
+  addressLocality: Aichhalden
+  addressRegion: Baden-Württemberg
+  addressCountry: Germany
+  structured_description: BETEK GmbH & Co. KG is a premier global manufacturer of
+    tungsten carbide-tipped wear parts and tool systems, headquartered in
+    Germany. Renowned for their "Engineered & Made in Germany" quality, they
+    provide high-performance solutions for road milling, foundation drilling,
+    mining, tunneling, and agricultural engineering. As a long-term system
+    partner of the Wirtgen Group, BETEK manages the entire production process
+    from carbide powder development to automated finishing. Their innovative
+    portfolio includes patented cutting tools, BeCoat® wear protection, and
+    sustainable recycling programs, delivering maximum productivity and
+    durability for heavy-duty industrial applications worldwide.
+website: https://betek.de/
 categories:
   - mining-and-construction-tools
+  - forestry-agriculture-and-recycling
+email: info@betek.de
+description: "BETEK: Leading German manufacturer of tungsten carbide wear parts
+  for road milling, mining, and agriculture. Official Wirtgen partner.
+  High-durability OEM tools."
 ---
-BETEK is a globally recognized manufacturer and technical solution provider specializing in **tungsten carbide-tipped wear parts and tool systems**. Headquartered in **Aichhalden, Baden-Württemberg, Germany**, BETEK is dedicated to designing and producing high-performance components that enhance durability, efficiency, and productivity in demanding industrial applications.
+## Quick Facts
 
-With decades of experience and advanced in-house toolmaking capabilities, BETEK delivers integrated wear protection solutions for a wide range of industries, **including road milling, surface and underground mining, foundation drilling, recycling, and agricultural engineering.** Through continuous innovation and customer-oriented development, BETEK remains committed to providing optimized solutions for different working environments.
+**Headquarters**: Germany
 
-To better serve customers worldwide, BETEK operates a production facility near Shanghai for the Asian market and maintains a warehouse and sales office in North Carolina, USA. This global footprint ensures efficient logistics, timely delivery, and localized service.
+**Established**: 1992 (Under SIMON GROUP)
 
-## BETEK's product portfolio includes:
+**Business Type**: Manufacturer / OEM
 
-![BETEK product range](/uploads/betek-product-range.jpg "BETEK Product Range")
+**Employee**: ~4,000
 
-* Road milling and surface mining bits (distributed via system partner Wirtgen)
-* Carbide buttons for tricone bits, DTH bits, and HPGRs
-* Wear parts for crushing and mixing plants
-* Tools for underground mining, trenching, HDD, forestry mulching, and stump cutting
-* Snow clearing blades and carbide spikes for winter service
-* Grader picks for road repair and maintenance
+**Production Locations**: 2 (Aichhalden, Germany & Shanghai, China)
 
-## Quality & Innovation
+**Strategic Partner**: Official system partner of the Wirtgen Group since 1982
 
-At BETEK, quality is more than a standard — it is a commitment. The company adheres to **ISO 9001 and IATF 16949** standards and implements a rigorous quality management system aimed at "zero defects." BETEK's **in-house materials laboratory** is equipped with advanced testing instruments, including ICP spectrometers and scanning electron microscopes, ensuring consistent performance from raw materials to finished parts.
+**R&D Hub**: InnoLab (Established 2022) for advanced powder metallurgy and joining tech
 
-## Safety & Responsibility
+## 📦Products
 
-BETEK values the well-being of its employees and operates under **ISO 45001** guidelines to maintain safe, healthy, and efficient workplaces. Sustainability and responsibility are integrated into every stage of production and business decisions.
+Road Milling Bits (Generation X², Generation PRO, PCD)
 
-## BETEK & SIMON Group
+Agricultural Tools (Soil Cultivation, Seedbed Preparation)
 
-As a member of the SIMON GROUP, BETEK cooperates closely with leading partners such as **Wirtgen** to deliver world-class tooling and wear solutions. Guided by the principle "Engineered & made in Germany," BETEK stands for precision, reliability, and innovation, qualities that define every product it makes and every partnership it builds.
+Conical Mining Picks (38/30 mm & 42mm Shank)
 
-## Contact
+Tricone Bits
 
-**Email:** info@betek.de
+Carbide Pins (Tricone bits, DTH bits, High-pressure grinding rolls)
 
-**Website:** https://betek.de/
+Bullet Teeth for Foundation Drilling
+
+Roadheader Picks
+
+TungStuds & BTS-Plates
+
+HDD Teeth
+
+Forestry Mulcher Teeth
+
+Stump Grinder Teeth
+
+Grader Blades & Winter Service Spsikes
+
+SITEK Studs (Tire studs, pole tips, carbide pins)
+
+## 📌Why Choose BETEK?
+
+**Best For**: Global heavy-industry OEMs, large-scale road construction firms, and mining enterprises that require high-precision, German-engineered carbide tools with zero-error reliability.
+
+* **Total Vertical Production Control**: BETEK distinguishes itself by **managing the entire value chain in-house**, from the development of raw tungsten carbide powder to final automated assembly. This "**all-under-one-roof**" approach ensures that the material composition is perfectly matched to the tool's geometry, resulting in unparalleled product consistency and the ability to develop custom formulations for specific geological conditions.
+* **Wirtgen System Partnership**: As a strategic partner for the world's leading road milling manufacturer ([Wirtgen](https://www.mechcarbide.com/suppliers/wirtgen-gmbh/)), BETEK's tools are not just aftermarket parts; they are the gold standard for the industry. This collaboration guarantees that every pick or holder is optimized for modern machine technology, providing users with maximum feed rates and significantly reduced machine downtime.
+* **Advanced BeCoat® Wear Protection**: Using specialized **PTA (Plasma Transferred Arc) welding technology**, BETEK applies ferrous and carbide powder armor to high-stress areas. This protection layer acts as a shield against extreme abrasion, effectively extending the service life of base bodies and helping customers lower their overall cost-per-ton of extracted material.
+* **Engineering-Led Performance & Validation**: BETEK solves the "trial and error" problem by developing tools in **direct consultation** with machine manufacturers. Using **Finite Element Method (FEM)** simulations, their engineers test for strength and deformation before a single part is even forged, ensuring tools are perfectly matched to their carriers for maximum performance and minimum wear. This is further backed by their **state-of-the-art InnoLab**, where they map the entire production chain at a trial scale to pioneer new material compositions and joining techniques. By combining this with rigorous global field tests, BETEK ensures that only products which have proven their durability in real-world conditions ever reach the market, protecting you from costly field failures and unplanned downtime.
+* **Closed-Loop Recycling & Sustainability**: BETEK proactively buys back used **carbide scraps** and processes about 80 tons per year through an **in-house recycling system**. By removing PVD/CVD coatings and separating carbide from steel, they maintain high-quality material streams. This commitment not only secures raw material supply but also supports the sustainability goals of environmentally-conscious project partners.
+
+## 🏆Certificates
+
+ISO 9001 (Quality Management)
+
+IATF 16949 (Automotive Quality Standards)
+
+ISO 14001 (Environmental Management)
+
+ISO 50001 (Energy Management)
+
+ISO 45001 (Occupational Health and Safety)
+
+## 📩Contact & Ordering
+
+**Website**: https://betek.de/
+
+**Email**: info@betek.de
+
+**Phone**: +49 7422 565-0
+
+**Service Regions**: Global
