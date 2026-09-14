@@ -7,40 +7,39 @@ description: "Discover the story behind MechCarbide.com, why Alice JIAN started 
 draft: false
 ---
 
-**Welcome to mechcarbide.com!**
+# Welcome to [mechcarbide.com]!
 
-Hi, I'm Shijie (Alice) Jian, the person behind this site.
+Hi, I'm **[Alice Jian]**, the person behind this site.
 
-If you're looking for a place to start your sourcing journey for tungsten carbide tools and wear parts, without the noise of giant B2B platforms, you've landed in the right spot.
+If you're looking for a straight-to-the-point way to source tungsten carbide tools and wear parts—without wading through the noise, clutter, and endless spam of giant B2B platforms—you’ve landed in the right spot.
 
-### A Little Background
+## A Little Background
 
-For nearly ten years, I worked as an internet marketing specialist at a foreign trade company that manufactured and supplied tungsten carbide tools and wear parts to customers around the world. To be honest? I didn't know a thing about tungsten carbide when I started. I barely even knew what it *was*. But over time, writing about it, talking to engineers, learning how these tiny pieces of metal actually behave inside a road milling machine or a woodworking router, I got hooked. There's something oddly fascinating about materials built to handle extreme conditions.
+For nearly ten years, I worked in internet marketing for a foreign trade company supplying tungsten carbide products worldwide. To be honest, I didn't know a thing about tungsten carbide when I started. But over the years—writing about it, talking to engineers, and learning how these components perform inside road milling machines or woodworking routers—I got hooked. There's something genuinely fascinating about materials built to survive extreme wear and pressure.
 
-### What This Site Is (and Isn't)
+## What This Site Is (and How It Works)
 
-This website is my way of organizing what I've learned, and sharing it in a way that's actually useful.
+This website is my hands-on effort to organize what I've learned into a clean, practical guide for global buyers.
 
-**What it *is*:** A supplier directory. Organized by industry (construction, woodworking, metalworking, mining, etc.) and by region. I personally summarize each supplier's features based on what I know, so you're not just staring at a list of names, you're getting a little context.
+* **100% Independent & Non-Profit:** This site is strictly an informational directory. I do not charge suppliers for listings, nor do I take any commissions, kickbacks, or referral fees if you do business with them. 
+* **Direct Contact Encouraged:** My main goal is to help you reach real suppliers directly. Wherever public contact details (email, phone, official site) are available, I list them clearly on each supplier's profile page. **I strongly encourage you to use those direct contact details on the detail pages to deal with the suppliers straight away.**
 
-**What it *isn't*:** If a supplier is listed here, it's because they make decent stuff. I plan to keep this space as neutral as possible. If in the future I offer any "preferred visibility" options, I'll be very transparent about it, and it will never override basic quality checks.
+## What Happens If You Email Me Directly?
 
-### How to Make the Most of This Directory
+While I prefer you contact the suppliers directly through their listed details, some visitors still drop inquiries into my inbox. To be completely transparent: I don't run a factory or act as a trading agent. I only have **one trusted industry contact** (an export business owner I know personally) whom I might forward your inquiry to. 
 
-I know browsing a list of suppliers can feel like a chore. Since this is a niche, hand-built site (no fancy AI filters yet!), here's the quickest way to find what you need:
+However, because tungsten carbide applications are so specialized, my partner might not be the right fit for your specific project. That's why browsing the directory and reaching out to listed suppliers directly is always your best and fastest bet.
 
-**If you know the exact industry**: Jump straight to the [9 Categories](/categories/). Looking for Woodworking Tools? Click that section. It's all there.
+## How to Navigate the Directory
 
-**If you want to see who's nearby**: Head over to the [Browse by Region page](/suppliers/). It's grouped by country tags. Perfect if you prefer to deal with a specific logistics route.
+* **By Industry:** Jump straight to the **9 Main Categories** (Woodworking, Mining, Metal Cutting, etc.) to find specialized manufacturers.
+* **By Location:** Use the **Browse by Region** page if you prefer working with suppliers along specific shipping or regional routes.
+* **By Product:** Use the **Search Bar** (top right) to type in specific items like "carbide rods" or "router bits."
 
-**If you know the product name (e.g., "router bits")**: Use the Search Bar (top right). Type it in and see which suppliers mention it.
+## Get in Touch
 
-**If you're overwhelmed or just short on time**: Don't click around for an hour. Send me a quick email.
+This site is a continuously growing project. I regularly add new suppliers, update data, and write technical guides. If you have feedback, spot an error, or want to suggest a supplier that deserves a spot here, I’d genuinely love to hear from you.
 
-### Get in Touch
+Drop me a line anytime at: [mechcarbide@zohomail.com](mailto:mechcarbide@zohomail.com)
 
-This site is still growing. I add new suppliers, write new posts, and slowly shape it into something more useful. If you have feedback, a question, a supplier to suggest, or a project you think I might be able to help with, **I'd genuinely love to hear from you.**
-
-Just drop me a line at: mechcarbide@zohomail.com
-
-Thanks for stopping by. Hope you find what you're looking for.
+Thanks for stopping by, and I hope this directory saves you time on your next sourcing project!
