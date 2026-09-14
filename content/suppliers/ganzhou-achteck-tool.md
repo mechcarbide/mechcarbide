@@ -27,7 +27,7 @@ structured_data:
 ---
 ## Quick Facts
 
-**Company Name**: Ganzhou Achteck Tool Technology Co., Ltd. (赣州阿克泰克工具科技股份有限公司) / ACHTECK Tools
+**Company Name**: Ganzhou Achteck Tool Technology Co., Ltd. (赣州澳克泰工具技术有限公司) / ACHTECK Tools
 
 **Location**: Ganzhou, Jiangxi Province, China
 
