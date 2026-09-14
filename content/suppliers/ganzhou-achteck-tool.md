@@ -1,9 +1,9 @@
 ---
-title: Ganzhou Achteck Tool
+title: Ganzhou Achteck Tools
 description: Discover ACHTECK Tools, a premier Chinese manufacturer of
   high-precision CNC carbide inserts and rods backed by full raw tungsten supply
   chain integration.
-display_name: ACHTECK Tools
+display_name: Ganzhou Achteck Tools
 summary: China | Products include coated CNC indexable inserts (turning,
   milling, drilling, grooving, threading) and solid cemented carbide rods.
 type: suppliers
