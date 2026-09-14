@@ -7,9 +7,9 @@ description: "Discover the story behind MechCarbide.com, why Alice JIAN started 
 draft: false
 ---
 
-# Welcome to [mechcarbide.com]!
+**Welcome to mechcarbide.com!**
 
-Hi, I'm **[Alice Jian]**, the person behind this site.
+Hi, I'm **Alice Jian**, the person behind this site.
 
 If you're looking for a straight-to-the-point way to source tungsten carbide tools and wear parts—without wading through the noise, clutter, and endless spam of giant B2B platforms—you’ve landed in the right spot.
 
